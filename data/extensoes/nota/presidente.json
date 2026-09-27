@@ -1,0 +1,34 @@
+{
+  "escolaridade": {
+    "13": 1,
+    "21": 4,
+    "22": 4,
+    "30": 3,
+    "35": 3,
+    "55": 4,
+    "70": 4,
+    "80": 3
+  },
+  "sentidoIndicadores": {
+    "13": {
+      "Desemprego nas regiões metropolitanas (PME)@2003": 1,
+      "Inflação (IPCA)@2003": 1,
+      "Dívida líquida do setor público@2003": 1,
+      "Desemprego (PNAD Contínua, média anual)@2023": 1,
+      "Inflação (IPCA)@2023": -1,
+      "Dívida bruta do governo geral@2023": -1
+    },
+    "30": {
+      "Salários do funcionalismo@2019": 1,
+      "Dívida do estado@2019": -1,
+      "Caixa de recursos livres@2019": -1,
+      "Homicídios@2019": -1
+    },
+    "55": {
+      "Homicídios por ano@2019": 1,
+      "Ideb do ensino médio@2019": 1,
+      "Leitos de UTI na rede estadual@2019": 1,
+      "Mortes causadas por policiais@2019": -1
+    }
+  }
+}
