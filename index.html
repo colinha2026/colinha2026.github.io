@@ -1,0 +1,1803 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Colinha 2026</title>
+<meta name="description" content="Compare histórico, propostas e dados dos candidatos das Eleições 2026 e monte sua colinha na ordem da urna. Piloto para Santa Catarina e Rio Grande do Sul.">
+<meta property="og:title" content="Colinha 2026: compare candidatos com dados">
+<meta property="og:description" content="Histórico, propostas registradas no TSE e a colinha na ordem exata da urna. Sem recomendação de voto.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta name="theme-color" content="#2A2E32">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗳️</text></svg>">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Chivo:wght@600;800;900&display=swap" rel="stylesheet">
+<style>
+:root{
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+  --paper:#EEF0ED;
+  --panel:#FFFFFF;
+  --ink:#1C1F22;
+  --muted:#586067;
+  --line:#CDD2CC;
+  --soft:#E3E6E1;
+  --key:#2A2E32;
+  --keyink:#F4F6F3;
+  --confirma:#1B7A43;
+  --confirma-ink:#FFFFFF;
+  --corrige:#C9661A;
+  --corrige-soft:#FBEBDD;
+  --alert:#9A4308;
+  --link:#1F55A0;
+  --screen:#FAFBF8;
+  --warn:#8A5A00;
+  --warn-soft:#FFF4D6;
+  --font:"Atkinson Hyperlegible", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --display:"Chivo", "Atkinson Hyperlegible", "Segoe UI", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#141618; --panel:#1D2023; --ink:#E8EBE7; --muted:#A3AAB0; --line:#353A3F; --soft:#262A2E;
+    --key:#0E1012; --keyink:#E8EBE7; --confirma:#2E9E5E; --corrige:#E08A45; --corrige-soft:#3A2A1C;
+    --link:#7FAEF0; --screen:#23272B; --warn:#F2C766; --warn-soft:#332A14; --alert:#F0A36A;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#141618; --panel:#1D2023; --ink:#E8EBE7; --muted:#A3AAB0; --line:#353A3F; --soft:#262A2E;
+  --key:#0E1012; --keyink:#E8EBE7; --confirma:#2E9E5E; --corrige:#E08A45; --corrige-soft:#3A2A1C;
+  --link:#7FAEF0; --screen:#23272B; --warn:#F2C766; --warn-soft:#332A14; --alert:#F0A36A;
+}
+html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + 120px)}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--font);font-size:17px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:var(--link)}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid var(--link);outline-offset:2px;border-radius:4px}
+.wrap{max-width:940px;margin:0 auto;padding:0 20px}
+button{font:inherit;color:inherit;cursor:pointer}
+
+/* Header */
+header.top{padding:28px 0 12px}
+.brand{display:flex;align-items:center;gap:14px}
+.brand h1{font-family:var(--display);font-weight:900;font-size:clamp(28px,5vw,40px);letter-spacing:-.02em;margin:0;line-height:1}
+.brand .sub{color:var(--muted);font-size:15px;margin:6px 0 0}
+.logo{display:flex;gap:3px}
+.logo span{width:18px;height:26px;border:2px solid var(--ink);border-radius:3px;background:var(--screen);display:grid;place-items:center;font-family:var(--display);font-weight:800;font-size:14px}
+
+/* Stepper (fita) */
+.fita{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--paper);border-bottom:1px solid var(--line);padding:10px 0}
+.fita ol{list-style:none;margin:0;padding:0 20px;display:flex;gap:6px;overflow-x:auto;max-width:940px;margin:0 auto;scrollbar-width:thin}
+.fita li{flex:0 0 auto}
+.step{display:flex;flex-direction:column;align-items:flex-start;gap:4px;border:1.5px solid transparent;background:transparent;padding:6px 10px;border-radius:8px;min-width:0}
+.step .lbl{font-size:13px;color:var(--muted);white-space:nowrap}
+.step[aria-current="step"]{border-color:var(--ink);background:var(--panel)}
+.step[aria-current="step"] .lbl{color:var(--ink);font-weight:700}
+.step:hover .lbl{color:var(--ink)}
+.slots{display:flex;gap:2px}
+.slots .d{width:14px;height:19px;border:1.5px solid var(--line);border-radius:2px;background:var(--screen);font-family:var(--display);font-weight:800;font-size:11px;display:grid;place-items:center;line-height:1}
+.slots .d.f{border-color:var(--ink)}
+.slots .blank{font-size:10px;font-weight:700;border:1.5px solid var(--ink);border-radius:2px;padding:0 4px;height:19px;display:grid;place-items:center;background:var(--screen)}
+
+main.wrap{padding:36px 20px 80px}
+h2.role{font-family:var(--display);font-weight:900;font-size:clamp(26px,4.4vw,36px);letter-spacing:-.015em;line-height:1.1;margin:0 0 6px}
+.lede{color:var(--muted);margin:0 0 20px;max-width:64ch}
+h3{font-family:var(--display);font-weight:800;font-size:20px;margin:28px 0 10px;letter-spacing:-.01em}
+p{max-width:68ch}
+
+/* Guide box */
+details.guia{background:var(--panel);border:1px solid var(--line);border-left:5px solid var(--key);border-radius:10px;padding:0;margin:0 0 22px}
+details.guia summary{list-style:none;padding:14px 18px;font-weight:700;display:flex;justify-content:space-between;align-items:center;gap:12px}
+details.guia summary::-webkit-details-marker{display:none}
+details.guia summary .tg{font-weight:400;color:var(--muted);font-size:14px}
+details.guia[open] summary .tg::after{content:"ocultar"}
+details.guia:not([open]) summary .tg::after{content:"mostrar"}
+.guia-body{padding:0 18px 18px;display:grid;grid-template-columns:1fr 1fr;gap:10px 28px}
+.guia-body h4{margin:6px 0 6px;font-size:15px}
+.guia-body ul{margin:0;padding-left:18px}
+.guia-body li{margin:0 0 6px}
+.guia-body .full{grid-column:1/-1}
+@media (max-width:720px){.guia-body{grid-template-columns:1fr}}
+
+/* Toolbar */
+.toolbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 0 14px}
+.seg{display:inline-flex;border:1.5px solid var(--ink);border-radius:8px;overflow:hidden}
+.seg button{border:0;background:transparent;padding:7px 14px;font-size:15px}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper);font-weight:700}
+.note{font-size:14px;color:var(--muted)}
+
+/* Candidate list */
+.lista{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+.cand{border-bottom:1px solid var(--line);scroll-margin-top:calc(env(safe-area-inset-top,0px) + 96px)}
+.cand.escolhido{background:linear-gradient(90deg, color-mix(in srgb, var(--confirma) 10%, transparent), transparent 60%)}
+.row{width:100%;display:grid;grid-template-columns:auto 1fr auto;gap:16px;align-items:center;text-align:left;background:transparent;border:0;padding:14px 6px}
+.row:hover{background:var(--soft)}
+.num{display:flex;gap:3px}
+.num .d{width:30px;height:40px;border:2px solid var(--ink);border-radius:4px;background:var(--screen);display:grid;place-items:center;font-family:var(--display);font-weight:800;font-size:22px;font-variant-numeric:tabular-nums}
+.nm{font-weight:700;font-size:18px;line-height:1.25}
+.pt{color:var(--muted);font-size:15px}
+.meta{font-size:14px;color:var(--muted);margin-top:2px}
+.rowend{display:flex;align-items:center;gap:10px}
+.chev{width:26px;height:26px;display:grid;place-items:center;border-radius:50%;border:1.5px solid var(--line);font-size:14px;transition:transform .2s}
+.row[aria-expanded="true"] .chev{transform:rotate(180deg)}
+.tag{display:inline-block;font-size:12.5px;font-weight:700;border-radius:4px;padding:1px 7px;margin-left:6px;vertical-align:2px}
+.tag.ok{background:color-mix(in srgb,var(--confirma) 16%,transparent);color:var(--confirma)}
+.tag.ver{background:var(--warn-soft);color:var(--warn)}
+.tag.sel{background:var(--confirma);color:var(--confirma-ink)}
+@media (max-width:560px){
+  .row{grid-template-columns:auto 1fr;gap:12px}
+  .chev{display:none}
+  .rowend{grid-column:2;justify-self:start}
+  .num .d{width:24px;height:34px;font-size:18px}
+}
+
+/* Detail */
+.det{padding:4px 6px 22px}
+.tabs{display:flex;gap:4px;border-bottom:1.5px solid var(--line);margin:0 0 16px}
+.tabs button{border:0;background:transparent;padding:8px 12px;border-bottom:3px solid transparent;margin-bottom:-1.5px;font-size:15px;color:var(--muted)}
+.tabs button[aria-selected="true"]{border-bottom-color:var(--ink);color:var(--ink);font-weight:700}
+dl.fatos{display:grid;grid-template-columns:minmax(150px,210px) 1fr;gap:6px 18px;margin:0 0 14px}
+dl.fatos dt{color:var(--muted);font-size:15px}
+dl.fatos dd{margin:0}
+@media (max-width:560px){dl.fatos{grid-template-columns:1fr}dl.fatos dt{margin-top:6px}}
+.traj{margin:0 0 14px;padding-left:20px}
+.traj li{margin-bottom:3px}
+.aviso{background:var(--warn-soft);color:var(--ink);border-radius:8px;padding:10px 14px;font-size:15px;margin:10px 0}
+.aviso strong{color:var(--warn)}
+.temas{display:grid;grid-template-columns:1fr 1fr;gap:4px 28px}
+@media (max-width:720px){.temas{grid-template-columns:1fr}}
+.tema h5{margin:12px 0 4px;font-size:15.5px}
+.tema ul{margin:0;padding-left:18px}
+.tema li{margin-bottom:4px}
+.tema .vazio{color:var(--muted);font-style:italic;font-size:15px;margin:0}
+table.plano{border-collapse:collapse;width:100%;margin:6px 0 14px;font-size:15.5px}
+table.plano th,table.plano td{text-align:left;border-bottom:1px solid var(--line);padding:7px 8px;vertical-align:top}
+table.plano th{color:var(--muted);font-weight:400;width:42%}
+.fontes{padding-left:18px}
+.fontes li{margin-bottom:5px}
+.acoes{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+.btn{border:0;border-radius:6px;padding:11px 18px;font-weight:700;font-size:16px;box-shadow:0 3px 0 rgba(0,0,0,.28)}
+.btn:active{transform:translateY(2px);box-shadow:0 1px 0 rgba(0,0,0,.28)}
+.btn.confirma{background:var(--confirma);color:var(--confirma-ink)}
+.btn.branco{background:#F7F7F4;color:#1C1F22;border:1.5px solid #9AA09A}
+.btn.corrige{background:var(--corrige);color:#1C1F22}
+.btn.ghost{background:transparent;border:1.5px solid var(--ink);box-shadow:none}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.msg{margin-top:10px;font-size:15px;color:var(--alert);font-weight:700}
+
+/* Compare */
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 14px}
+.chips button{border:1.5px solid var(--line);background:var(--panel);border-radius:999px;padding:5px 13px;font-size:15px}
+.chips button[aria-pressed="true"]{border-color:var(--ink);background:var(--ink);color:var(--paper);font-weight:700}
+.cmp{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+.cmp li{display:grid;grid-template-columns:auto 190px 1fr;gap:16px;padding:14px 4px;border-bottom:1px solid var(--line);align-items:start}
+.cmp .who{font-weight:700;line-height:1.3}
+.cmp .who span{display:block;color:var(--muted);font-weight:400;font-size:14.5px}
+.cmp ul{margin:0;padding-left:18px}
+.cmp .vazio{color:var(--muted);font-style:italic}
+@media (max-width:720px){.cmp li{grid-template-columns:auto 1fr}.cmp li>div:last-child{grid-column:1/-1}}
+
+/* Senado slots */
+.vagas{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 20px}
+.vaga{background:var(--panel);border:1.5px solid var(--line);border-radius:10px;padding:12px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}
+.vaga.f{border-color:var(--ink)}
+.vaga .t{font-size:14px;color:var(--muted)}
+.vaga .n{font-weight:700}
+.linkbtn{background:none;border:0;color:var(--link);text-decoration:underline;padding:0;font-size:14px}
+@media (max-width:560px){.vagas{grid-template-columns:1fr}}
+
+/* Inicio */
+.hero{display:grid;grid-template-columns:1.3fr 1fr;gap:34px;align-items:center;margin:8px 0 30px}
+.hero h2{font-family:var(--display);font-weight:900;font-size:clamp(32px,6vw,54px);line-height:1.02;letter-spacing:-.025em;margin:0 0 16px}
+.hero p{font-size:18.5px;margin:0 0 20px}
+@media (max-width:760px){.hero{grid-template-columns:1fr}}
+.urna{background:var(--key);border-radius:14px;padding:18px;color:var(--keyink);box-shadow:inset 0 -6px 0 rgba(0,0,0,.35)}
+.urna .tela{background:var(--screen);color:var(--ink);border-radius:6px;padding:12px 14px;margin-bottom:14px}
+.urna .tela .c{font-size:13px;color:var(--muted)}
+.urna .tela .num .d{width:28px;height:38px;font-size:21px}
+.urna .teclas{display:grid;grid-template-columns:repeat(3,1fr);gap:7px}
+.urna .teclas span{background:#1A1D20;border-radius:5px;padding:7px 0;text-align:center;font-family:var(--display);font-weight:800;color:#F4F6F3;box-shadow:0 2px 0 #000}
+.urna .fim{display:grid;grid-template-columns:1fr 1fr 1fr;gap:7px;margin-top:9px}
+.urna .fim span{border-radius:5px;padding:7px 0;text-align:center;font-size:11.5px;font-weight:700;color:#1C1F22}
+.principios{display:grid;grid-template-columns:repeat(2,1fr);gap:18px 30px;margin:10px 0 26px;padding:0;list-style:none}
+.principios li strong{display:block;margin-bottom:2px}
+@media (max-width:640px){.principios{grid-template-columns:1fr}}
+details.metodo{border-top:1px solid var(--line);padding:14px 0}
+details.metodo summary{font-weight:700;cursor:pointer}
+
+/* Estado */
+.uf{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin:14px 0 20px}
+.uf button{border:1.5px solid var(--line);background:var(--panel);border-radius:8px;padding:10px 12px;text-align:left;font-size:15px}
+.uf button[aria-pressed="true"]{border-color:var(--ink);box-shadow:inset 0 0 0 1.5px var(--ink);font-weight:700}
+.uf button:disabled{opacity:.5;cursor:not-allowed}
+.uf small{display:block;color:var(--muted);font-size:12.5px;font-weight:400}
+
+/* Deputados */
+.digitar{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;margin:0 0 22px}
+.digitar label{font-weight:700;display:block;margin-bottom:8px}
+.digitar .linha{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.digitar input{font-family:var(--display);font-weight:800;font-size:28px;letter-spacing:.35em;width:9ch;padding:6px 10px;border:2px solid var(--ink);border-radius:6px;background:var(--screen);color:var(--ink)}
+.digitar .ok{color:var(--confirma);font-weight:700}
+
+/* Colinha */
+.colinha{background:#FFFFFF;color:#1C1F22;border:2px solid #1C1F22;border-radius:6px;max-width:560px;padding:18px 20px 12px}
+.colinha h3{margin:0 0 2px;font-size:22px;color:#1C1F22}
+.colinha .q{font-size:14px;color:#4A5157;margin:0 0 10px}
+.colinha ol{list-style:none;margin:0;padding:0}
+.colinha li{display:grid;grid-template-columns:28px 1fr auto;gap:10px;align-items:center;padding:10px 0;border-top:1px dashed #9AA09A}
+.colinha .ord{font-family:var(--display);font-weight:800;color:#4A5157}
+.colinha .cg{font-weight:700;line-height:1.2}
+.colinha .cg span{display:block;font-weight:400;font-size:14px;color:#4A5157}
+.colinha .num .d{border-color:#1C1F22;background:#FFFFFF;color:#1C1F22}
+.colinha .num .d.v{border-style:dashed;border-color:#9AA09A;color:#9AA09A}
+.colinha .bnc{font-weight:800;border:2px solid #1C1F22;padding:4px 10px;border-radius:4px}
+.colinha .rod{font-size:13px;color:#4A5157;margin-top:8px}
+
+/* Resumo */
+.tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:0 0 6px}
+@media (max-width:720px){.tiles{grid-template-columns:1fr 1fr}}
+.tile{background:var(--screen);border:1.5px solid var(--line);border-radius:8px;padding:12px 12px 10px}
+.tv{font-family:var(--display);font-weight:900;font-size:30px;line-height:1.05;letter-spacing:-.01em;font-variant-numeric:tabular-nums}
+.tv-s{font-size:18px;font-weight:800;line-height:1.2}
+.tk{font-size:13.5px;color:var(--muted);margin-top:4px;line-height:1.3}
+h4.sub{margin:18px 0 8px;font-size:15.5px}
+ul.dest{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}
+ul.dest li{border-left:4px solid var(--ink);padding:4px 0 4px 12px}
+.dv{display:block;font-family:var(--display);font-weight:800;font-size:22px;line-height:1.15;font-variant-numeric:tabular-nums}
+.dk{display:block;font-size:14.5px;color:var(--muted);line-height:1.35;margin-top:2px}
+.prov{display:inline-block;font-size:11.5px;font-weight:700;border-radius:3px;padding:0 6px;vertical-align:1px;white-space:nowrap;border:1px solid currentColor}
+.prov-of{color:var(--confirma)}
+.prov-gov{color:var(--warn)}
+.prov-imp{color:var(--link)}
+.prov-crit{color:var(--alert)}
+.prov-camp{color:var(--muted)}
+/* Timeline */
+ol.tl{list-style:none;margin:6px 0 0;padding:0;position:relative}
+.tl-i{display:grid;grid-template-columns:104px 1fr;gap:14px;position:relative;padding-bottom:18px}
+.tl-i::before{content:"";position:absolute;left:111px;top:6px;bottom:-6px;width:2px;background:var(--line)}
+.tl-i:last-child::before{display:none}
+.tl-y{font-family:var(--display);font-weight:800;font-size:15px;text-align:right;padding-top:1px;font-variant-numeric:tabular-nums;color:var(--ink)}
+.tl-b{position:relative;padding-left:18px;min-width:0}
+.tl-b::before{content:"";position:absolute;left:-10px;top:5px;width:12px;height:12px;border-radius:50%;background:var(--panel);border:3px solid var(--muted)}
+.tl-mandato .tl-b::before{background:var(--ink);border-color:var(--ink)}
+.tl-justica .tl-b::before{border-color:var(--alert);border-radius:2px}
+.tl-eleicao .tl-b::before{border-color:var(--link)}
+.tl-k{display:inline-block;font-size:12.5px;color:var(--muted);margin-bottom:1px}
+.tl-justica .tl-k{color:var(--alert);font-weight:700}
+.tl-t{font-weight:700;line-height:1.3}
+.tl-t .n{font-weight:400;color:var(--muted);font-size:14px}
+.tl-d{margin:4px 0 0;font-size:15.5px}
+.tl-gap{margin:6px 0 0;font-size:14px;color:var(--warn);background:var(--warn-soft);display:inline-block;padding:3px 9px;border-radius:5px}
+.tl-f{margin:4px 0 0;font-size:14px}
+.tbl{overflow-x:auto;margin-top:8px}
+table.met{border-collapse:collapse;width:100%;font-size:14.5px;min-width:520px}
+table.met th{font-weight:400;color:var(--muted);text-align:left;border-bottom:1.5px solid var(--line);padding:5px 8px}
+table.met td{border-bottom:1px solid var(--line);padding:7px 8px;vertical-align:top}
+table.met td:first-child{font-weight:700;width:30%}
+table.met td:last-child{width:30%;font-size:13.5px}
+.seta{color:var(--muted);padding:0 2px}
+@media (max-width:560px){.tl-i{grid-template-columns:62px 1fr;gap:10px}.tl-i::before{left:67px}.tl-y{font-size:13px}}
+
+@media (max-width:560px){
+  table.met{min-width:0}
+  table.met thead{display:none}
+  table.met tr{display:block;border-bottom:1px solid var(--line);padding:8px 0}
+  table.met td{display:block;border:0;padding:1px 0;width:auto!important}
+}
+footer{border-top:1px solid var(--line);padding:22px 0 40px;color:var(--muted);font-size:14px}
+footer p{max-width:80ch}
+.visually-hidden{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+@media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important}}
+@media print{
+  body{background:#fff}
+  header.top,.fita,footer,.noprint,.lede,h2.role{display:none!important}
+  main{padding:0}
+  .colinha{border-width:2px;max-width:none}
+}
+</style>
+</head>
+<body>
+<header class="top wrap">
+  <div class="brand">
+    <div class="logo" aria-hidden="true"><span>2</span><span>0</span><span>2</span><span>6</span></div>
+    <div>
+      <h1>Colinha 2026</h1>
+      <p class="sub">Compare histórico e propostas antes de votar em 4 de outubro. Piloto para Santa Catarina e Rio Grande do Sul.</p>
+    </div>
+  </div>
+</header>
+<nav class="fita" aria-label="Etapas"><ol id="fita"></ol></nav>
+<main class="wrap" id="app" tabindex="-1"></main>
+<footer class="wrap">
+  <p>Snapshot com dados públicos coletados até 26/09/2026. Candidaturas podem mudar por decisão da Justiça Eleitoral até o dia da votação: confira sempre no <a href="https://divulgacandcontas.tse.jus.br/divulga/" target="_blank" rel="noopener">DivulgaCandContas do TSE</a>. Este projeto não recomenda voto em ninguém.</p>
+</footer>
+
+<script>
+/* ============================================================
+   DADOS (snapshot 26/09/2026)
+   ============================================================ */
+const TSE_SC = "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SUL/SC/20322002026";
+const TSE_BR = "https://divulgacandcontas.tse.jus.br/divulga/";
+const F = {
+  gazetaPres: {t:"Gazeta do Povo: quem são os candidatos a presidente (atualizado em 24/09)", u:"https://www.gazetadopovo.com.br/eleicoes/2026/quem-sao-candidatos-presidente-2026/"},
+  planos: {t:"Planos de Governo 2026: resumos por tema com página do PDF do TSE", u:"https://planodegoverno2026.com.br/"},
+  bens: {t:"Jornal Opção: declaração de bens dos presidenciáveis", u:"https://www.jornalopcao.com.br/ultimas-noticias/saiba-qual-foi-a-declaracao-de-bens-dos-candidatos-a-presidencia-em-2026-858545/"},
+  bens2: {t:"BP Money: patrimônio dos candidatos à Presidência", u:"https://bpmoney.com.br/?p=417237"},
+  tse6: {t:"TSE: registros validados à Presidência", u:"https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica"},
+  tse12: {t:"TSE: Cury aprovado e Marçal indeferido", u:"https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-tem-12-candidaturas-na-disputa-pela-presidencia-da-republica"},
+  gazetaGov: {t:"Gazeta do Povo: candidatos a governador de SC", u:"https://www.gazetadopovo.com.br/eleicoes/2026/santa-catarina-2026/quem-sao-candidatos-governador-santa-catarina-2026/"},
+  numsSC: {t:"Hora Brasil: números de governador e senador em SC", u:"https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-em-santa-catarina"},
+  scc10: {t:"SCC10: perfil, idade e patrimônio dos candidatos ao Senado por SC", u:"https://scc10.com.br/diretoaovoto/candidatos-senado-sc-eleicoes-2026/"},
+  agSen: {t:"Agência Senado: candidatos 2026 em Santa Catarina", u:"https://www12.senado.leg.br/noticias/infomaterias/2026/06/candidatos-2026-santa-catarina"},
+  jrJorginho: {t:"Jornal Razão: análise do plano de Jorginho Mello", u:"https://jornalrazao.com/politica/jorginho-mello-adriano-silva-plano-de-governo-sc-2027-2030"},
+  jrJoao: {t:"Jornal Razão: análise do plano de João Rodrigues", u:"https://jornalrazao.com/politica/joao-rodrigues-plano-de-governo-40-bilhoes-investimento-sc/"},
+  jrMerisio: {t:"Jornal Razão: análise do plano de Gelson Merísio", u:"https://jornalrazao.com/politica/gelson-merisio-plano-de-governo-14-missoes-governo-de-sc/"},
+  jrBrig: {t:"Jornal Razão: análise do plano de Marcelo Brigadeiro", u:"https://jornalrazao.com/politica/marcelo-brigadeiro-plano-governo-inferno-catarina-quem-perdoa-e-deus/"},
+  jrPco: {t:"Jornal Razão: análise do plano do PCO", u:"https://jornalrazao.com/politica/bruno-pedreiro-pco-armas-indios-salario-minimo-fim-do-stf/"},
+  ndGov: {t:"ND Mais: candidatos a governador de SC", u:"https://ndmais.com.br/politica/politica-candidatos-a-governador-de-sc-2026/"},
+  poderCaiado: {t:"Poder360: bens declarados por Caiado", u:"https://www.poder360.com.br/poder-eleicoes-2026/caiado-declara-mais-de-r-52-milhoes-ao-tse/"}
+};
+const pdf = (id, nome) => ({t:"Plano de governo original (PDF no TSE)" + (nome? " de " + nome : ""), u:"https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/" + id});
+const plano = slug => ({t:"Resumo do plano por tema, com páginas do PDF", u:"https://planodegoverno2026.com.br/candidatos/presidente/" + slug + "/"});
+
+const TEMAS_PRES = [
+  ["saude","Saúde"],["educacao","Educação"],["seguranca","Segurança"],["trabalho","Trabalho"],
+  ["renda","Programas sociais"],["impostos","Impostos"],["estado","Papel do Estado"],["ambiente","Meio ambiente"],["externa","Política externa"]
+];
+const TEMAS_GOV = [
+  ["seguranca","Segurança"],["saude","Saúde"],["educacao","Educação"],["gestao","Economia e gestão"],["infra","Infraestrutura e clima"]
+];
+
+const PRESIDENTE = [
+  {n:"13", nome:"Lula", partido:"PT", vice:"Geraldo Alckmin (PSB)", idade:"80 anos",
+   status:["ok","Registro validado pelo TSE"],
+   traj:["Presidente da República em 2003–2010 e desde 2023","Deputado federal constituinte (1987–1991)","Sétima eleição presidencial; busca o quarto mandato"],
+   mandatos:true,
+   bens:"R$ 4,78 milhões", bensNota:"Em 2022 declarou cerca de R$ 7,4 milhões.",
+   temas:{
+    saude:["Fila única digital ordenada pela gravidade do caso e ampliação dos mutirões de especialistas.","Farmácia Popular gratuita, passando a incluir exames."],
+    educacao:["Meta de subir de 66% para 80% as crianças alfabetizadas na idade certa.","Ampliar o Pé-de-Meia e o tempo integral; concluir 111 novos Institutos Federais."],
+    seguranca:["Criar o Ministério da Segurança Pública e aprovar a PEC da Segurança.","Asfixia financeira das facções e câmeras corporais com padrão nacional."],
+    trabalho:["Fim da escala 6x1, com jornada de 40 horas sem corte de salário.","Reajuste do salário mínimo acima da inflação."],
+    renda:["Manter e ampliar o Bolsa Família, com adicionais para crianças e adolescentes.","Continuar Gás do Povo, Luz do Povo e renegociação de dívidas (Desenrola)."],
+    impostos:["Manter a isenção do IR até R$ 5 mil e a taxação dos mais ricos.","Concluir a reforma do consumo com cesta básica isenta e cashback."],
+    estado:["Estado como indutor do crescimento: política industrial e Novo PAC.","Nenhuma privatização prevista."],
+    ambiente:["Desmatamento líquido zero até 2030.","Cumprir a meta climática de 2035 e regulamentar o mercado de carbono."],
+    externa:["Fortalecer BRICS, Mercosul e a integração sul-americana."]},
+   fontes:[F.gazetaPres, plano("lula"), F.bens, F.tse6]},
+
+  {n:"14", nome:"Renan Santos", partido:"Missão", vice:"Aroldo Medina (Missão)", idade:"42 anos",
+   status:["ver","Confira a situação no TSE"],
+   traj:["Cofundador do MBL e do partido Missão","Primeira eleição que disputa"],
+   mandatos:false, bens:null,
+   notaPlano:"O PDF registrado no TSE é um resumo; o partido remete o detalhamento a um plano integral publicado à parte.",
+   temas:{
+    saude:["Fila do SUS ordenada por gravidade e risco.","Meta de resolver 80% dos casos nos postos, com telemedicina e diagnóstico por IA."],
+    educacao:["Alfabetização pelo método fônico e adoção do modelo do Ceará.","Fim da aprovação automática e das cotas, substituídas por bolsas de mérito."],
+    seguranca:["Aplicar o “Direito Penal do Inimigo”: banimento judicial de facções e restrição de direitos de membros.","Estado de Defesa em áreas dominadas pelo crime e superpresídios em regiões remotas."],
+    trabalho:["Flexibilizar as leis trabalhistas; não trata da escala 6x1."],
+    renda:["Substituir o Bolsa Família por frentes de trabalho remuneradas.","Corrigir aposentadorias e benefícios só pela inflação."],
+    impostos:["Reduzir isenções fiscais por meio de uma PEC negociada antes da posse.","Zonas econômicas especiais com impostos menores no Nordeste."],
+    estado:["Cita necessidade de ajuste fiscal de cerca de R$ 250 bilhões por ano.","Não lista estatais para privatizar."],
+    ambiente:["Sem capítulo próprio: licenças mais rápidas e monitoramento por satélite."],
+    externa:["Pragmatismo no BRICS e pacto das Américas contra as facções."]},
+   fontes:[F.gazetaPres, plano("renan-santos")]},
+
+  {n:"16", nome:"Hertz Dias", partido:"PSTU", vice:"Vanessa Portugal (PSTU)", idade:"55 anos",
+   status:["ok","Registro validado pelo TSE"],
+   traj:["Candidato a vice-presidente em 2018","Primeira vez como cabeça de chapa"],
+   mandatos:false, bens:null,
+   temas:{
+    saude:["SUS 100% estatal, sem gestão por OSs e PPPs."],
+    educacao:["Revogar a BNCC e o Novo Ensino Médio; contra a militarização de escolas."],
+    seguranca:["Desmilitarizar a PM e unificar as polícias; descriminalizar o uso de drogas."],
+    trabalho:["Fim da escala 6x1 e jornada de 36 horas; dobrar o salário mínimo."],
+    renda:["Bolsa de um salário mínimo para desempregados."],
+    impostos:["Isentar do IR quem ganha até 10 salários mínimos.","Imposto sobre patrimônios acima de R$ 1 bilhão."],
+    estado:["Estatizar mineração, petróleo, energia e o sistema financeiro."],
+    ambiente:["Contra petróleo na Margem Equatorial; fim de subsídios ao grande agronegócio."],
+    externa:["Suspender pagamentos da dívida a grandes investidores durante uma auditoria; contra o acordo Mercosul–UE."]},
+   fontes:[F.gazetaPres, plano("hertz-dias"), F.tse6]},
+
+  {n:"21", nome:"Edmilson Costa", partido:"PCB", vice:"Cleusa Santos (PCB)", idade:"Sem dado neste snapshot",
+   status:["ok","Registro validado pelo TSE"],
+   traj:["Militante do PCB desde a década de 1970","Já foi candidato a prefeito de São Paulo e a vice-presidente","Primeira vez como candidato a presidente"],
+   mandatos:false, bens:null,
+   temas:{
+    saude:["Estatizar todo o sistema de saúde e investir 10% do PIB na área."],
+    educacao:["Ensino 100% público, com estatização da rede privada.","Fim do vestibular nas federais e ampliação das cotas."],
+    seguranca:["Desmilitarizar e unificar as polícias.","Legalizar a maconha e descriminalizar o uso de drogas."],
+    trabalho:["Jornada de 30 horas e fim da escala 6x1.","Revogar as reformas trabalhista e da Previdência."],
+    renda:["Salário mínimo chegando ao valor calculado pelo Dieese em quatro anos.","Rede de restaurantes e mercados populares."],
+    impostos:["Taxar lucros, dividendos, grandes fortunas e heranças."],
+    estado:["Estatizar o sistema financeiro.","Constituinte com metade dos membros escolhida por organizações populares."],
+    ambiente:["Rever o Código Florestal para ampliar a proteção; taxar emissões."],
+    externa:["Romper relações com Israel e defender o fim da OTAN."]},
+   fontes:[F.gazetaPres, plano("edmilson-costa"), F.tse6]},
+
+  {n:"22", nome:"Flávio Bolsonaro", partido:"PL", vice:"Alfredo Gaspar (PL)", idade:"45 anos",
+   status:["ok","Registro validado pelo TSE"],
+   traj:["Senador pelo Rio de Janeiro (mandato atual, desde 2019)","Quatro mandatos como deputado estadual no RJ"],
+   mandatos:true,
+   bens:"R$ 8,19 milhões", bensNota:"Em 2018, ao disputar o Senado, declarou R$ 1,7 milhão.",
+   temas:{
+    saude:["Prontuário eletrônico único ligado ao CPF, integrando redes pública e privada.","IA para marcar consultas na primeira vaga livre e compra de horários ociosos da rede privada; remédios entregues em casa a idosos e doentes crônicos."],
+    educacao:["Alfabetização pelo método fônico, com verbas atreladas a metas.","Mais escolas cívico-militares e vouchers de creche e escola privada onde faltar vaga."],
+    seguranca:["Classificar PCC, CV e milícias como organizações narcoterroristas.","Cinco presídios de segurança máxima inspirados em El Salvador e 500 mil novas vagas; maioridade penal aos 16."],
+    trabalho:["Acordos entre empresa e trabalhador prevalecendo sobre a lei geral.","Contratação mais barata para jovens de 18 a 24 anos e desempregados acima de 50."],
+    renda:["Manter os programas atuais com combate a fraudes.","Proibir o uso de dinheiro de programas sociais em apostas online."],
+    impostos:["Revisar a reforma tributária para reduzir o IVA.","Cortar impostos sobre energia e combustíveis."],
+    estado:["Cortar pelo menos 10 ministérios e acabar com supersalários.","Retomar privatizações avaliadas caso a caso."],
+    ambiente:["Zerar o desmatamento ilegal até 2029 com satélite e IA.","Licença ambiental concedida automaticamente se o órgão perder o prazo."],
+    externa:["Retomar a adesão à OCDE.","Reaproximação com EUA, Argentina e Israel."]},
+   fontes:[F.gazetaPres, plano("flavio-bolsonaro"), F.bens, F.bens2, F.tse6]},
+
+  {n:"27", nome:"Clariana Barão", partido:"DC", vice:"Fabiana Torquato (DC)", idade:"39 anos",
+   status:["ver","Confira a situação no TSE"],
+   traj:["Primeira candidatura a cargo público"],
+   mandatos:false, bens:null,
+   temas:{
+    saude:["Atenção primária com equipes completas e prontuário interoperável.","Telemedicina e regulação inteligente de filas."],
+    educacao:["Alfabetização na idade certa e recomposição da aprendizagem perdida."],
+    seguranca:["Inteligência financeira contra facções e monitoramento de fronteiras."],
+    trabalho:["Qualificação e crédito para mulheres; não trata de CLT ou jornada."],
+    renda:[], impostos:["Revisar subsídios e dar transparência aos benefícios fiscais."],
+    estado:["Gestão por metas com painéis públicos e compras rastreáveis."],
+    ambiente:[], externa:[]},
+   fontes:[F.gazetaPres, plano("clariana-barao")]},
+
+  {n:"28", nome:"Leonardo Avalanche", partido:"PRTB", vice:"Silvia Hellen da Silva Pereira (PRTB)", idade:"37 anos",
+   status:["ver","Chapa substituta: confira no TSE"],
+   traj:["Presidente nacional do PRTB","Primeira candidatura a cargo político","Assumiu a vaga de Pablo Marçal, cuja candidatura foi indeferida pelo TSE"],
+   mandatos:false, bens:null,
+   notaPlano:"A chapa foi substituída após o indeferimento de Pablo Marçal. Este snapshot ainda não tem o resumo do plano da nova chapa: consulte o documento no TSE.",
+   temas:{},
+   fontes:[F.gazetaPres, F.tse12]},
+
+  {n:"29", nome:"Rui Costa Pimenta", partido:"PCO", vice:"Antônio Carlos Silva (PCO)", idade:"69 anos",
+   status:["ver","Confira a situação no TSE"],
+   traj:["Quarta candidatura à Presidência, sempre pelo PCO"],
+   mandatos:false, bens:null,
+   temas:{
+    saude:["Plano emergencial de construção de hospitais e retomada do Mais Médicos."],
+    educacao:["Fim dos vestibulares e piso de R$ 8,5 mil para professores."],
+    seguranca:["Dissolver a Polícia Militar e criar comitês de autodefesa."],
+    trabalho:["Salário mínimo de pelo menos R$ 7.500 e jornada de 35 horas."],
+    renda:["Bolsa Família de no mínimo um salário mínimo.","Anular as dívidas de trabalhadores com o sistema financeiro."],
+    impostos:["Fim dos impostos sobre consumo e salários; taxar só ganhos do capital e fortunas."],
+    estado:["Cancelar as privatizações e tornar a Petrobras 100% estatal."],
+    ambiente:[],
+    externa:["Defesa de Cuba, Nicarágua e Venezuela; contra a OEA."]},
+   fontes:[F.gazetaPres, plano("rui-costa-pimenta")]},
+
+  {n:"30", nome:"Zema", partido:"Novo", vice:"Eduardo Girão (Novo)", idade:"61 anos",
+   status:["ok","Registro validado pelo TSE"],
+   traj:["Governador de Minas Gerais por dois mandatos (2019–2026), renunciou em março para concorrer","Empresário antes da carreira política"],
+   mandatos:true,
+   bens:"R$ 178,7 milhões", bensNota:"Em 2022 declarou R$ 129,7 milhões: alta de cerca de 38%, contra inflação de 19% no período.",
+   temas:{
+    saude:["Contratar capacidade ociosa de hospitais privados para zerar filas, com metas públicas.","Flexibilizar regras da ANS para planos com cobertura parcial."],
+    educacao:["Alfabetização na idade certa e revisão da BNCC.","Regulamentar o ensino domiciliar e ampliar escolas cívico-militares."],
+    seguranca:["Tratar como terroristas criminosos que usam armas de guerra para dominar território.","Maioridade penal aos 16 para crimes graves."],
+    trabalho:["Regime alternativo à CLT com jornada e férias negociadas, até 44 horas.","Fim do sindicato único por categoria."],
+    renda:["Bolsa Família com exigência de busca de emprego para adultos aptos.","Prêmio de R$ 5 mil a quem sair do programa por renda maior; R$ 1.000 investidos para cada recém-nascido."],
+    impostos:["Metas obrigatórias de redução de impostos.","Cálculo automático de impostos pela nota fiscal eletrônica."],
+    estado:["Privatizar todas as estatais e dividir a Petrobras.","Fim da estabilidade ampla nos novos concursos."],
+    ambiente:["Aplicar a nova lei de licenciamento com prazos.","Combate por satélite ao desmate ilegal, sem novas restrições ao Código Florestal."],
+    externa:["Sair do BRICS e entrar na OCDE.","Transformar o Mercosul em zona de livre comércio."]},
+   fontes:[F.gazetaPres, plano("zema"), F.bens, F.bens2, F.tse6]},
+
+  {n:"35", nome:"Veterinário Wilson Grassi", partido:"Democrata", vice:"Suêd Haidar (Democrata)", idade:"55 anos",
+   status:["ver","Confira a situação no TSE"],
+   traj:["Tentou se eleger vereador e deputado federal, sem sucesso","Conhecido pela defesa da causa animal"],
+   mandatos:false, bens:null,
+   temas:{
+    saude:["Fila nacional única e pública por procedimento, com primeira versão em 100 dias.","Integrar saúde humana, animal e ambiental."],
+    educacao:["Apoio federal condicionado a resultados de alfabetização publicados por escola."],
+    seguranca:["Isolar líderes de facção com bloqueio real de celular.","Plebiscito sobre presídio no modelo de El Salvador."],
+    trabalho:["Zerar a contribuição patronal sobre a folha de pagamento."],
+    renda:["Sem programa de transferência de renda; propõe isenção de IR até 5 salários mínimos."],
+    impostos:["Trocar nove tributos federais por cobrança sobre movimentações bancárias.","IR das empresas de 34% para 25%."],
+    estado:["Aprovação automática quando o governo perde prazo; metas públicas com responsável nomeado."],
+    ambiente:["Rastrear as cadeias da madeira e da carne contra o desmate ilegal."],
+    externa:["Pragmatismo e reciprocidade comercial, sem alinhamento fixo."]},
+   fontes:[F.gazetaPres, plano("wilson-grassi")]},
+
+  {n:"55", nome:"Ronaldo Caiado", partido:"PSD", vice:"Gilberto Kassab (PSD)", idade:"76 anos",
+   status:["ver","Confira a situação no TSE"],
+   traj:["Governador de Goiás (2019–2026)","Foi deputado federal e senador","Candidato a presidente em 1989"],
+   mandatos:true,
+   bens:"R$ 52,56 milhões", bensNota:"A maior parte em propriedades rurais e rebanho.",
+   temas:{
+    saude:["Fila ordenada por gravidade, com meta de cortar pela metade o tempo de espera até 2030 nas regiões mais afetadas.","Via rápida do câncer para cumprir os prazos legais de diagnóstico e tratamento."],
+    educacao:["Toda criança lendo, escrevendo e com base de matemática até o fim do 2º ano.","Licenciaturas mais exigentes e bolsas para quem escolher dar aula."],
+    seguranca:["Enquadrar facções e milícias como terrorismo doméstico, com pena mínima de 45 anos para integrantes.","Rede de presídios de segurança máxima e regime especial para líderes de facção."],
+    trabalho:["Não trata da escala 6x1; propõe reduzir custos que empurram para a informalidade.","Programa nacional de requalificação profissional."],
+    renda:["Preservar a transferência de renda e atualizar cadastros.","Saída gradual do benefício para quem consegue emprego formal."],
+    impostos:["Ajuste fiscal sem aumento permanente da carga tributária.","Todo benefício fiscal com prazo, custo e avaliação independente."],
+    estado:["Centro de Governo na Presidência, com metas públicas por ministro.","PEC proibindo a reeleição do presidente eleito em 2026."],
+    ambiente:["Lei nacional de licenciamento proporcional ao impacto.","Combater desmatamento e garimpo ilegal pela inteligência financeira."],
+    externa:["Relações com todos os polos, sem alinhamento automático.","Consolidar o acordo Mercosul–União Europeia."]},
+   fontes:[F.gazetaPres, plano("ronaldo-caiado"), F.poderCaiado, F.bens2]},
+
+  {n:"70", nome:"Escritor Augusto Cury", partido:"Avante", vice:"Júlio Delgado (Avante)", idade:"67 anos",
+   status:["ok","Registro aprovado pelo TSE"],
+   traj:["Escritor e psiquiatra, com livros publicados em mais de 70 países","Primeira eleição que disputa"],
+   mandatos:false,
+   bens:"R$ 242,28 milhões", bensNota:"Maior patrimônio entre os presidenciáveis, concentrado em empresas e créditos.",
+   temas:{
+    saude:["Telemedicina para resolver cerca de 80% das consultas básicas.","Triagem por IA e rede nacional de prevenção do câncer."],
+    educacao:["Tempo integral com educação emocional, financeira e empreendedorismo.","Política nacional para alunos neurodivergentes."],
+    seguranca:["Recriar o Ministério da Segurança Pública e integrar a inteligência policial.","Força municipal de prevenção (FOCO)."],
+    trabalho:["Formar 10 milhões de microempreendedores; crédito de até R$ 20 mil a 5%–6% ao ano.","Sem proposta sobre jornada."],
+    renda:["Manter o Bolsa Família sem corte imediato para quem conseguir emprego ou abrir empresa."],
+    impostos:["Concluir a reforma com carga menor ao fim da transição.","Dar mais receita aos municípios."],
+    estado:["Adotar o semipresidencialismo.","Metas anuais públicas por ministério; sem privatizações."],
+    ambiente:["90% de matriz energética limpa até 2040.","Combate a incêndios com satélite e drones."],
+    externa:["Embaixadas com metas de negócios e mais foco em Índia, China e Oriente Médio."]},
+   fontes:[F.gazetaPres, plano("augusto-cury"), F.bens, F.tse12]},
+
+  {n:"80", nome:"Samara", partido:"UP", vice:"Raquel Bricio (UP)", idade:"38 anos",
+   status:["ok","Registro validado pelo TSE"],
+   traj:["Candidata a vice-presidente em 2022","Primeira vez como cabeça de chapa"],
+   mandatos:false,
+   bens:"R$ 33 mil", bensNota:"Menor patrimônio entre os presidenciáveis.",
+   temas:{
+    saude:["SUS 100% estatal e fim dos planos de saúde privados."],
+    educacao:["10% do PIB para educação; abolir vestibular e ENEM."],
+    seguranca:["Desmilitarizar as polícias; foco no combate ao feminicídio."],
+    trabalho:["Fim da escala 6x1 com 36 horas; dobrar o salário mínimo."],
+    renda:["Sem programa claro de transferência; aposta em salário mínimo e frentes de trabalho."],
+    impostos:["Isentar quem vive de salário; taxar fortunas, lucros e heranças."],
+    estado:["Nacionalizar bancos e reestatizar empresas privatizadas."],
+    ambiente:["Proibir agrotóxicos já banidos no exterior."],
+    externa:["Encerrar a submissão a EUA e China; proteger as terras raras."]},
+   fontes:[F.gazetaPres, plano("samara"), F.bens, F.tse6]}
+];
+
+const GOV_SC = [
+  {n:"14", nome:"Marcelo Brigadeiro", partido:"Missão", vice:"Coronel Rodrigues (Missão)", idade:"44 anos",
+   status:["ok","Na lista consolidada do TRE-SC"],
+   traj:["Empresário e ex-lutador de MMA","Em 2018 foi candidato a 1º suplente de senador pelo PSL, sem se eleger"],
+   mandatos:false, coligacao:"Sem coligação",
+   bens:"R$ 1,83 milhão",
+   plano:{pag:"Sem dado", prop:"111 propostas em 18 áreas", reais:"Parcial (metas de corte de gastos)", prazos:"Sim, em alguns itens", obs:"O plano mais detalhado dos oito em número de propostas."},
+   temas:{
+    seguranca:["Presídio de segurança máxima no Meio-Oeste para líderes de facção.","Reconhecimento facial em todo o estado e assistência jurídica do Estado a policiais processados."],
+    saude:["Cirurgia indicada pelo SUS feita em até 60 dias, inclusive comprando horários ociosos da rede privada.","Retomar a PPP do Complexo Hospitalar com o BID."],
+    educacao:["Tempo integral em todas as escolas estaduais até 2030.","Programa de meritocracia com premiação para escolas."],
+    gestao:["Privatizar Celesc e Casan; extinguir Cohab, Santur e Codesc.","Cortar 25% dos cargos comissionados e 10% das despesas administrativas."],
+    infra:["Saneamento universal até 2033.","Cobrar da União a duplicação das BRs 153, 280, 282 e 470."]},
+   fontes:[F.gazetaGov, F.jrBrig, pdf("240017031822"), F.numsSC]},
+
+  {n:"16", nome:"Professor Marcus Sodré", partido:"PSTU", vice:"Tatiane Pasdiora (PSTU)", idade:"54 anos",
+   status:["ok","Na lista consolidada do TRE-SC"],
+   traj:["Já foi candidato a prefeito de Itajaí e a deputado estadual","Primeira vez candidato a governador"],
+   mandatos:false, coligacao:"Sem dado", bens:null,
+   plano:{pag:"50", prop:"Sem dado", reais:"Sem dado", prazos:"Sem dado", obs:"Segundo plano mais longo entre os oito."},
+   temas:{},
+   notaPlano:"Resumo por tema ainda não incluído neste snapshot.",
+   fontes:[F.gazetaGov, F.jrMerisio, F.numsSC]},
+
+  {n:"22", nome:"Jorginho Mello", partido:"PL", vice:"Adriano Silva (Novo)", idade:"70 anos",
+   status:["ok","Na lista consolidada do TRE-SC"],
+   traj:["Governador de Santa Catarina desde 2023; tenta a reeleição","Foi deputado estadual, deputado federal e senador","Nunca perdeu uma eleição: oito disputas desde 1994"],
+   mandatos:true, coligacao:"Fé no Trabalho e Pé na Tábua (PL, Avante, Agir, DC, PSDB/Cidadania, Novo, Republicanos, Pode)",
+   bens:"R$ 2,82 milhões",
+   plano:{pag:"22", prop:"36 compromissos (34 de continuidade)", reais:"Não", prazos:"Não", obs:"Quase metade do documento lista realizações da gestão atual. Única meta numérica: Casa Catarina nos 295 municípios. Não cita saneamento, creche, Celesc ou Casan."},
+   resultadosCampanha:"Segundo o próprio plano: mais de 71 mil estudantes no Universidade Gratuita, mais de 300 leitos de UTI e R$ 5 bilhões no Estrada Boa. O documento afirma que 100% dos compromissos de 2023 foram concluídos ou estão em execução, sem detalhar item a item.",
+   temas:{
+    seguranca:["Expandir o videomonitoramento com reconhecimento facial nas maiores cidades.","Continuar os concursos das forças de segurança."],
+    saude:["Fortalecer a Tabela Catarinense de Cirurgias (Fila Zero).","Manter o custeio dos leitos de UTI abertos na gestão."],
+    educacao:["Ampliar o tempo integral e o número de professores efetivos.","Manter o Universidade Gratuita."],
+    gestao:["Ampliar o Pronampe SC e o crédito sem juros do Financia Agro SC.","Levar o Casa Catarina aos 295 municípios."],
+    infra:["Continuar o Estrada Boa e acelerar a Viamar, paralela à BR-101.","Concluir a dragagem da Baía da Babitonga e investir nos portos de Imbituba e São Francisco do Sul."]},
+   fontes:[F.gazetaGov, F.jrJorginho, pdf("240016881802"), F.numsSC]},
+
+  {n:"25", nome:"Ralf Zimmer", partido:"PRD", vice:"Carlos Alberto Souza Bordin (Solidariedade)", idade:"47 anos",
+   status:["ok","Na lista consolidada do TRE-SC"],
+   traj:["Advogado e defensor público","Candidato a governador em 2022 pelo PROS: 3.828 votos"],
+   mandatos:false, coligacao:"Federação Renovação Solidária (PRD/Solidariedade)",
+   bens:"R$ 1,4 milhão",
+   plano:{pag:"Sem dado", prop:"Sem dado", reais:"Sem dado", prazos:"Sem dado", obs:"Plano intitulado Santa Catarina em Primeiro Lugar."},
+   temas:{}, notaPlano:"Resumo por tema ainda não incluído neste snapshot.",
+   fontes:[F.gazetaGov, F.ndGov, F.numsSC]},
+
+  {n:"29", nome:"Bruno Pedreiro do PCO", partido:"PCO", vice:"Jair Fernandes (PCO)", idade:"40 anos",
+   status:["ok","Na lista consolidada do TRE-SC"],
+   traj:["Trabalhador da construção civil","Candidato a prefeito de Florianópolis em 2024: 95 votos"],
+   mandatos:false, coligacao:"Sem dado", bens:null,
+   plano:{pag:"7", prop:"Sem dado", reais:"Sem dado", prazos:"Sem dado", obs:"Não cita Santa Catarina; é o mesmo arquivo protocolado pelo partido em outros seis estados."},
+   temas:{}, notaPlano:"Resumo por tema ainda não incluído neste snapshot.",
+   fontes:[F.gazetaGov, F.jrPco, F.numsSC]},
+
+  {n:"40", nome:"Gelson Merísio", partido:"PSB", vice:"Angela Albino (PDT)", idade:"60 anos",
+   status:["ok","Na lista consolidada do TRE-SC"],
+   traj:["Deputado estadual por três mandatos e ex-presidente da Alesc","Candidato a governador em 2018: mais votado no 1º turno, perdeu no 2º","Partidos ao longo da carreira: PFL, DEM, PSD, Solidariedade e PSB"],
+   mandatos:true, coligacao:"Coragem para Mudar (PSB, PDT, PSOL/Rede, PT/PCdoB/PV)",
+   bens:"R$ 652,9 mil",
+   plano:{pag:"74", prop:"14 missões e 100 programas", reais:"Não", prazos:"Quase nenhum", obs:"O mais longo dos oito. Enviado como imagem digitalizada, sem texto pesquisável."},
+   temas:{
+    seguranca:["Programas de prevenção, polícia cidadã, inteligência e valorização profissional.","Uma missão inteira dedicada ao combate à violência contra a mulher."],
+    saude:["Programa de cannabis medicinal e atenção a transtornos do neurodesenvolvimento e TEA.","Santa Catarina Livre da Sífilis."],
+    educacao:[],
+    gestao:["Fim da contribuição de 14% cobrada de servidores aposentados.","Criar o Instituto Catarinense de Indicadores e a estratégia SC 2040."],
+    infra:["Plano Estadual de Infraestrutura e Logística.","Missão de justiça climática: prevenção de desastres e segurança hídrica."]},
+   fontes:[F.gazetaGov, F.jrMerisio, pdf("240017074241"), F.numsSC]},
+
+  {n:"55", nome:"João Rodrigues", partido:"PSD", vice:"Carlos Chiodini (MDB)", idade:"59 anos",
+   status:["ok","Na lista consolidada do TRE-SC"],
+   traj:["Prefeito de Chapecó por quatro mandatos (eleito em 2004, 2008, 2020 e 2024); deixou o cargo para concorrer","Ex-prefeito de Pinhalzinho e ex-deputado estadual","Deputado federal eleito em 2010 e 2014; não se elegeu em 2018"],
+   mandatos:true, coligacao:"Santa Catarina Acima de Tudo (PSD, MDB, União/PP)",
+   bens:"R$ 2,12 milhões",
+   plano:{pag:"25", prop:"104 ações", reais:"Sim (projeção de investimento)", prazos:"Parcial", obs:"Único plano com projeção de receita ano a ano. O capítulo de infraestrutura não nomeia nenhuma obra."},
+   temas:{
+    seguranca:["Muralha Digital: câmeras com reconhecimento facial e leitura de placas.","Barreiras nas divisas e convocação voluntária de policiais da reserva."],
+    saude:["Força-tarefa médica para zerar as filas de cirurgia.","Leitos de UTI no padrão recomendado pela OMS e novos hospitais regionais."],
+    educacao:["Aperfeiçoar e ajustar o Universidade Gratuita e fortalecer a UDESC.","Tempo integral com reforço de Matemática, Português e Inglês."],
+    gestao:["Ao menos 15% da receita corrente líquida em investimentos: R$ 40,5 bilhões de 2027 a 2030.","Controle rigoroso das despesas de custeio."],
+    infra:["Duplicações e terceiras faixas, sem citar rodovias específicas.","Saneamento tratado sem meta de cobertura ou prazo."]},
+   fontes:[F.gazetaGov, F.jrJoao, pdf("240017099514"), F.numsSC]},
+
+  {n:"80", nome:"Laís Chaud", partido:"UP", vice:"Nathália Melo (UP)", idade:"35 anos",
+   status:["ok","Na lista consolidada do TRE-SC"],
+   traj:["Psicóloga e coordenadora do Movimento de Luta nos Bairros, Vilas e Favelas (MLB)","Primeira candidatura ao governo"],
+   mandatos:false, coligacao:"Sem coligação", bens:null,
+   plano:{pag:"Sem dado", prop:"Sem dado", reais:"Sem dado", prazos:"Sem dado", obs:""},
+   temas:{educacao:["Suspender o programa Universidade Gratuita."]},
+   notaPlano:"Resumo por tema ainda incompleto neste snapshot.",
+   fontes:[F.gazetaGov, F.jrJoao, F.numsSC]}
+];
+
+const SEN_SC = [
+  {n:"111", nome:"Esperidião Amin", partido:"PP", idade:"78 anos", coligacao:"Santa Catarina Acima de Tudo",
+   traj:["Senador desde 2019; tenta a reeleição (já havia sido senador de 1991 a 1998)","Governador de SC por dois mandatos e prefeito de Florianópolis por dois períodos","Ex-deputado federal"],
+   mandatos:true, bens:"R$ 2,54 milhões"},
+  {n:"133", nome:"Décio Lima", partido:"PT", idade:"65 anos", coligacao:"Coragem para Mudar",
+   traj:["Deputado federal de 2007 a 2019","Prefeito de Blumenau de 1997 a 2004 e vereador de 1993 a 1996","Candidato a governador em 2022, chegou ao 2º turno"],
+   mandatos:true, bens:"R$ 3,17 milhões"},
+  {n:"144", nome:"Túlio de Amorim Pfuetzenreiter", partido:"Missão", idade:"38 anos", coligacao:"Sem dado",
+   traj:["Empresário de Blumenau","Sem mandato eletivo anterior"], mandatos:false, bens:"R$ 967,2 mil"},
+  {n:"155", nome:"Lunelli", partido:"MDB", idade:"63 anos", coligacao:"Santa Catarina Acima de Tudo",
+   traj:["Deputado estadual desde 2023","Prefeito de Jaraguá do Sul (2016–2022)","Empresário"],
+   mandatos:true, bens:"R$ 613,2 milhões", bensNota:"De longe o maior patrimônio declarado na disputa ao Senado em SC."},
+  {n:"160", nome:"Joaninha de Oliveira", partido:"PSTU", idade:"67 anos", coligacao:"Sem dado",
+   traj:["Professora aposentada","Sem mandato eletivo anterior"], mandatos:false, bens:"R$ 200 mil"},
+  {n:"161", nome:"Marcos Dorval", partido:"PSTU", idade:"52 anos", coligacao:"Sem dado",
+   traj:["Servidor público e técnico em refrigeração","Sem mandato eletivo anterior"], mandatos:false, bens:"R$ 998,4 mil"},
+  {n:"221", nome:"Carol De Toni", partido:"PL", idade:"40 anos", coligacao:"Fé no Trabalho e Pé na Tábua",
+   traj:["Deputada federal desde 2019, reeleita em 2022","Advogada, natural de Chapecó"], mandatos:true, bens:"R$ 1,41 milhão"},
+  {n:"222", nome:"Carlos Bolsonaro", partido:"PL", idade:"43 anos", coligacao:"Fé no Trabalho e Pé na Tábua",
+   traj:["Vereador do Rio de Janeiro por sete mandatos (2001–2025)","Transferiu o domicílio eleitoral para Santa Catarina em 2025"], mandatos:true, bens:"R$ 2,78 milhões"},
+  {n:"250", nome:"Jeferson Rocha", partido:"Federação PRD/Solidariedade", idade:"44 anos", coligacao:"Federação Renovação Solidária",
+   traj:["Advogado, natural de Lages","Sem mandato eletivo anterior"], mandatos:false, bens:"R$ 14,04 milhões"},
+  {n:"290", nome:"Carol", partido:"PCO", idade:"39 anos", coligacao:"Sem dado",
+   traj:["Caroline Sant'Anna, professora de Blumenau","Sem mandato eletivo anterior"], mandatos:false, bens:"R$ 45 mil"},
+  {n:"500", nome:"Afrânio Boppré", partido:"PSOL", idade:"65 anos", coligacao:"Coragem para Mudar",
+   traj:["Vereador de Florianópolis desde 2013 (quarto mandato)","Deputado estadual de 2003 a 2007","Vice-prefeito de Florianópolis de 1993 a 1996","Candidato a governador em 2022"],
+   mandatos:true, bens:"R$ 1,52 milhão"},
+  {n:"800", nome:"Ana Lucia da Silveira Machado", partido:"UP", idade:"71 anos", coligacao:"Sem dado",
+   traj:["Professora e pedagoga","Sem mandato eletivo anterior"], mandatos:false, bens:"R$ 344 mil"},
+  {n:"808", nome:"Marlene Soccas", partido:"UP", idade:"91 anos", coligacao:"Sem dado",
+   traj:["Dentista e historiadora, natural de Laguna","Sem mandato eletivo anterior"], mandatos:false, bens:"Nenhum bem declarado"}
+].map(c => Object.assign(c, {status:["ok","Na lista consolidada do TRE-SC"], fontes:[F.scc10, F.agSen, F.numsSC]}));
+
+const GUIAS = {
+  presidente:{
+    faz:["Chefia o governo federal e escolhe os ministros.","Envia o Orçamento ao Congresso e define a política econômica.","Sanciona ou veta leis, comanda as Forças Armadas e a política externa.","Indica ministros do STF, que precisam ser aprovados pelo Senado."],
+    naofaz:["Não aprova leis sozinho: mudanças grandes dependem do Congresso (uma PEC exige 3/5 dos votos na Câmara e no Senado).","Não comanda a PM nem a Polícia Civil, que são dos estados."],
+    observar:["A proposta tem meta com número e prazo, ou só intenção?","Diz quanto custa e de onde sai o dinheiro?","Depende do Congresso? Se sim, o candidato tem base para aprovar?","Combina com o que ele já fez quando teve cargo?","Quem é o vice: ele assume se o titular sair.","Como o patrimônio declarado evoluiu entre eleições."]
+  },
+  governador:{
+    faz:["Comanda a Polícia Militar, a Polícia Civil, a Polícia Científica e os presídios estaduais.","Cuida da rede estadual de ensino (principalmente o ensino médio) e de hospitais estaduais.","Administra rodovias estaduais e as empresas estaduais.","Envia o orçamento estadual à Assembleia Legislativa."],
+    naofaz:["Não controla BRs, Polícia Federal nem juros: isso é da União.","Posto de saúde e escola de ensino fundamental costumam ser das prefeituras."],
+    observar:["Metas medíveis com prazo: quantos leitos, quantos dias de fila, qual cobertura de esgoto.","Proposta com valor em reais e fonte do recurso.","Se já governou algo, o que os dados mostram do período (não só o que a campanha diz).","O plano fala do estado real ou é genérico?","Quem é o vice e qual coligação sustenta a chapa."]
+  },
+  senado:{
+    faz:["Vota leis e emendas à Constituição junto com a Câmara.","Aprova ministros do STF, o procurador-geral, diretores do Banco Central e embaixadores.","Julga o presidente em caso de impeachment.","Autoriza empréstimos de estados e municípios."],
+    naofaz:["Não executa obras nem manda verba diretamente: pode indicar emendas ao Orçamento.","Não precisa registrar plano de governo no TSE."],
+    observar:["Mandato de 8 anos: pese a trajetória mais que a promessa.","Se já foi parlamentar: presença, projetos e como votou nos temas que importam para você.","Cada senador tem dois suplentes, que assumem se ele sair. Confira quem são no TSE.","Este ano são dois votos: escolha duas pessoas diferentes. Repetir o número anula o segundo voto.","Não existe voto de legenda para senador."]
+  },
+  depfed:{
+    faz:["Propõe e vota leis federais e o Orçamento da União.","Fiscaliza o governo federal e pode abrir CPIs.","Indica emendas parlamentares, que levam verba federal a cidades e entidades."],
+    naofaz:["Não governa nem executa obras."],
+    observar:["O voto é proporcional: primeiro conta para o partido ou federação, depois para o candidato. Seu voto pode ajudar a eleger outra pessoa do mesmo partido.","Você pode votar só no partido (voto de legenda) digitando os 2 primeiros dígitos.","Se já teve mandato: presença, projetos aprovados, gastos da cota parlamentar e destino das emendas.","Troca frequente de partido pode indicar pouca fidelidade programática."]
+  },
+  depest:{
+    faz:["Propõe e vota leis estaduais e o orçamento do estado na Assembleia Legislativa.","Fiscaliza o governador, com apoio do Tribunal de Contas do Estado.","Indica emendas ao orçamento estadual."],
+    naofaz:["Não governa nem executa obras."],
+    observar:["Mesmo sistema proporcional do deputado federal: o voto conta primeiro para o partido.","Voto de legenda também é permitido.","Veja se o candidato conhece os problemas da sua região e o que fez em mandatos anteriores."]
+  }
+};
+
+const UFS = ["AC","AL","AP","AM","BA","CE","DF","ES","GO","MA","MT","MS","MG","PA","PB","PR","PE","PI","RJ","RN","RS","RO","RR","SC","SP","SE","TO"];
+const UF_NOME = {AC:"Acre",AL:"Alagoas",AP:"Amapá",AM:"Amazonas",BA:"Bahia",CE:"Ceará",DF:"Distrito Federal",ES:"Espírito Santo",GO:"Goiás",MA:"Maranhão",MT:"Mato Grosso",MS:"Mato Grosso do Sul",MG:"Minas Gerais",PA:"Pará",PB:"Paraíba",PR:"Paraná",PE:"Pernambuco",PI:"Piauí",RJ:"Rio de Janeiro",RN:"Rio Grande do Norte",RS:"Rio Grande do Sul",RO:"Rondônia",RR:"Roraima",SC:"Santa Catarina",SP:"São Paulo",SE:"Sergipe",TO:"Tocantins"};
+
+/* ============================================================
+   HISTÓRICO (snapshot 26/09/2026)
+   p = procedência do dado: of (órgão oficial/estatístico), gov (governo do próprio candidato),
+       imp (imprensa), crit (entidade crítica ao candidato), camp (campanha)
+   ============================================================ */
+const U = {
+  formPres:{t:"Jornal Opção: formação dos presidenciáveis", u:"https://www.jornalopcao.com.br/politica/formacao-dos-presidenciaveis-chama-atencao-de-curso-tecnico-a-doutorado-veja-quem-estudou-o-que-851469/"},
+  opovo:{t:"O Povo: quem são os candidatos à Presidência", u:"https://www.opovo.com.br/noticias/politica/eleicoes/2026/04/15/eleicoes-2026-saiba-quem-sao-os-pre-candidatos-a-presidencia-da-republica-ate-agora.html"},
+  dcom:{t:"Diário do Comércio: trajetória dos presidenciáveis", u:"https://diariodocomercio.com.br/politica/pre-candidatos-presidencia-2026/"},
+  dcom2:{t:"Diário do Comércio: Zema e Caiado", u:"https://diariodocomercio.com.br/?p=592350"},
+  spe:{t:"Ministério da Fazenda: balanço macrofiscal 2025", u:"https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/janeiro/recordes-em-indicadores-comprovam-sucesso-da-politica-de-desenvolvimento-sustentavel-aponta-spe"},
+  lula3:{t:"Série de desemprego da PNAD Contínua 2023–2025", u:"https://fernandonogueiracosta.wordpress.com/2026/09/19/resultados-macroeconomicos-do-governo-lula-iii/"},
+  ibge:{t:"IBGE: séries históricas", u:"https://www.ibge.gov.br/"},
+  bcb:{t:"Banco Central: estatísticas fiscais", u:"https://www.bcb.gov.br/estatisticas/estatisticasfiscais"},
+  emZema:{t:"Estado de Minas: o que Minas entrega em 2026", u:"https://www.em.com.br/colunistas/ana-mendonca/2026/01/7324953-zema-prometeu-arrumar-a-casa-o-que-minas-entrega-em-2026.html"},
+  otZema:{t:"O Tempo: déficit de R$ 11,3 bi no último ano", u:"https://www.otempo.com.br/politica/2026/2/20/minas-tem-rombo-de-r-11-3-bilhoes-no-caixa-no-ultimo-ano-do-governo-de-romeu-zema"},
+  mgZema:{t:"Agência Minas: balanço de 2019–2022", u:"https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-apresenta-balanco-de-acoes-e-resultados-dos-quatro-anos-de-gestao"},
+  cutZema:{t:"CUT-MG: crítica à gestão Zema", u:"https://mg.cut.org.br/noticias/governo-diferente-estado-quebrado-zema-nao-deixa-legado-positivo-em-mg-723d"},
+  goHom:{t:"Governo de Goiás: série de homicídios", u:"https://goias.gov.br/?p=626551"},
+  goIdeb:{t:"Jornal Opção: Ideb 2025 e rede de saúde em Goiás", u:"https://www.jornalopcao.com.br/educacao/goias-vira-referencia-no-debate-eleitoral-do-distrito-federal-866250/"},
+  goIdeb19:{t:"Governo de Goiás: Ideb 2019", u:"https://goias.gov.br/governo-apresenta-resultados-no-ideb-2019/"},
+  ihu:{t:"IHU/Unisinos: entrevista sobre a segurança em Goiás", u:"https://ihu.unisinos.br/647910-policia-violenta-e-principal-bandeira-de-caiado-entrevista-com-cileide-alves"},
+  scAtlas:{t:"Atlas da Violência 2024: taxa de SC em 2022", u:"https://condominiosc.com.br/radar/5532-santa-catarina-e-destaque-nacional-na-seguranca-publica"},
+  scSSP:{t:"Correio da Manhã: balanço 2025 da SSP-SC", u:"https://digital.correiodamanha.com.br/jornalcorreiodamanha/2026/01/15/0733cd/pdf/1501df_cmanha31.pdf"},
+  scDiplo:{t:"Le Monde Diplomatique Brasil: homicídios de mulheres em SC", u:"https://diplomatique.org.br/o-que-se-esconde-por-tras-dos-recordes-de-santa-catarina/"},
+  tre22:{t:"TRE-SC: resultado do 2º turno de 2022", u:"https://www.tre-sc.jus.br/comunicacao/noticias/2022/Outubro/eleicao-em-sc-jorginho-mello-e-eleito-com-70-69-dos-votos-no-segundo-turno"},
+  jrTraj:{t:"NSC Total: trajetória de João Rodrigues", u:"https://www.nsctotal.com.br/?p=7995246"},
+  jr83:{t:"NSC Total: reeleição com 83% em 2024", u:"https://www.nsctotal.com.br/?p=7312438"},
+  jrPrisao:{t:"NSC Total: prisão em 2018 e recuperação dos direitos", u:"https://www.nsctotal.com.br/?p=2607412"},
+  jrEsc:{t:"O Tempo: ficha de João Rodrigues", u:"https://www.otempo.com.br/eleicoes/2026/candidatos/santa-catarina/governador/joao-rodrigues-55"},
+  carolP360:{t:"Poder360: perfil de Carol De Toni", u:"https://www.poder360.com.br/congresso/saiba-quem-e-caroline-de-toni-nova-presidente-da-ccj-da-camara/"},
+  carolRadar:{t:"Congresso em Foco: Radar do Congresso", u:"https://www.congressoemfoco.com.br/area/congresso-nacional/caroline-de-toni-nova-presidente-da-ccj-e-a-deputada-que-mais-vota-contra-o-governo/"},
+  carolMin:{t:"Revista Oeste: líder da minoria em 2025", u:"https://revistaoeste.com/no-ponto/carol-de-toni-e-a-nova-lider-da-minoria-na-camara/"},
+  amin:{t:"Diário de Pernambuco: trajetória de Esperidião Amin", u:"https://www.diariodepernambuco.com.br/amp/politica/2025/12/11702564-quem-e-esperidiao-amin-relator-do-pl-da-dosimetria-na-ccj-do-senado.html"},
+  nexo:{t:"Nexo: ficha dos candidatos de SC com dados do TSE", u:"https://candidatos.nexojornal.com.br/2026/sc/"}
+};
+const M = (titulo, ini, fim, n, extra) => Object.assign({tipo:"mandato", titulo, ini, fim, n:n||1}, extra||{});
+const E = (ano, tipo, titulo, extra) => Object.assign({ano, tipo, titulo}, extra||{});
+
+const HIST = {
+ /* ---------- PRESIDENTE ---------- */
+ "presidente-13":{esc:"Ensino fundamental incompleto; técnico em torneiro mecânico pelo Senai", escF:U.formPres,
+  ev:[
+   E("Anos 1960","formacao","Curso técnico de torneiro mecânico no Senai"),
+   E("1975","carreira","Presidente do Sindicato dos Metalúrgicos de São Bernardo e Diadema"),
+   E("1980","carreira","Participa da fundação do PT"),
+   M("Deputado federal por São Paulo",1987,1991,1,{det:"Eleito em 1986 como o deputado mais votado do país; participou da Assembleia Constituinte.", semMet:"leg"}),
+   E("1989–1998","eleicao","Derrotado em três eleições presidenciais (1989, 1994 e 1998)"),
+   M("Presidente da República (1º e 2º mandatos)",2003,2010,2,{det:"Eleito com 61,3% dos votos válidos no 2º turno de 2002 e reeleito com 60,8% em 2006.",
+    met:[
+     {k:"Crescimento médio do PIB", v:"cerca de 4% ao ano no período", f:U.ibge, p:"of"},
+     {k:"Desemprego nas regiões metropolitanas (PME)", de:"12,3% em 2003", para:"6,7% em 2010", f:U.ibge, p:"of"},
+     {k:"Inflação (IPCA)", de:"9,3% em 2003", para:"5,9% em 2010", f:U.ibge, p:"of"},
+     {k:"Dívida líquida do setor público", de:"cerca de 60% do PIB em 2002", para:"cerca de 39% em 2010", f:U.bcb, p:"of"}]}),
+   E("2017","justica","Condenado na Lava Jato; ficou preso de abril de 2018 a novembro de 2019",{det:"Em 2021 o STF anulou as condenações por entender que a Justiça Federal de Curitiba não era competente para o caso, e declarou a suspeição do ex-juiz Sergio Moro. Lula recuperou os direitos políticos."}),
+   M("Presidente da República (3º mandato)",2023,null,1,{det:"Eleito com 50,9% dos votos válidos no 2º turno de 2022.",
+    met:[
+     {k:"Crescimento do PIB", v:"3,4% em 2024 e 2,3% em 2025", f:U.spe, p:"of"},
+     {k:"Desemprego (PNAD Contínua, média anual)", de:"7,8% em 2023", para:"5,6% em 2025, menor da série", f:U.lula3, p:"of"},
+     {k:"Inflação (IPCA)", v:"4,6% em 2023 e 4,8% em 2024, acima do teto da meta em 2024", f:U.ibge, p:"of"},
+     {k:"Dívida bruta do governo geral", de:"71,7% do PIB em 2022", para:"76,1% em 2024", f:U.bcb, p:"of"}]})
+  ],
+  dest:[{v:"12,3% → 6,7%", k:"Desemprego metropolitano, 2003 → 2010", p:"of"},{v:"7,8% → 5,6%", k:"Desemprego, 2023 → 2025", p:"of"},{v:"71,7% → 76,1%", k:"Dívida bruta sobre o PIB, 2022 → 2024", p:"of"}]},
+
+ "presidente-22":{esc:"Superior completo: Direito (Universidade Cândido Mendes), com especializações em Ciência Política, Políticas Públicas e Empreendedorismo", escF:U.formPres,
+  ev:[
+   E("—","formacao","Curso técnico em eletrônica e graduação em Direito"),
+   M("Deputado estadual no Rio de Janeiro",2003,2019,4,{det:"Quatro mandatos consecutivos na Alerj.", semMet:"leg"}),
+   E("2016","eleicao","Candidato a prefeito do Rio de Janeiro, não eleito"),
+   M("Senador pelo Rio de Janeiro",2019,null,1,{det:"Eleito em 2018.", met:[{k:"Votos em 2018", v:"4.380.418 (31,4% dos válidos)", f:U.dcom, p:"of"}], semMet:"leg"})
+  ],
+  dest:[{v:"4,38 milhões", k:"Votos para o Senado em 2018", p:"of"},{v:"R$ 1,7 mi → R$ 8,19 mi", k:"Patrimônio declarado, 2018 → 2026", p:"of"}]},
+
+ "presidente-30":{esc:"Superior completo: Administração de Empresas (FGV)", escF:U.formPres,
+  ev:[
+   E("1990–2016","carreira","Presidente do Conselho de Administração do Grupo Zema"),
+   M("Governador de Minas Gerais",2019,2026,2,{det:"Eleito com 71,8% no 2º turno de 2018, primeira eleição que disputou, e reeleito com 56,2% no 1º turno de 2022. Renunciou em março de 2026.",
+    met:[
+     {k:"Salários do funcionalismo", de:"parcelados em 2019", para:"pagos em dia", f:U.emZema, p:"imp"},
+     {k:"Empregos com carteira criados", v:"626 mil entre 2019 e 2022", f:U.mgZema, p:"gov"},
+     {k:"Dívida do estado", v:"acima de R$ 200 bilhões e em alta durante a gestão; R$ 179,3 bi com a União na adesão ao Propag", f:U.otZema, p:"imp"},
+     {k:"Caixa de recursos livres", v:"déficit de R$ 11,3 bilhões em 2025", f:U.otZema, p:"imp"},
+     {k:"Homicídios", v:"alta de 4,6% entre 2023 e 2024, enquanto o país teve queda", f:U.cutZema, p:"crit"}]})
+  ],
+  dest:[{v:"Em dia", k:"Salários do funcionalismo, antes parcelados", p:"imp"},{v:"R$ 11,3 bi", k:"Déficit em recursos livres em 2025", p:"imp"},{v:"+38%", k:"Patrimônio declarado, 2022 → 2026", p:"of"}]},
+
+ "presidente-55":{esc:"Superior completo: Medicina (UNIRIO), especialização em cirurgia da coluna (Paris) e mestrado em Ortopedia (UFRJ)", escF:U.formPres,
+  ev:[
+   E("Anos 1980","carreira","Primeiro presidente da UDR (União Democrática Ruralista)",{f:U.ihu}),
+   E("1989","eleicao","Candidato a presidente, não eleito"),
+   M("Deputado federal por Goiás",1991,1995,1,{semMet:"leg"}),
+   M("Deputado federal por Goiás",1999,2015,4,{semMet:"leg"}),
+   M("Senador por Goiás",2015,2019,1,{det:"Deixou o Senado para assumir o governo.", semMet:"leg"}),
+   M("Governador de Goiás",2019,2026,2,{det:"Eleito com 59,7% no 1º turno de 2018 e reeleito com 51,8% no 1º turno de 2022.",
+    met:[
+     {k:"Homicídios por ano", de:"2.272 em 2017 (recorde)", para:"960 em 2024", f:U.goHom, p:"gov"},
+     {k:"Ideb do ensino médio", v:"4,8 em 2019 (1º do país); 5,0 em 2025 (2º, atrás do Paraná)", f:U.goIdeb, p:"of"},
+     {k:"Leitos de UTI na rede estadual", de:"274 em 2018", para:"720 em 2026", f:U.goIdeb, p:"gov"},
+     {k:"Mortes causadas por policiais", v:"analistas apontam forte alta no período", f:U.ihu, p:"imp"}]})
+  ],
+  dest:[{v:"2.272 → 960", k:"Homicídios por ano em Goiás, 2017 → 2024", p:"gov"},{v:"5,0", k:"Ideb do ensino médio em 2025, 2º do país", p:"of"},{v:"5", k:"Mandatos como deputado federal", p:"imp"}]},
+
+ "presidente-14":{esc:"Sem dado neste snapshot", ev:[E("2014","carreira","Cofundador do Movimento Brasil Livre (MBL)"),E("2025","carreira","Funda o partido Missão, registrado no TSE em novembro de 2025",{f:U.opovo}),E("2026","eleicao","Primeira eleição que disputa")]},
+ "presidente-16":{esc:"Professor de História na rede pública de São Luís (MA)", escF:U.opovo, ev:[E("—","carreira","Professor de História e ativista do movimento negro",{f:U.opovo}),E("2018","eleicao","Candidato a vice-presidente, não eleito"),E("2022","eleicao","Candidato a governador do Maranhão, não eleito",{f:U.opovo})]},
+ "presidente-21":{esc:"Doutorado em Economia (Unicamp), com pós-doutorado", escF:U.opovo, ev:[E("Anos 1970","carreira","Militante do PCB"),E("—","eleicao","Candidato a prefeito de São Paulo e a vice-presidente, não eleito"),E("2026","eleicao","Primeira candidatura a presidente")]},
+ "presidente-27":{esc:"Sem dado neste snapshot", ev:[E("2026","eleicao","Primeira candidatura a cargo público")]},
+ "presidente-28":{esc:"Sem dado neste snapshot", ev:[E("2024","carreira","Ganha projeção na campanha de Pablo Marçal à Prefeitura de São Paulo"),E("—","carreira","Presidente nacional do PRTB"),E("2026","eleicao","Assume a candidatura após o TSE indeferir a de Pablo Marçal")]},
+ "presidente-29":{esc:"Sem dado neste snapshot", ev:[E("1980","carreira","Participa da fundação do PT e é diretor da CUT na Grande São Paulo",{f:U.opovo}),E("—","carreira","Presidente do PCO"),E("2026","eleicao","Quarta candidatura à Presidência")]},
+ "presidente-35":{esc:"Veterinário (profissão que usa no nome de urna)", ev:[E("—","eleicao","Candidato a vereador e a deputado federal, não eleito"),E("—","carreira","Atuação na causa animal"),E("2026","eleicao","Candidato a presidente")]},
+ "presidente-70":{esc:"Medicina (Famerp), pós-graduação em Psiquiatria e doutorado em Psicologia Multifocal", escF:U.formPres, ev:[E("—","formacao","Formação em Medicina e Psiquiatria"),E("—","carreira","Escritor com livros publicados em mais de 70 países"),E("2026","eleicao","Primeira eleição que disputa")]},
+ "presidente-80":{esc:"Odontologia; dentista do SUS", escF:U.dcom, ev:[E("—","carreira","Dentista do SUS e ativista de movimentos sociais",{f:U.dcom}),E("2022","eleicao","Candidata a vice-presidente: a chapa teve 0,05% dos votos",{f:U.opovo}),E("2026","eleicao","Primeira vez como cabeça de chapa")]},
+
+ /* ---------- Governador SC ---------- */
+ "SC-governador-22":{esc:"Sem dado neste snapshot", 
+  ev:[
+   M("Deputado estadual em Santa Catarina",1995,2011,4,{det:"Eleito em 1994, 1998, 2002 e 2006.", semMet:"leg"}),
+   M("Deputado federal por Santa Catarina",2011,2019,2,{det:"Eleito em 2010 e 2014.", semMet:"leg"}),
+   M("Senador por Santa Catarina",2019,2022,1,{det:"Eleito em 2018; deixou o Senado para assumir o governo.", semMet:"leg"}),
+   M("Governador de Santa Catarina",2023,null,1,{det:"Eleito com 70,69% dos votos válidos no 2º turno de 2022.", f:U.tre22,
+    met:[
+     {k:"Homicídios por 100 mil habitantes", de:"9,1 em 2022 (Atlas da Violência)", para:"5,2 em 2025 (SSP-SC)", f:U.scSSP, p:"gov"},
+     {k:"Homicídios registrados", v:"429 em 2025, 16,4% a menos que em 2024", f:U.scSSP, p:"gov"},
+     {k:"Homicídios de mulheres", v:"pioraram em SC entre 2018 e 2023, enquanto caíam no país", f:U.scDiplo, p:"imp"},
+     {k:"Entregas citadas no plano", v:"71 mil vagas no Universidade Gratuita, 300 leitos de UTI e R$ 5 bi no Estrada Boa", f:F.jrJorginho, p:"camp"}]})
+  ],
+  dest:[{v:"8 de 8", k:"Eleições vencidas desde 1994", p:"imp"},{v:"9,1 → 5,2", k:"Homicídios por 100 mil em SC, 2022 → 2025", p:"gov"},{v:"10", k:"Mandatos eletivos exercidos", p:"imp"}]},
+
+ "SC-governador-55":{esc:"Ensino médio completo", escF:U.jrEsc,
+  ev:[
+   E("—","carreira","Radialista em Pinhalzinho, onde começa na política",{f:U.jrTraj}),
+   M("Vice-prefeito de Pinhalzinho",1997,2000,1,{det:"Eleito em 1996."}),
+   M("Prefeito de Pinhalzinho",2001,2002,1,{det:"Eleito em 2000; deixou o cargo para disputar a Assembleia."}),
+   M("Deputado estadual em Santa Catarina",2003,2004,1,{det:"Eleito em 2002; saiu para assumir a Prefeitura de Chapecó.", semMet:"leg"}),
+   M("Prefeito de Chapecó",2005,2010,2,{det:"Eleito em 2004 e reeleito em 2008.", semMet:"exe"}),
+   M("Deputado federal por Santa Catarina",2011,2019,2,{det:"Eleito em 2010 e 2014.", semMet:"leg"}),
+   E("2018","justica","Preso pela Polícia Federal após condenação por crimes fiscais e de licitação quando era prefeito de Pinhalzinho",{det:"Pena de 5 anos e 3 meses em regime semiaberto, por fatos de 1999. Em recursos ao STF, recuperou os direitos políticos.", f:U.jrPrisao}),
+   E("2018","eleicao","Tenta a reeleição para a Câmara, não eleito"),
+   M("Prefeito de Chapecó",2021,2026,2,{det:"Eleito em 2020 e reeleito em 2024; deixou o cargo em março de 2026 para concorrer ao governo.",
+    met:[{k:"Votação na reeleição de 2024", v:"83% dos votos válidos", f:U.jr83, p:"imp"},{k:"Obras em andamento no fim de 2024", v:"R$ 1,1 bilhão, segundo o prefeito", f:U.jr83, p:"gov"}]})
+  ],
+  dest:[{v:"4", k:"Mandatos como prefeito de Chapecó", p:"imp"},{v:"83%", k:"Votos válidos na reeleição de 2024", p:"imp"},{v:"9", k:"Mandatos eletivos exercidos", p:"imp"}]},
+
+ "SC-governador-40":{esc:"Sem dado neste snapshot (ocupação declarada: administrador)",
+  ev:[
+   M("Deputado estadual em Santa Catarina",2007,2019,3,{det:"Eleito pelo PFL em 2006, pelo DEM em 2010 e pelo PSD em 2014. Presidiu a Alesc.", f:F.jrMerisio, semMet:"leg"}),
+   E("2018","eleicao","Candidato a governador: 1º lugar no 1º turno, derrotado no 2º por Carlos Moisés"),
+   E("2026","carreira","Candidato pelo PSB, quinto partido da carreira (PFL, DEM, PSD, Solidariedade e PSB)",{f:F.jrMerisio})
+  ],
+  dest:[{v:"3", k:"Mandatos de deputado estadual", p:"imp"},{v:"5", k:"Partidos ao longo da carreira", p:"imp"}]},
+
+ "SC-governador-14":{esc:"Ensino superior completo", escF:F.jrBrig, ev:[E("—","carreira","Lutador de MMA e empresário"),E("2018","eleicao","Candidato a 1º suplente de senador pelo PSL, não eleito",{f:F.jrBrig}),E("2026","eleicao","Primeira candidatura a governador")]},
+ "SC-governador-25":{esc:"Superior completo: Direito (advogado)", ev:[E("—","carreira","Advogado e defensor público"),E("2022","eleicao","Candidato a governador pelo PROS: 3.828 votos",{f:F.gazetaGov}),E("2026","eleicao","Segunda candidatura a governador")]},
+ "SC-governador-29":{esc:"Sem dado neste snapshot", ev:[E("—","carreira","Trabalhador da construção civil"),E("2024","eleicao","Candidato a prefeito de Florianópolis: 95 votos",{f:F.gazetaGov}),E("2026","eleicao","Candidato a governador")]},
+ "SC-governador-16":{esc:"Sem dado neste snapshot (professor)", ev:[E("—","carreira","Professor"),E("—","eleicao","Candidato a prefeito de Itajaí e a deputado estadual, não eleito"),E("2026","eleicao","Primeira candidatura a governador")]},
+ "SC-governador-80":{esc:"Superior completo: Psicologia", ev:[E("—","carreira","Psicóloga e coordenadora do Movimento de Luta nos Bairros, Vilas e Favelas (MLB)"),E("2026","eleicao","Primeira candidatura a governador")]},
+
+ /* ---------- Senado SC ---------- */
+ "SC-senado-111":{esc:"Profissões declaradas: administrador, advogado e professor", escF:F.scc10,
+  ev:[
+   E("1975","carreira","Nomeado prefeito de Florianópolis pelo governo militar",{f:U.amin}),
+   M("Governador de Santa Catarina",1983,1987,1,{det:"Eleito em 1982, na primeira eleição direta para governador desde os anos 1960.", semMet:"exe"}),
+   M("Prefeito de Florianópolis",1989,1990,1,{det:"Eleito em 1988.", semMet:"exe"}),
+   M("Senador por Santa Catarina",1991,1998,1,{semMet:"leg"}),
+   M("Governador de Santa Catarina",1999,2002,1,{det:"Eleito em 1998.", semMet:"exe"}),
+   M("Deputado federal por Santa Catarina",null,null,3,{ano:"—", det:"Três mandatos ao longo da carreira.", f:U.amin, semMet:"leg"}),
+   M("Senador por Santa Catarina",2019,null,1,{det:"Eleito em 2018. Em 2025 foi relator do PL da Dosimetria na CCJ do Senado.", f:U.amin, semMet:"leg"}),
+   E("2022","eleicao","Candidato a governador: 5º lugar")
+  ],
+  dest:[{v:"8", k:"Mandatos eletivos exercidos", p:"imp"},{v:"2", k:"Vezes eleito governador de SC", p:"imp"}]},
+
+ "SC-senado-133":{esc:"Profissões declaradas: advogado e professor", escF:F.scc10,
+  ev:[
+   M("Vereador de Blumenau",1993,1996,1,{semMet:"leg"}),
+   M("Prefeito de Blumenau",1997,2004,2,{semMet:"exe"}),
+   M("Deputado federal por Santa Catarina",2007,2019,3,{semMet:"leg"}),
+   E("2018","eleicao","Candidato a governador: não chegou ao 2º turno"),
+   E("2022","eleicao","Candidato a governador: 29,3% no 2º turno, derrotado por Jorginho Mello",{f:U.tre22}),
+   E("2023","carreira","Assume a presidência do Sebrae Nacional")
+  ],
+  dest:[{v:"6", k:"Mandatos eletivos exercidos", p:"imp"},{v:"8 anos", k:"Como prefeito de Blumenau", p:"imp"}]},
+
+ "SC-senado-155":{esc:"Sem dado neste snapshot (empresário)",
+  ev:[E("—","carreira","Empresário do Vale do Itapocu"),M("Prefeito de Jaraguá do Sul",2017,2022,2,{det:"Eleito em 2016 e reeleito em 2020.", f:F.scc10, semMet:"exe"}),M("Deputado estadual em Santa Catarina",2023,null,1,{f:F.scc10, semMet:"leg"})],
+  dest:[{v:"R$ 613 mi", k:"Maior patrimônio declarado na disputa", p:"of"},{v:"3", k:"Mandatos eletivos exercidos", p:"imp"}]},
+
+ "SC-senado-221":{esc:"Superior completo: Direito (Unochapecó), com mestrado em Direito Público", escF:U.carolP360,
+  ev:[
+   E("—","formacao","Graduação em Direito (Unochapecó) e mestrado em Direito Público",{f:U.carolP360}),
+   M("Deputada federal por Santa Catarina",2019,null,2,{det:"Eleita em 2018 e reeleita em 2022. Presidiu a Comissão de Constituição e Justiça em 2024 e foi líder da minoria em 2025.", f:U.carolMin,
+    met:[
+     {k:"Votos em 2018", v:"109.363, maior votação feminina de SC", f:U.carolP360, p:"of"},
+     {k:"Votos em 2022", v:"227.632, a mais votada de SC", f:U.carolP360, p:"of"},
+     {k:"Alinhamento com o governo", v:"votou com a orientação do governo em 28% das votações (fev/2023 a mar/2024); média da Câmara: 80%", f:U.carolRadar, p:"imp"}], semMet:"leg"})
+  ],
+  dest:[{v:"227 mil", k:"Votos em 2022, a mais votada de SC", p:"of"},{v:"28%", k:"Votos alinhados ao governo, 2023–2024", p:"imp"}]},
+
+ "SC-senado-222":{esc:"Sem dado neste snapshot",
+  ev:[M("Vereador do Rio de Janeiro",2001,2025,7,{det:"Eleito pela primeira vez em 2000, aos 17 anos.", f:F.scc10, semMet:"leg"}),E("2025","carreira","Transfere o domicílio eleitoral para São José (SC)")],
+  dest:[{v:"7", k:"Mandatos de vereador no Rio", p:"imp"},{v:"24 anos", k:"Na Câmara Municipal do Rio", p:"imp"}]},
+
+ "SC-senado-500":{esc:"Profissões declaradas: economista e professor", escF:F.scc10,
+  ev:[M("Vice-prefeito de Florianópolis",1993,1996,1,{det:"Também foi secretário municipal de Finanças.", semMet:"exe"}),M("Deputado estadual em Santa Catarina",2003,2007,1,{semMet:"leg"}),M("Vereador de Florianópolis",2013,null,4,{semMet:"leg"}),E("2022","eleicao","Candidato a governador, não eleito")],
+  dest:[{v:"6", k:"Mandatos eletivos exercidos", p:"imp"}]},
+
+ "SC-senado-144":{esc:"Sem dado neste snapshot (empresário)", ev:[E("—","carreira","Empresário em Blumenau"),E("2026","eleicao","Primeira eleição que disputa, pelo Missão")]},
+ "SC-senado-160":{esc:"Sem dado neste snapshot (professora aposentada)", ev:[E("—","carreira","Professora aposentada, natural de São Joaquim")]},
+ "SC-senado-161":{esc:"Técnico em refrigeração", ev:[E("—","carreira","Servidor público e técnico em refrigeração")]},
+ "SC-senado-250":{esc:"Superior completo: Direito (advogado)", ev:[E("—","carreira","Advogado em Lages")]},
+ "SC-senado-290":{esc:"Sem dado neste snapshot (professora)", ev:[E("—","carreira","Professora em Blumenau")]},
+ "SC-senado-800":{esc:"Profissões declaradas: professora e pedagoga", ev:[E("—","carreira","Professora e pedagoga, natural de Quaraí (RS)")]},
+ "SC-senado-808":{esc:"Profissões declaradas: dentista e historiadora", ev:[E("—","carreira","Dentista e historiadora, natural de Laguna"),E("2026","eleicao","Aos 91 anos, a candidata mais velha ao Senado em SC")]}
+};
+
+const PROV = {of:["Fonte oficial","Dado de órgão oficial, estatístico ou da Justiça Eleitoral"], gov:["Governo do candidato","Divulgado pelo governo que o próprio candidato comandava"], imp:["Imprensa","Apurado ou publicado por veículo de imprensa"], crit:["Crítico","Divulgado por entidade que faz oposição ao candidato"], camp:["Campanha","Afirmado no material de campanha, sem verificação independente"]};
+const TIPO = {mandato:"Mandato", eleicao:"Eleição", carreira:"Carreira", formacao:"Formação", justica:"Justiça"};
+
+/* ============================================================
+   RIO GRANDE DO SUL (snapshot 26/09/2026)
+   ============================================================ */
+const TSE_RS = "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SUL/RS/20322002026";
+Object.assign(F, {
+  numsRS:{t:"Hora Brasil: números de governador e senador no RS", u:"https://www.horabrasil.com.br/2026/09/20/eleicoes-2026-veja-os-numeros-dos-candidatos-a-governador-e-senador-no-rio-grande-do-sul"},
+  infoGovRS:{t:"InfoMoney: biografias dos candidatos a governador do RS", u:"https://www.infomoney.com.br/politica/candidatos-governador-rs-2026/"},
+  abcRS:{t:"abc+: análise dos planos de Zucco, Brizola, Souza e Maranata", u:"https://www.abcmais.com/politica/confira-as-propostas-de-zucco-juliana-brizola-gabriel-souza-e-maranata-para-o-rs/"},
+  exameRS:{t:"Exame: propostas climáticas dos candidatos ao governo do RS", u:"https://exame.com/brasil/rs-volta-a-ficar-sob-alerta-climatico-veja-as-propostas-de-zucco-brizola-e-souza/"},
+  eduRS:{t:"Brasil em Folhas: planos de educação dos candidatos ao governo do RS", u:"https://www.brasilemfolhas.com.br/2026/09/candidatos-ao-governo-do-rs-apresentam-planos-de-educacao-ao-tse/"},
+  wikiRS:{t:"Wikipédia: eleição de 2026 no Rio Grande do Sul", u:"https://en.wikipedia.org/wiki/2026_Rio_Grande_do_Sul_general_election"},
+  agSenRS:{t:"Agência Senado: candidatos 2026 no Rio Grande do Sul (cargos, bens e suplentes)", u:"https://www12.senado.leg.br/noticias/candidatos-2026/rio-grande-do-sul"}
+});
+const pdfRS = (arq, nome) => ({t:"Plano de governo registrado no TSE, de " + nome, u:"https://midia.gruposinos.com.br/_midias/pdf/2026/09/14/" + arq});
+const ST_VER = ["ver","Confira a situação no TSE"];
+
+const GOV_RS = [
+  {n:"12", nome:"Juliana Brizola", partido:"PDT", vice:"Edegar Pretto (PT)", idade:"50 anos", status:ST_VER,
+   traj:["Deputada estadual por três mandatos (2011–2023)","Vereadora de Porto Alegre e secretária municipal da Juventude","Neta de Leonel Brizola; primeira candidatura ao governo"],
+   coligacao:"Com o Povo (PDT, PT, PCdoB, PV, PSOL, Rede, PSB, Avante)", bens:null,
+   temas:{
+    seguranca:["Inteligência policial contra o crime organizado, com programas preventivos nas periferias.","Criar o sistema RS Mulher Segura contra a violência de gênero."],
+    saude:["Aplicar integralmente os 12% da receita no SUS.","Forças-tarefa para zerar as filas de cirurgias eletivas e exames."],
+    educacao:["Escolas de tempo integral inspiradas nos CIEPs, implantadas de forma gradual.","Cumprir o piso do magistério e fortalecer a Uergs e os institutos técnicos estaduais."],
+    gestao:["Manter Banrisul, Badesul e BRDE sob controle público, sem novas privatizações.","Crédito orientado CrediGaúcho para microempresas e autônomos; articular o perdão da dívida com a União."],
+    infra:["Sistema de alerta precoce nas bacias críticas e Defesa Civil com meteorologistas, geólogos e engenheiros.","Apoiar os 497 municípios nos planos de contingência e evacuação."]},
+   fontes:[F.infoGovRS, F.abcRS, F.exameRS, pdfRS("planodegovernobrizolapretto-22892936.pdf","Juliana Brizola"), F.numsRS]},
+
+  {n:"15", nome:"Gabriel Souza", partido:"MDB", vice:"Ernani Polo (PSD)", idade:"42 anos", status:ST_VER,
+   traj:["Vice-governador do Rio Grande do Sul desde 2023","Deputado estadual por dois mandatos; presidiu a Assembleia","Candidato do grupo de Eduardo Leite"],
+   coligacao:"Nosso Rio Grande Não Para (MDB, PSD, Agir, PRD/Solidariedade)", bens:null,
+   temas:{
+    seguranca:["Manter o modelo RS Seguro, integrando polícias e tecnologia.","Combate a crimes rurais e ao feminicídio."],
+    saude:["Descentralizar o atendimento especializado pelo programa SUS Gaúcho/Assistir.","Programas Saúde 60+ para idosos e TEAcolhe para pessoas com autismo."],
+    educacao:["Programa Profissão na Mão: R$ 600 milhões por ano para 80 mil vagas de ensino técnico até 2030.","Ampliar o tempo integral no ensino médio e o Alfabetiza Tchê."],
+    gestao:["Aderir ao Propag para renegociar a dívida com a União.","Manter a alíquota modal de ICMS em 17% e ampliar o Devolve ICMS e o IPVA Verde."],
+    infra:["Regulamentar o Plano de Ação Climática e modernizar os alertas da Defesa Civil.","Obras contra eventos extremos com fundo específico (FIRECE), irrigação e logística multimodal."]},
+   fontes:[F.infoGovRS, F.abcRS, F.eduRS, pdfRS("plano_de_governo_gabriel_e_ernani-22892935.pdf","Gabriel Souza"), F.numsRS]},
+
+  {n:"16", nome:"Rejane de Oliveira", partido:"PSTU", vice:"Adão Lima (PSTU)", idade:"65 anos", status:ST_VER,
+   traj:["Professora aposentada da rede estadual; presidiu o Cpers-Sindicato por duas gestões","Candidata a governadora em 2022: 6.252 votos"],
+   coligacao:"Sem coligação", bens:null,
+   temas:{educacao:["Contra a militarização das escolas e as parcerias público-privadas na educação."]},
+   notaPlano:"Resumo por tema ainda incompleto neste snapshot.",
+   fontes:[F.infoGovRS, F.eduRS, F.numsRS]},
+
+  {n:"22", nome:"Zucco", partido:"PL", vice:"Silvana Covatti (PP)", idade:"52 anos", status:ST_VER,
+   traj:["Deputado federal desde 2023; foi o mais votado do RS","Tenente-coronel da reserva do Exército","Primeira disputa por cargo executivo"],
+   coligacao:"O Rio Grande Pode Mais (PL, PP, União, Republicanos, Novo, Podemos, DC, Democrata)", bens:null,
+   temas:{
+    seguranca:["Tolerância zero ao crime organizado, com asfixia financeira das facções e bloqueio de comunicação nos presídios.","Apoio policial imediato às ordens de reintegração de posse no campo."],
+    saude:["Apoiar consórcios intermunicipais e rever critérios do programa Assistir a favor de hospitais do interior.","Modernizar a gestão do IPE Saúde."],
+    educacao:["Alfabetização e fluência leitora até o fim do 2º ano.","Ampliar as escolas cívico-militares e os Colégios Tiradentes da Brigada Militar."],
+    gestao:["Compromisso de não aumentar impostos nem criar taxas.","Cortar secretarias e cargos comissionados; priorizar PPPs e concessões."],
+    infra:["Programa Irriga+RS e seguro rural estadual complementar ao federal.","Articular em Brasília a criação do Fundo Constitucional do Sul."]},
+   fontes:[F.infoGovRS, F.abcRS, F.eduRS, pdfRS("pje_03__plano_de_governo_zucco-22892929.pdf","Zucco"), F.numsRS]},
+
+  {n:"29", nome:"Cesar Pontes", partido:"PCO", vice:"Tiago Nilo (PCO)", idade:"69 anos", status:ST_VER,
+   traj:["Professor de História aposentado","Candidato a prefeito de Porto Alegre em 2024: 204 votos"],
+   coligacao:"Sem coligação", bens:null,
+   temas:{educacao:["Estatizar o ensino privado e acabar com o vestibular.","Piso nacional de R$ 8,5 mil e jornada máxima de 30 horas para professores."]},
+   notaPlano:"Resumo por tema ainda incompleto neste snapshot.",
+   fontes:[F.infoGovRS, F.eduRS, F.numsRS]},
+
+  {n:"45", nome:"Marcelo Maranata", partido:"PSDB", vice:"Claudio Diaz (PSDB)", idade:"50 anos", status:ST_VER,
+   traj:["Prefeito de Guaíba (2021–2026); renunciou para concorrer","Vice-prefeito de Guaíba eleito em 2008","Empresário e advogado"],
+   coligacao:"Federação PSDB/Cidadania", bens:null,
+   temas:{
+    seguranca:["Força estadual de inteligência cibernética.","Ações centralizadas contra o feminicídio e a violência doméstica."],
+    saude:["Regionalizar o atendimento em 7 polos estaduais para acabar com viagens longas para exames."],
+    educacao:["Meta de alfabetizar 90% das crianças até o 2º ano.","Criar 2 mil Escolas de Empreendedores e o programa Férias na Escola."],
+    gestao:["Metas quantitativas com monitoramento público trimestral por uma Unidade Central de Entrega.","Secretaria de Transparência e licenciamento ambiental por faixas de risco."],
+    infra:["Proteção contra enchentes na Região Metropolitana como prioridade número um, com uma Autoridade Técnica de Resiliência.","Secretaria Especial de Desenvolvimento da Zona Sul."]},
+   fontes:[F.infoGovRS, F.abcRS, F.eduRS, pdfRS("plano_de_governo_psdb_cidadania-22892928.pdf","Marcelo Maranata"), F.numsRS]},
+
+  {n:"80", nome:"Priscila Voigt", partido:"UP", vice:"Naf Nascimento (UP)", idade:"35 anos", status:ST_VER,
+   traj:["Nutricionista e presidente da UP no Rio Grande do Sul","Primeira candidatura ao governo"],
+   coligacao:"Sem coligação", bens:null,
+   temas:{educacao:["Contra a militarização das escolas e as parcerias público-privadas na educação."]},
+   notaPlano:"Resumo por tema ainda incompleto neste snapshot.",
+   fontes:[F.infoGovRS, F.eduRS, F.numsRS]}
+];
+
+const SEN_RS = [
+  {n:"131", nome:"Pimenta", partido:"PT", idade:"61 anos", coligacao:"Com o Povo", bens:"R$ 1,87 milhão", supl:"Vieira da Cunha (PDT) e Tamyres Filgueira (PT)",
+   traj:["Deputado federal desde 2003","Ministro-chefe da Secretaria de Comunicação Social (2023–2025)","Foi vereador e vice-prefeito de Santa Maria"]},
+  {n:"151", nome:"Rigotto", partido:"MDB", idade:"77 anos", coligacao:"Nosso Rio Grande Não Para", bens:"R$ 4,84 milhões", supl:"Cairoli e Antonio Hohlfeldt (MDB)",
+   traj:["Governador do Rio Grande do Sul (2003–2007)","Deputado federal (1991–2003) e estadual (1983–1991)","Vereador de Caxias do Sul (1977–1981)"]},
+  {n:"160", nome:"Daniela Mulheres Socialistas", partido:"PSTU", idade:"49 anos", coligacao:"Sem coligação", bens:"Nenhum bem declarado", supl:"Aitana e Marcela Azevedo (PSTU)",
+   traj:["Advogada","Sem mandato eletivo anterior"]},
+  {n:"161", nome:"Regis Ethur", partido:"PSTU", idade:"60 anos", coligacao:"Sem coligação", bens:"R$ 306,6 mil", supl:"Denior Machado e Adelar Cansi (PSTU)",
+   traj:["Professor","Sem mandato eletivo anterior"]},
+  {n:"222", nome:"Sanderson", partido:"PL", idade:"56 anos", coligacao:"O Rio Grande Pode Mais", bens:"R$ 145 mil", supl:"Ireneu Orth (PP) e Ernâni Mello (PL)",
+   traj:["Deputado federal desde 2019","Policial federal"]},
+  {n:"234", nome:"Renato Jaguarão", partido:"Cidadania", idade:"57 anos", coligacao:"Federação PSDB/Cidadania", bens:"Nenhum bem declarado", supl:"Paulo Coitinho e Cleiton Niesciur (Cidadania)",
+   traj:["Músico e servidor público","Sem mandato eletivo anterior"]},
+  {n:"290", nome:"Ric Jones", partido:"PCO", idade:"66 anos", coligacao:"Sem coligação", bens:"R$ 651,6 mil", supl:"Domingos Alessandretti e Abrão Rafael Spritzer (PCO)",
+   traj:["Médico","Sem mandato eletivo anterior"]},
+  {n:"300", nome:"Marcel Van Hattem", partido:"Novo", idade:"40 anos", coligacao:"O Rio Grande Pode Mais", bens:"R$ 1,32 milhão", supl:"Sérgio Turra (PP) e Ricardo Jobim (Novo)",
+   traj:["Deputado federal desde 2019","Deputado estadual (2015–2018)","Vereador de Dois Irmãos (2005–2009)"]},
+  {n:"455", nome:"Milton Cardoso", partido:"PSDB", idade:"69 anos", coligacao:"Federação PSDB/Cidadania", bens:"R$ 36,2 mil", supl:"João Martins e Dulce Maria (PSDB)",
+   traj:["Jornalista","Sem mandato eletivo anterior"]},
+  {n:"500", nome:"Manuela D'Ávila", partido:"PSOL", idade:"45 anos", coligacao:"Com o Povo", bens:"R$ 1,38 milhão", supl:"Henrique Fontana e Lucas Caregnato (PT)",
+   traj:["Ex-deputada federal (2007–2015) e estadual (2015–2019)","Vereadora de Porto Alegre (2005–2007)","Jornalista e escritora"]},
+  {n:"555", nome:"Frederico Antunes", partido:"PSD", idade:"57 anos", coligacao:"Nosso Rio Grande Não Para", bens:"R$ 1,77 milhão", supl:"Paula Ioris e Anna Beatriz (PSD)",
+   traj:["Deputado estadual desde 1999","Presidiu a Assembleia Legislativa","Foi secretário estadual de Logística e Transportes"]},
+  {n:"800", nome:"Luciano do MLB", partido:"UP", idade:"46 anos", coligacao:"Sem coligação", bens:"R$ 3,3 mil", supl:"Enio Alves e Nanda do JAV (UP)",
+   traj:["Auxiliar de escritório","Sem mandato eletivo anterior"]},
+  {n:"808", nome:"Tania Peres", partido:"UP", idade:"61 anos", coligacao:"Sem coligação", bens:"R$ 129,9 mil", supl:"Claudiane Lopes e Débora Bernardes (UP)",
+   traj:["Técnica de laboratório","Sem mandato eletivo anterior"]}
+].map(c => Object.assign(c, {status:ST_VER, fontes:[F.agSenRS, F.numsRS]}));
+
+Object.assign(HIST, {
+ "RS-governador-12":{esc:"Superior completo: Direito", escF:F.infoGovRS,
+  ev:[E("—","carreira","Secretária municipal da Juventude de Porto Alegre",{f:F.infoGovRS}),
+   M("Vereadora de Porto Alegre",2009,2011,1,{det:"Eleita em 2008; deixou a Câmara ao ser eleita para a Assembleia.", semMet:"leg"}),
+   M("Deputada estadual no RS",2011,2023,3,{det:"Três mandatos consecutivos.", semMet:"leg"}),
+   E("2016","eleicao","Candidata a vice-prefeita de Porto Alegre na chapa de Sebastião Melo: derrotada no 2º turno"),
+   E("2020","eleicao","Candidata a prefeita de Porto Alegre, não eleita",{f:F.wikiRS}),
+   E("2024","eleicao","Candidata a prefeita de Porto Alegre: 3º lugar, com 19,7% dos votos válidos",{f:F.infoGovRS})],
+  dest:[{v:"3", k:"Mandatos de deputada estadual", p:"imp"},{v:"19,7%", k:"Votos válidos para prefeita de Porto Alegre em 2024", p:"imp"}]},
+ "RS-governador-15":{esc:"Pós-graduação: Medicina Veterinária (Ulbra), mestrado em Direito Empresarial e especialização em Gestão Pública", escF:F.infoGovRS,
+  ev:[E("2013","carreira","Secretário de Planejamento de Tramandaí",{f:F.infoGovRS}),
+   M("Deputado estadual no RS",2015,2022,2,{det:"Eleito em 2014 e 2018. Presidiu a Assembleia e foi líder do governo Sartori.", semMet:"leg"}),
+   M("Vice-governador do RS",2023,null,1,{det:"Eleito na chapa de Eduardo Leite em 2022. Teve papel de destaque na execução do Plano Rio Grande após as enchentes de 2024.", f:F.infoGovRS, semMet:"exe"})],
+  dest:[{v:"2", k:"Mandatos de deputado estadual", p:"imp"},{v:"Desde 2023", k:"Vice-governador na gestão Leite", p:"imp"}]},
+ "RS-governador-22":{esc:"Superior completo: Academia Militar das Agulhas Negras (Aman)", escF:F.infoGovRS,
+  ev:[E("—","carreira","27 anos no Exército; tenente-coronel da reserva, com passagens pela Secretaria Nacional de Segurança Pública e pelo GSI",{f:F.infoGovRS}),
+   M("Deputado estadual no RS",2019,2023,1,{met:[{k:"Votos em 2018", v:"166.747, o mais votado para a Assembleia", f:F.infoGovRS, p:"of"}], semMet:"leg"}),
+   M("Deputado federal pelo RS",2023,null,1,{det:"Presidiu a CPI do MST e assumiu funções de liderança na oposição ao governo Lula. Eleito pelo Republicanos, migrou para o PL.", met:[{k:"Votos em 2022", v:"259.023, o mais votado do RS para a Câmara", f:F.infoGovRS, p:"of"}], semMet:"leg"})],
+  dest:[{v:"259 mil", k:"Votos em 2022, o mais votado do RS", p:"of"},{v:"27 anos", k:"De carreira militar", p:"imp"}]},
+ "RS-governador-45":{esc:"Superior completo: Direito", escF:F.infoGovRS,
+  ev:[E("—","carreira","Empresário"),
+   M("Vice-prefeito de Guaíba",2009,2012,1,{det:"Eleito em 2008 pelo PDT."}),
+   E("2012 e 2016","eleicao","Candidato a prefeito de Guaíba, não eleito"),
+   M("Prefeito de Guaíba",2021,2026,2,{det:"Eleito em 2020 por pouco mais de 200 votos e reeleito em 2024. Renunciou em 2026 para concorrer ao governo.", met:[{k:"Votação na reeleição de 2024", v:"cerca de 78% dos votos", f:F.infoGovRS, p:"imp"}], semMet:"exe"}),
+   E("2025","carreira","Deixa o PDT e entra no PSDB")],
+  dest:[{v:"~78%", k:"Votos na reeleição em Guaíba, 2024", p:"imp"},{v:"3", k:"Mandatos eletivos exercidos", p:"imp"}]},
+ "RS-governador-16":{esc:"Sem dado neste snapshot (professora aposentada)", ev:[E("—","carreira","Professora da rede estadual; dirigiu o Sinpro-RS e presidiu o Cpers-Sindicato por duas gestões",{f:F.infoGovRS}),E("—","carreira","Integra a direção da CSP-Conlutas; saiu do PT antes de ingressar no PSTU"),E("2022","eleicao","Candidata a governadora: 6.252 votos")]},
+ "RS-governador-29":{esc:"Superior completo (professor de História)", escF:F.infoGovRS, ev:[E("—","carreira","Professor de História aposentado"),E("2024","eleicao","Candidato a prefeito de Porto Alegre: 204 votos",{f:F.infoGovRS})]},
+ "RS-governador-80":{esc:"Superior completo: Nutrição", escF:F.infoGovRS, ev:[E("—","carreira","Militante do MLB e de mobilizações por moradia em Porto Alegre, como a Ocupação Lanceiros Negros",{f:F.infoGovRS}),E("—","carreira","Presidente da UP no RS e integrante da direção nacional")]},
+
+ "RS-senado-151":{esc:"Profissões declaradas: dentista, advogado e empresário", escF:F.agSenRS,
+  ev:[M("Vereador de Caxias do Sul",1977,1981,1,{semMet:"leg"}),M("Deputado estadual no RS",1983,1991,2,{semMet:"leg"}),M("Deputado federal pelo RS",1991,2003,3,{semMet:"leg"}),M("Governador do RS",2003,2007,1,{f:F.agSenRS, semMet:"exe"})],
+  dest:[{v:"7", k:"Mandatos eletivos exercidos", p:"of"},{v:"2003–2007", k:"Governador do Rio Grande do Sul", p:"of"}]},
+ "RS-senado-131":{esc:"Profissão declarada: jornalista", escF:F.agSenRS,
+  ev:[M("Vereador de Santa Maria",1989,1997,2,{semMet:"leg"}),M("Deputado estadual no RS",1999,2000,1,{semMet:"leg"}),M("Vice-prefeito de Santa Maria",2001,2003,1),M("Deputado federal pelo RS",2003,null,6,{f:F.agSenRS, semMet:"leg"}),E("2023–2025","carreira","Ministro-chefe da Secretaria de Comunicação Social da Presidência",{f:F.agSenRS})],
+  dest:[{v:"6", k:"Mandatos de deputado federal", p:"of"},{v:"10", k:"Mandatos eletivos exercidos", p:"of"}]},
+ "RS-senado-500":{esc:"Pós-graduação: Jornalismo (PUCRS) e mestrado em Políticas Públicas; doutoranda na UFRGS", escF:{t:"Fundação Heinrich Böll: perfil de Manuela D'Ávila", u:"https://www.boell.de/de/node/73101"},
+  ev:[M("Vereadora de Porto Alegre",2005,2007,1,{semMet:"leg"}),M("Deputada federal pelo RS",2007,2015,2,{semMet:"leg"}),M("Deputada estadual no RS",2015,2019,1,{f:F.agSenRS, semMet:"leg"}),E("2018","eleicao","Candidata a vice-presidente na chapa de Fernando Haddad, derrotada no 2º turno"),E("2020","eleicao","Candidata a prefeita de Porto Alegre, derrotada no 2º turno")],
+  dest:[{v:"4", k:"Mandatos eletivos exercidos", p:"of"}]},
+ "RS-senado-300":{esc:"Pós-graduação: Relações Internacionais (UFRGS) e mestrado em Ciência Política (Universidade de Leiden)", escF:{t:"Site do candidato: biografia de Marcel van Hattem", u:"https://marcelvanhattem.com.br/press-kit"},
+  ev:[M("Vereador de Dois Irmãos",2005,2009,1,{semMet:"leg"}),M("Deputado estadual no RS",2015,2018,1,{semMet:"leg"}),M("Deputado federal pelo RS",2019,null,2,{f:F.agSenRS, semMet:"leg"})],
+  dest:[{v:"4", k:"Mandatos eletivos exercidos", p:"of"}]},
+ "RS-senado-222":{esc:"Profissão declarada: policial federal (cargo que exige curso superior)", escF:F.agSenRS,
+  ev:[E("—","carreira","Policial federal"),M("Deputado federal pelo RS",2019,null,2,{f:F.agSenRS, semMet:"leg"})],
+  dest:[{v:"2", k:"Mandatos de deputado federal", p:"of"}]},
+ "RS-senado-555":{esc:"Superior completo: Engenharia Agronômica", escF:F.agSenRS,
+  ev:[M("Deputado estadual no RS",1999,null,7,{det:"Mandatos seguidos desde 1999. Presidiu a Assembleia Legislativa.", f:F.agSenRS, semMet:"leg"}),E("—","carreira","Secretário estadual de Logística e Transportes",{f:F.agSenRS})],
+  dest:[{v:"7", k:"Mandatos seguidos de deputado estadual", p:"of"}]},
+ "RS-senado-160":{esc:"Profissão declarada: advogada", escF:F.agSenRS, ev:[E("—","carreira","Advogada, natural de Porto Alegre")]},
+ "RS-senado-161":{esc:"Profissão declarada: professor", escF:F.agSenRS, ev:[E("—","carreira","Professor")]},
+ "RS-senado-234":{esc:"Profissões declaradas: músico e servidor público", escF:F.agSenRS, ev:[E("—","carreira","Músico e servidor público, natural de Jaguarão")]},
+ "RS-senado-290":{esc:"Profissão declarada: médico", escF:F.agSenRS, ev:[E("—","carreira","Médico")]},
+ "RS-senado-455":{esc:"Profissão declarada: jornalista", escF:F.agSenRS, ev:[E("—","carreira","Jornalista, natural de São Leopoldo")]},
+ "RS-senado-800":{esc:"Profissão declarada: auxiliar de escritório", escF:F.agSenRS, ev:[E("—","carreira","Auxiliar de escritório e militante do MLB")]},
+ "RS-senado-808":{esc:"Profissão declarada: técnica de laboratório", escF:F.agSenRS, ev:[E("—","carreira","Técnica de laboratório, natural do Rio de Janeiro")]}
+});
+
+const STATES = {
+  SC:{nome:"Santa Catarina", gov:GOV_SC, sen:SEN_SC, fed:16, est:40, casa:"Alesc", tse:TSE_SC, nota:"Na lista consolidada do TRE-SC"},
+  RS:{nome:"Rio Grande do Sul", gov:GOV_RS, sen:SEN_RS, fed:31, est:55, casa:"Assembleia Legislativa (ALRS)", tse:TSE_RS}
+};
+
+STATES.SC.de = "de Santa Catarina"; STATES.RS.de = "do Rio Grande do Sul";
+const UFD = () => STATES[S.uf];
+function cid(role, c){ return role==="presidente" ? "presidente-"+c.n : (S.uf||"SC")+"-"+role+"-"+c.n; }
+/* ============================================================
+   ESTADO
+   ============================================================ */
+const STEPS = [
+  {id:"inicio", label:"Início"},
+  {id:"presidente", label:"Presidente", key:"presidente", len:2},
+  {id:"estado", label:"Estado"},
+  {id:"governador", label:"Governador", key:"governador", len:2},
+  {id:"senado", label:"Senado (2 votos)", keys:["senado1","senado2"], len:3},
+  {id:"depfed", label:"Dep. federal", key:"depfed", len:4},
+  {id:"depest", label:"Dep. estadual", key:"depest", len:5},
+  {id:"colinha", label:"Colinha"}
+];
+const KEY = "colinha2026-sc-v1";
+let S = {step:"inicio", uf:"", sel:{presidente:"",governador:"",senado1:"",senado2:"",depfed:"",depest:""}, open:null, tab:"resumo", view:"lista", tema:"saude", temaGov:"seguranca", msg:""};
+try{ const saved = JSON.parse(localStorage.getItem(KEY) || "null"); if(saved && saved.sel){ S.sel = Object.assign(S.sel, saved.sel); S.uf = saved.uf || ""; } }catch(e){}
+function save(){ try{ localStorage.setItem(KEY, JSON.stringify({sel:S.sel, uf:S.uf})); }catch(e){} }
+
+const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch]));
+
+/* ============================================================
+   EXTENSÕES (plugins opcionais). O núcleo funciona sem nenhuma.
+   ============================================================ */
+const PLUGINS = [];
+function hook(name, ...a){ return PLUGINS.map(p => typeof p[name]==="function" ? (p[name](...a) || "") : "").join(""); }
+function hookTabs(c, role){ return PLUGINS.flatMap(p => typeof p.tabs==="function" ? (p.tabs(c, role) || []) : []); }
+function hookSort(list, role){ return PLUGINS.reduce((l,p) => typeof p.sort==="function" ? p.sort(l, role) : l, list); }
+
+/* ============================================================
+   COMPONENTES
+   ============================================================ */
+function digitos(v, len, cls){
+  if(v === "BRANCO") return `<span class="bnc">BRANCO</span>`;
+  let h = `<span class="num ${cls||""}" aria-label="${v ? "número " + esc(v.split("").join(" ")) : "vazio"}">`;
+  for(let i=0;i<len;i++){ const d = v && v[i] ? v[i] : ""; h += `<span class="d ${d? "":"v"}">${esc(d)}</span>`; }
+  return h + `</span>`;
+}
+function miniSlots(v, len){
+  if(v === "BRANCO") return `<span class="slots"><span class="blank">BRANCO</span></span>`;
+  let h = `<span class="slots" aria-hidden="true">`;
+  for(let i=0;i<len;i++){ const d = v && v[i] ? v[i] : ""; h += `<span class="d ${d?"f":""}">${esc(d)}</span>`; }
+  return h + `</span>`;
+}
+function renderFita(){
+  const el = document.getElementById("fita");
+  el.innerHTML = STEPS.map(st => {
+    let slots = "";
+    if(st.key) slots = miniSlots(S.sel[st.key], st.len);
+    if(st.keys) slots = `<span style="display:flex;gap:6px">${st.keys.map(k=>miniSlots(S.sel[k], st.len)).join("")}</span>`;
+    if(st.id==="estado") slots = `<span class="slots"><span class="d ${S.uf?"f":""}">${S.uf?S.uf[0]:""}</span><span class="d ${S.uf?"f":""}">${S.uf?S.uf[1]:""}</span></span>`;
+    return `<li><button class="step" data-act="go" data-step="${st.id}" ${S.step===st.id?'aria-current="step"':""}><span class="lbl">${st.label}</span>${slots}</button></li>`;
+  }).join("");
+  const cur = el.querySelector('[aria-current="step"]');
+  if(cur && cur.scrollIntoView) cur.scrollIntoView({block:"nearest", inline:"nearest"});
+}
+function guia(id, titulo){
+  const g = GUIAS[id];
+  return `<details class="guia" ${S.guiaFechada && S.guiaFechada[id] ? "" : "open"} data-guia="${id}">
+    <summary>${titulo}<span class="tg"></span></summary>
+    <div class="guia-body">
+      <div><h4>O que este cargo faz</h4><ul>${g.faz.map(x=>`<li>${x}</li>`).join("")}</ul></div>
+      <div><h4>O que ele não faz</h4><ul>${g.naofaz.map(x=>`<li>${x}</li>`).join("")}</ul></div>
+      <div class="full"><h4>O que observar antes de escolher</h4><ul>${g.observar.map(x=>`<li>${x}</li>`).join("")}</ul></div>
+    </div>
+  </details>`;
+}
+function statusTag(st){ return `<span class="tag ${st[0]==="ok"?"ok":"ver"}">${st[1]}</span>`; }
+
+function H(c, role){ return HIST[cid(role, c)] || {esc:"Sem dado neste snapshot", ev:[]}; }
+function provTag(p){ if(!p||!PROV[p]) return ""; return `<span class="prov prov-${p}" title="${esc(PROV[p][1])}">${esc(PROV[p][0])}</span>`; }
+function stats(h){
+  const ms = h.ev.filter(e=>e.tipo==="mandato");
+  const total = ms.reduce((a,m)=>a+(m.n||1),0);
+  const inis = ms.map(m=>m.ini).filter(x=>x);
+  return {total, desde: inis.length? Math.min(...inis) : null, temMandato: ms.length>0};
+}
+function curtoEsc(t){
+  let x = String(t);
+  if(/^Sem dado/.test(x)) return "Sem dado";
+  if(/^Profiss/.test(x)) x = x.split(":")[1] || x; else x = x.split(/[:;(]/)[0];
+  x = x.trim(); x = x.charAt(0).toUpperCase() + x.slice(1);
+  return x.length>34 ? x.slice(0,32)+"…" : x;
+}
+function resumoTab(c, role){
+  const h = H(c, role), st = stats(h);
+  let out = `<div class="tiles">
+    <div class="tile"><div class="tv">${st.total || "0"}</div><div class="tk">${st.total===1?"mandato eletivo exercido":"mandatos eletivos exercidos"}</div></div>
+    <div class="tile"><div class="tv">${st.desde || "Estreante"}</div><div class="tk">${st.desde ? "ano em que assumiu o primeiro mandato" : "sem mandato eletivo anterior"}</div></div>
+    <div class="tile"><div class="tv tv-s">${esc(curtoEsc(h.esc))}</div><div class="tk">escolaridade ou formação</div></div>
+    <div class="tile"><div class="tv tv-s">${c.bens ? esc(c.bens) : "Sem dado"}</div><div class="tk">patrimônio declarado em 2026</div></div>
+  </div>`;
+  if(h.dest && h.dest.length){
+    out += `<h4 class="sub">Números de destaque da trajetória</h4><ul class="dest">${h.dest.map(d=>`<li><span class="dv">${esc(d.v)}</span><span class="dk">${esc(d.k)} ${provTag(d.p)}</span></li>`).join("")}</ul>`;
+  } else if(st.temMandato){
+    out += `<p class="note">Os números dos mandatos deste candidato ainda não entraram neste piloto. Veja a linha do tempo na aba Trajetória.</p>`;
+  }
+  out += `<dl class="fatos" style="margin-top:18px">`;
+  out += `<dt>Idade</dt><dd>${esc(c.idade)}</dd>`;
+  out += `<dt>Formação</dt><dd>${esc(h.esc)}</dd>`;
+  if(c.vice) out += `<dt>Vice</dt><dd>${esc(c.vice)}</dd>`;
+  if(role==="senado") out += `<dt>Suplentes</dt><dd>${c.supl ? esc(c.supl) : `Consulte no <a href="${UFD()?UFD().tse:TSE_BR}" target="_blank" rel="noopener">TSE</a> antes de votar`}</dd>`;
+  if(c.coligacao) out += `<dt>Coligação</dt><dd>${esc(c.coligacao)}</dd>`;
+  out += `<dt>Situação do registro</dt><dd>${esc(c.status[1])}</dd>`;
+  if(c.bensNota) out += `<dt>Patrimônio</dt><dd>${esc(c.bensNota)}</dd>`;
+  out += `</dl>`;
+  out += `<p class="note">Legenda de procedência: ${Object.keys(PROV).map(k=>provTag(k)).join(" ")}. Certidões criminais e processos estão nos documentos do registro no <a href="${role==="presidente"||!UFD()?TSE_BR:UFD().tse}" target="_blank" rel="noopener">DivulgaCandContas</a>.</p>`;
+  return out;
+}
+function anoLabel(e){
+  if(e.tipo==="mandato"){ if(e.ano) return e.ano; if(!e.ini) return "—"; return e.ini + "–" + (e.fim ? e.fim : "atual"); }
+  return e.ano || "—";
+}
+function trajTab(c, role){
+  const h = H(c, role);
+  let out = `<p class="note" style="margin-top:0">Formação: ${esc(h.esc)}${h.escF?` (<a href="${esc(h.escF.u)}" target="_blank" rel="noopener">fonte</a>)`:""}</p>`;
+  if(!h.ev.length) return out + `<p class="note">Sem eventos registrados neste snapshot.</p>`;
+  out += `<ol class="tl">` + h.ev.map(e => {
+    let body = `<div class="tl-t">${esc(e.titulo)}${e.n>1?` <span class="n">${e.n} mandatos</span>`:""}</div>`;
+    if(e.det) body += `<p class="tl-d">${esc(e.det)}</p>`;
+    if(e.met && e.met.length){
+      body += `<div class="tbl"><table class="met"><thead><tr><th>Indicador</th><th>Resultado</th><th>Fonte</th></tr></thead><tbody>` +
+        e.met.map(m => `<tr><td>${esc(m.k)}</td><td>${m.de ? `${esc(m.de)} <span class="seta" aria-label="para">→</span> ${esc(m.para)}` : esc(m.v)}</td><td>${m.f?`<a href="${esc(m.f.u)}" target="_blank" rel="noopener">${esc(m.f.t)}</a>`:""} ${provTag(m.p)}</td></tr>`).join("") +
+        `</tbody></table></div>`;
+    }
+    if(e.tipo==="mandato" && e.semMet){
+      body += `<p class="tl-gap">${e.semMet==="leg" ? "Presença, projetos apresentados, votações e gastos deste mandato ainda não entraram neste piloto." : "Indicadores de gestão deste mandato ainda não entraram neste piloto."}</p>`;
+    } else if(e.tipo==="mandato" && !(e.met && e.met.length)){
+      body += `<p class="tl-gap">Métricas deste mandato ainda não entraram neste piloto.</p>`;
+    }
+    if(e.f && !(e.met && e.met.length)) body += `<p class="tl-f"><a href="${esc(e.f.u)}" target="_blank" rel="noopener">${esc(e.f.t)}</a></p>`;
+    return `<li class="tl-i tl-${e.tipo}"><div class="tl-y">${esc(anoLabel(e))}</div><div class="tl-b"><span class="tl-k">${TIPO[e.tipo]}</span>${body}</div></li>`;
+  }).join("") + `</ol>`;
+  return out;
+}
+function propTab(c, role){
+  if(role==="senado"){
+    return `<p>Candidatos ao Senado não são obrigados a registrar plano no TSE. Para comparar, olhe a trajetória, como votou quem já teve mandato e o que o candidato defende nos canais oficiais e debates.</p>`;
+  }
+  const temas = role==="presidente" ? TEMAS_PRES : TEMAS_GOV;
+  let h = "";
+  if(c.plano){
+    h += `<h4 style="margin:0 0 4px">Qualidade do plano registrado</h4><table class="plano"><tbody>
+      <tr><th>Páginas</th><td>${esc(c.plano.pag)}</td></tr>
+      <tr><th>Propostas</th><td>${esc(c.plano.prop)}</td></tr>
+      <tr><th>Traz valores em reais?</th><td>${esc(c.plano.reais)}</td></tr>
+      <tr><th>Traz prazos?</th><td>${esc(c.plano.prazos)}</td></tr>
+      ${c.plano.obs?`<tr><th>Observação</th><td>${esc(c.plano.obs)}</td></tr>`:""}
+    </tbody></table>`;
+  }
+  if(c.notaPlano) h += `<div class="aviso">${esc(c.notaPlano)}</div>`;
+  const tem = Object.keys(c.temas||{}).length;
+  if(tem){
+    h += `<div class="temas">` + temas.map(([k,t]) => {
+      const it = (c.temas||{})[k];
+      const body = it && it.length ? `<ul>${it.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>` : `<p class="vazio">O plano não trata do tema, segundo os resumos consultados.</p>`;
+      return `<div class="tema"><h5>${t}</h5>${body}</div>`;
+    }).join("") + `</div>`;
+  }
+  h += `<p class="note" style="margin-top:14px">Resumos escritos a partir de análises dos planos registrados no TSE. Confira o original na aba Fontes.</p>`;
+  return h;
+}
+function fontesTab(c, role){
+  const h = H(c, role), all = [...c.fontes];
+  if(h.escF) all.push(h.escF);
+  h.ev.forEach(e => { if(e.f) all.push(e.f); (e.met||[]).forEach(m => { if(m.f) all.push(m.f); }); });
+  const seen = new Set(), uniq = all.filter(f => f && !seen.has(f.u) && seen.add(f.u));
+  return `<ul class="fontes">${uniq.map(f=>`<li><a href="${esc(f.u)}" target="_blank" rel="noopener">${esc(f.t)}</a></li>`).join("")}</ul>`;
+}
+
+function candList(list, role){
+  const isSen = role==="senado";
+  return `<ul class="lista">` + hookSort(list, role).map(c => {
+    const id = role + "-" + c.n;
+    const aberto = S.open === id;
+    let escolhido = "";
+    if(isSen){ if(S.sel.senado1===c.n) escolhido="1ª vaga"; if(S.sel.senado2===c.n) escolhido="2ª vaga"; }
+    else if(S.sel[role]===c.n) escolhido = "Seu voto";
+    let det = "";
+    if(aberto){
+      const extTabs = hookTabs(c, role);
+      const tabs = [["resumo","Resumo"],["traj","Trajetória"],["prop","Propostas"],["fontes","Fontes"], ...extTabs.map(t=>[t.key,t.label])];
+      const ext = extTabs.find(t=>t.key===S.tab);
+      det = `<div class="det" id="det-${id}">
+        <div class="tabs" role="tablist">${tabs.map(([k,t])=>`<button role="tab" aria-selected="${S.tab===k}" data-act="tab" data-tab="${k}">${t}</button>`).join("")}</div>
+        <div role="tabpanel">${ext?ext.render():S.tab==="resumo"?resumoTab(c,role):S.tab==="traj"?trajTab(c,role):S.tab==="prop"?propTab(c,role):S.tab==="fontes"?fontesTab(c,role):resumoTab(c,role)}</div>
+        <div class="acoes">${isSen
+          ? `<button class="btn confirma" data-act="pick" data-key="senado1" data-n="${c.n}">Usar ${c.n} na 1ª vaga</button><button class="btn confirma" data-act="pick" data-key="senado2" data-n="${c.n}">Usar ${c.n} na 2ª vaga</button>`
+          : `<button class="btn confirma" data-act="pick" data-key="${role}" data-n="${c.n}">Escolher ${c.n}</button>`}</div>
+        ${S.msg && S.open===id ? `<p class="msg" role="alert">${esc(S.msg)}</p>`:""}
+      </div>`;
+    }
+    return `<li class="cand ${escolhido?"escolhido":""}">
+      <button class="row" data-act="open" data-id="${id}" aria-expanded="${aberto}" aria-controls="det-${id}">
+        ${digitos(c.n, c.n.length)}
+        <span><span class="nm">${esc(c.nome)}</span> <span class="pt">${esc(c.partido)}</span>${escolhido?`<span class="tag sel">${escolhido}</span>`:""}
+          <span class="meta" style="display:block">${esc(c.traj[0])}</span></span>
+        <span class="rowend">${hook("rowBadge", c, role)}<span class="chev" aria-hidden="true">▾</span></span>
+      </button>${det}</li>`;
+  }).join("") + `</ul>`;
+}
+
+function compareView(list, temas, stateKey, role){
+  const t = S[stateKey];
+  let h = `<div class="chips" role="group" aria-label="Escolha um tema">${temas.map(([k,l])=>`<button aria-pressed="${t===k}" data-act="tema" data-k="${stateKey}" data-v="${k}">${l}</button>`).join("")}</div>`;
+  h += `<ul class="cmp">` + list.map(c => {
+    const it = (c.temas||{})[t];
+    const semResumo = !Object.keys(c.temas||{}).length;
+    const body = it && it.length ? `<ul>${it.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`
+      : `<span class="vazio">${semResumo ? "Resumo do plano ainda não incluído neste snapshot." : "O plano não trata do tema, segundo os resumos consultados."}</span>`;
+    return `<li>${digitos(c.n, c.n.length)}<div class="who">${esc(c.nome)}<span>${esc(c.partido)}</span></div><div>${body}</div></li>`;
+  }).join("") + `</ul>`;
+  return h;
+}
+function extrasMajoritario(key){
+  const v = S.sel[key];
+  return `<div class="acoes noprint">
+    <button class="btn branco" data-act="pick" data-key="${key}" data-n="BRANCO">Votar em branco</button>
+    ${v?`<button class="btn corrige" data-act="clear" data-key="${key}">Corrigir escolha</button>`:""}
+  </div>`;
+}
+function nextBtn(to, label){ return `<div class="acoes"><button class="btn ghost" data-act="go" data-step="${to}">${label}</button></div>`; }
+
+/* ============================================================
+   TELAS
+   ============================================================ */
+function vInicio(){
+  return `<section class="hero">
+    <div>
+      <h2>Monte sua colinha com dados, não com rótulos.</h2>
+      <p>Veja a trajetória de cada candidato em todos os cargos que já ocupou, com os números de cada mandato, e o que ele registrou no TSE. No fim, leve os números na ordem exata da urna.</p>
+      <div class="acoes"><button class="btn confirma" data-act="go" data-step="presidente">Começar pelo presidente</button></div>
+    </div>
+    <div class="urna" aria-hidden="true">
+      <div class="tela"><div class="c">Presidente</div>${digitos("", 2)}<div class="c" style="margin-top:8px">Você escolhe. A gente só organiza os fatos.</div></div>
+      <div class="teclas"><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span></span><span>0</span><span></span></div>
+      <div class="fim"><span style="background:#F7F7F4">BRANCO</span><span style="background:#E08A45">CORRIGE</span><span style="background:#2E9E5E;color:#fff">CONFIRMA</span></div>
+    </div>
+  </section>
+  <h3>Como o app se mantém justo</h3>
+  <ul class="principios">
+    <li><strong>Ordem pelo número de urna</strong>Nunca por pesquisa ou popularidade. Pesquisas não aparecem aqui.</li>
+    <li><strong>Mesmas perguntas para todos</strong>Cada candidato de um cargo tem os mesmos campos. Quando falta dado, está escrito que falta.</li>
+    <li><strong>Tudo com fonte</strong>Cada perfil lista os links de onde vieram as informações, incluindo o PDF oficial do plano quando disponível.</li>
+    <li><strong>Nenhuma recomendação</strong>O app não sugere candidato nem partido. Ele mostra o que observar em cada cargo.</li>
+  </ul>
+  <details class="metodo"><summary>Método e limites deste piloto</summary>
+    <p>Os dados foram coletados até 26/09/2026 em fontes públicas: TSE, TRE-SC, Agência Senado e reportagens que analisaram os planos registrados. Os resumos de propostas foram reescritos em linguagem simples e podem não cobrir tudo o que cada plano diz.</p>
+    <p>Ainda faltam neste piloto: indicadores de alguns mandatos (principalmente prefeituras antigas), dados de atuação parlamentar (presença, votações, gastos) e resumos dos planos de alguns candidatos. Esses campos aparecem marcados como “em construção” ou “sem dado”.</p>
+    <p>Cada número traz a procedência: fonte oficial (IBGE, Banco Central, Inep, TSE), governo do próprio candidato, imprensa, entidade crítica ou campanha. Dados divulgados pelo próprio governo aparecem marcados, porque quem mede também é avaliado.</p>
+    <p>Na linha do tempo, registramos condenações criminais que chegaram a ser executadas, junto com o desfecho judicial. Investigações sem condenação não entram. O levantamento pode estar incompleto: confira as certidões no TSE.</p>
+    <p>A situação das candidaturas pode mudar até o dia da eleição. Antes de votar, confira no <a href="${TSE_BR}" target="_blank" rel="noopener">DivulgaCandContas</a>.</p>
+  </details>
+  ${hook("metodo")}
+  <details class="metodo"><summary>Como funciona a urna em 2026</summary>
+    <p>São seis votos, sempre nesta ordem: deputado federal (4 dígitos), deputado estadual (5), senador 1ª vaga (3), senador 2ª vaga (3), governador (2) e presidente (2). O primeiro turno é em 4 de outubro, das 8h às 17h pelo horário de Brasília. Se houver segundo turno para governador ou presidente, ele será em 25 de outubro.</p>
+    <p>O celular não pode entrar na cabine, mas a colinha em papel pode.</p>
+  </details>`;
+}
+function vPresidente(){
+  const lista = S.view==="lista" ? candList(PRESIDENTE, "presidente") : compareView(PRESIDENTE, TEMAS_PRES, "tema", "presidente");
+  return `<h2 class="role">Presidente da República</h2>
+  <p class="lede">13 chapas registradas, em ordem de número. Toque em um nome para ver histórico, propostas e fontes. Na urna: 2 dígitos.</p>
+  ${guia("presidente","O que observar ao escolher um presidente")}
+  ${hook("rolePanel","presidente")}
+  <div class="toolbar"><div class="seg" role="group" aria-label="Modo de visualização">
+    <button aria-pressed="${S.view==="lista"}" data-act="view" data-v="lista">Candidatos</button>
+    <button aria-pressed="${S.view==="comparar"}" data-act="view" data-v="comparar">Comparar por tema</button>
+  </div></div>
+  ${lista}
+  ${extrasMajoritario("presidente")}
+  ${nextBtn("estado","Próximo: escolher o estado")}`;
+}
+function vEstado(){
+  return `<h2 class="role">Seu estado</h2>
+  <p class="lede">Governador, senadores e deputados dependem do estado onde você vota. Neste piloto, Santa Catarina e Rio Grande do Sul têm dados.</p>
+  <div class="uf" role="group" aria-label="Unidades da federação">${UFS.map(u=>`<button data-act="uf" data-v="${u}" aria-pressed="${S.uf===u}" ${!STATES[u]?"disabled":""}>${UF_NOME[u]}<small>${STATES[u]?"Disponível":"Em breve"}</small></button>`).join("")}</div>
+  ${STATES[S.uf] ? nextBtn("governador","Próximo: governador") : `<p class="note">Escolha Santa Catarina ou Rio Grande do Sul para continuar.</p>`}`;
+}
+function precisaUF(){ return `<h2 class="role">Escolha seu estado primeiro</h2><p class="lede">Esta etapa depende do estado onde você vota.</p>${nextBtn("estado","Escolher o estado")}`; }
+function vGovernador(){
+  if(!STATES[S.uf]) return precisaUF();
+  const lista = S.view==="lista" ? candList(UFD().gov, "governador") : compareView(UFD().gov, TEMAS_GOV, "temaGov", "governador");
+  return `<h2 class="role">Governador ${UFD().de}</h2>
+  <p class="lede">${UFD().gov.length} candidaturas, em ordem de número. Na urna: 2 dígitos.</p>
+  ${guia("governador","O que observar ao escolher um governador")}
+  ${hook("rolePanel","governador")}
+  <div class="toolbar"><div class="seg" role="group" aria-label="Modo de visualização">
+    <button aria-pressed="${S.view==="lista"}" data-act="view" data-v="lista">Candidatos</button>
+    <button aria-pressed="${S.view==="comparar"}" data-act="view" data-v="comparar">Comparar por tema</button>
+  </div></div>
+  ${lista}
+  ${extrasMajoritario("governador")}
+  ${nextBtn("senado","Próximo: Senado")}`;
+}
+function vagaBox(k, label){
+  const v = S.sel[k];
+  const c = UFD().sen.find(x=>x.n===v);
+  return `<div class="vaga ${v?"f":""}"><div><div class="t">${label}</div><div class="n">${v==="BRANCO"?"Em branco":c?esc(c.nome)+" ("+esc(c.partido)+")":"Ainda não escolhido"}</div>
+    ${v?`<button class="linkbtn" data-act="clear" data-key="${k}">Corrigir</button>`:`<button class="linkbtn" data-act="pick" data-key="${k}" data-n="BRANCO">Votar em branco</button>`}</div>${digitos(v==="BRANCO"?"":v,3)}</div>`;
+}
+function vSenado(){
+  if(!STATES[S.uf]) return precisaUF();
+  return `<h2 class="role">Senado: dois votos</h2>
+  <p class="lede">O ${UFD().nome==="Rio Grande do Sul"?"Rio Grande do Sul":"estado de Santa Catarina"} elege dois senadores entre ${UFD().sen.length} candidatos. Escolha duas pessoas diferentes. Na urna: 3 dígitos em cada vaga.</p>
+  ${guia("senado","O que observar ao escolher senadores")}
+  ${hook("rolePanel","senado")}
+  <div class="vagas">${vagaBox("senado1","1ª vaga")}${vagaBox("senado2","2ª vaga")}</div>
+  ${S.msg && !S.open ? `<p class="msg" role="alert">${esc(S.msg)}</p>`:""}
+  ${candList(UFD().sen, "senado")}
+  ${nextBtn("depfed","Próximo: deputado federal")}`;
+}
+function vDep(key){
+  if(!STATES[S.uf]) return precisaUF();
+  const fed = key==="depfed";
+  const len = fed?4:5;
+  const v = S.sel[key];
+  return `<h2 class="role">${fed?"Deputado federal":"Deputado estadual"}</h2>
+  <p class="lede">${fed?`O estado elege ${UFD().fed} deputados federais.`:`A ${UFD().casa} tem ${UFD().est} deputados estaduais.`} São centenas de candidatos, então neste piloto você pesquisa no TSE e anota o número aqui. Na urna: ${len} dígitos, ou 2 para votar só no partido.</p>
+  ${guia(key, fed?"O que observar ao escolher um deputado federal":"O que observar ao escolher um deputado estadual")}
+  <div class="digitar">
+    <label for="in-${key}">Número do seu candidato</label>
+    <div class="linha">
+      <input id="in-${key}" inputmode="numeric" autocomplete="off" maxlength="${len}" value="${esc(v==="BRANCO"?"":v)}" aria-describedby="h-${key}">
+      <button class="btn confirma" data-act="savedep" data-key="${key}" data-len="${len}">Salvar número</button>
+      <button class="btn branco" data-act="pick" data-key="${key}" data-n="BRANCO">Votar em branco</button>
+      ${v?`<button class="btn corrige" data-act="clear" data-key="${key}">Corrigir</button>`:""}
+    </div>
+    <p id="h-${key}" class="note">Use ${len} dígitos para um candidato ou 2 dígitos para votar no partido. ${v?`<span class="ok">Salvo: ${v==="BRANCO"?"em branco":esc(v)}.</span>`:""}</p>
+    ${S.msg?`<p class="msg" role="alert">${esc(S.msg)}</p>`:""}
+    <p><a href="${UFD().tse}" target="_blank" rel="noopener">Ver a lista oficial de candidatos ${UFD().de} no TSE</a></p>
+  </div>
+  ${nextBtn(fed?"depest":"colinha", fed?"Próximo: deputado estadual":"Ver minha colinha")}`;
+}
+function nomeDe(key){
+  const v = S.sel[key];
+  if(!v) return "Ainda não escolhido";
+  if(v==="BRANCO") return "Aperte a tecla BRANCO";
+  if(key==="presidente"){ const c = PRESIDENTE.find(x=>x.n===v); return c? c.nome+" ("+c.partido+")" : ""; }
+  if(!UFD() && key!=="presidente" && !/^dep/.test(key)) return "";
+  if(key==="governador"){ const c = UFD().gov.find(x=>x.n===v); return c? c.nome+" ("+c.partido+")" : ""; }
+  if(key==="senado1"||key==="senado2"){ const c = UFD().sen.find(x=>x.n===v); return c? c.nome+" ("+c.partido+")" : ""; }
+  return v.length===2 ? "Voto no partido (legenda)" : "Confira nome e foto na tela da urna";
+}
+const ORDEM_URNA = [["depfed","Deputado federal",4],["depest","Deputado estadual",5],["senado1","Senador, 1ª vaga",3],["senado2","Senador, 2ª vaga",3],["governador","Governador",2],["presidente","Presidente",2]];
+function vColinha(){
+  const itens = ORDEM_URNA.map(([k,l,len],i)=>{
+    const v = S.sel[k];
+    const shown = v==="BRANCO" ? "BRANCO" : v;
+    return `<li><span class="ord">${i+1}</span><span class="cg">${l}<span>${esc(nomeDe(k))}</span></span>${digitos(shown, v && v!=="BRANCO" ? v.length : len)}</li>`;
+  }).join("");
+  return `<h2 class="role">Sua colinha</h2>
+  <p class="lede">Na ordem exata da urna. Imprima ou copie e leve em papel: o celular não entra na cabine.</p>
+  <div class="colinha" id="colinha">
+    <h3>Colinha, 4 de outubro de 2026</h3>
+    <p class="q">${UFD()?UFD().nome:"Estado não escolhido"}. Confira nome e foto na tela antes de apertar CONFIRMA.</p>
+    <ol>${itens}</ol>
+    <p class="rod">Feito com dados públicos. Situação das candidaturas em 26/09/2026.</p>
+  </div>
+  <div class="acoes noprint">
+    <button class="btn confirma" data-act="print">Imprimir colinha</button>
+    <button class="btn ghost" data-act="copy">Copiar como texto</button>
+    <button class="btn corrige" data-act="reset">Recomeçar do zero</button>
+  </div>
+  ${S.msg?`<p class="msg noprint" role="status">${esc(S.msg)}</p>`:""}`;
+}
+
+/* ============================================================
+   RENDER + EVENTOS
+   ============================================================ */
+function render(focus){
+  renderFita();
+  const app = document.getElementById("app");
+  const views = {inicio:vInicio, presidente:vPresidente, estado:vEstado, governador:vGovernador, senado:vSenado, depfed:()=>vDep("depfed"), depest:()=>vDep("depest"), colinha:vColinha};
+  app.innerHTML = views[S.step]();
+  if(focus==="top"){ window.scrollTo({top:0}); app.focus({preventScroll:true}); }
+  if(focus && focus.startsWith && focus.startsWith("det-")){
+    const el = document.getElementById(focus);
+    if(el){ const li = el.parentElement; const r = li.getBoundingClientRect(); if(r.top < 90 || r.top > window.innerHeight*0.45){ li.scrollIntoView({block:"start", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth"}); } }
+  }
+}
+document.addEventListener("toggle", e => {
+  const d = e.target;
+  if(d.matches && d.matches("details.guia")){ S.guiaFechada = S.guiaFechada || {}; S.guiaFechada[d.dataset.guia] = !d.open; }
+}, true);
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-act]");
+  if(!b) return;
+  const a = b.dataset.act;
+  if(PLUGINS.some(p => typeof p.onClick==="function" && p.onClick(a, b))) return;
+  if(a==="go"){ S.step = b.dataset.step; S.open=null; S.msg=""; S.view="lista"; render("top"); return; }
+  if(a==="open"){ const id=b.dataset.id; S.open = S.open===id ? null : id; S.tab="resumo"; S.msg=""; render(S.open? "det-"+id : null); return; }
+  if(a==="tab"){ S.tab=b.dataset.tab; render(); return; }
+  if(a==="view"){ S.view=b.dataset.v; S.open=null; render(); return; }
+  if(a==="tema"){ S[b.dataset.k]=b.dataset.v; render(); return; }
+  if(a==="uf"){ if(S.uf!==b.dataset.v){ ["governador","senado1","senado2","depfed","depest"].forEach(k=>S.sel[k]=""); } S.uf=b.dataset.v; save(); render(); return; }
+  if(a==="pick"){
+    const k=b.dataset.key, n=b.dataset.n;
+    if((k==="senado1"||k==="senado2") && n!=="BRANCO"){
+      const outra = k==="senado1" ? "senado2" : "senado1";
+      if(S.sel[outra]===n){ S.msg = "Esse número já está na outra vaga. Na urna, repetir o mesmo senador anula o segundo voto: escolha outra pessoa."; render(); return; }
+    }
+    S.sel[k]=n; S.msg=""; save();
+    if(k==="senado1"||k==="senado2"){ render(); return; }
+    render(); return;
+  }
+  if(a==="clear"){ S.sel[b.dataset.key]=""; S.msg=""; save(); render(); return; }
+  if(a==="savedep"){
+    const k=b.dataset.key, len=+b.dataset.len;
+    const inp=document.getElementById("in-"+k);
+    const v=(inp.value||"").replace(/\D/g,"");
+    if(!(v.length===len || v.length===2)){ S.msg = `Digite ${len} dígitos para um candidato ou 2 para votar no partido.`; render(); document.getElementById("in-"+k).focus(); return; }
+    S.sel[k]=v; S.msg=""; save(); render(); return;
+  }
+  if(a==="print"){ window.print(); return; }
+  if(a==="copy"){
+    const txt = "Colinha, 4/10/2026 (" + (S.uf||"—") + ")\n" + ORDEM_URNA.map(([k,l],i)=>`${i+1}. ${l}: ${S.sel[k] ? S.sel[k] : "____"}${S.sel[k] && S.sel[k]!=="BRANCO" ? " ("+nomeDe(k)+")" : ""}`).join("\n");
+    const done = () => { S.msg="Texto copiado."; render(); };
+    try{
+      if(navigator.clipboard && navigator.clipboard.writeText){ navigator.clipboard.writeText(txt).then(done, ()=>fallbackCopy(txt)); }
+      else fallbackCopy(txt);
+    }catch(err){ fallbackCopy(txt); }
+    return;
+  }
+  if(a==="reset"){
+    S.sel={presidente:"",governador:"",senado1:"",senado2:"",depfed:"",depest:""}; S.msg="Colinha apagada."; save(); render(); return;
+  }
+});
+document.addEventListener("keydown", e => {
+  if(e.key==="Enter" && e.target.matches && e.target.matches(".digitar input")){
+    const btn = e.target.parentElement.querySelector('[data-act="savedep"]'); if(btn) btn.click();
+  }
+});
+function fallbackCopy(txt){
+  const ta=document.createElement("textarea"); ta.value=txt; ta.setAttribute("readonly",""); ta.style.position="fixed"; ta.style.opacity="0";
+  document.body.appendChild(ta); ta.select();
+  let ok=false; try{ ok=document.execCommand("copy"); }catch(e){}
+  document.body.removeChild(ta);
+  S.msg = ok ? "Texto copiado." : "Não foi possível copiar automaticamente. Use Imprimir ou selecione o texto da colinha.";
+  render();
+}
+document.addEventListener("change", e => { PLUGINS.forEach(p => typeof p.onChange==="function" && p.onChange(e.target)); });
+render();
+</script>
+<!-- ============================================================
+     EXTENSÃO: NOTA COLINHA (experimental)
+     Para desligar: troque NOTA_ATIVA para false, ou apague este bloco
+     <style> + <script> inteiro. O resto do site continua funcionando
+     e nenhum vestígio da nota aparece na página.
+     ============================================================ -->
+<style id="ext-nota-css">
+.nota{display:inline-flex;align-items:baseline;gap:1px;font-family:var(--display);font-weight:800;font-size:17px;line-height:1;border:1.5px solid var(--ink);border-radius:6px;padding:5px 7px 4px;background:var(--screen);font-variant-numeric:tabular-nums;white-space:nowrap}
+.nota small{font-size:11px;font-weight:600;color:var(--muted)}
+.nota.nd{border-style:dashed;color:var(--muted);border-color:var(--line)}
+.nota .par{width:6px;height:6px;border-radius:50%;background:var(--warn);align-self:flex-start;margin-left:3px}
+details.sc{background:var(--panel);border:1px solid var(--line);border-radius:10px;margin:0 0 18px}
+details.sc summary{list-style:none;padding:13px 18px;font-weight:700;display:flex;justify-content:space-between;gap:10px;cursor:pointer}
+details.sc summary::-webkit-details-marker{display:none}
+details.sc summary .x{font-weight:400;font-size:13px;color:var(--warn);background:var(--warn-soft);border-radius:4px;padding:1px 8px}
+.sc-b{padding:0 18px 18px}
+.sc-b h5{margin:16px 0 6px;font-size:15.5px}
+.sc-grid{display:grid;grid-template-columns:1fr 1fr;gap:4px 26px}
+@media (max-width:720px){.sc-grid{grid-template-columns:1fr}}
+.crit{border-top:1px solid var(--line);padding:8px 0}
+.crit label{display:flex;gap:8px;align-items:flex-start;font-weight:700;cursor:pointer}
+.crit label input{margin-top:5px;accent-color:var(--ink);width:16px;height:16px}
+.crit .w{font-weight:400;color:var(--muted);font-size:14px}
+.crit p{margin:2px 0 0 24px;font-size:14.5px;color:var(--muted)}
+.slider{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;margin:8px 0 4px;max-width:520px}
+.slider input{width:100%;accent-color:var(--ink)}
+.slider span{font-size:14.5px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.sc-opt{display:flex;gap:8px;align-items:center;margin-top:10px;font-size:15px}
+.sc-opt input{accent-color:var(--ink);width:16px;height:16px}
+.nt-top{display:grid;grid-template-columns:auto 1fr 1fr;gap:14px;align-items:stretch;margin-bottom:14px}
+@media (max-width:640px){.nt-top{grid-template-columns:1fr 1fr}.nt-top .big{grid-column:1/-1}}
+.nt-top .big{background:var(--key);color:var(--keyink);border-radius:10px;padding:12px 18px;min-width:150px}
+.nt-top .big .v{font-family:var(--display);font-weight:900;font-size:46px;line-height:1}
+.nt-top .big .l{font-size:13.5px;opacity:.85;margin-top:4px}
+.nt-top .sub{border:1.5px solid var(--line);border-radius:10px;padding:12px 14px;background:var(--screen)}
+.nt-top .sub .v{font-family:var(--display);font-weight:800;font-size:28px;line-height:1}
+.nt-top .sub .l{font-size:13.5px;color:var(--muted);margin-top:4px}
+.bar{height:6px;background:var(--line);border-radius:3px;margin-top:8px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--ink)}
+table.nt{border-collapse:collapse;width:100%;font-size:14.5px;margin:4px 0 12px}
+table.nt th{font-weight:400;color:var(--muted);text-align:left;border-bottom:1.5px solid var(--line);padding:5px 8px}
+table.nt td{border-bottom:1px solid var(--line);padding:7px 8px;vertical-align:top}
+table.nt td.p{font-family:var(--display);font-weight:800;text-align:right;white-space:nowrap}
+table.nt td.off{color:var(--muted);font-style:italic}
+table.nt ul{margin:4px 0 0;padding-left:16px;font-size:13.5px;color:var(--muted)}
+@media (max-width:560px){table.nt thead{display:none}table.nt tr{display:block;border-bottom:1px solid var(--line);padding:6px 0}table.nt td{display:block;border:0;padding:1px 0;text-align:left!important}}
+</style>
+<script id="ext-nota">
+const NOTA_ATIVA = true;
+(function(){
+if(!NOTA_ATIVA) return;
+const KEYN = "colinha2026-nota-v1";
+const DEF = {pesoH:50, ordenar:false, on:{form:true, exp:true, res:true, metas:true, prazos:true, custo:true, abr:true}};
+let cfg = JSON.parse(JSON.stringify(DEF));
+try{ const x = JSON.parse(localStorage.getItem(KEYN)||"null"); if(x){ cfg.pesoH = typeof x.pesoH==="number" ? x.pesoH : 50; cfg.ordenar = !!x.ordenar; cfg.on = Object.assign({}, DEF.on, x.on||{}); } }catch(e){}
+const saveN = () => { try{ localStorage.setItem(KEYN, JSON.stringify(cfg)); }catch(e){} };
+
+/* Nível de escolaridade: 1 fundamental, 2 médio/técnico, 3 superior, 4 pós-graduação. Ausente = sem dado.
+   Profissões regulamentadas (advogado, dentista, psicóloga, economista, veterinário) contam como superior. */
+const NIVEL = {
+  "presidente-13":1,"presidente-22":4,"presidente-30":3,"presidente-55":4,"presidente-21":4,"presidente-70":4,"presidente-80":3,"presidente-35":3,
+  "SC-governador-55":2,"SC-governador-14":3,"SC-governador-25":3,"SC-governador-80":3,
+  "SC-senado-111":3,"SC-senado-133":3,"SC-senado-221":4,"SC-senado-500":3,"SC-senado-161":2,"SC-senado-250":3,"SC-senado-800":3,"SC-senado-808":3,
+  "RS-governador-12":3,"RS-governador-15":4,"RS-governador-22":3,"RS-governador-45":3,"RS-governador-29":3,"RS-governador-80":3,
+  "RS-senado-151":3,"RS-senado-555":3,"RS-senado-160":3,"RS-senado-290":3,"RS-senado-222":3,"RS-senado-808":2,"RS-senado-500":4,"RS-senado-300":4
+};
+/* Sentido de cada indicador: +1 melhorou, -1 piorou, em relação ao início do mandato ou a uma referência
+   explícita (meta, média nacional, ano anterior). Indicadores sem comparação ficam de fora. Chave: "indicador@ano de início do mandato". */
+const SINAL = {
+  "presidente-13":{"Desemprego nas regiões metropolitanas (PME)@2003":1,"Inflação (IPCA)@2003":1,"Dívida líquida do setor público@2003":1,"Desemprego (PNAD Contínua, média anual)@2023":1,"Inflação (IPCA)@2023":-1,"Dívida bruta do governo geral@2023":-1},
+  "presidente-30":{"Salários do funcionalismo@2019":1,"Dívida do estado@2019":-1,"Caixa de recursos livres@2019":-1,"Homicídios@2019":-1},
+  "presidente-55":{"Homicídios por ano@2019":1,"Ideb do ensino médio@2019":1,"Leitos de UTI na rede estadual@2019":1,"Mortes causadas por policiais@2019":-1},
+  "SC-governador-22":{"Homicídios por 100 mil habitantes@2023":1,"Homicídios registrados@2023":1,"Homicídios de mulheres@2023":-1}
+};
+const WPROV = {of:1, imp:1, gov:.5, crit:.5, camp:0};
+const EXE = /^(Prefeit|Vice-prefeit|Governador|Vice-governador|Presidente)/;
+const ESFERA = t => /^(Vereador|Prefeit|Vice-prefeit)/.test(t) ? 1 : /^(Deputad[oa] estadual|Governador|Vice-governador)/.test(t) ? 2 : 3;
+const cargoNome = {presidente:"presidente", governador:"governador", senado:"senador"};
+
+const CRIT = {
+  H:[
+    {id:"form", nome:"Formação", peso:15,
+      mede:()=> "O nível de escolaridade declarado.",
+      regra:()=> "Fundamental vale 25, médio ou técnico 50, superior 75 e pós-graduação 100. Sem dado, o critério não entra na conta. A Constituição só exige alfabetização: escolaridade não prova competência, por isso o peso é baixo e você pode desligar."},
+    {id:"exp", nome:"Experiência em cargos eletivos", peso:40,
+      mede:role=> role==="senado" ? "Mandatos já exercidos, valorizando os legislativos (vereador, deputado, senador)." : "Mandatos já exercidos, valorizando os executivos (prefeito, governador, presidente).",
+      regra:role=> "Cada mandato vale conforme a esfera: municipal 1 ponto, estadual 2, federal 3. " + (role==="senado" ? "Mandatos executivos valem metade." : "Mandatos legislativos valem metade.") + " 10 pontos ou mais valem 100; nenhum mandato vale 0. Mede experiência, não qualidade: estreantes sempre pontuam zero aqui."},
+    {id:"res", nome:"Resultados medidos nos mandatos", peso:45,
+      mede:()=> "Se os indicadores dos mandatos anteriores melhoraram ou pioraram.",
+      regra:()=> "Cada indicador comparável conta +1 se melhorou e −1 se piorou, em relação ao início do mandato ou a uma referência (meta, média nacional). Dados oficiais e de imprensa pesam 1; do próprio governo ou de entidade crítica, 0,5; de campanha, zero. Nota = 50 + 50 × saldo ponderado. Com menos de 3 indicadores comparáveis, fica sem nota."}
+  ],
+  C:[
+    {id:"metas", nome:"Propostas com número", peso:35,
+      mede:()=> "Quantas propostas trazem uma quantidade concreta (percentual, número de vagas, valor).",
+      regra:()=> "Parcela das propostas resumidas que contém um número. Metade ou mais vale 100."},
+    {id:"prazos", nome:"Propostas com prazo", peso:20,
+      mede:()=> "Quantas propostas dizem até quando serão cumpridas.",
+      regra:()=> "Parcela das propostas com ano ou prazo (por exemplo “até 2030” ou “em 100 dias”). Um quarto ou mais vale 100."},
+    {id:"custo", nome:"Propostas com valor em reais", peso:20,
+      mede:()=> "Quantas propostas dizem quanto custam ou quanto movimentam.",
+      regra:()=> "Parcela das propostas com valor em reais ou percentual do PIB ou da receita. Um quarto ou mais vale 100."},
+    {id:"abr", nome:"Abrangência", peso:25,
+      mede:role=> role==="presidente" ? "Quantos dos 9 temas centrais o plano aborda." : "Quantos dos 5 temas centrais do governo estadual o plano aborda.",
+      regra:()=> "Temas com ao menos uma proposta divididos pelo total de temas."}
+  ]
+};
+
+function limpa(t){ return String(t).replace(/6x1/gi,"").replace(/\d+[ºª]/g,"").replace(/BRs?[- ]?[\d, e]+/g,"").replace(/BR-\d+/g,""); }
+const reNum = /\d/;
+const rePrazo = /\b20\d\d\b|\b\d+\s*(dias|anos|meses)\b|antes mesmo da posse|primeiro dia/i;
+const reCusto = /R\$\s?[\d.,]+|% do PIB|% da receita/i;
+
+function wavg(parts, grupo){
+  let num=0, den=0, denOn=0;
+  parts.forEach(p => { const c = CRIT[grupo].find(x=>x.id===p.id); if(!cfg.on[p.id]) return; denOn += c.peso; if(p.pts==null) return; num += p.pts*c.peso; den += c.peso; });
+  const nOk = parts.filter(p => cfg.on[p.id] && p.pts!=null).length;
+  const minimo = grupo==="H" ? 2 : 1;
+  return {score: den && nOk>=minimo ? Math.round(num/den) : null, cov: denOn ? den/denOn : 0, nOk};
+}
+function calc(c, role){
+  const id = cid(role, c), h = H(c, role);
+  /* HISTÓRICO */
+  const nv = NIVEL[id];
+  const form = {id:"form", pts: nv ? nv*25 : null, raw: h.esc};
+  const ms = h.ev.filter(e=>e.tipo==="mandato");
+  let pe=0, px=0, pl=0;
+  ms.forEach(m => { const exe = EXE.test(m.titulo); const n = m.n||1; if(exe) px+=n; else pl+=n;
+    const esf = ESFERA(m.titulo); const rel = role==="senado" ? !exe : exe; pe += n * esf * (rel ? 1 : 0.5); });
+  pe = Math.round(pe*10)/10;
+  const exp = {id:"exp", pts: Math.min(100, Math.round(pe*10)), raw: ms.length ? `${px} mandato(s) executivo(s) e ${pl} legislativo(s): ${String(pe).replace(".",",")} ponto(s)` : "Nenhum mandato eletivo anterior"};
+  const sig = SINAL[id] || {}, itens=[]; let sw=0, ww=0;
+  ms.forEach(m => (m.met||[]).forEach(t => { const k = t.k+"@"+m.ini; if(sig[k]===undefined) return; const w = WPROV[t.p] ?? 1; itens.push({k:t.k, s:sig[k], p:t.p, w, cargo:m.titulo}); sw += sig[k]*w; ww += w; }));
+  const nComp = itens.filter(i=>i.w>0).length;
+  const res = {id:"res", pts: nComp>=3 && ww>0 ? Math.round(50 + 50*sw/ww) : null, raw: nComp>=3 ? `${nComp} indicadores comparáveis, saldo ponderado ${ (sw>=0?"+":"") + sw.toString().replace(".",",")} de ${ww.toString().replace(".",",")}` : (ms.length ? `${nComp} indicador(es) comparável(is) neste snapshot; mínimo 3` : "Sem mandatos para medir"), itens};
+  const HH = wavg([form,exp,res],"H");
+  /* CAMPANHA */
+  let C = {score:null, cov:0}, cparts;
+  if(role==="senado"){
+    cparts = CRIT.C.map(x=>({id:x.id, pts:null, raw:"Candidatos ao Senado não registram plano no TSE"}));
+  } else {
+    const temas = role==="presidente" ? TEMAS_PRES : TEMAS_GOV;
+    const all = temas.flatMap(([k]) => (c.temas||{})[k] || []);
+    if(all.length < 5){
+      cparts = CRIT.C.map(x=>({id:x.id, pts:null, raw:`Resumo do plano com ${all.length} proposta(s) neste snapshot; mínimo 5`}));
+    } else {
+      const L = all.map(limpa);
+      const nN = L.filter(t=>reNum.test(t)).length, nP = L.filter(t=>rePrazo.test(t)).length, nC = L.filter(t=>reCusto.test(t)).length;
+      const cob = temas.filter(([k]) => ((c.temas||{})[k]||[]).length).length;
+      const tot = all.length;
+      cparts = [
+        {id:"metas", pts: Math.min(100, Math.round(nN/tot*200)), raw:`${nN} de ${tot} propostas`},
+        {id:"prazos", pts: Math.min(100, Math.round(nP/tot*400)), raw:`${nP} de ${tot} propostas`},
+        {id:"custo", pts: Math.min(100, Math.round(nC/tot*400)), raw:`${nC} de ${tot} propostas`},
+        {id:"abr", pts: Math.round(cob/temas.length*100), raw:`${cob} de ${temas.length} temas`}
+      ];
+    }
+    C = wavg(cparts,"C");
+  }
+  if(role==="senado") C = {score:null, cov:0};
+  /* COMPOSTA */
+  const wh = role==="senado" ? 1 : cfg.pesoH/100, wc = 1-wh;
+  /* Composta = Histórico × peso + Campanha × peso. Parte sem nota entra como zero.
+     Só fica sem nota composta quando nenhuma parte com peso tem dado. */
+  let total=null, partial=false;
+  const temH = HH.score!=null && wh>0, temC = C.score!=null && wc>0;
+  if(temH || temC){
+    total = Math.round((temH ? HH.score*wh : 0) + (temC ? C.score*wc : 0));
+    partial = (wh>0 && !temH) || (wc>0 && !temC) || (temH && HH.cov<1) || (temC && C.cov<1);
+  }
+  return {H:HH, hparts:[form,exp,res], C, cparts, total, partial};
+}
+
+function badge(r){
+  if(r.total==null) return `<span class="nota nd" title="Sem dados suficientes para a nota">—</span>`;
+  return `<span class="nota" title="Nota Colinha${r.partial?" (parcial: faltam critérios)":""}">${r.total}<small>/100</small>${r.partial?`<span class="par" aria-label="nota parcial"></span>`:""}</span>`;
+}
+function tabela(parts, grupo, role){
+  return `<table class="nt"><thead><tr><th>Critério</th><th>O que encontramos</th><th>Peso</th><th style="text-align:right">Pontos</th></tr></thead><tbody>` +
+    parts.map(p => { const c = CRIT[grupo].find(x=>x.id===p.id); const off = !cfg.on[p.id];
+      const lista = p.itens && p.itens.length ? `<ul>${p.itens.map(i=>`<li>${i.s>0?"Melhorou":"Piorou"}: ${esc(i.k)} (${esc(i.cargo)}) ${provTag(i.p)}</li>`).join("")}</ul>` : "";
+      return `<tr><td><strong>${c.nome}</strong><br><span class="note">${c.mede(role)}</span></td><td class="${off?"off":""}">${off?"Desligado por você":esc(p.raw)}${lista}</td><td>${c.peso}</td><td class="p">${off?"—":p.pts==null?"sem nota":p.pts}</td></tr>`; }).join("") + `</tbody></table>`;
+}
+function fmt(v){ return v==null ? "—" : v; }
+function notaTab(c, role){
+  const r = calc(c, role);
+  return `<div class="nt-top">
+    <div class="big"><div class="v">${fmt(r.total)}</div><div class="l">Nota composta${r.partial?" (parcial)":""}</div></div>
+    <div class="sub"><div class="v">${fmt(r.H.score)}</div><div class="l">Histórico, peso ${role==="senado"?100:cfg.pesoH}%</div><div class="bar"><i style="width:${r.H.score||0}%"></i></div></div>
+    <div class="sub"><div class="v">${fmt(r.C.score)}</div><div class="l">${role==="senado"?"Campanha: não se aplica ao Senado":`Campanha, peso ${100-cfg.pesoH}%`}</div><div class="bar"><i style="width:${r.C.score||0}%"></i></div></div>
+  </div>
+  ${r.H.score==null?`<div class="aviso"><strong>Histórico sem nota.</strong> É preciso ter ao menos dois critérios de histórico com dado. Pela regra da composta, essa parte entra como zero, mesmo que a causa seja falta de dado e não desempenho.</div>`:""}
+  <p class="note" style="margin-top:0">${role==="senado" ? "Composta = Histórico (a campanha não se aplica ao Senado)." : `Composta = Histórico × ${cfg.pesoH}% + Campanha × ${100-cfg.pesoH}%. A parte que ficar sem nota entra como zero.`}</p>
+  ${r.partial?`<div class="aviso"><strong>Nota parcial.</strong> ${(r.H.score==null && role!=="senado" && cfg.pesoH>0) || (r.C.score==null && role!=="senado" && cfg.pesoH<100) ? "Uma das partes ficou sem nota e entrou como zero na composta. " : ""}Alguns critérios ficaram sem dado para este candidato. Compare com cuidado.</div>`:""}
+  <h4 class="sub">Histórico</h4>${tabela(r.hparts,"H",role)}
+  <h4 class="sub">Campanha</h4>${tabela(r.cparts,"C",role)}
+  <p class="note">A nota é uma leitura mecânica dos dados deste snapshot, não uma recomendação. Ajuste pesos e critérios no painel “Nota Colinha” acima da lista.</p>`;
+}
+function painel(role){
+  const crit = g => CRIT[g].map(c => `<div class="crit"><label><input type="checkbox" data-nota="on" data-id="${c.id}" ${cfg.on[c.id]?"checked":""}> ${c.nome} <span class="w">peso ${c.peso}</span></label><p>${c.mede(role)} ${c.regra(role)}</p></div>`).join("");
+  return `<details class="sc" data-nota-panel>
+    <summary>Nota Colinha para ${cargoNome[role]}: como funciona <span class="x">experimental</span></summary>
+    <div class="sc-b">
+      <p>A nota vai de 0 a 100 e junta duas partes: o <strong>histórico</strong> do candidato e a <strong>campanha</strong> que ele registrou. Cada critério abaixo diz o que mede e como pontua. Você pode mudar os pesos e desligar o que achar injusto; as notas mudam na hora e ficam salvas só no seu navegador.${role==="senado"?" Para o Senado, só o histórico conta, porque não existe plano registrado no TSE.":""}</p>
+      ${role!=="senado"?`<div class="slider"><span>Histórico ${cfg.pesoH}%</span><input type="range" min="0" max="100" step="10" value="${cfg.pesoH}" data-nota="peso" aria-label="Peso do histórico em relação à campanha"><span>Campanha ${100-cfg.pesoH}%</span></div>`:""}
+      <div class="sc-grid">
+        <div><h5>Histórico</h5>${crit("H")}</div>
+        ${role!=="senado"?`<div><h5>Campanha</h5>${crit("C")}</div>`:""}
+      </div>
+      <label class="sc-opt"><input type="checkbox" data-nota="ordenar" ${cfg.ordenar?"checked":""}> Ordenar a lista pela nota (o padrão é pelo número de urna)</label>
+      <h5>Limites que você precisa conhecer</h5>
+      <ul>
+        <li>O histórico só recebe nota quando há ao menos dois critérios com dado, e a campanha, quando há ao menos cinco propostas resumidas. Se uma das partes ficar sem nota, ela entra como zero na composta, e o ponto amarelo avisa. Isso pode ser falta de dado nosso, não desempenho ruim do candidato.</li>
+        <li>A nota só enxerga o que está neste snapshot. Quem tem mais dados coletados pode ganhar ou perder mais: o ponto amarelo ao lado da nota indica que faltam critérios.</li>
+        <li>Os critérios de campanha medem se o plano é concreto, não se as propostas são boas. Uma meta com número pode ser inviável. Eles são contados automaticamente sobre os resumos que exibimos, não sobre o PDF inteiro.</li>
+        <li>O sentido de cada indicador (melhorou ou piorou) foi definido por nós e está listado na aba Nota de cada candidato.</li>
+      </ul>
+      <button class="btn ghost" data-act="nota-reset" style="margin-top:6px">Restaurar pesos padrão</button>
+    </div>
+  </details>`;
+}
+
+let panelOpen = false;
+PLUGINS.push({
+  rowBadge: (c, role) => (role==="presidente"||role==="governador"||role==="senado") ? badge(calc(c, role)) : "",
+  tabs: (c, role) => [{key:"nota", label:"Nota", render: () => notaTab(c, role)}],
+  rolePanel: role => painel(role).replace("<details class=\"sc\"", `<details class="sc"${panelOpen?" open":""}`),
+  sort: (list, role) => cfg.ordenar ? [...list].sort((a,b) => (calc(b,role).total ?? -1) - (calc(a,role).total ?? -1)) : list,
+  metodo: () => `<details class="metodo"><summary>Como funciona a Nota Colinha</summary><p>A nota experimental vai de 0 a 100 e soma o histórico do candidato (formação, experiência e resultados medidos nos mandatos) com a qualidade do plano registrado (metas com número, prazos, custos e abrangência). Cada cargo tem seu painel explicando critérios e pesos, e você pode ajustar tudo. A nota nunca muda a ordem da lista, a menos que você peça.</p></details>`,
+  onClick: (a, b) => {
+    if(a==="nota-reset"){ cfg = JSON.parse(JSON.stringify(DEF)); saveN(); panelOpen = true; render(); return true; }
+    return false;
+  },
+  onChange: el => {
+    if(!el.dataset || !el.dataset.nota) return;
+    const k = el.dataset.nota;
+    if(k==="peso") cfg.pesoH = +el.value;
+    if(k==="on") cfg.on[el.dataset.id] = el.checked;
+    if(k==="ordenar") cfg.ordenar = el.checked;
+    saveN(); panelOpen = true; render();
+  }
+});
+document.addEventListener("input", e => { if(e.target.dataset && e.target.dataset.nota==="peso"){ const sp = e.target.parentElement.querySelectorAll("span"); sp[0].textContent = "Histórico " + e.target.value + "%"; sp[1].textContent = "Campanha " + (100-e.target.value) + "%"; } });
+document.addEventListener("toggle", e => { if(e.target.matches && e.target.matches("details[data-nota-panel]")) panelOpen = e.target.open; }, true);
+render();
+})();
+</script>
+
+</body>
+</html>
