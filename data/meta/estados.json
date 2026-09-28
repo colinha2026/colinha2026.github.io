@@ -15,6 +15,22 @@
       "deputadosEstaduais": 55,
       "assembleia": "Assembleia Legislativa (ALRS)",
       "tse": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SUL/RS/20322002026"
+    },
+    "SP": {
+      "nome": "São Paulo",
+      "preposicao": "de São Paulo",
+      "deputadosFederais": 70,
+      "deputadosEstaduais": 94,
+      "assembleia": "Assembleia Legislativa de SP (Alesp)",
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
+    },
+    "MG": {
+      "nome": "Minas Gerais",
+      "preposicao": "de Minas Gerais",
+      "deputadosFederais": 53,
+      "deputadosEstaduais": 77,
+      "assembleia": "Assembleia Legislativa de MG (ALMG)",
+      "tse": "https://divulgacandcontas.tse.jus.br/divulga/"
     }
   },
   "todos": [
