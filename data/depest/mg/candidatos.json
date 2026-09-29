@@ -3,8 +3,8 @@
   "titulo": "TSE: dados abertos de candidaturas 2026",
   "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
  },
- "geracaoTSE": "17/08/2026",
- "listaConferida": "28/09/2026",
+ "geracaoTSE": "29/09/2026",
+ "listaConferida": "29/09/2026",
  "partidos": [
   {
    "numero": "10",
@@ -28,7 +28,7 @@
    "numero": "13",
    "sigla": "PT",
    "nome": "Partido dos Trabalhadores",
-   "federacao": "PT/PC do B/PV"
+   "federacao": "13-PT/65-PC do B/43-PV"
   },
   {
    "numero": "14",
@@ -45,14 +45,14 @@
   {
    "numero": "16",
    "sigla": "PSTU",
-   "nome": "Partido Socialista dos Trabalhadores Unificado",
+   "nome": "Partido Socialista  dos Trabalhadores Unificado",
    "federacao": null
   },
   {
    "numero": "18",
    "sigla": "REDE",
    "nome": "Rede Sustentabilidade",
-   "federacao": "PSOL/REDE"
+   "federacao": "50-PSOL/18-REDE"
   },
   {
    "numero": "20",
@@ -76,7 +76,7 @@
    "numero": "23",
    "sigla": "CIDADANIA",
    "nome": "Cidadania",
-   "federacao": "PSDB/CIDADANIA"
+   "federacao": "45-PSDB/23-CIDADANIA"
   },
   {
    "numero": "25",
@@ -124,7 +124,7 @@
    "numero": "43",
    "sigla": "PV",
    "nome": "Partido Verde",
-   "federacao": "PT/PC do B/PV"
+   "federacao": "13-PT/65-PC do B/43-PV"
   },
   {
    "numero": "44",
@@ -136,13 +136,13 @@
    "numero": "45",
    "sigla": "PSDB",
    "nome": "Partido da Social Democracia Brasileira",
-   "federacao": "PSDB/CIDADANIA"
+   "federacao": "45-PSDB/23-CIDADANIA"
   },
   {
    "numero": "50",
    "sigla": "PSOL",
    "nome": "Partido Socialismo e Liberdade",
-   "federacao": "PSOL/REDE"
+   "federacao": "50-PSOL/18-REDE"
   },
   {
    "numero": "55",
@@ -154,7 +154,7 @@
    "numero": "65",
    "sigla": "PCDOB",
    "nome": "Partido Comunista do Brasil",
-   "federacao": "PT/PC do B/PV"
+   "federacao": "13-PT/65-PC do B/43-PV"
   },
   {
    "numero": "70",
@@ -244,6 +244,7 @@
    "redes": [
     "https://www.facebook.com/adanjensgodtfredsen",
     "https://www.instagram.com/adan.godtfredsen",
+    "https://www.kwai.com/@adangodtfredsen",
     "https://www.tiktok.com/@adangodtfredsen"
    ],
    "financas": {
@@ -434,7 +435,8 @@
    "redes": [
     "https://www.facebook.com/adrianoaalvarenga",
     "https://www.instagram.com/adriano_aalvarenga",
-    "https://www.tiktok.com/@dep.adrianoalvarenga"
+    "https://www.tiktok.com/@dep.adrianoalvarenga",
+    "https://x.com/alvarenga35289"
    ],
    "financas": {
     "fefc": 550000.0,
@@ -548,6 +550,13 @@
    "idade": 50,
    "patrimonio": 950566.13,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/romulobrasiladv",
+    "https://www.instagram.com/@advogadoromulobrasil",
+    "https://www.threads.com/@advogadoromulobrasil",
+    "https://www.tiktok.com/@romulobrasiloficial",
+    "https://www.youtube.com/@romulobrasiltv5401"
+   ],
    "financas": {
     "pessoasFisicas": 34000.0,
     "proprios": 24800.0,
@@ -646,6 +655,11 @@
    "patrimonio": 1000000.0,
    "concorreu2022": true,
    "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.facebook.com/alex.magalhaes.1485",
+    "https://www.instagram.com/alexmagalhaescaetemg",
+    "https://www.youtube.com/@vereadordopovoemacao8913"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -767,7 +781,13 @@
    "numero": "30322",
    "nome": "Alexandre Branco",
    "partido": "NOVO",
-   "detalhesPendentes": true,
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Comerciante",
+   "idade": 60,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/candidatoalexandrebranco"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -806,7 +826,7 @@
   },
   {
    "numero": "11022",
-   "nome": "Alice Drummond",
+   "nome": "Alice  Drummond",
    "partido": "PP",
    "escolaridade": "Superior completo",
    "ocupacao": "Relações-públicas",
@@ -815,7 +835,10 @@
    "concorreu2022": false,
    "redes": [
     "https://www.facebook.com/alicedrummond.ituiutaba",
-    "https://www.instagram.com/alicedrummond.mg"
+    "https://www.instagram.com/alicedrummond.mg",
+    "https://www.tiktok.com/@alicedrummond.mg",
+    "https://x.com/alicedrummon",
+    "https://x.com/alicedrummond"
    ],
    "financas": {
     "fefc": 300000.0,
@@ -917,7 +940,8 @@
    "patrimonio": 0.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/aline_soarescosta"
+    "https://www.instagram.com/aline_soarescosta",
+    "https://www.tiktok.com/@aline_soarescosta"
    ],
    "financas": {
     "arrecadado": 0.0,
@@ -994,7 +1018,7 @@
    "escolaridade": "Lê e escreve",
    "ocupacao": "Outros",
    "idade": 48,
-   "patrimonio": 400000000.0,
+   "patrimonio": 416900.0,
    "concorreu2022": false,
    "redes": [
     "https://facebook.com/alvamiroalves",
@@ -1023,6 +1047,9 @@
    "patrimonio": 251815.84,
    "concorreu2022": true,
    "patrimonio2022": 470300.96,
+   "redes": [
+    "https://www.threads.com/@aleportelaoficial"
+   ],
    "financas": {
     "fefc": 495000.0,
     "partido": 149998.3,
@@ -1078,7 +1105,9 @@
    "concorreu2022": false,
    "redes": [
     "https://www.instagram.com/amadeusjusten",
-    "https://www.tiktok.com/@amadeusfreitag"
+    "https://www.tiktok.com/@amadeusfreitag",
+    "https://www.tiktok.com/@amadeusjusten",
+    "https://www.youtube.com/@amadeusjusten"
    ],
    "financas": {
     "fefc": 110.0,
@@ -1107,7 +1136,8 @@
    "concorreu2022": false,
    "redes": [
     "https://www.instagram.com/amanda_bontempo",
-    "https://www.instagram.com/bontempoamanda_"
+    "https://www.instagram.com/bontempoamanda_",
+    "https://www.tiktok.com/@amanda_bontempo"
    ],
    "financas": {
     "fefc": 330000.0,
@@ -1133,6 +1163,14 @@
    "idade": 37,
    "patrimonio": 63877.74,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/amandagondim",
+    "https://www.facebook.com/amandatgondim",
+    "https://www.instagram.com/amandagondimudi",
+    "https://www.tiktok.com/@amandagondimudi",
+    "https://www.youtube.com/@amandagondimudi",
+    "https://x.com/amandagondimudi"
+   ],
    "financas": {
     "proprios": 5000.0,
     "arrecadado": 5000.0,
@@ -1232,6 +1270,12 @@
    "ocupacao": "Dona de casa",
    "idade": 51,
    "patrimonio": 53808.0,
+   "redes": [
+    "https://www.facebook.com/anamaria.fialholeitelima",
+    "https://www.instagram.com/anafialho.14",
+    "https://www.tiktok.com/@anafialho.14",
+    "https://x.com/anafialho_14"
+   ],
    "financas": {
     "fefc": 6988.78,
     "arrecadado": 6988.78,
@@ -1311,7 +1355,7 @@
    "nome": "Ana do Padre Frederico",
    "partido": "PP",
    "escolaridade": "Superior completo",
-   "ocupacao": "Professor e instrutor de formação profissional",
+   "ocupacao": "Professor de ensino médio",
    "idade": 77,
    "patrimonio": 1215000.0,
    "concorreu2022": false,
@@ -1343,6 +1387,11 @@
    "patrimonio": 9947598.7,
    "concorreu2022": true,
    "patrimonio2022": 1507818.93,
+   "redes": [
+    "https://www.facebook.com/andersonluiscoelho",
+    "https://www.instagram.com/drandersoncoelho",
+    "https://www.tiktok.com/@andersoncosta.real"
+   ],
    "financas": {
     "pessoasFisicas": 50000.0,
     "proprios": 120000.0,
@@ -1399,9 +1448,10 @@
    "escolaridade": "Ensino médio completo",
    "ocupacao": "Empresário",
    "idade": 70,
-   "patrimonio": 671881.64,
+   "patrimonio": 2050045.64,
    "concorreu2022": false,
    "redes": [
+    "https://www.facebook.com/people/andrade-ipatinga/61575066387709",
     "https://www.facebook.com/profile.php",
     "https://www.instagram.com/andrade.ipatinga"
    ],
@@ -1481,6 +1531,9 @@
    "patrimonio": 532000.0,
    "concorreu2022": true,
    "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.facebook.com/andreianestor"
+   ],
    "financas": {
     "fefc": 196000.0,
     "arrecadado": 196000.0,
@@ -1558,6 +1611,11 @@
    "idade": 56,
    "patrimonio": 705000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/andrepolicial.lopes",
+    "https://www.instagram.com/andrepolicial_",
+    "https://www.tiktok.com/@andrelopes3036"
+   ],
    "financas": {
     "pessoasFisicas": 2000.0,
     "proprios": 2000.0,
@@ -1810,6 +1868,10 @@
    "idade": 77,
    "patrimonio": 1020760.87,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1eszs7nwgg",
+    "https://www.instagram.com/antonioadonismg"
+   ],
    "financas": {
     "fefc": 106000.0,
     "arrecadado": 106000.0,
@@ -1967,13 +2029,17 @@
   },
   {
    "numero": "22225",
-   "nome": "Averaldo Pica-Pau",
+   "nome": "Averaldo  Pica-Pau",
    "partido": "PL",
    "escolaridade": "Superior incompleto",
    "ocupacao": "Vereador",
    "idade": 43,
    "patrimonio": 658000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/19u3h8lr3f",
+    "https://www.instagram.com/averaldopica_pau"
+   ],
    "financas": {
     "fefc": 150000.0,
     "partido": 50000.0,
@@ -2068,6 +2134,10 @@
    "ocupacao": "Assistente social",
    "idade": 24,
    "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/beatrizandrade55995"
+   ],
    "financas": {
     "fefc": 100000.0,
     "partido": 3006.04,
@@ -2121,7 +2191,7 @@
    "nome": "Beatriz Lourenço",
    "partido": "UNIÃO",
    "escolaridade": "Superior completo",
-   "ocupacao": "Dona de casa",
+   "ocupacao": "Outros",
    "idade": 41,
    "patrimonio": 0.0,
    "concorreu2022": false,
@@ -2200,6 +2270,10 @@
    "patrimonio": 2020000.0,
    "concorreu2022": true,
    "patrimonio2022": 1030000.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.tiktok.com/@belinha22322"
+   ],
    "financas": {
     "fefc": 150000.0,
     "proprios": 1000.0,
@@ -2224,6 +2298,10 @@
    "idade": 33,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1dxkipyrny",
+    "https://www.instagram.com/belladaculturasl"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -2245,6 +2323,12 @@
    "ocupacao": "Representante comercial",
    "idade": 27,
    "patrimonio": 28756.52,
+   "redes": [
+    "https://instagram.com/bervalladaresmg",
+    "https://tiktok.com/@bevalladaresmg",
+    "https://x.com/bervalladaresmg",
+    "https://youtube.com/@bervalladaresmg"
+   ],
    "financas": {
     "fefc": 3674.78,
     "pessoasFisicas": 850.0,
@@ -2300,7 +2384,9 @@
    "patrimonio": 1249698.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/betocowboy.oficial"
+    "https://www.facebook.com/betocowboy.oficial",
+    "https://www.instagram.com/betocowboy.oficial",
+    "https://www.tiktok.com/@gilberto.teodoro79"
    ],
    "financas": {
     "pessoasFisicas": 4114.5,
@@ -2401,10 +2487,10 @@
    "numero": "11775",
    "nome": "Big Jhow",
    "partido": "PP",
-   "escolaridade": "Ensino médio completo",
+   "escolaridade": "Ensino médio incompleto",
    "ocupacao": "Outros",
    "idade": 35,
-   "patrimonio": 1091000.0,
+   "patrimonio": 2090000.0,
    "concorreu2022": true,
    "patrimonio2022": 200000.0,
    "redes": [
@@ -2511,6 +2597,9 @@
    "ocupacao": "Produtor agropecuário",
    "idade": 60,
    "patrimonio": 2385183.83,
+   "redes": [
+    "https://www.instagram.com/depbosco"
+   ],
    "financas": {
     "partido": 2696.73,
     "pessoasFisicas": 359000.0,
@@ -2599,6 +2688,14 @@
    "idade": 23,
    "patrimonio": 42000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/breno.fonseca.399846",
+    "https://www.facebook.com/brenofonsecamg",
+    "https://www.instagram.com/brenofonsecamg",
+    "https://www.tiktok.com/@brenofonsecamg",
+    "https://www.youtube.com/@brenofonseca",
+    "https://x.com/brenofonsecamg"
+   ],
    "financas": {
     "fefc": 300000.0,
     "pessoasFisicas": 200.0,
@@ -2658,6 +2755,14 @@
    "patrimonio": 147530.29,
    "concorreu2022": true,
    "patrimonio2022": 435892.04,
+   "redes": [
+    "https://www.facebook.com/brunoaraujonovo",
+    "https://www.facebook.com/brunoaraujonovo30",
+    "https://www.instagram.com/brunoaraujonovo",
+    "https://www.linkedin.com/in/brunoaraujonovo",
+    "https://www.tiktok.com/@brunoaraujonovo",
+    "https://www.youtube.com/@brunoaraujonovo"
+   ],
    "financas": {
     "fefc": 34200.0,
     "partido": 6500.0,
@@ -2762,7 +2867,9 @@
    "concorreu2022": true,
    "patrimonio2022": 450000.0,
    "redes": [
-    "https://facebook.com/brunomirandaoficial"
+    "https://facebook.com/brunomirandaoficial",
+    "https://www.facebook.com/brunomirandasal",
+    "https://www.instagram.com/brunomirandasales"
    ],
    "financas": {
     "fundoPartidario": 300000.0,
@@ -2784,7 +2891,7 @@
    "numero": "20038",
    "nome": "Cabo Borges",
    "partido": "PODE",
-   "escolaridade": "Ensino médio incompleto",
+   "escolaridade": "Ensino médio completo",
    "ocupacao": "Policial militar",
    "idade": 42,
    "patrimonio": 568500.0,
@@ -2813,6 +2920,9 @@
    "idade": 41,
    "patrimonio": 325820.72,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/cabodiegomg"
+   ],
    "financas": {
     "fefc": 300000.0,
     "partido": 50000.0,
@@ -2837,7 +2947,7 @@
    "escolaridade": "Ensino médio completo",
    "ocupacao": "Policial militar",
    "idade": 38,
-   "patrimonio": 298333474.61,
+   "patrimonio": 885244.61,
    "concorreu2022": false,
    "financas": {
     "pessoasFisicas": 163357.0,
@@ -2862,7 +2972,7 @@
    "escolaridade": "Ensino médio completo",
    "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
    "idade": 42,
-   "patrimonio": 0.0,
+   "patrimonio": 176684.16,
    "concorreu2022": true,
    "patrimonio2022": 140000.0,
    "financas": {
@@ -2883,11 +2993,15 @@
    "numero": "22357",
    "nome": "Cabo Wagner Alvarenga",
    "partido": "PL",
-   "escolaridade": "Ensino médio completo",
+   "escolaridade": "Superior completo",
    "ocupacao": "Servidor público estadual",
    "idade": 36,
    "patrimonio": 871893.9,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/cabowagneralvarenga",
+    "https://www.tiktok.com/@apoiocabo22357"
+   ],
    "financas": {
     "fefc": 180000.0,
     "fundoPartidario": 10127.89,
@@ -2960,7 +3074,7 @@
    "numero": "12412",
    "nome": "Camillo Carvalho",
    "partido": "PDT",
-   "escolaridade": "Ensino médio incompleto",
+   "escolaridade": "Ensino médio completo",
    "ocupacao": "Vendedor de comércio varejista e atacadista",
    "idade": 28,
    "patrimonio": 0.0,
@@ -2989,7 +3103,7 @@
    "escolaridade": "Ensino médio completo",
    "ocupacao": "Músico",
    "idade": 49,
-   "patrimonio": 0.0,
+   "patrimonio": 62500.0,
    "redes": [
     "https://www.facebook.com/dr.jonasvilaroficial",
     "https://www.facebook.com/share/191txutd2c",
@@ -3045,6 +3159,10 @@
    "idade": 39,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/carlacristina.simone",
+    "https://www.instagram.com/carl.asimoni"
+   ],
    "financas": {
     "fefc": 12000.0,
     "arrecadado": 12000.0,
@@ -3328,6 +3446,29 @@
    }
   },
   {
+   "numero": "35668",
+   "nome": "Carol  Ramos",
+   "partido": "DEMOCRATA",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Agente administrativo",
+   "idade": 38,
+   "patrimonio": 0.0,
+   "concorreu2022": true,
+   "patrimonio2022": 0.0,
+   "financas": {
+    "arrecadado": 0.0,
+    "contratado": 0.0,
+    "pago": 0.0,
+    "limite": 1270629.01,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
    "numero": "50500",
    "nome": "Carol Caldeira",
    "partido": "PSOL",
@@ -3336,6 +3477,10 @@
    "idade": 28,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/carolcaldeira.oficial",
+    "https://www.tiktok.com/@carolscaldeira_"
+   ],
    "financas": {
     "fefc": 104255.0,
     "fundoPartidario": 20000.0,
@@ -3463,29 +3608,6 @@
    }
   },
   {
-   "numero": "35668",
-   "nome": "Carol Ramos",
-   "partido": "DEMOCRATA",
-   "escolaridade": "Superior completo",
-   "ocupacao": "Agente administrativo",
-   "idade": 38,
-   "patrimonio": 0.0,
-   "concorreu2022": true,
-   "patrimonio2022": 0.0,
-   "financas": {
-    "arrecadado": 0.0,
-    "contratado": 0.0,
-    "pago": 0.0,
-    "limite": 1270629.01,
-    "ate": "29/09/2026"
-   },
-   "situacaoTSE": {
-    "tipo": "ok",
-    "texto": "Registro deferido",
-    "data": "29/09/2026"
-   }
-  },
-  {
    "numero": "15222",
    "nome": "Carol da Vila",
    "partido": "MDB",
@@ -3565,6 +3687,10 @@
    "idade": 47,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1bb3xigqd3",
+    "https://www.instagram.com/katiaa_costa"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -3608,7 +3734,7 @@
    "idade": 24,
    "patrimonio": 0.0,
    "redes": [
-    "https://instagram.com/alessandrosouza107",
+    "https://www.instagram.com/alessandro_cegao",
     "https://www.tiktok.com/@alessandrojune08"
    ],
    "financas": {
@@ -3740,6 +3866,14 @@
    "patrimonio": 275000.0,
    "concorreu2022": true,
    "patrimonio2022": 124000.0,
+   "redes": [
+    "https://www.facebook.com/charlessantosmg",
+    "https://www.instagram.com/charlessantosmg",
+    "https://www.threads.com/@charlessantosmg",
+    "https://www.tiktok.com/@charlessantosmg",
+    "https://www.youtube.com/@charlessantosmg7920",
+    "https://x.com/charlessantosmg"
+   ],
    "financas": {
     "pessoasFisicas": 11000.0,
     "proprios": 8000.0,
@@ -3768,6 +3902,7 @@
    "concorreu2022": true,
    "patrimonio2022": 40000.0,
    "redes": [
+    "https://www.facebook.com/chiarabiondinit",
     "https://www.instagram.com/chiarabiondinit"
    ],
    "financas": {
@@ -3799,6 +3934,10 @@
    "idade": 26,
    "patrimonio": 22700.84,
    "concorreu2022": false,
+   "redes": [
+    "https://www.tiktok.com/@chicovieiramg",
+    "https://youtube.com/chicovieira2435"
+   ],
    "financas": {
     "proprios": 1000.0,
     "outrosCandidatos": 2109.37,
@@ -3997,6 +4136,10 @@
    "patrimonio": 0.0,
    "concorreu2022": true,
    "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.facebook.com/cintiavieira",
+    "https://www.instagram.com/cintiavieira2020"
+   ],
    "financas": {
     "fefc": 2516.0,
     "arrecadado": 2516.0,
@@ -4141,7 +4284,8 @@
    "patrimonio": 0.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/cleiton.santosoficial"
+    "https://www.instagram.com/cleiton.santosoficial",
+    "https://www.tiktok.com/cleiton.santosofial"
    ],
    "financas": {
     "partido": 486.47,
@@ -4410,6 +4554,7 @@
    "concorreu2022": true,
    "patrimonio2022": 1517000.0,
    "redes": [
+    "https://www.facebook.com/coronelwanderleypmmg",
     "https://www.instagram.com/coronelwanderley"
    ],
    "financas": {
@@ -4545,6 +4690,14 @@
    "idade": 62,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/cristinagurgel2026",
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/cristinagurgel1",
+    "https://www.threads.com/@cris_tinagurgel",
+    "https://www.threads.com/@cristinagurgel1",
+    "https://www.tiktok.com/@cristinagurgel0"
+   ],
    "financas": {
     "pessoasFisicas": 997.5,
     "arrecadado": 997.5,
@@ -4785,7 +4938,8 @@
    "patrimonio2022": 970000.0,
    "redes": [
     "https://www.facebook.com/danimenucci",
-    "https://www.instagram.com/danimenucci"
+    "https://www.instagram.com/danimenucci",
+    "https://www.linkedin.com/in/danimenucci"
    ],
    "financas": {
     "fefc": 875.0,
@@ -4873,6 +5027,13 @@
    "patrimonio": 105000.0,
    "concorreu2022": true,
    "patrimonio2022": 40907.32,
+   "redes": [
+    "https://www.facebook.com/danieldobemminas",
+    "https://www.instagram.com/danieldobem",
+    "https://www.threads.com/@danieldobem",
+    "https://www.tiktok.com/@danieldobem",
+    "https://youtube.com/@danieldobem"
+   ],
    "financas": {
     "pessoasFisicas": 72300.0,
     "proprios": 24300.0,
@@ -4899,6 +5060,12 @@
    "idade": 33,
    "patrimonio": 133907.61,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/danieldoirineumg",
+    "https://www.instagram.com/danieldoirineu",
+    "https://www.tiktok.com/@danieldoirineu",
+    "https://www.youtube.com/@danieldoirineu233"
+   ],
    "financas": {
     "pessoasFisicas": 40000.0,
     "proprios": 36040.0,
@@ -4948,7 +5115,9 @@
    "redes": [
     "https://www.facebook.com/danielafabianne",
     "https://www.instagram.com/danielafabianne",
-    "https://www.linkedin.com/in/daniela-fabianne-faria-silva-12bb8a221"
+    "https://www.linkedin.com/in/daniela-fabianne-faria-silva-12bb8a221",
+    "https://www.tiktok.com/@daniela_fabianne",
+    "https://www.youtube.com/@danielafabianne"
    ],
    "financas": {
     "fundoPartidario": 5000.0,
@@ -5022,6 +5191,10 @@
    "idade": 41,
    "patrimonio": 1111000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/danilo_alvarengaf",
+    "https://www.instagram.com/daniloalvarengaf"
+   ],
    "financas": {
     "fefc": 80000.0,
     "pessoasFisicas": 27356.0,
@@ -5079,8 +5252,10 @@
    "patrimonio": 1000800.0,
    "redes": [
     "https://vt.tiktok.com/zs4wojtds",
+    "https://www.instagram.com/daralealborges/reels",
     "https://www.instagram.com/darleal",
-    "https://www.tiktok.com/@daraleal02"
+    "https://www.tiktok.com/@daraleal02",
+    "https://www.tiktok.com/@dhara12476"
    ],
    "financas": {
     "fefc": 100000.0,
@@ -5203,6 +5378,34 @@
    }
   },
   {
+   "numero": "70111",
+   "nome": "Delegado  Ivan Lopes",
+   "partido": "AVANTE",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 53,
+   "patrimonio": 367345.35,
+   "redes": [
+    "https://www.instagram.com/delegadoivanlopes"
+   ],
+   "financas": {
+    "fefc": 25000.0,
+    "pessoasFisicas": 8500.0,
+    "proprios": 34465.05,
+    "arrecadado": 67965.05,
+    "contratado": 40105.03,
+    "pago": 4100.0,
+    "limite": 1270629.01,
+    "doadoresPF": 10,
+    "ate": "29/09/2026"
+   },
+   "situacaoTSE": {
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
+   }
+  },
+  {
    "numero": "55555",
    "nome": "Delegado Christiano Xavier",
    "partido": "PSD",
@@ -5261,34 +5464,6 @@
    }
   },
   {
-   "numero": "70111",
-   "nome": "Delegado Ivan Lopes",
-   "partido": "AVANTE",
-   "escolaridade": "Superior completo",
-   "ocupacao": "Outros",
-   "idade": 53,
-   "patrimonio": 367345.35,
-   "redes": [
-    "https://www.instagram.com/delegadoivanlopes"
-   ],
-   "financas": {
-    "fefc": 25000.0,
-    "pessoasFisicas": 8500.0,
-    "proprios": 34465.05,
-    "arrecadado": 67965.05,
-    "contratado": 40105.03,
-    "pago": 4100.0,
-    "limite": 1270629.01,
-    "doadoresPF": 10,
-    "ate": "29/09/2026"
-   },
-   "situacaoTSE": {
-    "tipo": "ok",
-    "texto": "Registro deferido",
-    "data": "29/09/2026"
-   }
-  },
-  {
    "numero": "33678",
    "nome": "Demetrio Ayala",
    "partido": "MOBILIZA",
@@ -5316,7 +5491,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Produtor agropecuário",
    "idade": 63,
-   "patrimonio": 23568433.82,
+   "patrimonio": 23891366.92,
    "concorreu2022": false,
    "financas": {
     "fefc": 495000.0,
@@ -5337,7 +5512,7 @@
   },
   {
    "numero": "12040",
-   "nome": "Denis da van",
+   "nome": "Denis  da van",
    "partido": "PDT",
    "escolaridade": "Ensino médio completo",
    "ocupacao": "Outros",
@@ -5393,6 +5568,10 @@
    "patrimonio": 0.0,
    "concorreu2022": true,
    "patrimonio2022": 440000.0,
+   "redes": [
+    "https://www.facebook.com/denisemax",
+    "https://www.instagram.com/denisedasupravereadora"
+   ],
    "financas": {
     "fefc": 561000.0,
     "fundoPartidario": 80000.0,
@@ -5445,6 +5624,11 @@
    "idade": 39,
    "patrimonio": 6879312.93,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1djjxbp5bk",
+    "https://www.instagram.com/deyvisondaacolhersaude",
+    "https://youtube.com/@deyvisonabreufreitas4641"
+   ],
    "financas": {
     "fefc": 400000.0,
     "partido": 4673.95,
@@ -5540,7 +5724,8 @@
    "idade": 42,
    "patrimonio": 596232.0,
    "redes": [
-    "https://facebook.com/diegooliveiramg"
+    "https://facebook.com/diegooliveiramg",
+    "https://www.instagram.com/diegooliveiramg_"
    ],
    "financas": {
     "fefc": 100000.0,
@@ -5621,6 +5806,14 @@
    "idade": 62,
    "patrimonio": 140090.44,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/dirce.aida",
+    "https://www.instagram.com/dirceaida",
+    "https://www.linkedin.com/in/dirce-a%c3%adda-50506b156",
+    "https://www.threads.com/@dirceaida",
+    "https://www.tiktok.com/@dirceaida",
+    "https://www.youtube.com/@dirceaidafranciscoribeirom6701"
+   ],
    "financas": {
     "fefc": 900000.0,
     "proprios": 1500.0,
@@ -5646,6 +5839,10 @@
    "patrimonio": 1418980.67,
    "concorreu2022": true,
    "patrimonio2022": 5160000.0,
+   "redes": [
+    "https://www.facebook.com/dirceuribeirosantos",
+    "https://www.instagram.com/dirceu.dossantosribeiro.3"
+   ],
    "financas": {
     "pessoasFisicas": 10.0,
     "proprios": 20161.24,
@@ -5693,7 +5890,10 @@
    "numero": "33125",
    "nome": "Dona Fatima Professora",
    "partido": "MOBILIZA",
-   "detalhesPendentes": true,
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público civil aposentado",
+   "idade": 74,
+   "patrimonio": 0.0,
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -5964,6 +6164,10 @@
    "idade": 57,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/willsantos",
+    "https://www.instagram.com/willsantosnap"
+   ],
    "financas": {
     "fefc": 2516.0,
     "arrecadado": 2516.0,
@@ -5986,6 +6190,9 @@
    "ocupacao": "Médico",
    "idade": 57,
    "patrimonio": 6528607.77,
+   "redes": [
+    "https://www.instagram.com/drwilsonbatista"
+   ],
    "financas": {
     "partido": 117696.79,
     "pessoasFisicas": 200.0,
@@ -6012,6 +6219,13 @@
    "idade": 50,
    "patrimonio": 761182.3,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/184cb3kjzc",
+    "https://www.facebook.com/share/1basebwuea",
+    "https://www.instagram.com/adailton.advog",
+    "https://www.instagram.com/apoio_adailton_dep.estadual",
+    "https://www.tiktok.com/@adailton.advog"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -6285,6 +6499,7 @@
    "redes": [
     "https://www.facebook.com/brunopedralvabh",
     "https://www.instagram.com/brunopedralvabh",
+    "https://www.tiktok.com/@brunopedralvabh",
     "https://www.youtube.com/@brunopedralvabh",
     "https://x.com/brunopedralva"
    ],
@@ -6424,6 +6639,12 @@
    "idade": 75,
    "patrimonio": 250250.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/drefigeniosoares40789",
+    "https://www.facebook.com/drefigeniosoaresoficial",
+    "https://www.instagram.com/drefigeniosoares40789",
+    "https://www.tiktok.com/@drefigeniosoares40789"
+   ],
    "financas": {
     "pessoasFisicas": 1300.0,
     "proprios": 15550.0,
@@ -6596,7 +6817,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Advogado",
    "idade": 54,
-   "patrimonio": 1518952.0,
+   "patrimonio": 1298365.96,
    "concorreu2022": true,
    "patrimonio2022": 755983.33,
    "redes": [
@@ -6665,7 +6886,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Médico",
    "idade": 40,
-   "patrimonio": 5738872.34,
+   "patrimonio": 6480872.34,
    "redes": [
     "https://www.facebook.com/drjorgeali20100/#",
     "https://www.instagram.com/drjorgeali"
@@ -6698,9 +6919,10 @@
    "redes": [
     "https://instagram.com/drjpsbmf",
     "https://twitter.com/joodepauladoss2",
+    "https://www.facebook.com/dr.joaodepaulabucomaxilo",
     "https://www.facebook.com/profile.php",
-    "https://www.linkedin.com/in/joão-de-paula-dos-santos-3645b22a",
-    "https://www.youtube.com/@joaodepauladossantos2887"
+    "https://www.instagram.com/dr.joaodepaulabucomaxilo",
+    "https://www.linkedin.com/in/joão-de-paula-dos-santos-3645b22a"
    ],
    "financas": {
     "fefc": 110.0,
@@ -6782,7 +7004,8 @@
    "patrimonio2022": 8300505.68,
    "redes": [
     "https://www.facebook.com/dep.dr.mauricio",
-    "https://www.instagram.com/drmauricio"
+    "https://www.instagram.com/drmauricio",
+    "https://www.youtube.com/@dep.dr.mauricio"
    ],
    "financas": {
     "pessoasFisicas": 118700.0,
@@ -6811,7 +7034,11 @@
    "concorreu2022": true,
    "patrimonio2022": 160000.0,
    "redes": [
-    "https://www.instagram.com/dr.osair.santiago"
+    "https://www.facebook.com/share/17yibygkar",
+    "https://www.instagram.com/dr.osair.santiago",
+    "https://www.threads.com/@dr.osair.santiago",
+    "https://www.tiktok.com/@dr.osair.santiago",
+    "https://youtube.com/@osairsantiago-oz4vf"
    ],
    "financas": {
     "arrecadado": 0.0,
@@ -6890,6 +7117,13 @@
    "idade": 49,
    "patrimonio": 1801900.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1etlzmnicx",
+    "https://www.instagram.com/dr.rogerioleal",
+    "https://www.threads.com/@dr.rogerioleal",
+    "https://www.tiktok.com/@dr.rogerio.leal",
+    "https://x.com/dr_rogerioleal"
+   ],
    "financas": {
     "fefc": 150000.0,
     "pessoasFisicas": 6600.0,
@@ -6939,6 +7173,14 @@
    "patrimonio": 2541974.8,
    "concorreu2022": true,
    "patrimonio2022": 3370000.0,
+   "redes": [
+    "https://www.facebook.com/share/1hnjfenjan",
+    "https://www.facebook.com/share/1msstmlg2n",
+    "https://www.instagram.com/dr.viniciusresende",
+    "https://www.threads.com/%40dr.viniciusresende",
+    "https://www.tiktok.com/%40dr.viniciusresende",
+    "https://youtube.com/%40dr.viniciusresende"
+   ],
    "financas": {
     "fefc": 400000.0,
     "partido": 1755.95,
@@ -6966,6 +7208,10 @@
    "idade": 63,
    "patrimonio": 2740000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/drwelingtonmoreira",
+    "https://www.instagram.com/@drwelingtonmoreira"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -7222,7 +7468,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Servidor público municipal",
    "idade": 37,
-   "patrimonio": 0.0,
+   "patrimonio": 450000.0,
    "redes": [
     "https://www.facebook.com/people/dra-fernanda-gon%c3%a7alves/61589883788568",
     "https://www.facebook.com/share/1bbsvtf9h6",
@@ -7281,7 +7527,9 @@
    "patrimonio": 200000.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/dra._marialaurasimao"
+    "https://www.facebook.com/maria.laura.simao.2025",
+    "https://www.instagram.com/dra._marialaurasimao",
+    "https://www.instagram.com/qualivitafisio_clinica_"
    ],
    "financas": {
     "fefc": 100000.0,
@@ -7306,6 +7554,10 @@
    "idade": 66,
    "patrimonio": 1897566.04,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/dramarciagripp",
+    "https://www.instagram.com/dramarciagripp"
+   ],
    "financas": {
     "fefc": 210000.0,
     "pessoasFisicas": 15000.0,
@@ -7435,7 +7687,11 @@
    "patrimonio": 510449.66,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/ouropretopsol"
+    "https://www.facebook.com/du.evangelistaferreira",
+    "https://www.instagram.com/du.evangelista",
+    "https://www.instagram.com/ouropretopsol",
+    "https://www.tiktok.com/@du.evangelista50222",
+    "https://www.youtube.com/@du.evangelista,"
    ],
    "financas": {
     "fefc": 97849.0,
@@ -7459,6 +7715,10 @@
    "ocupacao": "Deputado",
    "idade": 69,
    "patrimonio": 1243000.0,
+   "redes": [
+    "https://www.facebook.com/deputadoduarte",
+    "https://www.instagram.com/duartebechir"
+   ],
    "financas": {
     "pessoasFisicas": 676420.0,
     "proprios": 70000.0,
@@ -7486,6 +7746,10 @@
    "patrimonio": 102050.0,
    "concorreu2022": true,
    "patrimonio2022": 8000.0,
+   "redes": [
+    "https://www.facebook.com/share/1rtfrr9vbd",
+    "https://www.instagram.com/dudalima.prd"
+   ],
    "financas": {
     "fefc": 66000.0,
     "arrecadado": 66000.0,
@@ -7578,6 +7842,13 @@
    "patrimonio": 565000.0,
    "concorreu2022": true,
    "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.facebook.com/deliopinheirotv",
+    "https://www.instagram.com/deliopinheirojornalista",
+    "https://www.tiktok.com/@deliopinheirotv",
+    "https://x.com/deliopinheiro",
+    "https://youtube.com/2deliopinheiro1777"
+   ],
    "financas": {
     "fefc": 20000.0,
     "proprios": 15000.0,
@@ -7651,7 +7922,7 @@
    "numero": "22789",
    "nome": "Ebinho Bernardes",
    "partido": "PL",
-   "escolaridade": "Ensino fundamental incompleto",
+   "escolaridade": "Superior incompleto",
    "ocupacao": "Produtor agropecuário",
    "idade": 51,
    "patrimonio": 0.0,
@@ -7777,7 +8048,7 @@
    "nome": "Edinho Souza",
    "partido": "PP",
    "escolaridade": "Superior completo",
-   "ocupacao": "Motorista particular",
+   "ocupacao": "Empresário",
    "idade": 55,
    "patrimonio": 150000.0,
    "concorreu2022": true,
@@ -7785,7 +8056,9 @@
    "redes": [
     "https://www.facebook.com/edio.vieira.9",
     "https://www.instagram.com/edinhosouzasabara",
-    "https://www.tiktok.com/@edinhosouza5518"
+    "https://www.tiktok.com/@edinhosouza5518",
+    "https://x.com/edinhosouzaaa",
+    "https://youtube.com/@edinhoplay7"
    ],
    "financas": {
     "arrecadado": 0.0,
@@ -7808,6 +8081,9 @@
    "ocupacao": "Empresário",
    "idade": 45,
    "patrimonio": 5000.0,
+   "redes": [
+    "https://www.instagram.com/edirlaner"
+   ],
    "financas": {
     "fefc": 500000.0,
     "partido": 4627.78,
@@ -7834,6 +8110,7 @@
    "concorreu2022": false,
    "redes": [
     "https://web.facebook.com/edmarmartinsbranco",
+    "https://www.facebook.com/edmarmartinsbranco",
     "https://www.instagram.com/edmar.branco",
     "https://www.youtube.com/@edmarbranco"
    ],
@@ -7914,6 +8191,9 @@
    "ocupacao": "Aposentado (exceto servidor público)",
    "idade": 64,
    "patrimonio": 1030000.0,
+   "redes": [
+    "https://instagram.com/edsonnegao.pstu"
+   ],
    "financas": {
     "fefc": 10872.0,
     "arrecadado": 10872.0,
@@ -7965,7 +8245,9 @@
    "patrimonio2022": 507000.0,
    "redes": [
     "https://www.facebook.com/eduardoazevedomg",
-    "https://www.instagram.com/eduardoazevedomg"
+    "https://www.instagram.com/eduardoazevedo.br",
+    "https://www.instagram.com/eduardoazevedomg",
+    "https://www.instagram.com/irmaos.azevedomg"
    ],
    "financas": {
     "fefc": 300000.0,
@@ -8020,6 +8302,11 @@
    "idade": 66,
    "patrimonio": 1000000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/eduardopeixe.oficial",
+    "https://www.instagram.com/eduardopeixe.oficial",
+    "https://www.tiktok.com/@eduardopeixe.oficial"
+   ],
    "financas": {
     "pessoasFisicas": 1180.0,
     "arrecadado": 1180.0,
@@ -8072,6 +8359,9 @@
    "idade": 43,
    "patrimonio": 100000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/eduardodopovo"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -8210,6 +8500,10 @@
    "idade": 70,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/elianachistee",
+    "https://www.instagram.com/eliana_chiste"
+   ],
    "financas": {
     "pessoasFisicas": 39560.0,
     "arrecadado": 39560.0,
@@ -8324,6 +8618,11 @@
    "idade": 52,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/elisabete.oficial.mg",
+    "https://www.threads.com/@elisabete.oficial.mg",
+    "https://www.tiktok.com/@elisabete.oficial.mg"
+   ],
    "financas": {
     "fefc": 100000.0,
     "arrecadado": 100000.0,
@@ -8578,6 +8877,11 @@
    "patrimonio": 585000.0,
    "concorreu2022": true,
    "patrimonio2022": 709000.0,
+   "redes": [
+    "https://www.facebook.com/enfermeirogustavoarantes",
+    "https://www.instagram.com/enfermeirogustavoarantes",
+    "https://www.tiktok.com/@enfermeirogustavoarantes"
+   ],
    "financas": {
     "fefc": 250000.0,
     "pessoasFisicas": 3200.0,
@@ -8748,6 +9052,9 @@
    "ocupacao": "Empresário",
    "idade": 55,
    "patrimonio": 576522.23,
+   "redes": [
+    "https://www.instagram.com/eugenio_vilelaformiga"
+   ],
    "financas": {
     "partido": 124515.85,
     "pessoasFisicas": 5000.0,
@@ -8830,7 +9137,10 @@
    "patrimonio": 87993.35,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/evagoncalvesmg"
+    "https://www.facebook.com/evagoncalvesmg",
+    "https://www.instagram.com/evagoncalvesmg",
+    "https://www.tiktok.com/@evagoncalvesmg",
+    "https://x.com/evagoncalvesmg"
    ],
    "financas": {
     "fefc": 100000.0,
@@ -8854,7 +9164,7 @@
    "escolaridade": "Ensino fundamental incompleto",
    "ocupacao": "Outros",
    "idade": 64,
-   "patrimonio": 402432.98,
+   "patrimonio": 702432.98,
    "concorreu2022": false,
    "redes": [
     "https://www.facebook.com/evandroalvesmg",
@@ -8912,6 +9222,10 @@
    "patrimonio": 370000.0,
    "concorreu2022": false,
    "redes": [
+    "https://www.instagram.com/fabianagoulartpsicologa",
+    "https://www.threads.com/@fabianagoulartpsicologa",
+    "https://www.tiktok.com/@fabianagoulartpsicologa",
+    "https://www.youtube.com/@fabigoulartpsicologa",
     "https://x.com/fabigoulart30"
    ],
    "financas": {
@@ -9015,12 +9329,12 @@
    "concorreu2022": true,
    "patrimonio2022": 8371.89,
    "redes": [
+    "https://k.kwai.com/u/@fabao_vereador/jscazca0",
     "https://www.facebook.com/fabaovereador",
     "https://www.facebook.com/sosudia",
     "https://www.instagram.com/fabaovereador",
     "https://www.instagram.com/sos_uberlandia",
-    "https://www.threads.com/@fabaovereador",
-    "https://www.tiktok.com/@fabaovereador"
+    "https://www.threads.com/@fabaovereador"
    ],
    "financas": {
     "fefc": 100000.0,
@@ -9177,10 +9491,10 @@
    "redes": [
     "https://www.facebook.com/ahelixo2",
     "https://www.facebook.com/felipeambiente",
+    "https://www.facebook.com/felipegomes50321",
     "https://www.instagram.com/ahelixo",
     "https://www.instagram.com/felipe.gomes.br",
-    "https://www.linkedin.com/in/ahelixo",
-    "https://www.threads.com/@ahelixo"
+    "https://www.instagram.com/felipegomes50321"
    ],
    "financas": {
     "fefc": 199481.0,
@@ -9230,6 +9544,14 @@
    "ocupacao": "Motorista particular",
    "idade": 36,
    "patrimonio": 230000.0,
+   "redes": [
+    "https://facebook.com/1bmya8qc4d",
+    "https://instagram.com/c.felipesouza",
+    "https://tiktok.com/@felipedesouzacruz",
+    "https://www.facebook.com/share/1bmya8qc4d",
+    "https://www.instagram.com/c.felipesouza",
+    "https://www.instagram.com/contageminforma"
+   ],
    "financas": {
     "fefc": 3674.78,
     "arrecadado": 3674.78,
@@ -9299,12 +9621,13 @@
    "nome": "Fernanda David",
    "partido": "PP",
    "escolaridade": "Superior completo",
-   "ocupacao": "Empresário",
+   "ocupacao": "Comerciante",
    "idade": 45,
    "patrimonio": 0.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/ferdavid.vga"
+    "https://www.instagram.com/ferdavid.vga",
+    "https://www.tiktok.com/@ferdavid67"
    ],
    "financas": {
     "fefc": 135000.0,
@@ -9385,6 +9708,13 @@
    "idade": 36,
    "patrimonio": 1265803.62,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/fernandobrenocoro",
+    "https://www.threads.com/@fernandobrenocoro",
+    "https://www.threads.com/fernandobrenocoro",
+    "https://www.tiktok.com/@fernandobrenocoro",
+    "https://www.youtube.com/@fernandobrenocoromandel"
+   ],
    "financas": {
     "fefc": 500000.0,
     "proprios": 120000.0,
@@ -9437,8 +9767,11 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Advogado",
    "idade": 64,
-   "patrimonio": 775000.0,
+   "patrimonio": 787632.91,
    "concorreu2022": false,
+   "redes": [
+    "https://facebook.com/fernandoferrazneiva"
+   ],
    "financas": {
     "fefc": 3323.55,
     "arrecadado": 3323.55,
@@ -9460,9 +9793,14 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Agente administrativo",
    "idade": 60,
-   "patrimonio": 0.0,
+   "patrimonio": 323407.33,
    "concorreu2022": true,
    "patrimonio2022": 350251.63,
+   "redes": [
+    "https://www.facebook.com/fernandopachecocataguases",
+    "https://www.facebook.com/fernandopachecocataguasess",
+    "https://www.instagram.com/fernandopachecocataguases"
+   ],
    "financas": {
     "proprios": 47031.0,
     "arrecadado": 47031.0,
@@ -9515,7 +9853,11 @@
    "patrimonio": 100000.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/filiperibeiro_br"
+    "https://k.kwai.com/u/@pr.filiperibeiro/iaymncm5",
+    "https://www.facebook.com/share/1ehkxrgrzy",
+    "https://www.instagram.com/filiperibeiro_br",
+    "https://www.tiktok.com/@filiperibeiro_mg",
+    "https://youtube.com/@filiperibeiro1219"
    ],
    "financas": {
     "partido": 2773.95,
@@ -9540,6 +9882,12 @@
    "ocupacao": "Empresário",
    "idade": 29,
    "patrimonio": 146108.0,
+   "redes": [
+    "https://facebook.com/filipe.spoladori",
+    "https://instagram.com/spoladorii",
+    "https://tiktok.com/@spoladorii",
+    "https://youtube.com/@spoladorii"
+   ],
    "financas": {
     "fefc": 3674.78,
     "pessoasFisicas": 4290.0,
@@ -9758,6 +10106,12 @@
    "ocupacao": "Administrador",
    "idade": 59,
    "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/flavionetopre",
+    "https://www.tiktok.com/@flavionetocandidato",
+    "https://www.youtube.com/@fl%c3%a1vioant%c3%b4nioneto"
+   ],
    "financas": {
     "fefc": 5000.0,
     "arrecadado": 5000.0,
@@ -9834,6 +10188,11 @@
    "idade": 61,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/bp.franklin.solico",
+    "https://www.instagram.com/franksolico_",
+    "https://www.tiktok.com/@franklin.rodrigue220"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -10020,6 +10379,13 @@
    "idade": 41,
    "patrimonio": 5770805.88,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/gabrielalessamg",
+    "https://www.instagram.com/gabrielalessamg",
+    "https://www.tiktok.com/gabrielalessamg",
+    "https://www.x.com/gabrielalessamg",
+    "https://www.youtube.com/gabrielalessamg"
+   ],
    "financas": {
     "fefc": 17000.0,
     "pessoasFisicas": 146000.0,
@@ -10047,7 +10413,9 @@
    "patrimonio": 128000.0,
    "redes": [
     "https://www.facebook.com/gabiferoficial",
-    "https://www.instagram.com/gabycamposoficial"
+    "https://www.instagram.com/gabycamposoficial",
+    "https://www.threads.com/@gabycamposoficial",
+    "https://www.tiktok.com/@gabycamposof"
    ],
    "financas": {
     "fundoPartidario": 20000.0,
@@ -10124,6 +10492,7 @@
    "patrimonio": 638000.0,
    "concorreu2022": false,
    "redes": [
+    "https://www.facebook.com/geraldovale.vale",
     "https://www.instagram.com/geraldovale"
    ],
    "financas": {
@@ -10227,6 +10596,9 @@
    "ocupacao": "Deputado",
    "idade": 65,
    "patrimonio": 2089610.07,
+   "redes": [
+    "https://www.instagram.com/gilpereira.mg"
+   ],
    "financas": {
     "partido": 150000.0,
     "pessoasFisicas": 218800.0,
@@ -10335,8 +10707,11 @@
    "patrimonio": 32000.0,
    "concorreu2022": false,
    "redes": [
+    "https://www.facebook.com/gilvanar",
+    "https://www.instagram.com/gilvanaramgrab",
     "https://www.instagram.com/ramgrabgilvana",
-    "https://www.threads.com/@ramgrabgilvana"
+    "https://www.threads.com/@ramgrabgilvana",
+    "https://www.tiktok.com/@gilvanaalmeida109"
    ],
    "financas": {
     "fefc": 100000.0,
@@ -10359,7 +10734,7 @@
    "partido": "DEMOCRATA",
    "escolaridade": "Ensino fundamental incompleto",
    "ocupacao": "Outros",
-   "idade": 42,
+   "idade": 37,
    "patrimonio": 0.0,
    "concorreu2022": false,
    "financas": {
@@ -10385,6 +10760,12 @@
    "patrimonio": 0.0,
    "concorreu2022": true,
    "patrimonio2022": 0.0,
+   "redes": [
+    "https://k.kwai.com/u/@giselemagalhaes32/xuczqxrl",
+    "https://www.facebook.com/share/1cau3clqpu",
+    "https://www.instagram.com/giseledasaudeoficial",
+    "https://www.tiktok.com/@giselecristinamagalhaes0"
+   ],
    "financas": {
     "fundoPartidario": 25000.0,
     "outrosCandidatos": 25000.0,
@@ -10427,7 +10808,10 @@
    "numero": "40031",
    "nome": "Gislene Dias",
    "partido": "PSB",
-   "detalhesPendentes": true,
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Empresário",
+   "idade": 43,
+   "patrimonio": 0.0,
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -10474,6 +10858,10 @@
    "idade": 25,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://tiktok.com/@giusilvestree",
+    "https://www.instagram.com/giusilvestree"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -10611,7 +10999,12 @@
    "patrimonio": 1.92,
    "concorreu2022": false,
    "redes": [
-    "https://facebook.com/gleicilene.souzapires"
+    "https://facebook.com/gleicilene.souzapires",
+    "https://www.facebook.com/gleicilenedefensora",
+    "https://www.facebook.com/gleicilenesouza",
+    "https://www.facebook.com/share/17khnv6vgr",
+    "https://www.facebook.com/share/1bkyyfunrq",
+    "https://www.instagram.com/gleicilene.defensora"
    ],
    "financas": {
     "fefc": 20000.0,
@@ -10661,7 +11054,10 @@
    "numero": "33033",
    "nome": "Gloria São Cosme",
    "partido": "MOBILIZA",
-   "detalhesPendentes": true,
+   "escolaridade": "Superior completo",
+   "ocupacao": "Outros",
+   "idade": 63,
+   "patrimonio": 0.0,
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -10709,6 +11105,7 @@
    "patrimonio2022": 1357463.63,
    "redes": [
     "https://www.facebook.com/gregodafundacao",
+    "https://www.facebook.com/share/1gxomtrtdv",
     "https://www.instagram.com/gregodafundacao",
     "https://www.tiktok.com/@gregodafundacao"
    ],
@@ -10736,7 +11133,7 @@
    "escolaridade": "Superior incompleto",
    "ocupacao": "Outros",
    "idade": 29,
-   "patrimonio": 729.64,
+   "patrimonio": 135729.64,
    "concorreu2022": false,
    "redes": [
     "https://www.facebook.com/share/1btreohtaw",
@@ -10870,6 +11267,9 @@
    "ocupacao": "Empresário",
    "idade": 34,
    "patrimonio": 0.0,
+   "redes": [
+    "https://instagram.com/gustavocaldeira.missao"
+   ],
    "financas": {
     "fefc": 3674.78,
     "arrecadado": 3674.78,
@@ -10888,7 +11288,7 @@
    "numero": "33999",
    "nome": "Gustavo Damásio",
    "partido": "MOBILIZA",
-   "escolaridade": "Ensino médio incompleto",
+   "escolaridade": "Superior completo",
    "ocupacao": "Servidor público estadual",
    "idade": 43,
    "patrimonio": 81979.0,
@@ -10937,9 +11337,17 @@
    "escolaridade": "Superior incompleto",
    "ocupacao": "Empresário",
    "idade": 47,
-   "patrimonio": 455419.74,
+   "patrimonio": 338419.74,
    "concorreu2022": true,
    "patrimonio2022": 331641.39,
+   "redes": [
+    "https://www.facebook.com/gustavosantanaplmg",
+    "https://www.instagram.com/gustavosantanaplmg",
+    "https://www.threads.com/@gustavosantanaplmg",
+    "https://www.tiktok.com/@gustavosantanaplmg",
+    "https://www.youtube.com/@gustavosantanaplmg",
+    "https://x.com/depgusantana"
+   ],
    "financas": {
     "fefc": 1195000.0,
     "fundoPartidario": 10127.9,
@@ -10965,6 +11373,9 @@
    "ocupacao": "Empresário",
    "idade": 49,
    "patrimonio": 5334800.0,
+   "redes": [
+    "https://www.instagram.com/valadaresgustavo"
+   ],
    "financas": {
     "partido": 370000.0,
     "pessoasFisicas": 560350.0,
@@ -10991,6 +11402,11 @@
    "idade": 43,
    "patrimonio": 537436.99,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/gutoresende25",
+    "https://www.instagram.com/guto.resende",
+    "https://www.tiktok.com/@guto.resende0"
+   ],
    "financas": {
     "pessoasFisicas": 166000.07,
     "proprios": 125000.0,
@@ -11097,6 +11513,12 @@
    "ocupacao": "Vereador",
    "idade": 26,
    "patrimonio": 14219.35,
+   "redes": [
+    "https://www.facebook.com/heltonjuniorbh",
+    "https://www.instagram.com/heltonjuniorbh",
+    "https://www.tiktok.com/heltonjuniorbh",
+    "https://www.x.com/heltonjuniorbh"
+   ],
    "financas": {
     "fefc": 100000.0,
     "partido": 57019.04,
@@ -11126,7 +11548,11 @@
    "concorreu2022": false,
    "redes": [
     "https://www.facebook.com/henrico.salomao.5",
-    "https://www.instagram.com/henricodemg"
+    "https://www.facebook.com/henricodopt",
+    "https://www.instagram.com/henricodemg",
+    "https://www.instagram.com/henricodopt",
+    "https://www.threads.com/@henricodopt",
+    "https://x.com/henricodopt"
    ],
    "financas": {
     "fefc": 15500.0,
@@ -11150,13 +11576,16 @@
    "numero": "11032",
    "nome": "Henrique Ferreira",
    "partido": "PP",
-   "escolaridade": "Ensino médio completo",
+   "escolaridade": "Superior incompleto",
    "ocupacao": "Empresário",
    "idade": 23,
    "patrimonio": 47944.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/henriqueferreira_mg"
+    "https://www.facebook.com/yan.henrique.547",
+    "https://www.instagram.com/henriqueferreira_mg",
+    "https://www.tiktok.com/@henriqueferreira_mg",
+    "https://x.com/henriquemgjf"
    ],
    "financas": {
     "fefc": 20000.0,
@@ -11200,12 +11629,13 @@
    "numero": "11195",
    "nome": "Hercules Pinheiro",
    "partido": "PP",
-   "escolaridade": "Ensino médio incompleto",
+   "escolaridade": "Ensino médio completo",
    "ocupacao": "Eletricista e assemelhados",
    "idade": 50,
    "patrimonio": 23000.0,
    "concorreu2022": false,
    "redes": [
+    "https://www.facebook.com/hercules20082oficial",
     "https://www.instagram.com/hercules894"
    ],
    "financas": {
@@ -11345,7 +11775,7 @@
    "numero": "11555",
    "nome": "Igor Araujo O Social",
    "partido": "PP",
-   "escolaridade": "Ensino fundamental completo",
+   "escolaridade": "Ensino médio completo",
    "ocupacao": "Outros",
    "idade": 41,
    "patrimonio": 29900.0,
@@ -11378,7 +11808,10 @@
    "patrimonio": 651859.87,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/igor.gdias"
+    "https://www.facebook.com/igor.dias.79827803",
+    "https://www.facebook.com/igordiasmoc",
+    "https://www.instagram.com/igor.gdias",
+    "https://www.tiktok.com/@igor.gdias"
    ],
    "financas": {
     "pessoasFisicas": 22600.0,
@@ -11430,6 +11863,11 @@
    "ocupacao": "Outros",
    "idade": 29,
    "patrimonio": 609774.0,
+   "redes": [
+    "https://www.facebook.com/share/1brn5uye6k",
+    "https://www.instagram.com/igortavaresmg",
+    "https://www.tiktok.com/@igortavaresmg"
+   ],
    "financas": {
     "pessoasFisicas": 169000.0,
     "arrecadado": 169000.0,
@@ -11552,7 +11990,7 @@
   },
   {
    "numero": "35500",
-   "nome": "Investigador Wemerson",
+   "nome": "Investigador  Wemerson",
    "partido": "DEMOCRATA",
    "escolaridade": "Superior completo",
    "ocupacao": "Policial civil",
@@ -11589,6 +12027,7 @@
     "https://www.facebook.com/irenemelofranco40",
     "https://www.instagram.com/irene.melofranco",
     "https://www.threads.com/@irene.melofranco",
+    "https://www.tiktok.com/@irene.melofranco",
     "https://www.youtube.com/@irenemelofranco3322"
    ],
    "financas": {
@@ -11642,7 +12081,8 @@
    "idade": 58,
    "patrimonio": 464000.0,
    "redes": [
-    "https://www.facebook.com/vereadorismarmarao"
+    "https://www.facebook.com/vereadorismarmarao",
+    "https://www.instagram.com/ismarmarao"
    ],
    "financas": {
     "fefc": 100000.0,
@@ -11881,7 +12321,7 @@
    "numero": "11345",
    "nome": "Janaina Ágape",
    "partido": "PP",
-   "escolaridade": "Ensino médio completo",
+   "escolaridade": "Superior incompleto",
    "ocupacao": "Gerente",
    "idade": 50,
    "patrimonio": 350000.0,
@@ -11914,6 +12354,10 @@
    "patrimonio": 250000.0,
    "concorreu2022": true,
    "patrimonio2022": 250000.0,
+   "redes": [
+    "https://www.facebook.com/jaquelineavelarrosa",
+    "https://www.instagram.com/jaqueline_avelarrosa"
+   ],
    "financas": {
     "fundoPartidario": 10000.0,
     "arrecadado": 10000.0,
@@ -11938,7 +12382,9 @@
    "patrimonio": 105020.86,
    "redes": [
     "https://www.facebook.com/jefersonsputnikoficial",
-    "https://www.instagram.com/jefersonsputnikoficial"
+    "https://www.instagram.com/jefersonsputnikoficial",
+    "https://www.threads.com/@jefersonsputnikoficial",
+    "https://www.tiktok.com/@jefersonsputnik"
    ],
    "financas": {
     "partido": 2773.95,
@@ -12013,7 +12459,10 @@
    "numero": "77888",
    "nome": "Jennifer Kelly",
    "partido": "SOLIDARIEDADE",
-   "detalhesPendentes": true,
+   "escolaridade": "Ensino médio completo",
+   "ocupacao": "Outros",
+   "idade": 55,
+   "patrimonio": 0.0,
    "financas": {
     "fefc": 56800.0,
     "partido": 2773.95,
@@ -12040,7 +12489,9 @@
    "concorreu2022": false,
    "redes": [
     "https://www.facebook.com/jepherson.madureira",
-    "https://www.instagram.com/jepherson.madureira"
+    "https://www.instagram.com/jepherson.madureira",
+    "https://www.threads.com/@jepherson.madureira",
+    "https://www.tiktok.com/@jepherson.madureira"
    ],
    "financas": {
     "fefc": 490000.0,
@@ -12162,8 +12613,8 @@
    "numero": "40035",
    "nome": "Johnes Hebert",
    "partido": "PSB",
-   "escolaridade": "Superior incompleto",
-   "ocupacao": "Outros",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público municipal",
    "idade": 35,
    "patrimonio": 22000.0,
    "concorreu2022": false,
@@ -12506,6 +12957,10 @@
    "ocupacao": "Comerciante",
    "idade": 38,
    "patrimonio": 0.0,
+   "redes": [
+    "https://instagram.com/jose_areal_cct",
+    "https://www.facebook.com/share/1jyfvv62n2"
+   ],
    "financas": {
     "fefc": 3674.78,
     "arrecadado": 3674.78,
@@ -12742,8 +13197,10 @@
    "patrimonio": 0.0,
    "concorreu2022": false,
    "redes": [
+    "https://www.facebook.com/jpgusmaomg",
     "https://www.instagram.com/jpgusmaomg",
-    "https://www.tiktok.com/@joaopaulogusmaomg"
+    "https://www.tiktok.com/@joaopaulogusmaomg",
+    "https://x.com/joaogusmao_pt"
    ],
    "financas": {
     "arrecadado": 0.0,
@@ -12867,7 +13324,7 @@
    "numero": "13133",
    "nome": "Ju Santana",
    "partido": "PT",
-   "escolaridade": "Ensino médio completo",
+   "escolaridade": "Superior completo",
    "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
    "idade": 52,
    "patrimonio": 900000.0,
@@ -12896,7 +13353,7 @@
   },
   {
    "numero": "35077",
-   "nome": "Juarez Tavares",
+   "nome": "Juarez  Tavares",
    "partido": "DEMOCRATA",
    "escolaridade": "Lê e escreve",
    "ocupacao": "Outros",
@@ -12927,6 +13384,13 @@
    "patrimonio": 23504888.0,
    "concorreu2022": true,
    "patrimonio2022": 13649149.6,
+   "redes": [
+    "https://www.facebook.com/share/14ot25gihor",
+    "https://www.facebook.com/share/18mdn8x2sq",
+    "https://www.instagram.com/jucabahiaoficial",
+    "https://www.tiktok.com/@jucabahiaoficial",
+    "https://x.com/jucabahia25555"
+   ],
    "financas": {
     "fefc": 300000.0,
     "pessoasFisicas": 249850.0,
@@ -13065,7 +13529,7 @@
    "nome": "Julio André",
    "partido": "MOBILIZA",
    "escolaridade": "Superior incompleto",
-   "ocupacao": "Servidor público estadual",
+   "ocupacao": "Motorista de veículos de transporte de carga",
    "idade": 41,
    "patrimonio": 0.0,
    "financas": {
@@ -13165,7 +13629,7 @@
    "escolaridade": "Ensino médio completo",
    "ocupacao": "Engenheiro",
    "idade": 33,
-   "patrimonio": 0.0,
+   "patrimonio": 440000.0,
    "concorreu2022": false,
    "financas": {
     "arrecadado": 0.0,
@@ -13216,8 +13680,11 @@
    "escolaridade": "Superior incompleto",
    "ocupacao": "Empresário",
    "idade": 46,
-   "patrimonio": 4584000.0,
+   "patrimonio": 4734000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/junio.oliveira.minas"
+   ],
    "financas": {
     "fefc": 250000.0,
     "proprios": 14900.0,
@@ -13730,6 +14197,7 @@
    "concorreu2022": true,
    "patrimonio2022": 0.0,
    "redes": [
+    "https://www.facebook.com/kidinho.kidinho/#",
     "https://www.instagram.com/kidinho1963"
    ],
    "financas": {
@@ -14006,7 +14474,13 @@
    "numero": "33911",
    "nome": "Leandro Almeida",
    "partido": "MOBILIZA",
-   "detalhesPendentes": true,
+   "escolaridade": "Superior completo",
+   "ocupacao": "Servidor público estadual",
+   "idade": 46,
+   "patrimonio": 1000000.0,
+   "redes": [
+    "https://www.instagram.com/leandroalmeida.oficial_"
+   ],
    "financas": {
     "pessoasFisicas": 15000.0,
     "arrecadado": 15000.0,
@@ -14063,7 +14537,8 @@
    "idade": 45,
    "patrimonio": 1304600.0,
    "redes": [
-    "https://facebook.com/dep.leandrogenaro"
+    "https://facebook.com/dep.leandrogenaro",
+    "https://www.instagram.com/leandro.genaro"
    ],
    "financas": {
     "pessoasFisicas": 271000.0,
@@ -14247,6 +14722,12 @@
    "idade": 31,
    "patrimonio": 10000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://k.kwai.com/u/@lender40133/giyrfcsd",
+    "https://www.instagram.com/lenderbatistapsb",
+    "https://www.tiktok.com/@brasillulista",
+    "https://www.youtube.com/@lender13mg"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -14273,6 +14754,7 @@
    "redes": [
     "https://www.facebook.com/leninhamoc13",
     "https://www.instagram.com/leninhamoc13",
+    "https://www.instagram.com/timeleninha",
     "https://www.threads.com/@leninhamoc13",
     "https://x.com/leninhamoc13"
    ],
@@ -14305,7 +14787,12 @@
    "concorreu2022": true,
    "patrimonio2022": 8588852.0,
    "redes": [
-    "https://www.instagram.com/leonidioboucas"
+    "https://twitter.com/leonidio_boucas",
+    "https://www.facebook.com/leonidioboucas",
+    "https://www.instagram.com/leonidioboucas",
+    "https://www.instagram.com/leonidioboucas.reserva",
+    "https://www.tiktok.com/@leonidioboucas",
+    "https://www.youtube.com/@leonidioboucas45999"
    ],
    "financas": {
     "fefc": 50000.0,
@@ -14406,6 +14893,12 @@
    "idade": 46,
    "patrimonio": 95000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/lilianoliveiratreinamentofuncional",
+    "https://www.facebook.com/lilianpauladeoliveira",
+    "https://www.instagram.com/lilianoliveirafuncional",
+    "https://www.instagram.com/lilianoliveiraob"
+   ],
    "financas": {
     "fefc": 50000.0,
     "arrecadado": 50000.0,
@@ -14428,6 +14921,9 @@
    "ocupacao": "Comerciante",
    "idade": 43,
    "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/lilianerezende_missao"
+   ],
    "financas": {
     "fefc": 6988.78,
     "arrecadado": 6988.78,
@@ -14681,7 +15177,7 @@
    "numero": "18900",
    "nome": "Lucas Lasmar",
    "partido": "REDE",
-   "escolaridade": "Ensino médio incompleto",
+   "escolaridade": "Superior completo",
    "ocupacao": "Administrador",
    "idade": 35,
    "patrimonio": 1146399.14,
@@ -14821,6 +15317,10 @@
    "idade": 36,
    "patrimonio": 300000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1clocuemd4",
+    "https://www.instagram.com/valadao25900"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -14914,7 +15414,10 @@
    "concorreu2022": false,
    "redes": [
     "https://instagram.com/l.portes",
-    "https://kwai.com/ladyluartasanatos"
+    "https://kwai.com/ladyluartasanatos",
+    "https://www.threads.com/l.portes",
+    "https://www.tiktok.com/ladylu385",
+    "https://www.youtube.com/lucianaportes9195"
    ],
    "financas": {
     "pessoasFisicas": 1000.0,
@@ -15034,6 +15537,14 @@
    "patrimonio": 10479.34,
    "concorreu2022": true,
    "patrimonio2022": 445094.65,
+   "redes": [
+    "https://br.linkedin.com/in/ludfalcaomg",
+    "https://www.facebook.com/ludfalcao01",
+    "https://www.facebook.com/ludfalcaomg",
+    "https://www.instagram.com/ludfalcao",
+    "https://www.instagram.com/vamocomalud",
+    "https://www.tiktok.com/@ludfalcaomg"
+   ],
    "financas": {
     "fefc": 1000000.0,
     "pessoasFisicas": 211990.0,
@@ -15134,6 +15645,13 @@
    "idade": 37,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/luizpaulocurvelo",
+    "https://www.instagram.com/luizpaulocurvelo",
+    "https://www.tiktok.com/luizpaulocurvelo",
+    "https://www.twitter.com/luizpaulocurvelo",
+    "https://www.youtube.com/@luizpaulominasgerais"
+   ],
    "financas": {
     "partido": 475000.0,
     "pessoasFisicas": 258700.0,
@@ -15275,6 +15793,9 @@
    "ocupacao": "Mecânico de manutenção",
    "idade": 63,
    "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/19fmuzvmkb"
+   ],
    "financas": {
     "partido": 2773.95,
     "outrosCandidatos": 827.5,
@@ -15378,6 +15899,10 @@
    "idade": 44,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/luciana.goncalves.39545",
+    "https://www.tiktok.com/@lu.praxedes"
+   ],
    "financas": {
     "fefc": 100000.0,
     "fundoPartidario": 13378.16,
@@ -15403,6 +15928,7 @@
    "patrimonio": 0.0,
    "concorreu2022": false,
    "redes": [
+    "https://www.instagram.com/lion.331136",
     "https://www.tiktok.com/@user57496329976140"
    ],
    "financas": {
@@ -15462,6 +15988,10 @@
    "idade": 40,
    "patrimonio": 1000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://facebook.com/madalena.santos.685716",
+    "https://www.tiktok.com/@maria.madalena9370"
+   ],
    "financas": {
     "fefc": 7574.08,
     "arrecadado": 7574.08,
@@ -15588,13 +16118,14 @@
    "numero": "11110",
    "nome": "Mahamat Naser",
    "partido": "PP",
-   "escolaridade": "Superior completo",
+   "escolaridade": "Superior incompleto",
    "ocupacao": "Empresário",
    "idade": 30,
    "patrimonio": 186250.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/naserdeolho"
+    "https://www.instagram.com/naserdeolho",
+    "https://www.tiktok.com/@naserdeolho"
    ],
    "financas": {
     "fefc": 40000.0,
@@ -15672,6 +16203,7 @@
    "concorreu2022": false,
    "redes": [
     "https://www.instagram.com/amallualmeida",
+    "https://www.instagram.com/mallualmeida_mg",
     "https://www.tiktok.com/@amallualmeida",
     "https://x.com/mallualmeida12"
    ],
@@ -15720,6 +16252,12 @@
    "ocupacao": "Aposentado (exceto servidor público)",
    "idade": 68,
    "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/1d9ww57enn",
+    "https://www.instagram.com/marinicemara",
+    "https://www.threads.com/@marinicemara",
+    "https://www.tiktok.com/@mara45603"
+   ],
    "financas": {
     "fefc": 40084.75,
     "pessoasFisicas": 4000.0,
@@ -15746,7 +16284,11 @@
    "patrimonio": 410000.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/marcelatropia"
+    "https://www.facebook.com/marcela.tropia",
+    "https://www.instagram.com/marcelatropia",
+    "https://www.linkedin.com/in/marcelatropia",
+    "https://www.tiktok.com/@marcelatropia",
+    "https://www.youtube.com/@marcelatropia"
    ],
    "financas": {
     "fefc": 30000.0,
@@ -15855,8 +16397,11 @@
    "patrimonio": 117200.0,
    "redes": [
     "https://www.facebook.com/marcelocaciano",
+    "https://www.facebook.com/marcelocaciano01",
+    "https://www.facebook.com/marcelocacianooficial",
     "https://www.instagram.com/marcelocacianooficial",
-    "https://www.youtube.com/marcelocacianooficial"
+    "https://www.threads.com/@marcelocacianooficial",
+    "https://www.tiktok.com/@marcelocacianooficial"
    ],
    "financas": {
     "arrecadado": 0.0,
@@ -15881,6 +16426,10 @@
    "patrimonio": 0.0,
    "concorreu2022": true,
    "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.facebook.com/marcelo.decastro.7737769",
+    "https://www.instagram.com/_marcelo.doco"
+   ],
    "financas": {
     "fefc": 2968.81,
     "pessoasFisicas": 2240.0,
@@ -15980,7 +16529,11 @@
    "idade": 47,
    "patrimonio": 553305.78,
    "redes": [
-    "https://www.instagram.com/marcelohonorato2"
+    "https://www.facebook.com/marcelo.honorato.750",
+    "https://www.facebook.com/marcelohonoratom",
+    "https://www.instagram.com/marcelohonorato2",
+    "https://www.tiktok.com/@marcelo.honorato699",
+    "https://www.youtube.com/channel/ucku4_cnvl1yxozyxon3cjuw"
    ],
    "financas": {
     "proprios": 1000.0,
@@ -16378,6 +16931,11 @@
    "idade": 27,
    "patrimonio": 60000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/marcos.frois.16",
+    "https://www.instagram.com/marcosfrois.adv",
+    "https://www.tiktok.com/@marcosfrois.adv"
+   ],
    "financas": {
     "fundoPartidario": 2763.16,
     "arrecadado": 2763.16,
@@ -16489,6 +17047,9 @@
    "idade": 52,
    "patrimonio": 2967534.87,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/margonarimarcos"
+   ],
    "financas": {
     "partido": 1450.0,
     "pessoasFisicas": 2100.0,
@@ -16570,7 +17131,7 @@
    "numero": "45300",
    "nome": "Maria Clara",
    "partido": "PSDB",
-   "escolaridade": "Superior incompleto",
+   "escolaridade": "Superior completo",
    "ocupacao": "Deputado",
    "idade": 27,
    "patrimonio": 634796.49,
@@ -16660,7 +17221,11 @@
    "patrimonio": 3129110.08,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/mariahildaleao"
+    "https://www.facebook.com/odelmoleao",
+    "https://www.facebook.com/people/maria-hilda-le%c3%a3o/61592809646241",
+    "https://www.instagram.com/mariahildaleao",
+    "https://www.instagram.com/odelmoleao",
+    "https://www.tiktok.com/@mariahildaleao"
    ],
    "financas": {
     "fundoPartidario": 1014500.0,
@@ -16824,6 +17389,7 @@
     "https://twitter.com/@mariliapferrari",
     "https://www.facebook.com/marilia.ferrari1",
     "https://www.instagram.com/marilia_ferrari/profilecard",
+    "https://www.threads.net/@marilia_ferrari",
     "https://www.tiktok.com/@https://www.tiktok.com/@mariliaferrari30312"
    ],
    "financas": {
@@ -17027,6 +17593,14 @@
    "idade": 49,
    "patrimonio": 198661.78,
    "concorreu2022": false,
+   "redes": [
+    "https://k.kwai.com/u/@lsjpx355/e8xfcjgn",
+    "https://web.facebook.com/marly.coelho.7",
+    "https://www.instagram.com/marlycoelho_",
+    "https://www.linkedin.com/in/marly-coelho-janu%c3%a1rio-97b5951aa",
+    "https://www.threads.com/@marlycoelho_",
+    "https://www.tiktok.com/@marly.januario"
+   ],
    "financas": {
     "fefc": 285000.0,
     "fundoPartidario": 69350.0,
@@ -17164,6 +17738,7 @@
    "idade": 37,
    "patrimonio": 200000.0,
    "redes": [
+    "https://www.instagram.com/beneditareis18178",
     "https://www.instagram.com/maryhbeneditta"
    ],
    "financas": {
@@ -17215,6 +17790,14 @@
    "idade": 31,
    "patrimonio": 318523.0,
    "concorreu2022": false,
+   "redes": [
+    "https://k.kwai.com/u/@mateusdaleste_/nrr1xcnx",
+    "https://www.facebook.com/share/1ggftu36nk",
+    "https://www.instagram.com/mateusdaleste00",
+    "https://www.instagram.com/mateusdaleste_",
+    "https://www.tiktok.com/@mateusdaleste_",
+    "https://youtube.com/@mateusdaleste"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -17285,6 +17868,14 @@
    "patrimonio": 235009.07,
    "concorreu2022": true,
    "patrimonio2022": 487186.7,
+   "redes": [
+    "https://linktr.ee/maurotramontereal",
+    "https://www.facebook.com/maurotramonteoficial",
+    "https://www.instagram.com/maurotramontereal",
+    "https://www.kwai.com/@maurotramonte",
+    "https://www.kwai.com/@maurotramonte002",
+    "https://www.tiktok.com/@maurotramonte"
+   ],
    "financas": {
     "pessoasFisicas": 283000.0,
     "proprios": 16500.0,
@@ -17418,6 +18009,10 @@
    "patrimonio": 0.0,
    "concorreu2022": true,
    "patrimonio2022": 0.0,
+   "redes": [
+    "https://www.instagram.com/mendoncadomingossaviode",
+    "https://www.instagram.com/mendoncamgoficial"
+   ],
    "financas": {
     "fundoPartidario": 2763.16,
     "pessoasFisicas": 17325.0,
@@ -17470,6 +18065,10 @@
    "patrimonio": 5697714.49,
    "concorreu2022": true,
    "patrimonio2022": 6001000.0,
+   "redes": [
+    "https://www.facebook.com/miguel.rocha.1466126",
+    "https://www.instagram.com/miguelrocha18"
+   ],
    "financas": {
     "proprios": 743.5,
     "arrecadado": 743.5,
@@ -17515,6 +18114,9 @@
    "idade": 28,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/milena.bertolin.9"
+   ],
    "financas": {
     "fefc": 150000.0,
     "arrecadado": 150000.0,
@@ -17655,13 +18257,14 @@
    "numero": "11436",
    "nome": "Missionaria Maria Valeria",
    "partido": "PP",
-   "escolaridade": "Ensino médio incompleto",
+   "escolaridade": "Ensino médio completo",
    "ocupacao": "Outros",
    "idade": 45,
    "patrimonio": 80000.0,
    "concorreu2022": true,
    "patrimonio2022": 130000.0,
    "redes": [
+    "https://www.facebook.com/maria.v.silva.5209",
     "https://www.instagram.com/mariavaleria1616"
    ],
    "financas": {
@@ -17714,6 +18317,7 @@
    "redes": [
     "https://tiktok.com/@moarasaboia",
     "https://www.facebook.com/moarasaboia",
+    "https://www.instagram.com/moaragerais",
     "https://www.instagram.com/moarasaboia",
     "https://www.threads.com/@moarasaboia",
     "https://x.com/moarasaboia"
@@ -17903,7 +18507,10 @@
    "concorreu2022": true,
    "patrimonio2022": 1382036.53,
    "redes": [
-    "https://instagram.com/marciomvictor"
+    "https://instagram.com/marciomvictor",
+    "https://www.facebook.com/profile.php",
+    "https://www.threads.com/@marciomvictor",
+    "https://www.tiktok.com/@marciomvictor"
    ],
    "financas": {
     "fefc": 50000.0,
@@ -17962,7 +18569,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Assistente social",
    "idade": 38,
-   "patrimonio": 142508.31,
+   "patrimonio": 106865.31,
    "concorreu2022": false,
    "redes": [
     "https://www.instagram.com/monica.goncalvesoc"
@@ -18036,7 +18643,7 @@
    "numero": "11888",
    "nome": "Nandão do Riacho",
    "partido": "PP",
-   "escolaridade": "Ensino fundamental incompleto",
+   "escolaridade": "Superior completo",
    "ocupacao": "Motorista particular",
    "idade": 51,
    "patrimonio": 0.0,
@@ -18065,9 +18672,15 @@
    "escolaridade": "Ensino fundamental completo",
    "ocupacao": "Empresário",
    "idade": 60,
-   "patrimonio": 5628266.81,
+   "patrimonio": 5828266.81,
    "concorreu2022": true,
    "patrimonio2022": 3853616.41,
+   "redes": [
+    "https://www.facebook.com/nataldaferrari",
+    "https://www.instagram.com/nataldaferrari",
+    "https://www.tiktok.com/@nataldaferrari25",
+    "https://www.youtube.com/@nataldaferrari"
+   ],
    "financas": {
     "fundoPartidario": 100000.0,
     "proprios": 30000.0,
@@ -18148,6 +18761,9 @@
    "idade": 38,
    "patrimonio": 120000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/natylarisse"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -18172,6 +18788,7 @@
    "concorreu2022": true,
    "patrimonio2022": 0.0,
    "redes": [
+    "https://www.facebook.com/nayararochamg",
     "https://www.instagram.com/nayararochamg"
    ],
    "financas": {
@@ -18249,6 +18866,13 @@
    "patrimonio": 2902731.66,
    "concorreu2022": true,
    "patrimonio2022": 1846449.87,
+   "redes": [
+    "https://www.facebook.com/deputadoneilandopimenta",
+    "https://www.instagram.com/deputadoneilando",
+    "https://www.tiktok.com/@neilandopimenta",
+    "https://www.youtube.com/@deputadoneilandopimenta",
+    "https://x.com/depneilando"
+   ],
    "financas": {
     "fefc": 855000.0,
     "fundoPartidario": 65000.0,
@@ -18272,7 +18896,7 @@
    "numero": "33600",
    "nome": "Neimar Salva-Vidas",
    "partido": "MOBILIZA",
-   "escolaridade": "Ensino fundamental completo",
+   "escolaridade": "Ensino médio completo",
    "ocupacao": "Outros",
    "idade": 49,
    "patrimonio": 0.0,
@@ -18370,6 +18994,9 @@
    "ocupacao": "Dona de casa",
    "idade": 58,
    "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/neuzinha68"
+   ],
    "financas": {
     "fefc": 50000.0,
     "partido": 4627.78,
@@ -18471,7 +19098,9 @@
    "concorreu2022": true,
    "patrimonio2022": 2400000.0,
    "redes": [
-    "https://www.instagram.com/noraldinojr"
+    "https://www.instagram.com/noraldinojr",
+    "https://www.tiktok.com/@noraldinojunior",
+    "https://x.com/noraldinojunior"
    ],
    "financas": {
     "fefc": 200000.0,
@@ -18519,7 +19148,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Advogado",
    "idade": 33,
-   "patrimonio": 0.0,
+   "patrimonio": 343479.99,
    "concorreu2022": false,
    "redes": [
     "https://www.instagram.com/nubiacitty"
@@ -18549,6 +19178,10 @@
    "ocupacao": "Outros",
    "idade": 35,
    "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/oliviafermiano.desousa",
+    "https://www.instagram.com/olivia.fermiano"
+   ],
    "financas": {
     "fefc": 50000.0,
     "arrecadado": 50000.0,
@@ -18599,7 +19232,9 @@
    "concorreu2022": false,
    "redes": [
     "https://www.facebook.com/orlandocaldeiraoficial",
-    "https://www.instagram.com/orlandoacaldeira"
+    "https://www.instagram.com/orlandoacaldeira",
+    "https://www.threads.com/@orlandoacaldeira",
+    "https://www.tiktok.com/@orlandoacaldeira"
    ],
    "financas": {
     "fefc": 200000.0,
@@ -18622,13 +19257,18 @@
    "numero": "11230",
    "nome": "Oscar Teixeira",
    "partido": "PP",
-   "escolaridade": "Ensino médio incompleto",
+   "escolaridade": "Superior completo",
    "ocupacao": "Empresário",
    "idade": 52,
    "patrimonio": 9226862.21,
    "concorreu2022": true,
    "patrimonio2022": 3502320.02,
    "redes": [
+    "https://www.facebook.com/oscar.teixeira.526",
+    "https://www.facebook.com/oscarlteixeira",
+    "https://www.instagram.com/cortesoscarteixeira",
+    "https://www.instagram.com/deputado.oscarteixeira",
+    "https://www.instagram.com/juventudecomoscarteixeira",
     "https://www.instagram.com/oscarlteixeira"
    ],
    "financas": {
@@ -18776,6 +19416,13 @@
    "idade": 63,
    "patrimonio": 430000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1cbu2jmqui",
+    "https://www.instagram.com/ozeias.araujo.10",
+    "https://www.threads.com/share/baz0zuzrfy",
+    "https://www.tiktok.com/@ozias.arajo4",
+    "https://youtube.com/@ozeiasaraujo9636"
+   ],
    "financas": {
     "fefc": 2516.0,
     "arrecadado": 2516.0,
@@ -18800,8 +19447,11 @@
    "patrimonio": 43750.0,
    "concorreu2022": false,
    "redes": [
+    "https://www.facebook.com/lucaspavanato",
     "https://www.facebook.com/share/1gnwmqrexd",
     "https://www.instagram.com/pabloalmeidadm",
+    "https://www.instagram.com/pabloalmeidamg",
+    "https://www.threads.com/@lucaspavanato",
     "https://www.tiktok.com/@pabloalmeidabr"
    ],
    "financas": {
@@ -18830,6 +19480,9 @@
    "ocupacao": "Empresário",
    "idade": 43,
    "patrimonio": 273468.89,
+   "redes": [
+    "https://www.instagram.com/pachecorodrigol"
+   ],
    "financas": {
     "fefc": 100000.0,
     "partido": 100000.0,
@@ -18909,6 +19562,11 @@
    "idade": 65,
    "patrimonio": 865000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1geptpm5et",
+    "https://www.instagram.com/pastordivinopereira",
+    "https://www.youtube.com/@divinopereirapastor"
+   ],
    "financas": {
     "pessoasFisicas": 1520.0,
     "proprios": 5700.0,
@@ -19284,7 +19942,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Servidor público estadual",
    "idade": 43,
-   "patrimonio": 125000.0,
+   "patrimonio": 175000.0,
    "concorreu2022": false,
    "financas": {
     "fefc": 38664.0,
@@ -19509,7 +20167,9 @@
    "patrimonio": 18500.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.facebook.com/potocamg"
+    "https://www.facebook.com/potocamg",
+    "https://www.instagram.com/potocamg",
+    "https://www.threads.com/@potocamg"
    ],
    "financas": {
     "arrecadado": 0.0,
@@ -19533,7 +20193,12 @@
    "idade": 36,
    "patrimonio": 30000.0,
    "redes": [
-    "https://www.instagram.com/prsilveiraleal"
+    "https://facebook.com/specktropaulo",
+    "https://instagram.com/paulo_leal.missao",
+    "https://linkedin.com/in/paulo-roberto-silveira-leal-4a3abb425",
+    "https://tiktok.com/@paulo_leal.missao",
+    "https://www.instagram.com/prsilveiraleal",
+    "https://x.com/paulolealmissao"
    ],
    "financas": {
     "fefc": 3674.78,
@@ -19659,7 +20324,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Administrador",
    "idade": 24,
-   "patrimonio": 141706.95,
+   "patrimonio": 200440.68,
    "concorreu2022": false,
    "financas": {
     "fefc": 150000.0,
@@ -19813,7 +20478,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Comerciante",
    "idade": 37,
-   "patrimonio": 163500000.0,
+   "patrimonio": 169700.0,
    "concorreu2022": false,
    "redes": [
     "https://facebook.com/pedrorodrigues",
@@ -19841,6 +20506,12 @@
    "idade": 61,
    "patrimonio": 160029.45,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/19yj8nzifq",
+    "https://www.instagram.com/pelizerdm",
+    "https://www.tiktok.com/@pelizerdm",
+    "https://x.com/pelizerdm"
+   ],
    "financas": {
     "fefc": 300000.0,
     "outrosCandidatos": 232.0,
@@ -19980,6 +20651,10 @@
    "idade": 68,
    "patrimonio": 880000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/helio.miranda.359",
+    "https://www.instagram.com/prheliobombeiro"
+   ],
    "financas": {
     "fefc": 50000.0,
     "outrosCandidatos": 1060.0,
@@ -20052,7 +20727,16 @@
    "numero": "20124",
    "nome": "Pretão",
    "partido": "PODE",
-   "detalhesPendentes": true,
+   "escolaridade": "Ensino fundamental incompleto",
+   "ocupacao": "Aposentado (exceto servidor público)",
+   "idade": 66,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/carlosantoniodejesuscesario",
+    "https://www.instagram.com/carlospretinhopretao",
+    "https://www.threads.com/@carlospretinhopretao",
+    "https://www.tiktok.com/@carlospretinhopre"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -20106,6 +20790,14 @@
    "ocupacao": "Professor de ensino superior",
    "idade": 52,
    "patrimonio": 252692.09,
+   "redes": [
+    "https://www.facebook.com/people/proftati/61593958503033",
+    "https://www.facebook.com/professora%20tati",
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/proftati70202",
+    "https://www.instagram.com/tatieliasoliveira2027",
+    "https://www.tiktok.com/proftati70202"
+   ],
    "financas": {
     "fefc": 675.0,
     "fundoPartidario": 282.5,
@@ -20188,6 +20880,11 @@
    "idade": 41,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://vt.tiktok.com/zsvw3p9uc",
+    "https://www.facebook.com/share/v/1rh26i9k6e",
+    "https://www.instagram.com/professorbruno.fernando"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -20243,7 +20940,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Professor de ensino superior",
    "idade": 34,
-   "patrimonio": 749.43,
+   "patrimonio": 480749.43,
    "concorreu2022": false,
    "redes": [
     "https://www.facebook.com/prof.gabriel.mendes.carvalho",
@@ -20278,7 +20975,9 @@
    "patrimonio": 315000.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/professorgleiton"
+    "https://www.instagram.com/professorgleiton",
+    "https://www.threads.com/@professorgleiton",
+    "https://www.tiktok.com/@professorgleiton"
    ],
    "financas": {
     "fundoPartidario": 2763.16,
@@ -20429,7 +21128,8 @@
     "https://www.facebook.com/rodrigo.santos.masset.lacombe",
     "https://www.instagram.com/professorlacombe",
     "https://www.instagram.com/rodrigolacombe",
-    "https://www.linkedin.com/in/massetlacombe"
+    "https://www.linkedin.com/in/massetlacombe",
+    "https://www.threads.net/@rodrigolacombe"
    ],
    "financas": {
     "partido": 486.47,
@@ -20850,7 +21550,10 @@
    "numero": "12676",
    "nome": "Professora Viviane",
    "partido": "PDT",
-   "detalhesPendentes": true,
+   "escolaridade": "Superior completo",
+   "ocupacao": "Professor de ensino superior",
+   "idade": 52,
+   "patrimonio": 22000.0,
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -20901,7 +21604,9 @@
    "patrimonio": 340000.0,
    "redes": [
     "https://facebook.com/rafaelmartinstv",
-    "https://instagram.com/rafaelmartinstv"
+    "https://instagram.com/rafaelmartinstv",
+    "https://www.tiktok.com/@rafaelmartinstv",
+    "https://youtube.com/@deputadorafaelmartins"
    ],
    "financas": {
     "fundoPartidario": 1190.0,
@@ -20925,13 +21630,16 @@
    "numero": "11456",
    "nome": "Rafael Moreira",
    "partido": "PP",
-   "escolaridade": "Ensino médio incompleto",
+   "escolaridade": "Ensino médio completo",
    "ocupacao": "Vendedor de comércio varejista e atacadista",
    "idade": 43,
    "patrimonio": 7665.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/eurafaelmoreira"
+    "https://www.facebook.com/rafael.moreira.634141",
+    "https://www.facebook.com/rafaelmoreiravereadorcataguases",
+    "https://www.instagram.com/eurafaelmoreira",
+    "https://www.tiktok.com/@eurafaelmoreira"
    ],
    "financas": {
     "fefc": 50000.0,
@@ -20955,6 +21663,10 @@
    "ocupacao": "Analista de sistemas",
    "idade": 41,
    "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/rafacupertino",
+    "https://x.com/cupertinorafa"
+   ],
    "financas": {
     "fefc": 10613.05,
     "coletivo": 6627.0,
@@ -20979,6 +21691,12 @@
    "idade": 37,
    "patrimonio": 596995.87,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/rafhaeldepaulooficial",
+    "https://www.instagram.com/bastidores.rafhael",
+    "https://www.threads.com/@rafhaeldepaulo",
+    "https://www.tiktok.com/@rafhaeldepaulo0"
+   ],
    "financas": {
     "fefc": 550000.0,
     "partido": 59998.3,
@@ -21124,7 +21842,8 @@
    "idade": 44,
    "patrimonio": 1663000.0,
    "redes": [
-    "https://facebook.com/raulbelemoficial"
+    "https://facebook.com/raulbelemoficial",
+    "https://www.instagram.com/raulbelemoficial"
    ],
    "financas": {
     "partido": 2696.73,
@@ -21224,8 +21943,8 @@
    "numero": "11611",
    "nome": "Renata Cassia",
    "partido": "PP",
-   "escolaridade": "Ensino médio completo",
-   "ocupacao": "Outros",
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Comerciante",
    "idade": 39,
    "patrimonio": 551403.0,
    "concorreu2022": true,
@@ -21257,7 +21976,8 @@
    "concorreu2022": false,
    "redes": [
     "https://www.facebook.com/renata",
-    "https://www.instagram.com/renatamirandacoelho"
+    "https://www.instagram.com/renatamirandacoelho",
+    "https://www.tiktok.com/@renatamirandacoelho"
    ],
    "financas": {
     "fefc": 5110.0,
@@ -21286,6 +22006,14 @@
    "idade": 50,
    "patrimonio": 5455291.53,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.facebook.com/renatoloffiatipicosmg",
+    "https://www.instagram.com/renatoloffi",
+    "https://www.instagram.com/renatoloffi_fisioterapeuta",
+    "https://www.instagram.com/renatoloffiatipicosmg",
+    "https://www.linkedin.com/in/renato-loffi-95305a45"
+   ],
    "financas": {
     "pessoasFisicas": 511800.0,
     "proprios": 127000.0,
@@ -21312,6 +22040,7 @@
    "patrimonio": 280000.0,
    "redes": [
     "https://www.facebook.com/renebutekusitabirito",
+    "https://www.instagram.com/renebutekus",
     "https://www.tiktok.com/@renebutekus"
    ],
    "financas": {
@@ -21342,6 +22071,7 @@
    "redes": [
     "https://www.facebook.com/rianavilapereira",
     "https://www.instagram.com/rianpereira",
+    "https://www.threads.net/@rianpereira",
     "https://www.tiktok.com/@pereira.rian"
    ],
    "financas": {
@@ -21537,10 +22267,10 @@
    "redes": [
     "https://www.facebook.com/share/18tcwj1fph",
     "https://www.instagram.com/botelho.cortes",
+    "https://www.instagram.com/botelho.oficial7",
     "https://www.instagram.com/cortes.botelho",
-    "https://www.instagram.com/justicaem_execucao",
-    "https://www.instagram.com/rohbotelho_",
-    "https://www.tiktok.com/@botelho.cortes"
+    "https://www.instagram.com/dep.roberta",
+    "https://www.instagram.com/justicaem_execucao"
    ],
    "financas": {
     "arrecadado": 0.0,
@@ -21709,8 +22439,8 @@
    "numero": "23123",
    "nome": "Rodrigo Araújo",
    "partido": "CIDADANIA",
-   "escolaridade": "Ensino médio completo",
-   "ocupacao": "Membro das forças armadas",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Relações-públicas",
    "idade": 59,
    "patrimonio": 88592.73,
    "concorreu2022": false,
@@ -21792,7 +22522,11 @@
    "concorreu2022": true,
    "patrimonio2022": 385249.62,
    "redes": [
-    "https://www.facebook.com/rodrigolopes.minasgerais"
+    "https://www.facebook.com/rodrigolopes.minasgerais",
+    "https://www.facebook.com/share/1fojeeqqrf",
+    "https://www.instagram.com/rodrigolopes.mg",
+    "https://www.threads.com/@rodrigolopes.mg",
+    "https://www.tiktok.com/@rodrigolopes.mg"
    ],
    "financas": {
     "fefc": 483300.0,
@@ -21995,6 +22729,13 @@
    "idade": 50,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/ronaldopereirada6173",
+    "https://www.instagram.com/ronaldosilvay6ksilva",
+    "https://www.threads.com/@ronaldosilvay6ksilva",
+    "https://www.youtube.com/@ronaldopereiradasilva8296",
+    "https://x.com/ronaldo90199231"
+   ],
    "financas": {
     "fundoPartidario": 2763.16,
     "proprios": 287.74,
@@ -22049,6 +22790,11 @@
    "patrimonio": 358000.0,
    "concorreu2022": true,
    "patrimonio2022": 130745.0,
+   "redes": [
+    "https://www.facebook.com/share/1b6omqmpzn",
+    "https://www.instagram.com/roqueromarinho",
+    "https://www.tiktok.com/@geraldoroque825"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -22172,6 +22918,10 @@
    "ocupacao": "Aposentado (exceto servidor público)",
    "idade": 68,
    "patrimonio": 865000.0,
+   "redes": [
+    "https://www.instagram.com/rosemiccroni",
+    "https://www.instagram.com/rosemiccroni55113"
+   ],
    "financas": {
     "fefc": 50000.0,
     "partido": 5532.31,
@@ -22414,6 +23164,10 @@
    "patrimonio": 445053.43,
    "concorreu2022": true,
    "patrimonio2022": 350000.0,
+   "redes": [
+    "https://www.facebook.com/samara.andraderibeiro.5",
+    "https://www.instagram.com/samarandraderibeiro"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -22463,6 +23217,11 @@
    "idade": 78,
    "patrimonio": 385000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/renaldoteixeirasampaiosampaio",
+    "https://www.instagram.com/renaldoteixeirasampaio",
+    "https://www.tiktok.com/@renaldo.teixeira6"
+   ],
    "financas": {
     "fundoPartidario": 2763.16,
     "arrecadado": 2763.16,
@@ -22535,7 +23294,7 @@
    "partido": "DEMOCRATA",
    "escolaridade": "Ensino médio completo",
    "ocupacao": "Empresário",
-   "idade": 45,
+   "idade": 42,
    "patrimonio": 0.0,
    "concorreu2022": false,
    "financas": {
@@ -22555,7 +23314,13 @@
    "numero": "30004",
    "nome": "Saori Volkov",
    "partido": "NOVO",
-   "detalhesPendentes": true,
+   "escolaridade": "Ensino médio incompleto",
+   "ocupacao": "Músico",
+   "idade": 21,
+   "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/saorinovo"
+   ],
    "financas": {
     "fefc": 110.0,
     "pessoasFisicas": 94.6,
@@ -22611,7 +23376,8 @@
     "https://www.facebook.com/share/19etdw95j4",
     "https://www.instagram.com/sara.vitral",
     "https://www.linkedin.com/in/saravitral",
-    "https://www.threads.com/@sara.vitral"
+    "https://www.threads.com/@sara.vitral",
+    "https://www.tiktok.com/@sara.vitral"
    ],
    "financas": {
     "fefc": 50000.0,
@@ -22634,7 +23400,10 @@
    "numero": "12500",
    "nome": "Sargento Alexandrino",
    "partido": "PDT",
-   "detalhesPendentes": true,
+   "escolaridade": "Superior completo",
+   "ocupacao": "Policial militar",
+   "idade": 52,
+   "patrimonio": 190000.0,
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -22734,6 +23503,10 @@
    "idade": 48,
    "patrimonio": 15000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.instagram.com/stories/leaosargentopm"
+   ],
    "financas": {
     "pessoasFisicas": 1500.0,
     "proprios": 3000.0,
@@ -22760,6 +23533,11 @@
    "patrimonio": 855000.0,
    "concorreu2022": true,
    "patrimonio2022": 752000.0,
+   "redes": [
+    "https://www.facebook.com/profile.php",
+    "https://www.facebook.com/sargentoprado.tc",
+    "https://www.instagram.com/sargento.prado"
+   ],
    "financas": {
     "fundoPartidario": 150000.0,
     "arrecadado": 150000.0,
@@ -22784,6 +23562,10 @@
    "patrimonio": 2590000.0,
    "concorreu2022": true,
    "patrimonio2022": 1550000.0,
+   "redes": [
+    "https://www.facebook.com/depsargentorodrigues",
+    "https://www.facebook.com/deputadosargentorodrigues"
+   ],
    "financas": {
     "fefc": 940000.0,
     "pessoasFisicas": 50400.0,
@@ -22867,6 +23649,7 @@
    "patrimonio": 160100.0,
    "concorreu2022": false,
    "redes": [
+    "https://www.facebook.com/satiro.oliveira.de.jesus.2025",
     "https://www.instagram.com/satirosos12"
    ],
    "financas": {
@@ -22912,7 +23695,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Bancário e economiário",
    "idade": 58,
-   "patrimonio": 242000000.0,
+   "patrimonio": 242000.0,
    "concorreu2022": false,
    "financas": {
     "arrecadado": 0.0,
@@ -22933,7 +23716,7 @@
    "partido": "AVANTE",
    "escolaridade": "Superior incompleto",
    "ocupacao": "Atleta profissional e técnico em desportos",
-   "idade": 62,
+   "idade": 63,
    "patrimonio": 270000.0,
    "redes": [
     "https://www.facebook.com/sergioluizpereira.santos.1",
@@ -22958,7 +23741,7 @@
    "partido": "AVANTE",
    "escolaridade": "Ensino médio completo",
    "ocupacao": "Sacerdote ou membro de ordem ou seita religiosa",
-   "idade": 47,
+   "idade": 57,
    "patrimonio": 0.0,
    "financas": {
     "fefc": 8864.0,
@@ -22981,11 +23764,12 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Professor e instrutor de formação profissional",
    "idade": 45,
-   "patrimonio": 1682000.0,
+   "patrimonio": 1691000.0,
    "concorreu2022": false,
    "redes": [
     "https://www.facebook.com/share/1dc8ywan8w",
-    "https://www.instagram.com/shirleykrenak"
+    "https://www.instagram.com/shirleykrenak",
+    "https://www.instagram.com/time_firmaotroncomg"
    ],
    "financas": {
     "fefc": 139549.0,
@@ -23507,6 +24291,10 @@
    "idade": 47,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://web.facebook.com/joaquim.marcelino.823864",
+    "https://www.instagram.com/joaquim_jjw"
+   ],
    "financas": {
     "fefc": 2978.06,
     "arrecadado": 2978.06,
@@ -23548,7 +24336,7 @@
   },
   {
    "numero": "12501",
-   "nome": "Tarlei Moreira Melo",
+   "nome": "Tarlei  Moreira Melo",
    "partido": "PDT",
    "escolaridade": "Ensino médio incompleto",
    "ocupacao": "Comerciante",
@@ -23584,9 +24372,10 @@
    "redes": [
     "https://k.kwai.com/u/@tatyfery/xvzalcgv",
     "https://www.facebook.com/share/193kmqh9gp",
+    "https://www.facebook.com/share/1dvt4yamrx",
+    "https://www.instagram.com/prosperabrasilaraxamg",
     "https://www.instagram.com/tatyfery_",
-    "https://www.tiktok.com/@tatyfery",
-    "https://youtube.com/@revelandoamor"
+    "https://www.threads.com/@tatyfery_"
    ],
    "financas": {
     "fefc": 1048.23,
@@ -23616,7 +24405,9 @@
    "patrimonio": 0.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/reel/dbulbp6a8l2"
+    "https://www.facebook.com/share/1lnnxtqpxv",
+    "https://www.instagram.com/reel/dbulbp6a8l2",
+    "https://www.instagram.com/tche_tche_por_itapagipe"
    ],
    "financas": {
     "fefc": 150000.0,
@@ -23821,7 +24612,10 @@
    "patrimonio": 390000.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/verlimg"
+    "https://www.facebook.com/thverli",
+    "https://www.instagram.com/parademinas",
+    "https://www.instagram.com/verlimg",
+    "https://www.tiktok.com/@minhaparademinas"
    ],
    "financas": {
     "fefc": 150000.0,
@@ -23928,6 +24722,14 @@
    "idade": 40,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/tiago.bonecao",
+    "https://www.facebook.com/tiagobonecaojf",
+    "https://www.instagram.com/tiagobonecaojf",
+    "https://www.threads.com/@tiagobonecaojf",
+    "https://www.tiktok.com/@tiagobonecaojf",
+    "https://www.youtube.com/@vereadortiagobonecaojf"
+   ],
    "financas": {
     "pessoasFisicas": 55000.0,
     "proprios": 20000.0,
@@ -24062,7 +24864,8 @@
    "idade": 42,
    "patrimonio": 828253.65,
    "redes": [
-    "https://facebook.com/deputadotitotorres"
+    "https://facebook.com/deputadotitotorres",
+    "https://www.instagram.com/titotorresmg"
    ],
    "financas": {
     "partido": 397375.0,
@@ -24137,6 +24940,11 @@
    "patrimonio": 3440000.0,
    "concorreu2022": true,
    "patrimonio2022": 3511000.0,
+   "redes": [
+    "https://www.facebook.com/share/1bwcgx5rww",
+    "https://www.facebook.com/tonycarlos.tonycarlos",
+    "https://www.instagram.com/tonycarlosuberaba"
+   ],
    "financas": {
     "pessoasFisicas": 36000.0,
     "proprios": 12500.0,
@@ -24211,7 +25019,7 @@
    "partido": "PCO",
    "escolaridade": "Ensino médio incompleto",
    "ocupacao": "Psicólogo",
-   "idade": 30,
+   "idade": 27,
    "patrimonio": 0.0,
    "financas": {
     "arrecadado": 0.0,
@@ -24367,7 +25175,10 @@
    "patrimonio": 1804000.0,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/valdir_cunha1"
+    "https://www.facebook.com/valdir.cunha.374",
+    "https://www.instagram.com/valdir_cunha1",
+    "https://www.tiktok.com/@valdir.cunha1",
+    "https://www.youtube.com/@valdir-cunha"
    ],
    "financas": {
     "pessoasFisicas": 9500.0,
@@ -24421,6 +25232,7 @@
    "patrimonio": 0.0,
    "concorreu2022": false,
    "redes": [
+    "https://www.facebook.com/vcmarques",
     "https://www.tiktok.com/@valreis333"
    ],
    "financas": {
@@ -24471,6 +25283,14 @@
    "idade": 64,
    "patrimonio": 65000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/valeria.cristina8383",
+    "https://www.facebook.com/vcmarques",
+    "https://www.instagram.com/valeriamarques.oficial",
+    "https://www.kwai.com/valeriamarques12112",
+    "https://www.threads.com/lela_marques",
+    "https://www.youtube.com/@valeriamarques5300"
+   ],
    "financas": {
     "fefc": 10000.0,
     "proprios": 500.0,
@@ -24564,6 +25384,12 @@
    "idade": 52,
    "patrimonio": 10264.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1eibdwhkj3",
+    "https://www.instagram.com/@vanilsonsouzaoficial",
+    "https://www.threads.com/@vanilsonsouzaoficial",
+    "https://www.tiktok.com/@vanilsonsouzaoficial1"
+   ],
    "financas": {
     "fefc": 200000.0,
     "partido": 200000.0,
@@ -24616,6 +25442,9 @@
    "ocupacao": "Outros",
    "idade": 47,
    "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/veraaraujoguerra"
+   ],
    "financas": {
     "fefc": 500000.0,
     "partido": 4627.78,
@@ -24715,6 +25544,11 @@
    "ocupacao": "Técnico contabilidade, estatística, economia doméstica e administração",
    "idade": 71,
    "patrimonio": 0.0,
+   "redes": [
+    "https://www.facebook.com/share/19boggfk36",
+    "https://www.facebook.com/verinhapreta",
+    "https://www.instagram.com/verinhabiaggini"
+   ],
    "financas": {
     "fefc": 200000.0,
     "partido": 4627.84,
@@ -24844,6 +25678,10 @@
    "idade": 49,
    "patrimonio": 7030.85,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1jv9rxgcvi",
+    "https://www.instagram.com/vilmondesfagundesmoninho"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
@@ -25010,11 +25848,17 @@
    "numero": "18333",
    "nome": "Vitor Andrade",
    "partido": "REDE",
-   "escolaridade": "Ensino médio incompleto",
+   "escolaridade": "Superior completo",
    "ocupacao": "Professor e instrutor de formação profissional",
    "idade": 27,
    "patrimonio": 15000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/vitorandradefilo",
+    "https://www.instagram.com/vitorandradefilo",
+    "https://www.youtube.com/vitorandradefilo",
+    "https://x.com/vitorandradefil"
+   ],
    "financas": {
     "fefc": 83679.29,
     "arrecadado": 83679.29,
@@ -25109,7 +25953,11 @@
    "patrimonio": 356809269.47,
    "concorreu2022": false,
    "redes": [
-    "https://www.instagram.com/vittorio.medioli"
+    "https://www.facebook.com/vittoriomedioli",
+    "https://www.instagram.com/vittorio.medioli",
+    "https://www.tiktok.com/@.vittorio.medioli",
+    "https://www.x.com/v_medioli",
+    "https://youtube.com/@vittoriomediolioficial"
    ],
    "financas": {
     "fundoPartidario": 10127.9,
@@ -25136,12 +25984,15 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Deputado",
    "idade": 46,
-   "patrimonio": 458092.31,
+   "patrimonio": 608092.31,
    "concorreu2022": true,
    "patrimonio2022": 26000.0,
    "redes": [
     "https://www.facebook.com/vitoriojuniormg",
-    "https://www.instagram.com/vitoriojuniormg"
+    "https://www.instagram.com/vitoriojuniormg",
+    "https://www.tiktok.com/@vitoriojuniormg",
+    "https://x.com/vitoriojrmg",
+    "https://youtube.com/@vitoriojuniormg"
    ],
    "financas": {
     "fefc": 400000.0,
@@ -25279,7 +26130,12 @@
    "patrimonio": 106775.0,
    "concorreu2022": false,
    "redes": [
-    "https://instagram.com/waguinho_cavalcante"
+    "https://instagram.com/waguinho_cavalcante",
+    "https://www.facebook.com/share/17dvu4vwfe",
+    "https://www.facebook.com/share/197r2vhrof",
+    "https://www.instagram.com/wagner_valentim_",
+    "https://www.instagram.com/waguinho_cavalcante",
+    "https://www.threads.com/@waguinho_cavalcante"
    ],
    "financas": {
     "arrecadado": 0.0,
@@ -25401,7 +26257,12 @@
    "concorreu2022": true,
    "patrimonio2022": 400000.0,
    "redes": [
-    "https://www.instagram.com/walterpinheirosoul"
+    "https://www.facebook.com/movimentosoulbh",
+    "https://www.facebook.com/mrsirwalter.pinheiro",
+    "https://www.facebook.com/people/walter-pinheiro-do-soul/61579084469638",
+    "https://www.facebook.com/walter.pinheiro.731",
+    "https://www.facebook.com/walterpinheirodosoul",
+    "https://www.instagram.com/walterpinheirodosoul"
    ],
    "financas": {
     "fefc": 974.08,
@@ -25426,6 +26287,13 @@
    "idade": 44,
    "patrimonio": 689625.76,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/18xlvsehvu",
+    "https://www.facebook.com/share/1hcqka9hwv",
+    "https://www.instagram.com/wanderleyporto",
+    "https://www.linkedin.com/in/wanderleyporto",
+    "https://x.com/wanderleyporto4"
+   ],
    "financas": {
     "fefc": 1000000.0,
     "partido": 2773.95,
@@ -25482,6 +26350,12 @@
    "idade": 26,
    "patrimonio": 89928.56,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/share/1ds7cwmvts",
+    "https://www.facebook.com/share/1dztzrxiua",
+    "https://www.instagram.com/warley_w3",
+    "https://www.tiktok.com/@vereador.warley.p"
+   ],
    "financas": {
     "fefc": 277000.0,
     "proprios": 100.0,
@@ -25509,7 +26383,10 @@
    "redes": [
     "https://www.facebook.com/wendersondausina",
     "https://www.instagram.com/wendersondausina",
-    "https://www.linkedin.com/in/wenderson-arlei-63364931"
+    "https://www.instagram.com/wendinhomg",
+    "https://www.linkedin.com/in/wenderson-arlei-63364931",
+    "https://www.linkedin.com/in/wendinho",
+    "https://www.threads.com/@wendinhomg"
    ],
    "financas": {
     "fefc": 30000.0,
@@ -25646,6 +26523,12 @@
    "idade": 54,
    "patrimonio": 1610500.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/williamparreiraduarte",
+    "https://www.instagram.com/williamparreiraduarte",
+    "https://www.tiktok.com/@williamparreiraduarte",
+    "https://www.youtube.com/@williamparreiraduarte"
+   ],
    "financas": {
     "fefc": 200000.0,
     "fundoPartidario": 100000.0,
@@ -25921,14 +26804,16 @@
    "numero": "11111",
    "nome": "Zé Guilherme",
    "partido": "PP",
-   "escolaridade": "Superior incompleto",
+   "escolaridade": "Ensino médio completo",
    "ocupacao": "Deputado",
    "idade": 70,
    "patrimonio": 87000.0,
    "concorreu2022": true,
    "patrimonio2022": 231911.52,
    "redes": [
-    "https://www.instagram.com/deputadozeguilherme"
+    "https://www.facebook.com/deputadozeguilherme",
+    "https://www.instagram.com/deputadozeguilherme",
+    "https://www.youtube.com/@deputadozéguilherme"
    ],
    "financas": {
     "fefc": 637766.33,
@@ -25959,9 +26844,12 @@
    "concorreu2022": true,
    "patrimonio2022": 1146949.99,
    "redes": [
+    "https://twitter.com/joselaviola",
     "https://www.facebook.com/jose.laviola.7",
     "https://www.facebook.com/joselaviolamg",
-    "https://www.instagram.com/joselaviola"
+    "https://www.instagram.com/joselaviola",
+    "https://www.linkedin.com/in/joselaviola",
+    "https://www.threads.net/@joselaviola"
    ],
    "financas": {
     "pessoasFisicas": 154000.0,
@@ -25983,7 +26871,7 @@
    "nome": "Zé Reis",
    "partido": "PODE",
    "escolaridade": "Superior completo",
-   "ocupacao": "Técnico em agronomia e agrimensura",
+   "ocupacao": "Advogado",
    "idade": 45,
    "patrimonio": 2154500.0,
    "redes": [
