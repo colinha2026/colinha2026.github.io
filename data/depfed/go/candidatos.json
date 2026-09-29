@@ -513,8 +513,8 @@
    "financas": {
     "fefc": 6988.78,
     "arrecadado": 6988.78,
-    "contratado": 1458.27,
-    "pago": 1458.27,
+    "contratado": 2092.83,
+    "pago": 2092.83,
     "limite": 3176572.53,
     "ate": "29/09/2026"
    },
@@ -1515,11 +1515,11 @@
     "https://x.com/delegado_waldir"
    ],
    "financas": {
-    "fefc": 1600000.0,
+    "fefc": 1800000.0,
     "fundoPartidario": 800000.0,
     "pessoasFisicas": 39619.35,
     "proprios": 10000.0,
-    "arrecadado": 2449619.35,
+    "arrecadado": 2649619.35,
     "contratado": 2958791.35,
     "pago": 1205712.47,
     "limite": 3176572.53,
@@ -1646,7 +1646,8 @@
    ],
    "financas": {
     "fefc": 100000.0,
-    "arrecadado": 100000.0,
+    "pessoasFisicas": 32000.0,
+    "arrecadado": 132000.0,
     "contratado": 203090.91,
     "pago": 90807.26,
     "limite": 3176572.53,
@@ -2013,8 +2014,8 @@
    "financas": {
     "fefc": 2000000.0,
     "arrecadado": 2000000.0,
-    "contratado": 1144733.0,
-    "pago": 1026333.0,
+    "contratado": 1164733.0,
+    "pago": 1046333.0,
     "limite": 3176572.53,
     "ate": "29/09/2026"
    },
@@ -2448,9 +2449,10 @@
    "financas": {
     "fefc": 6988.78,
     "proprios": 4500.0,
-    "arrecadado": 11488.78,
-    "contratado": 9569.68,
-    "pago": 9569.68,
+    "coletivo": 48.0,
+    "arrecadado": 11536.78,
+    "contratado": 9570.39,
+    "pago": 9570.39,
     "limite": 3176572.53,
     "ate": "29/09/2026"
    },
@@ -2637,10 +2639,10 @@
    ],
    "financas": {
     "fefc": 1000000.0,
-    "pessoasFisicas": 13000.0,
-    "arrecadado": 1013000.0,
-    "contratado": 863365.83,
-    "pago": 400001.5,
+    "pessoasFisicas": 13150.0,
+    "arrecadado": 1013150.0,
+    "contratado": 897794.98,
+    "pago": 852073.98,
     "limite": 3176572.53,
     "doadoresPF": 1,
     "ate": "29/09/2026"
@@ -2703,10 +2705,10 @@
    "financas": {
     "fefc": 950000.0,
     "partido": 5000.0,
-    "pessoasFisicas": 227450.0,
-    "arrecadado": 1182450.0,
-    "contratado": 893965.8,
-    "pago": 770577.8,
+    "pessoasFisicas": 228050.0,
+    "arrecadado": 1183050.0,
+    "contratado": 921797.8,
+    "pago": 798408.8,
     "limite": 3176572.53,
     "doadoresPF": 129,
     "ate": "29/09/2026"
@@ -3142,10 +3144,10 @@
    ],
    "financas": {
     "fefc": 591000.0,
-    "pessoasFisicas": 49500.0,
-    "arrecadado": 640500.0,
-    "contratado": 654154.37,
-    "pago": 639154.37,
+    "pessoasFisicas": 59500.0,
+    "arrecadado": 650500.0,
+    "contratado": 664154.37,
+    "pago": 649154.37,
     "limite": 3176572.53,
     "doadoresPF": 4,
     "ate": "29/09/2026"
@@ -3469,9 +3471,10 @@
     "fefc": 66000.0,
     "pessoasFisicas": 5371.22,
     "proprios": 3500.0,
-    "arrecadado": 74871.22,
-    "contratado": 123934.23,
-    "pago": 67534.23,
+    "outrosCandidatos": 34000.0,
+    "arrecadado": 108871.22,
+    "contratado": 149131.17,
+    "pago": 95681.17,
     "limite": 3176572.53,
     "doadoresPF": 1,
     "ate": "29/09/2026"
@@ -4157,9 +4160,9 @@
    ],
    "financas": {
     "fefc": 1600000.0,
-    "pessoasFisicas": 832170.87,
+    "pessoasFisicas": 863670.87,
     "proprios": 13808.69,
-    "arrecadado": 2445979.56,
+    "arrecadado": 2477479.56,
     "contratado": 1197356.74,
     "pago": 556317.95,
     "limite": 3176572.53,
@@ -4247,10 +4250,10 @@
    "financas": {
     "fefc": 87500.0,
     "fundoPartidario": 32500.0,
-    "pessoasFisicas": 44500.0,
-    "arrecadado": 164500.0,
+    "pessoasFisicas": 45500.0,
+    "arrecadado": 165500.0,
     "contratado": 258950.0,
-    "pago": 29000.0,
+    "pago": 32000.0,
     "limite": 3176572.53,
     "doadoresPF": 9,
     "ate": "29/09/2026"
@@ -4439,10 +4442,10 @@
    "financas": {
     "fefc": 330000.0,
     "fundoPartidario": 700000.0,
-    "pessoasFisicas": 148664.88,
+    "pessoasFisicas": 149564.88,
     "proprios": 10000.0,
     "outrosCandidatos": 2312.5,
-    "arrecadado": 1190977.38,
+    "arrecadado": 1191877.38,
     "contratado": 389687.4,
     "pago": 138156.91,
     "limite": 3176572.53,
@@ -4494,9 +4497,9 @@
     "https://www.instagram.com/eumanupadua30"
    ],
    "financas": {
-    "fefc": 10000.0,
-    "fundoPartidario": 17500.0,
-    "arrecadado": 27500.0,
+    "fefc": 14050.0,
+    "fundoPartidario": 25000.0,
+    "arrecadado": 39050.0,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
@@ -4676,11 +4679,11 @@
    ],
    "financas": {
     "fefc": 66000.0,
-    "pessoasFisicas": 61500.0,
+    "pessoasFisicas": 65269.23,
     "proprios": 152500.0,
     "outrosCandidatos": 34000.0,
     "coletivo": 4910.0,
-    "arrecadado": 318910.0,
+    "arrecadado": 322679.23,
     "contratado": 233210.81,
     "pago": 187400.31,
     "limite": 3176572.53,
@@ -4710,8 +4713,8 @@
    "financas": {
     "fefc": 3674.78,
     "arrecadado": 3674.78,
-    "contratado": 1.0,
-    "pago": 1.0,
+    "contratado": 1.5,
+    "pago": 1.5,
     "limite": 3176572.53,
     "ate": "29/09/2026"
    },
@@ -5585,9 +5588,9 @@
    "patrimonio2022": 856730.26,
    "financas": {
     "fefc": 795500.0,
-    "pessoasFisicas": 103940.0,
+    "pessoasFisicas": 102075.0,
     "proprios": 10000.0,
-    "arrecadado": 909440.0,
+    "arrecadado": 907575.0,
     "contratado": 282614.73,
     "pago": 165143.58,
     "limite": 3176572.53,
@@ -6220,9 +6223,9 @@
    "concorreu2022": false,
    "financas": {
     "fefc": 700000.0,
-    "fundoPartidario": 300000.0,
+    "fundoPartidario": 400000.0,
     "pessoasFisicas": 14900.0,
-    "arrecadado": 1014900.0,
+    "arrecadado": 1114900.0,
     "contratado": 292580.99,
     "pago": 42061.0,
     "limite": 3176572.53,
@@ -6306,7 +6309,8 @@
    "financas": {
     "fefc": 49050.0,
     "fundoPartidario": 20000.0,
-    "arrecadado": 69050.0,
+    "pessoasFisicas": 6000.0,
+    "arrecadado": 75050.0,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,

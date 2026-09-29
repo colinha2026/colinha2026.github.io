@@ -298,11 +298,12 @@
    ],
    "financas": {
     "fefc": 145100.0,
-    "pessoasFisicas": 19100.0,
+    "pessoasFisicas": 34100.0,
+    "proprios": 10000.0,
     "outrosCandidatos": 15000.0,
-    "arrecadado": 179200.0,
-    "contratado": 159268.76,
-    "pago": 131068.76,
+    "arrecadado": 204200.0,
+    "contratado": 175068.76,
+    "pago": 144668.76,
     "limite": 1270629.01,
     "doadoresPF": 5,
     "ate": "29/09/2026"
@@ -529,11 +530,12 @@
    ],
    "financas": {
     "fefc": 35000.0,
-    "pessoasFisicas": 105472.0,
+    "pessoasFisicas": 115472.0,
     "proprios": 110000.0,
-    "arrecadado": 250472.0,
-    "contratado": 190948.6,
-    "pago": 154681.6,
+    "outrosCandidatos": 43242.0,
+    "arrecadado": 303714.0,
+    "contratado": 200967.1,
+    "pago": 172100.1,
     "limite": 1270629.01,
     "doadoresPF": 6,
     "ate": "29/09/2026"
@@ -614,8 +616,8 @@
    ],
    "financas": {
     "fefc": 75000.0,
-    "proprios": 3000.0,
-    "arrecadado": 78000.0,
+    "pessoasFisicas": 18000.0,
+    "arrecadado": 93000.0,
     "contratado": 96360.5,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -1954,9 +1956,9 @@
     "https://www.youtube.com/@anapaulagoldbach"
    ],
    "financas": {
-    "fundoPartidario": 5898.25,
+    "fundoPartidario": 11898.25,
     "pessoasFisicas": 450.0,
-    "arrecadado": 6348.25,
+    "arrecadado": 12348.25,
     "contratado": 1668.1,
     "pago": 1668.1,
     "limite": 1270629.01,
@@ -2619,8 +2621,8 @@
     "ate": "29/09/2026"
    },
    "situacaoTSE": {
-    "tipo": "ver",
-    "texto": "Deferido, com recurso pendente",
+    "tipo": "ok",
+    "texto": "Registro deferido",
     "data": "29/09/2026"
    }
   },
@@ -3608,12 +3610,12 @@
    ],
    "financas": {
     "fefc": 50000.0,
-    "pessoasFisicas": 70200.0,
+    "pessoasFisicas": 80200.0,
     "proprios": 11200.0,
     "coletivo": 4250.0,
-    "arrecadado": 135650.0,
-    "contratado": 132594.18,
-    "pago": 76894.18,
+    "arrecadado": 145650.0,
+    "contratado": 137244.18,
+    "pago": 81244.18,
     "limite": 1270629.01,
     "doadoresPF": 6,
     "ate": "29/09/2026"
@@ -3787,7 +3789,8 @@
    "idade": 64,
    "patrimonio": 0.0,
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 299.66,
+    "arrecadado": 299.66,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -4751,11 +4754,11 @@
    ],
    "financas": {
     "fefc": 136249.7,
-    "pessoasFisicas": 114200.0,
+    "pessoasFisicas": 114700.0,
     "proprios": 65050.0,
     "coletivo": 8135.0,
-    "arrecadado": 323634.7,
-    "contratado": 197762.33,
+    "arrecadado": 324134.7,
+    "contratado": 202262.33,
     "pago": 80652.33,
     "limite": 1270629.01,
     "doadoresPF": 29,
@@ -4791,8 +4794,8 @@
     "ate": "29/09/2026"
    },
    "situacaoTSE": {
-    "tipo": "ver",
-    "texto": "Deferido, com recurso pendente",
+    "tipo": "ok",
+    "texto": "Registro deferido",
     "data": "29/09/2026"
    }
   },
@@ -5304,7 +5307,8 @@
    ],
    "financas": {
     "pessoasFisicas": 900.0,
-    "arrecadado": 900.0,
+    "outrosCandidatos": 5000.0,
+    "arrecadado": 5900.0,
     "contratado": 500.0,
     "pago": 500.0,
     "limite": 1270629.01,
@@ -5581,8 +5585,8 @@
     "https://www.tiktok.com/@christinemoutinho.motiva"
    ],
    "financas": {
-    "fundoPartidario": 61093.0,
-    "arrecadado": 61093.0,
+    "fundoPartidario": 67093.0,
+    "arrecadado": 67093.0,
     "contratado": 24206.51,
     "pago": 23982.69,
     "limite": 1270629.01,
@@ -5652,7 +5656,8 @@
    "idade": 50,
    "patrimonio": 0.0,
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 299.66,
+    "arrecadado": 299.66,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -6118,7 +6123,7 @@
     "fundoPartidario": 400000.0,
     "arrecadado": 800000.0,
     "contratado": 468950.0,
-    "pago": 254050.0,
+    "pago": 263150.0,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -6558,8 +6563,9 @@
    "financas": {
     "fefc": 3931.02,
     "fundoPartidario": 1068.98,
-    "pessoasFisicas": 4151.01,
-    "arrecadado": 9151.01,
+    "pessoasFisicas": 5351.01,
+    "proprios": 3000.0,
+    "arrecadado": 13351.01,
     "contratado": 8751.0,
     "pago": 3301.0,
     "limite": 1270629.01,
@@ -7089,9 +7095,9 @@
    "financas": {
     "fefc": 500000.0,
     "fundoPartidario": 358161.0,
-    "pessoasFisicas": 10000.0,
+    "pessoasFisicas": 15000.0,
     "coletivo": 11735.0,
-    "arrecadado": 879896.0,
+    "arrecadado": 884896.0,
     "contratado": 621825.73,
     "pago": 307703.51,
     "limite": 1270629.01,
@@ -7328,10 +7334,10 @@
     "https://www.tiktok.com/@danielzinhobelfordroxo"
    ],
    "financas": {
-    "proprios": 15000.0,
-    "arrecadado": 15000.0,
-    "contratado": 15000.0,
-    "pago": 15000.0,
+    "proprios": 24600.0,
+    "arrecadado": 24600.0,
+    "contratado": 24600.0,
+    "pago": 24600.0,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -7803,10 +7809,10 @@
    "concorreu2022": false,
    "financas": {
     "fefc": 50000.0,
-    "pessoasFisicas": 641.0,
-    "arrecadado": 50641.0,
-    "contratado": 30393.0,
-    "pago": 11143.0,
+    "pessoasFisicas": 891.0,
+    "arrecadado": 50891.0,
+    "contratado": 47801.5,
+    "pago": 32551.5,
     "limite": 1270629.01,
     "doadoresPF": 2,
     "ate": "29/09/2026"
@@ -7956,10 +7962,10 @@
     "https://www.instagram.com/diegoalbarj"
    ],
    "financas": {
-    "pessoasFisicas": 313339.9,
+    "pessoasFisicas": 344839.9,
     "proprios": 30000.0,
     "outrosCandidatos": 415.2,
-    "arrecadado": 343755.1,
+    "arrecadado": 375255.1,
     "contratado": 169175.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -8201,10 +8207,10 @@
     "https://x.com/diogotalento"
    ],
    "financas": {
-    "fefc": 300000.0,
-    "arrecadado": 300000.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "fefc": 350000.0,
+    "arrecadado": 350000.0,
+    "contratado": 162888.0,
+    "pago": 104316.0,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -8342,9 +8348,9 @@
    "financas": {
     "fefc": 150000.0,
     "partido": 1290.0,
-    "pessoasFisicas": 4000.0,
+    "pessoasFisicas": 5000.0,
     "outrosCandidatos": 2727.27,
-    "arrecadado": 158017.27,
+    "arrecadado": 159017.27,
     "contratado": 154605.5,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -8620,9 +8626,9 @@
    ],
    "financas": {
     "fefc": 10000.0,
-    "fundoPartidario": 5000.0,
+    "fundoPartidario": 13000.0,
     "coletivo": 1476.0,
-    "arrecadado": 16476.0,
+    "arrecadado": 24476.0,
     "contratado": 6033.87,
     "pago": 5033.87,
     "limite": 1270629.01,
@@ -9113,10 +9119,10 @@
     "https://www.youtube.com/@odrlucasrodrigues"
    ],
    "financas": {
-    "pessoasFisicas": 194000.0,
-    "arrecadado": 194000.0,
-    "contratado": 264633.0,
-    "pago": 37742.0,
+    "pessoasFisicas": 224000.0,
+    "arrecadado": 224000.0,
+    "contratado": 267533.0,
+    "pago": 40642.0,
     "limite": 1270629.01,
     "doadoresPF": 10,
     "ate": "29/09/2026"
@@ -9170,10 +9176,11 @@
    ],
    "financas": {
     "fefc": 5000.0,
+    "fundoPartidario": 2752.29,
     "proprios": 3000.0,
-    "arrecadado": 8000.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "arrecadado": 10752.29,
+    "contratado": 3000.0,
+    "pago": 3000.0,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -9378,10 +9385,10 @@
    "financas": {
     "fefc": 15000.0,
     "pessoasFisicas": 52000.0,
-    "proprios": 3500.0,
+    "proprios": 10500.0,
     "outrosCandidatos": 10226.66,
     "coletivo": 390.0,
-    "arrecadado": 81116.66,
+    "arrecadado": 88116.66,
     "contratado": 49266.77,
     "pago": 49266.77,
     "limite": 1270629.01,
@@ -9440,11 +9447,11 @@
    ],
    "financas": {
     "fefc": 403600.0,
-    "pessoasFisicas": 403490.0,
+    "pessoasFisicas": 407490.0,
     "outrosCandidatos": 52732.27,
-    "arrecadado": 859822.27,
-    "contratado": 721083.38,
-    "pago": 430909.61,
+    "arrecadado": 863822.27,
+    "contratado": 740783.38,
+    "pago": 616816.66,
     "limite": 1270629.01,
     "doadoresPF": 31,
     "ate": "29/09/2026"
@@ -9470,7 +9477,8 @@
     "https://www.youtube.com/@elioneportodos"
    ],
    "financas": {
-    "arrecadado": 0.0,
+    "proprios": 2330.0,
+    "arrecadado": 2330.0,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -9527,10 +9535,10 @@
    ],
    "financas": {
     "fefc": 7862.04,
-    "fundoPartidario": 2137.96,
-    "arrecadado": 10000.0,
-    "contratado": 3875.5,
-    "pago": 1500.5,
+    "fundoPartidario": 4890.25,
+    "arrecadado": 12752.29,
+    "contratado": 4788.0,
+    "pago": 3600.5,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -10317,9 +10325,9 @@
    ],
    "financas": {
     "fefc": 70500.0,
-    "pessoasFisicas": 7200.0,
-    "arrecadado": 77700.0,
-    "contratado": 15082.26,
+    "pessoasFisicas": 7400.0,
+    "arrecadado": 77900.0,
+    "contratado": 22015.26,
     "pago": 12122.26,
     "limite": 1270629.01,
     "doadoresPF": 8,
@@ -10375,10 +10383,11 @@
    ],
    "financas": {
     "fefc": 75000.0,
+    "pessoasFisicas": 35000.0,
     "proprios": 10000.0,
-    "arrecadado": 85000.0,
-    "contratado": 61424.36,
-    "pago": 9347.36,
+    "arrecadado": 120000.0,
+    "contratado": 169720.36,
+    "pago": 97622.86,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -11328,12 +11337,12 @@
    "concorreu2022": false,
    "financas": {
     "fefc": 250000.0,
-    "pessoasFisicas": 96000.0,
+    "pessoasFisicas": 236000.0,
     "proprios": 77000.0,
-    "outrosCandidatos": 4460.0,
-    "arrecadado": 427460.0,
-    "contratado": 701605.64,
-    "pago": 360076.14,
+    "outrosCandidatos": 4957.5,
+    "arrecadado": 567957.5,
+    "contratado": 742491.22,
+    "pago": 394911.72,
     "limite": 1270629.01,
     "doadoresPF": 13,
     "ate": "29/09/2026"
@@ -11470,9 +11479,9 @@
    ],
    "financas": {
     "fefc": 50000.0,
-    "pessoasFisicas": 21621.2,
+    "pessoasFisicas": 25621.2,
     "proprios": 10000.0,
-    "arrecadado": 81621.2,
+    "arrecadado": 85621.2,
     "contratado": 77976.67,
     "pago": 39276.67,
     "limite": 1270629.01,
@@ -11763,9 +11772,10 @@
     "fefc": 15000.0,
     "partido": 303.2,
     "pessoasFisicas": 350.0,
-    "arrecadado": 15653.2,
-    "contratado": 349.0,
-    "pago": 349.0,
+    "coletivo": 290.0,
+    "arrecadado": 15943.2,
+    "contratado": 354.77,
+    "pago": 354.77,
     "limite": 1270629.01,
     "doadoresPF": 1,
     "ate": "29/09/2026"
@@ -12210,9 +12220,9 @@
    "financas": {
     "fefc": 300000.0,
     "fundoPartidario": 150000.0,
-    "pessoasFisicas": 92500.0,
-    "proprios": 10000.0,
-    "arrecadado": 552500.0,
+    "pessoasFisicas": 132500.0,
+    "proprios": 20000.0,
+    "arrecadado": 602500.0,
     "contratado": 540472.0,
     "pago": 495472.0,
     "limite": 1270629.01,
@@ -12610,9 +12620,9 @@
     "https://www.instagram.com/ferreirarj.oficial"
    ],
    "financas": {
-    "fundoPartidario": 6300.5,
+    "fundoPartidario": 8300.5,
     "proprios": 800.0,
-    "arrecadado": 7100.5,
+    "arrecadado": 9100.5,
     "contratado": 5104.0,
     "pago": 1754.0,
     "limite": 1270629.01,
@@ -12662,8 +12672,8 @@
    ],
    "financas": {
     "pessoasFisicas": 4000.0,
-    "outrosCandidatos": 19811.3,
-    "arrecadado": 23811.3,
+    "outrosCandidatos": 29811.3,
+    "arrecadado": 33811.3,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -12772,9 +12782,10 @@
     "partido": 5221.33,
     "pessoasFisicas": 18000.0,
     "proprios": 15000.0,
-    "arrecadado": 1171721.33,
-    "contratado": 955979.89,
-    "pago": 627354.89,
+    "coletivo": 2070.0,
+    "arrecadado": 1173791.33,
+    "contratado": 956022.44,
+    "pago": 627397.44,
     "limite": 1270629.01,
     "doadoresPF": 3,
     "ate": "29/09/2026"
@@ -12905,9 +12916,10 @@
    ],
    "financas": {
     "fefc": 414000.0,
-    "arrecadado": 414000.0,
-    "contratado": 89530.0,
-    "pago": 0.0,
+    "fundoPartidario": 90000.0,
+    "arrecadado": 504000.0,
+    "contratado": 322630.0,
+    "pago": 41400.0,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -13810,7 +13822,8 @@
    "idade": 52,
    "patrimonio": 0.0,
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 299.66,
+    "arrecadado": 299.66,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -13897,11 +13910,11 @@
    "financas": {
     "fefc": 100000.0,
     "partido": 1848.0,
-    "proprios": 12000.0,
+    "proprios": 15000.0,
     "outrosCandidatos": 2727.27,
-    "arrecadado": 116575.27,
-    "contratado": 97482.0,
-    "pago": 97482.0,
+    "arrecadado": 119575.27,
+    "contratado": 109465.5,
+    "pago": 109465.5,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -14525,8 +14538,8 @@
    ],
    "financas": {
     "fefc": 3931.02,
-    "fundoPartidario": 1068.98,
-    "arrecadado": 5000.0,
+    "fundoPartidario": 3821.27,
+    "arrecadado": 7752.29,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -14580,8 +14593,8 @@
    ],
    "financas": {
     "fefc": 20000.0,
-    "proprios": 6550.0,
-    "arrecadado": 26550.0,
+    "proprios": 14550.0,
+    "arrecadado": 34550.0,
     "contratado": 13801.0,
     "pago": 12401.0,
     "limite": 1270629.01,
@@ -14661,11 +14674,11 @@
    ],
    "financas": {
     "fefc": 145100.0,
-    "pessoasFisicas": 43589.0,
-    "proprios": 2000.0,
-    "arrecadado": 190689.0,
-    "contratado": 139362.34,
-    "pago": 116218.98,
+    "pessoasFisicas": 53589.0,
+    "proprios": 12000.0,
+    "arrecadado": 210689.0,
+    "contratado": 159362.84,
+    "pago": 136219.48,
     "limite": 1270629.01,
     "doadoresPF": 24,
     "ate": "29/09/2026"
@@ -14984,11 +14997,11 @@
     "fefc": 50000.0,
     "fundoPartidario": 66445.0,
     "pessoasFisicas": 51800.0,
-    "proprios": 30000.0,
+    "proprios": 55000.0,
     "outrosCandidatos": 1000.0,
-    "arrecadado": 199245.0,
-    "contratado": 178182.29,
-    "pago": 87072.1,
+    "arrecadado": 224245.0,
+    "contratado": 210683.29,
+    "pago": 144408.89,
     "limite": 1270629.01,
     "doadoresPF": 10,
     "ate": "29/09/2026"
@@ -15117,9 +15130,10 @@
     "https://www.youtube.com/@ivaninstrutor"
    ],
    "financas": {
+    "pessoasFisicas": 0.5,
     "proprios": 2818.38,
     "outrosCandidatos": 386.1,
-    "arrecadado": 3204.48,
+    "arrecadado": 3204.98,
     "contratado": 2818.38,
     "pago": 118.38,
     "limite": 1270629.01,
@@ -15555,8 +15569,8 @@
     "fefc": 6988.78,
     "coletivo": 130.0,
     "arrecadado": 7118.78,
-    "contratado": 2864.24,
-    "pago": 2864.24,
+    "contratado": 3964.24,
+    "pago": 3964.24,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -15839,7 +15853,8 @@
     "https://www.instagram.com/@sotz_l"
    ],
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 299.66,
+    "arrecadado": 299.66,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -16092,7 +16107,9 @@
    "idade": 92,
    "patrimonio": 0.0,
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 477.58,
+    "proprios": 500.0,
+    "arrecadado": 977.58,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -16471,7 +16488,8 @@
    "idade": 66,
    "patrimonio": 0.0,
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 299.66,
+    "arrecadado": 299.66,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -16577,11 +16595,11 @@
    ],
    "financas": {
     "fefc": 900000.0,
-    "pessoasFisicas": 227200.0,
+    "pessoasFisicas": 227700.0,
     "coletivo": 15120.0,
-    "arrecadado": 1142320.0,
+    "arrecadado": 1142820.0,
     "contratado": 687100.01,
-    "pago": 338536.17,
+    "pago": 397312.17,
     "limite": 1270629.01,
     "doadoresPF": 7,
     "ate": "29/09/2026"
@@ -16833,10 +16851,10 @@
    ],
    "financas": {
     "fefc": 50000.0,
-    "pessoasFisicas": 42000.0,
-    "arrecadado": 92000.0,
-    "contratado": 254865.58,
-    "pago": 55952.0,
+    "pessoasFisicas": 56000.0,
+    "arrecadado": 106000.0,
+    "contratado": 264715.58,
+    "pago": 98226.58,
     "limite": 1270629.01,
     "doadoresPF": 5,
     "ate": "29/09/2026"
@@ -17906,10 +17924,10 @@
     "fefc": 6683.31,
     "fundoPartidario": 2568.98,
     "pessoasFisicas": 55700.0,
-    "proprios": 30000.0,
-    "arrecadado": 94952.29,
-    "contratado": 56557.1,
-    "pago": 32909.6,
+    "proprios": 36760.0,
+    "arrecadado": 101712.29,
+    "contratado": 79910.5,
+    "pago": 56263.0,
     "limite": 1270629.01,
     "doadoresPF": 14,
     "ate": "29/09/2026"
@@ -18600,10 +18618,10 @@
    ],
    "financas": {
     "fefc": 20000.0,
-    "pessoasFisicas": 468710.0,
+    "pessoasFisicas": 478710.0,
     "proprios": 47000.0,
     "outrosCandidatos": 11065.5,
-    "arrecadado": 546775.5,
+    "arrecadado": 556775.5,
     "contratado": 334924.9,
     "pago": 305012.4,
     "limite": 1270629.01,
@@ -18842,8 +18860,9 @@
     "https://www.tiktok.com/@depluizmartins"
    ],
    "financas": {
+    "proprios": 50000.0,
     "outrosCandidatos": 1242.5,
-    "arrecadado": 1242.5,
+    "arrecadado": 51242.5,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -18870,12 +18889,12 @@
     "https://www.instagram.com/luizpaulo_dep"
    ],
    "financas": {
-    "fefc": 240000.0,
+    "fefc": 241500.0,
     "pessoasFisicas": 27256.78,
     "proprios": 35000.0,
-    "arrecadado": 302256.78,
-    "contratado": 183390.47,
-    "pago": 180390.47,
+    "arrecadado": 303756.78,
+    "contratado": 190837.67,
+    "pago": 187837.67,
     "limite": 1270629.01,
     "doadoresPF": 5,
     "ate": "29/09/2026"
@@ -19094,8 +19113,8 @@
     "fefc": 20000.0,
     "coletivo": 655.0,
     "arrecadado": 20655.0,
-    "contratado": 15816.11,
-    "pago": 10816.11,
+    "contratado": 20655.0,
+    "pago": 18816.11,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -19119,8 +19138,8 @@
    ],
    "financas": {
     "fefc": 100000.0,
-    "pessoasFisicas": 15000.0,
-    "arrecadado": 115000.0,
+    "pessoasFisicas": 51000.0,
+    "arrecadado": 151000.0,
     "contratado": 1300.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -19773,7 +19792,7 @@
    "financas": {
     "fefc": 20000.0,
     "arrecadado": 20000.0,
-    "contratado": 15678.5,
+    "contratado": 19178.5,
     "pago": 14678.5,
     "limite": 1270629.01,
     "ate": "29/09/2026"
@@ -20075,9 +20094,9 @@
    ],
    "financas": {
     "fefc": 250000.0,
-    "pessoasFisicas": 65800.0,
+    "pessoasFisicas": 90800.0,
     "coletivo": 11210.0,
-    "arrecadado": 327010.0,
+    "arrecadado": 352010.0,
     "contratado": 209730.4,
     "pago": 435.4,
     "limite": 1270629.01,
@@ -20085,8 +20104,8 @@
     "ate": "29/09/2026"
    },
    "situacaoTSE": {
-    "tipo": "ver",
-    "texto": "Deferido, com recurso pendente",
+    "tipo": "ok",
+    "texto": "Registro deferido",
     "data": "29/09/2026"
    }
   },
@@ -21472,7 +21491,8 @@
     "https://www.instagram.com/@mestrebruceluciopaz"
    ],
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 299.67,
+    "arrecadado": 299.67,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -21524,7 +21544,8 @@
     "https://www.instagram.com/mestremarciaofc"
    ],
    "financas": {
-    "arrecadado": 0.0,
+    "fefc": 20000.0,
+    "arrecadado": 20000.0,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -22780,10 +22801,10 @@
    "financas": {
     "fefc": 375000.0,
     "partido": 1625.0,
-    "pessoasFisicas": 45000.0,
+    "pessoasFisicas": 55000.0,
     "proprios": 14000.0,
     "outrosCandidatos": 2727.27,
-    "arrecadado": 438352.27,
+    "arrecadado": 448352.27,
     "contratado": 163422.6,
     "pago": 153847.6,
     "limite": 1270629.01,
@@ -22943,9 +22964,10 @@
     "https://www.instagram.com/osirismaia"
    ],
    "financas": {
+    "fefc": 15000.0,
     "partido": 74.91,
     "coletivo": 7315.0,
-    "arrecadado": 7389.91,
+    "arrecadado": 22389.91,
     "contratado": 151.91,
     "pago": 151.91,
     "limite": 1270629.01,
@@ -24095,8 +24117,8 @@
     "pessoasFisicas": 75.0,
     "coletivo": 1488.0,
     "arrecadado": 5237.78,
-    "contratado": 3109.0,
-    "pago": 3109.0,
+    "contratado": 3332.88,
+    "pago": 3332.88,
     "limite": 1270629.01,
     "doadoresPF": 1,
     "ate": "29/09/2026"
@@ -24143,12 +24165,12 @@
    ],
    "financas": {
     "fefc": 60000.0,
-    "pessoasFisicas": 805220.0,
+    "pessoasFisicas": 806220.0,
     "proprios": 55.0,
     "coletivo": 132821.98,
-    "arrecadado": 998096.98,
-    "contratado": 821600.15,
-    "pago": 540406.42,
+    "arrecadado": 999096.98,
+    "contratado": 881620.15,
+    "pago": 641040.92,
     "limite": 1270629.01,
     "doadoresPF": 35,
     "ate": "29/09/2026"
@@ -24170,11 +24192,11 @@
    "concorreu2022": false,
    "financas": {
     "fefc": 50000.0,
-    "pessoasFisicas": 10000.0,
+    "pessoasFisicas": 11000.0,
     "outrosCandidatos": 1012.5,
-    "arrecadado": 61012.5,
-    "contratado": 55312.0,
-    "pago": 43792.0,
+    "arrecadado": 62012.5,
+    "contratado": 60312.0,
+    "pago": 48792.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
     "ate": "29/09/2026"
@@ -24893,10 +24915,10 @@
    ],
    "financas": {
     "fefc": 50000.0,
-    "pessoasFisicas": 18030.0,
-    "arrecadado": 68030.0,
-    "contratado": 55879.1,
-    "pago": 37049.1,
+    "pessoasFisicas": 25030.0,
+    "arrecadado": 75030.0,
+    "contratado": 72589.1,
+    "pago": 52899.1,
     "limite": 1270629.01,
     "doadoresPF": 3,
     "ate": "29/09/2026"
@@ -25296,7 +25318,8 @@
    ],
    "financas": {
     "fefc": 10000.0,
-    "arrecadado": 10000.0,
+    "partido": 235.77,
+    "arrecadado": 10235.77,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -25418,9 +25441,9 @@
    ],
    "financas": {
     "fefc": 145100.0,
-    "pessoasFisicas": 76591.0,
+    "pessoasFisicas": 77591.08,
     "proprios": 54400.0,
-    "arrecadado": 276091.0,
+    "arrecadado": 277091.08,
     "contratado": 126072.0,
     "pago": 99047.0,
     "limite": 1270629.01,
@@ -25741,10 +25764,10 @@
    ],
    "financas": {
     "fefc": 200000.0,
-    "fundoPartidario": 22174.0,
+    "fundoPartidario": 122174.0,
     "pessoasFisicas": 3500.0,
     "proprios": 8000.0,
-    "arrecadado": 233674.0,
+    "arrecadado": 333674.0,
     "contratado": 157478.2,
     "pago": 101475.2,
     "limite": 1270629.01,
@@ -25815,8 +25838,8 @@
     "https://www.instagram.com/rafaelmaestrooficial"
    ],
    "financas": {
-    "fefc": 45940.08,
-    "arrecadado": 45940.08,
+    "fefc": 75940.08,
+    "arrecadado": 75940.08,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -26188,13 +26211,13 @@
    ],
    "financas": {
     "fefc": 145100.0,
-    "pessoasFisicas": 77300.0,
+    "pessoasFisicas": 100300.0,
     "proprios": 12000.0,
     "outrosCandidatos": 3257.25,
     "coletivo": 11080.0,
-    "arrecadado": 248737.25,
-    "contratado": 224925.15,
-    "pago": 207323.15,
+    "arrecadado": 271737.25,
+    "contratado": 249043.65,
+    "pago": 231441.65,
     "limite": 1270629.01,
     "doadoresPF": 24,
     "ate": "29/09/2026"
@@ -26384,11 +26407,11 @@
    "financas": {
     "fefc": 305124.0,
     "pessoasFisicas": 106600.0,
-    "proprios": 15000.0,
+    "proprios": 40000.0,
     "outrosCandidatos": 2727.27,
-    "arrecadado": 429451.27,
-    "contratado": 371665.96,
-    "pago": 317554.4,
+    "arrecadado": 454451.27,
+    "contratado": 369554.4,
+    "pago": 362554.4,
     "limite": 1270629.01,
     "doadoresPF": 25,
     "ate": "29/09/2026"
@@ -26549,9 +26572,9 @@
    "financas": {
     "fefc": 1183500.0,
     "partido": 5221.33,
-    "pessoasFisicas": 37208.0,
+    "pessoasFisicas": 55208.0,
     "coletivo": 5897.0,
-    "arrecadado": 1231826.33,
+    "arrecadado": 1249826.33,
     "contratado": 990622.42,
     "pago": 516769.48,
     "limite": 1270629.01,
@@ -26669,8 +26692,8 @@
    ],
    "financas": {
     "fefc": 75000.0,
-    "pessoasFisicas": 52000.0,
-    "arrecadado": 127000.0,
+    "pessoasFisicas": 59000.0,
+    "arrecadado": 134000.0,
     "contratado": 54710.0,
     "pago": 5000.0,
     "limite": 1270629.01,
@@ -26703,12 +26726,12 @@
    ],
    "financas": {
     "fefc": 66350.92,
-    "pessoasFisicas": 9100.0,
+    "pessoasFisicas": 9400.0,
     "proprios": 5000.0,
     "coletivo": 6190.0,
-    "arrecadado": 86640.92,
-    "contratado": 17521.79,
-    "pago": 17521.79,
+    "arrecadado": 86940.92,
+    "contratado": 37522.79,
+    "pago": 37522.79,
     "limite": 1270629.01,
     "doadoresPF": 8,
     "ate": "29/09/2026"
@@ -27464,8 +27487,8 @@
    ],
    "financas": {
     "fefc": 200000.0,
-    "outrosCandidatos": 66034.25,
-    "arrecadado": 266034.25,
+    "outrosCandidatos": 166034.25,
+    "arrecadado": 366034.25,
     "contratado": 136861.84,
     "pago": 8611.84,
     "limite": 1270629.01,
@@ -27762,9 +27785,9 @@
     "https://www.instagram.com/rosana_maria1966"
    ],
    "financas": {
-    "fefc": 1028.33,
-    "arrecadado": 1028.33,
-    "contratado": 0.0,
+    "fefc": 16028.33,
+    "arrecadado": 16028.33,
+    "contratado": 10400.0,
     "pago": 0.0,
     "limite": 1270629.01,
     "ate": "29/09/2026"
@@ -28019,11 +28042,12 @@
     "https://www.tiktok.com/@rosamarquesoliveira"
    ],
    "financas": {
-    "fefc": 19249.7,
+    "fefc": 22510.72,
     "pessoasFisicas": 3500.0,
-    "arrecadado": 22749.7,
-    "contratado": 18401.0,
-    "pago": 18401.0,
+    "coletivo": 130.0,
+    "arrecadado": 26140.72,
+    "contratado": 18403.59,
+    "pago": 18403.59,
     "limite": 1270629.01,
     "doadoresPF": 1,
     "ate": "29/09/2026"
@@ -28151,8 +28175,8 @@
     "fefc": 3674.78,
     "coletivo": 29.0,
     "arrecadado": 3703.78,
-    "contratado": 3425.38,
-    "pago": 3425.38,
+    "contratado": 3519.75,
+    "pago": 3519.75,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -28370,8 +28394,8 @@
    ],
    "financas": {
     "fefc": 120000.0,
-    "proprios": 26000.0,
-    "arrecadado": 146000.0,
+    "proprios": 36000.0,
+    "arrecadado": 156000.0,
     "contratado": 132165.0,
     "pago": 6000.0,
     "limite": 1270629.01,
@@ -28886,10 +28910,10 @@
    ],
    "financas": {
     "pessoasFisicas": 2000.0,
-    "proprios": 865.0,
-    "arrecadado": 2865.0,
+    "proprios": 1865.0,
+    "arrecadado": 3865.0,
     "contratado": 2865.0,
-    "pago": 865.0,
+    "pago": 1865.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
     "ate": "29/09/2026"
@@ -29146,7 +29170,8 @@
    "idade": 54,
    "patrimonio": 335000.0,
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 299.66,
+    "arrecadado": 299.66,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -29280,9 +29305,10 @@
    ],
    "financas": {
     "fefc": 7862.04,
-    "arrecadado": 7862.04,
-    "contratado": 7860.5,
-    "pago": 7860.5,
+    "fundoPartidario": 2752.29,
+    "arrecadado": 10614.33,
+    "contratado": 7862.5,
+    "pago": 7862.5,
     "limite": 1270629.01,
     "ate": "29/09/2026"
    },
@@ -29309,10 +29335,10 @@
    ],
    "financas": {
     "fefc": 40000.0,
-    "pessoasFisicas": 17000.0,
-    "arrecadado": 57000.0,
-    "contratado": 46000.0,
-    "pago": 46000.0,
+    "pessoasFisicas": 20000.0,
+    "arrecadado": 60000.0,
+    "contratado": 60000.0,
+    "pago": 60000.0,
     "limite": 1270629.01,
     "doadoresPF": 3,
     "ate": "29/09/2026"
@@ -29384,7 +29410,8 @@
    "idade": 72,
    "patrimonio": 700000.0,
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 235.77,
+    "arrecadado": 235.77,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -29626,8 +29653,8 @@
    ],
    "financas": {
     "fefc": 100000.0,
-    "pessoasFisicas": 182100.0,
-    "arrecadado": 282100.0,
+    "pessoasFisicas": 194100.0,
+    "arrecadado": 294100.0,
     "contratado": 485162.08,
     "pago": 89166.1,
     "limite": 1270629.01,
@@ -29652,7 +29679,8 @@
     "https://www.instagram.com/sergio_louback"
    ],
    "financas": {
-    "arrecadado": 0.0,
+    "pessoasFisicas": 20000.0,
+    "arrecadado": 20000.0,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -30310,7 +30338,8 @@
    "idade": 66,
    "patrimonio": 0.0,
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 299.66,
+    "arrecadado": 299.66,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -30595,10 +30624,10 @@
    ],
    "financas": {
     "fefc": 129600.0,
-    "pessoasFisicas": 195630.0,
-    "arrecadado": 325230.0,
+    "pessoasFisicas": 217630.0,
+    "arrecadado": 347230.0,
     "contratado": 376113.53,
-    "pago": 265013.46,
+    "pago": 269189.46,
     "limite": 1270629.01,
     "doadoresPF": 41,
     "ate": "29/09/2026"
@@ -31036,7 +31065,8 @@
    "idade": 45,
    "patrimonio": 0.0,
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 299.67,
+    "arrecadado": 299.67,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -31465,7 +31495,8 @@
    "idade": 40,
    "patrimonio": 43000.0,
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 299.67,
+    "arrecadado": 299.67,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
@@ -31734,11 +31765,11 @@
     "https://www.instagram.com/wallacecanelinha"
    ],
    "financas": {
-    "pessoasFisicas": 190400.0,
+    "pessoasFisicas": 199400.0,
     "outrosCandidatos": 947.25,
-    "arrecadado": 191347.25,
-    "contratado": 256778.45,
-    "pago": 155903.69,
+    "arrecadado": 200347.25,
+    "contratado": 258113.85,
+    "pago": 163469.09,
     "limite": 1270629.01,
     "doadoresPF": 17,
     "ate": "29/09/2026"
@@ -32408,10 +32439,10 @@
    "financas": {
     "fefc": 129600.0,
     "fundoPartidario": 15500.0,
-    "pessoasFisicas": 26303.11,
+    "pessoasFisicas": 52153.11,
     "proprios": 55500.0,
     "outrosCandidatos": 8605.0,
-    "arrecadado": 235508.11,
+    "arrecadado": 261358.11,
     "contratado": 228163.27,
     "pago": 118836.5,
     "limite": 1270629.01,

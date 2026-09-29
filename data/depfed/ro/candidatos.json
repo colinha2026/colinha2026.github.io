@@ -1373,8 +1373,9 @@
    ],
    "financas": {
     "fefc": 962128.42,
+    "pessoasFisicas": 53000.0,
     "proprios": 30000.0,
-    "arrecadado": 992128.42,
+    "arrecadado": 1045128.42,
     "contratado": 581042.18,
     "pago": 275034.68,
     "limite": 3176572.53,
@@ -1512,10 +1513,10 @@
    "financas": {
     "fefc": 687000.0,
     "pessoasFisicas": 41500.0,
-    "proprios": 80000.0,
-    "arrecadado": 808500.0,
-    "contratado": 998311.05,
-    "pago": 521615.55,
+    "proprios": 120000.0,
+    "arrecadado": 848500.0,
+    "contratado": 1003161.25,
+    "pago": 555825.75,
     "limite": 3176572.53,
     "doadoresPF": 9,
     "ate": "29/09/2026"
@@ -3167,11 +3168,12 @@
    ],
    "financas": {
     "fefc": 600000.0,
-    "pessoasFisicas": 167897.0,
+    "pessoasFisicas": 227547.0,
     "outrosCandidatos": 20750.0,
-    "arrecadado": 788647.0,
-    "contratado": 589358.03,
-    "pago": 450507.03,
+    "coletivo": 290.0,
+    "arrecadado": 848587.0,
+    "contratado": 630382.63,
+    "pago": 482224.63,
     "limite": 3176572.53,
     "doadoresPF": 68,
     "ate": "29/09/2026"
@@ -3452,8 +3454,8 @@
     "fefc": 3674.78,
     "proprios": 100.0,
     "arrecadado": 3774.78,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "contratado": 0.5,
+    "pago": 0.5,
     "limite": 3176572.53,
     "ate": "29/09/2026"
    },
