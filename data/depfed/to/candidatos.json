@@ -3,8 +3,8 @@
   "titulo": "TSE: dados abertos de candidaturas 2026",
   "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
  },
- "geracaoTSE": "17/08/2026",
- "listaConferida": "25/09/2026",
+ "geracaoTSE": "29/09/2026",
+ "listaConferida": "29/09/2026",
  "partidos": [
   {
    "numero": "10",
@@ -28,7 +28,7 @@
    "numero": "13",
    "sigla": "PT",
    "nome": "Partido dos Trabalhadores",
-   "federacao": "PT/PC do B/PV"
+   "federacao": "13-PT/65-PC do B/43-PV"
   },
   {
    "numero": "14",
@@ -40,7 +40,7 @@
    "numero": "18",
    "sigla": "REDE",
    "nome": "Rede Sustentabilidade",
-   "federacao": "PSOL/REDE"
+   "federacao": "50-PSOL/18-REDE"
   },
   {
    "numero": "20",
@@ -88,7 +88,7 @@
    "numero": "43",
    "sigla": "PV",
    "nome": "Partido Verde",
-   "federacao": "PT/PC do B/PV"
+   "federacao": "13-PT/65-PC do B/43-PV"
   },
   {
    "numero": "44",
@@ -100,13 +100,13 @@
    "numero": "45",
    "sigla": "PSDB",
    "nome": "Partido da Social Democracia Brasileira",
-   "federacao": "PSDB/CIDADANIA"
+   "federacao": "45-PSDB/23-CIDADANIA"
   },
   {
    "numero": "50",
    "sigla": "PSOL",
    "nome": "Partido Socialismo e Liberdade",
-   "federacao": "PSOL/REDE"
+   "federacao": "50-PSOL/18-REDE"
   }
  ],
  "candidatos": [
@@ -128,12 +128,12 @@
     "pago": 22203.0,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -158,12 +158,12 @@
     "pago": 522760.81,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -173,7 +173,7 @@
    "escolaridade": "Ensino médio completo",
    "ocupacao": "Comerciante",
    "idade": 44,
-   "patrimonio": 0.0,
+   "patrimonio": 300000.0,
    "redes": [
     "https://www.facebook.com/share/1c1trpdd2f",
     "https://www.instagram.com/alaor_oliveira_miranda",
@@ -185,12 +185,12 @@
     "contratado": 490670.5,
     "pago": 395762.5,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -216,12 +216,12 @@
     "pago": 507258.11,
     "limite": 3176572.53,
     "doadoresPF": 10,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -242,12 +242,12 @@
     "contratado": 45712.0,
     "pago": 28212.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -269,12 +269,12 @@
     "pago": 0.0,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -295,12 +295,12 @@
     "contratado": 5000.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -322,12 +322,12 @@
     "contratado": 216590.9,
     "pago": 172890.9,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -349,12 +349,12 @@
     "contratado": 30946.0,
     "pago": 30946.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -371,12 +371,12 @@
     "contratado": 32195.4,
     "pago": 32195.4,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -388,17 +388,20 @@
    "idade": 21,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/_brunnafsilva_"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -417,12 +420,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -439,12 +442,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -463,12 +466,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -482,6 +485,7 @@
    "concorreu2022": false,
    "redes": [
     "https://www.facebook.com/cinthiaribeirooficial",
+    "https://www.instagram.com/_tsumamis_",
     "https://www.instagram.com/cinthia__ribeiro",
     "https://www.tiktok.com/@cinthia__ribeiro",
     "https://x.com/cinthiacribeiro"
@@ -495,12 +499,12 @@
     "pago": 286200.01,
     "limite": 3176572.53,
     "doadoresPF": 3,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -520,12 +524,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -546,12 +550,12 @@
     "pago": 31000.0,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -577,12 +581,12 @@
     "pago": 429846.18,
     "limite": 3176572.53,
     "doadoresPF": 5,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Deferido, com recurso pendente",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -594,6 +598,7 @@
    "idade": 43,
    "patrimonio": 0.0,
    "redes": [
+    "https://www.facebook.com/crystiane.fraga",
     "https://www.instagram.com/crystianefraga"
    ],
    "financas": {
@@ -601,12 +606,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -630,12 +635,12 @@
     "pago": 163005.2,
     "limite": 3176572.53,
     "doadoresPF": 11,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -652,12 +657,12 @@
     "contratado": 1000.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -669,17 +674,20 @@
    "idade": 27,
    "patrimonio": 6000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/danielbaxtos"
+   ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -704,12 +712,12 @@
     "pago": 104218.68,
     "limite": 3176572.53,
     "doadoresPF": 5,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -733,12 +741,12 @@
     "contratado": 163264.5,
     "pago": 136514.5,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -762,12 +770,12 @@
     "contratado": 154841.45,
     "pago": 115041.45,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -791,12 +799,12 @@
     "contratado": 215500.6,
     "pago": 169875.6,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -804,7 +812,7 @@
    "nome": "Djacy Almeida",
    "partido": "PDT",
    "escolaridade": "Superior completo",
-   "ocupacao": "Servidor público estadual",
+   "ocupacao": "Servidor público civil aposentado",
    "idade": 62,
    "patrimonio": 143900.0,
    "financas": {
@@ -813,12 +821,12 @@
     "contratado": 54585.51,
     "pago": 34685.51,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -840,12 +848,12 @@
     "contratado": 6251.45,
     "pago": 6251.45,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -867,12 +875,12 @@
     "contratado": 489781.1,
     "pago": 367781.1,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -890,12 +898,12 @@
     "contratado": 13885.5,
     "pago": 13885.5,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -915,12 +923,12 @@
     "pago": 0.0,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -932,20 +940,24 @@
    "idade": 44,
    "patrimonio": 100000.0,
    "redes": [
-    "https://www.facebook.com/efrenramones",
-    "https://www.instagram.com/efrenramones"
+    "https://www.facebook.com/efren.ramones",
+    "https://www.instagram.com/efrenramones",
+    "https://www.threads.com/@efrenramones",
+    "https://www.tiktok.com/@efrenramones",
+    "https://www.youtube.com/@efrenramones",
+    "https://x.com/efrenramones"
    ],
    "financas": {
     "arrecadado": 0.0,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -970,12 +982,12 @@
     "pago": 173147.1,
     "limite": 3176572.53,
     "doadoresPF": 5,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -998,12 +1010,12 @@
     "pago": 0.0,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1022,12 +1034,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1040,6 +1052,7 @@
    "patrimonio": 0.0,
    "redes": [
     "https://www.instagram.com/emilii_moura",
+    "https://www.instagram.com/emiliimouraofc",
     "https://www.tiktok.com/@emiliimoura7"
    ],
    "financas": {
@@ -1048,12 +1061,12 @@
     "contratado": 224257.33,
     "pago": 204257.33,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1065,7 +1078,8 @@
    "idade": 51,
    "patrimonio": 41000.0,
    "redes": [
-    "https://www.instagram.com/enfermeira_sol"
+    "https://www.instagram.com/enfermeira_sol",
+    "https://www.youtube.com/@enfermeirasolsol"
    ],
    "financas": {
     "fefc": 1150000.0,
@@ -1077,12 +1091,12 @@
     "pago": 556528.08,
     "limite": 3176572.53,
     "doadoresPF": 11,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1098,12 +1112,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
-    "tipo": "ver",
-    "texto": "Deferido, com recurso pendente",
-    "data": "28/09/2026"
+    "tipo": "ok",
+    "texto": "Registro deferido",
+    "data": "29/09/2026"
    }
   },
   {
@@ -1115,18 +1129,22 @@
    "idade": 28,
    "patrimonio": 94318.56,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/evandoaraguaina",
+    "https://www.tiktok.com/@evandoaraguaina"
+   ],
    "financas": {
     "fefc": 3674.78,
     "arrecadado": 3674.78,
     "contratado": 650.0,
     "pago": 650.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1138,7 +1156,11 @@
    "idade": 48,
    "patrimonio": 2041265.5,
    "redes": [
-    "https://www.instagram.com/fabiopereiravaz"
+    "https://www.facebook.com/people/f%c3%a1bio-vaz/61561299205065",
+    "https://www.instagram.com/fabiopereiravaz",
+    "https://www.kwai.com/@fabiovaz.to",
+    "https://www.tiktok.com/@fabiovaz.to",
+    "https://x.com/fabiopereiravaz"
    ],
    "financas": {
     "fefc": 1439770.06,
@@ -1152,12 +1174,12 @@
     "pago": 680545.09,
     "limite": 3176572.53,
     "doadoresPF": 6,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1182,12 +1204,12 @@
     "contratado": 2152881.6,
     "pago": 1318458.2,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1208,12 +1230,12 @@
     "contratado": 9700.0,
     "pago": 9700.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1233,12 +1255,12 @@
     "pago": 50035.29,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1262,12 +1284,12 @@
     "contratado": 87052.5,
     "pago": 74552.5,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1287,12 +1309,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1315,12 +1337,12 @@
     "contratado": 1320.0,
     "pago": 1320.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1333,8 +1355,12 @@
    "patrimonio": 31180000.0,
    "concorreu2022": false,
    "redes": [
+    "https://www.facebook.com/irataabreuoficial",
     "https://www.instagram.com/irata.abreu",
-    "https://www.tiktok.com/@irataabreu"
+    "https://www.threads.com/@irata.abreu.silvestre",
+    "https://www.tiktok.com/@irataabreu",
+    "https://www.youtube.com/@irataabreu",
+    "https://x.com/irataabreu"
    ],
    "financas": {
     "fefc": 500000.0,
@@ -1346,12 +1372,12 @@
     "pago": 646765.05,
     "limite": 3176572.53,
     "doadoresPF": 4,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1359,9 +1385,9 @@
    "nome": "Jair Farias",
    "partido": "UNIÃO",
    "escolaridade": "Ensino médio completo",
-   "ocupacao": "Agente administrativo",
+   "ocupacao": "Deputado",
    "idade": 56,
-   "patrimonio": 11052993.1,
+   "patrimonio": 2682015.43,
    "redes": [
     "https://www.facebook.com/jairfarias2026",
     "https://www.instagram.com/depjairfariasoficial",
@@ -1379,12 +1405,12 @@
     "pago": 2176145.44,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1408,12 +1434,12 @@
     "pago": 20954.0,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1421,7 +1447,7 @@
    "nome": "José Salomão",
    "partido": "PT",
    "escolaridade": "Superior completo",
-   "ocupacao": "Advogado",
+   "ocupacao": "Servidor público civil aposentado",
    "idade": 78,
    "patrimonio": 2428529.18,
    "redes": [
@@ -1439,12 +1465,12 @@
     "pago": 394766.44,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1461,12 +1487,12 @@
     "contratado": 24269.5,
     "pago": 23269.5,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1482,12 +1508,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1509,12 +1535,12 @@
     "contratado": 480449.7,
     "pago": 321549.7,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1531,12 +1557,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1558,22 +1584,22 @@
     "contratado": 4000.0,
     "pago": 4000.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
    "numero": "4444",
    "nome": "Luana Nunes",
    "partido": "UNIÃO",
-   "escolaridade": "Superior incompleto",
-   "ocupacao": "Estudante, bolsista, estagiário e assemelhados",
+   "escolaridade": "Superior completo",
+   "ocupacao": "Médico",
    "idade": 36,
-   "patrimonio": 5527617.19,
+   "patrimonio": 659484.31,
    "redes": [
     "https://www.facebook.com/luana.n.garcia.5",
     "https://www.instagram.com/luana_nunesg"
@@ -1590,12 +1616,12 @@
     "pago": 929131.02,
     "limite": 3176572.53,
     "doadoresPF": 24,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1622,12 +1648,12 @@
     "pago": 579777.93,
     "limite": 3176572.53,
     "doadoresPF": 3,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1648,12 +1674,12 @@
     "contratado": 37307.0,
     "pago": 30407.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1673,12 +1699,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1696,12 +1722,12 @@
     "contratado": 10385.5,
     "pago": 10385.5,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1718,12 +1744,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1735,6 +1761,7 @@
    "idade": 37,
    "patrimonio": 405000.07,
    "redes": [
+    "https://www.instagram.com/mariadojalapao2020depfederal",
     "https://www.instagram.com/mariajalapaoofc"
    ],
    "financas": {
@@ -1744,12 +1771,12 @@
     "contratado": 176393.03,
     "pago": 35593.03,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1760,6 +1787,9 @@
    "ocupacao": "Outros",
    "idade": 63,
    "patrimonio": 0.0,
+   "redes": [
+    "https://www.instagram.com/dep.federalmarletemelo"
+   ],
    "financas": {
     "fefc": 11329.0,
     "fundoPartidario": 4446.26,
@@ -1769,12 +1799,12 @@
     "pago": 0.0,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1796,12 +1826,12 @@
     "contratado": 190222.6,
     "pago": 135412.6,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1827,12 +1857,12 @@
     "pago": 831819.0,
     "limite": 3176572.53,
     "doadoresPF": 8,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1844,6 +1874,11 @@
    "idade": 54,
    "patrimonio": 160000.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.facebook.com/people/m%c3%a1rcia-bandeira/6159276",
+    "https://www.instagram.com/marciabandeiran",
+    "https://www.tiktok.com/@marciabandeiran"
+   ],
    "financas": {
     "fefc": 33500.0,
     "fundoPartidario": 691.9,
@@ -1851,12 +1886,12 @@
     "contratado": 30159.06,
     "pago": 4159.06,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1879,19 +1914,25 @@
     "pago": 174138.45,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
    "numero": "5000",
    "nome": "Nilma Guerreira",
    "partido": "PSOL",
-   "detalhesPendentes": true,
+   "escolaridade": "Superior incompleto",
+   "ocupacao": "Vigilante",
+   "idade": 58,
+   "patrimonio": 20000.0,
+   "redes": [
+    "https://www.instagram.com/nilmasousapalmas"
+   ],
    "financas": {
     "fefc": 33500.0,
     "fundoPartidario": 841.5,
@@ -1901,12 +1942,12 @@
     "pago": 29591.5,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1922,12 +1963,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1949,12 +1990,12 @@
     "contratado": 110078.5,
     "pago": 90078.5,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -1981,12 +2022,12 @@
     "pago": 185226.2,
     "limite": 3176572.53,
     "doadoresPF": 11,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2006,12 +2047,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2030,12 +2071,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2059,12 +2100,12 @@
     "contratado": 110216.1,
     "pago": 73216.1,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2081,12 +2122,12 @@
     "contratado": 49116.11,
     "pago": 37116.11,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2110,12 +2151,12 @@
     "pago": 260203.43,
     "limite": 3176572.53,
     "doadoresPF": 27,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2142,12 +2183,12 @@
     "pago": 2054812.34,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2167,12 +2208,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2198,12 +2239,12 @@
     "pago": 1738076.51,
     "limite": 3176572.53,
     "doadoresPF": 3,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2222,12 +2263,12 @@
     "contratado": 165455.0,
     "pago": 55055.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2255,12 +2296,12 @@
     "pago": 107977.9,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2280,12 +2321,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2305,12 +2346,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2322,7 +2363,9 @@
    "idade": 54,
    "patrimonio": 590000.0,
    "redes": [
-    "https://www.instagram.com/oficialrosilenemartins"
+    "https://www.facebook.com/oficialrosilene",
+    "https://www.instagram.com/oficialrosilenemartins",
+    "https://www.instagram.com/rosilenemartinsto"
    ],
    "financas": {
     "fefc": 1026237.96,
@@ -2332,12 +2375,12 @@
     "contratado": 250065.5,
     "pago": 150035.5,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2347,10 +2390,12 @@
    "escolaridade": "Ensino médio completo",
    "ocupacao": "Cozinheiro",
    "idade": 51,
-   "patrimonio": 140000.0,
+   "patrimonio": 640000.0,
    "redes": [
+    "https://k.kwai.com/u/@mariaruthsousaalmeid/gcqry2ob",
     "https://www.facebook.com/mariaruth.sousaalmeidalima.1",
-    "https://www.instagram.com/ruthalmeida2026"
+    "https://www.instagram.com/chefrut",
+    "https://www.tiktok.com/@chef.ruth"
    ],
    "financas": {
     "fefc": 700000.0,
@@ -2360,19 +2405,19 @@
     "contratado": 352006.0,
     "pago": 333506.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
    "numero": "2090",
    "nome": "Samira Bezerra",
    "partido": "PODE",
-   "escolaridade": "Superior incompleto",
+   "escolaridade": "Superior completo",
    "ocupacao": "Agente administrativo",
    "idade": 46,
    "patrimonio": 417000.0,
@@ -2387,12 +2432,12 @@
     "contratado": 51802.5,
     "pago": 25752.5,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2418,12 +2463,12 @@
     "pago": 639037.6,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2440,12 +2485,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2457,6 +2502,8 @@
    "idade": 36,
    "patrimonio": 50000.0,
    "redes": [
+    "https://www.facebook.com/daianelimabombeira",
+    "https://www.facebook.com/profile.php",
     "https://www.instagram.com/daianelimabombeira"
    ],
    "financas": {
@@ -2468,12 +2515,12 @@
     "pago": 30503.5,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2496,12 +2543,12 @@
     "pago": 77201.0,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2522,12 +2569,12 @@
     "contratado": 50003.5,
     "pago": 47003.5,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2537,7 +2584,7 @@
    "escolaridade": "Superior completo",
    "ocupacao": "Empresário",
    "idade": 47,
-   "patrimonio": 240000.0,
+   "patrimonio": 2895000.0,
    "redes": [
     "https://www.facebook.com/profile.php",
     "https://www.instagram.com/sirleidemauriz",
@@ -2551,12 +2598,12 @@
     "contratado": 204959.39,
     "pago": 181959.39,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2579,12 +2626,12 @@
     "contratado": 278920.85,
     "pago": 268920.85,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2610,12 +2657,12 @@
     "pago": 473220.52,
     "limite": 3176572.53,
     "doadoresPF": 3,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2637,12 +2684,12 @@
     "pago": 78505.0,
     "limite": 3176572.53,
     "doadoresPF": 3,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2653,6 +2700,9 @@
    "ocupacao": "Economista",
    "idade": 51,
    "patrimonio": 370605.0,
+   "redes": [
+    "https://www.instagram.com/vivi.souza.pmw"
+   ],
    "financas": {
     "fefc": 11329.0,
     "fundoPartidario": 4446.18,
@@ -2660,12 +2710,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2677,18 +2727,21 @@
    "idade": 39,
    "patrimonio": 0.0,
    "concorreu2022": false,
+   "redes": [
+    "https://www.instagram.com/waldeson.venceslau"
+   ],
    "financas": {
     "proprios": 5159.0,
     "arrecadado": 5159.0,
     "contratado": 1354.0,
     "pago": 1354.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   },
   {
@@ -2710,12 +2763,12 @@
     "contratado": 8335.0,
     "pago": 8335.0,
     "limite": 3176572.53,
-    "ate": "27/09/2026"
+    "ate": "29/09/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "28/09/2026"
+    "data": "29/09/2026"
    }
   }
  ]
