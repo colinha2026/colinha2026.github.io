@@ -265,8 +265,8 @@
     "ate": "30/09/2026"
    },
    "situacaoTSE": {
-    "tipo": "ok",
-    "texto": "Registro deferido",
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
     "data": "30/09/2026"
    }
   },
@@ -628,9 +628,10 @@
    "patrimonio": 1078267.64,
    "financas": {
     "fefc": 2563134.83,
+    "fundoPartidario": 300000.0,
     "pessoasFisicas": 10000.0,
     "outrosCandidatos": 1000.0,
-    "arrecadado": 2574134.83,
+    "arrecadado": 2874134.83,
     "contratado": 1969025.05,
     "pago": 1600641.1,
     "limite": 3176572.53,
@@ -708,11 +709,11 @@
    "patrimonio": 54000.0,
    "concorreu2022": false,
    "financas": {
-    "fefc": 200000.0,
+    "fefc": 257970.0,
     "pessoasFisicas": 8000.0,
-    "arrecadado": 208000.0,
-    "contratado": 183411.52,
-    "pago": 174919.52,
+    "arrecadado": 265970.0,
+    "contratado": 193411.52,
+    "pago": 186540.52,
     "limite": 3176572.53,
     "doadoresPF": 1,
     "ate": "30/09/2026"
@@ -790,10 +791,10 @@
    "financas": {
     "fefc": 3674.78,
     "pessoasFisicas": 2232.0,
-    "coletivo": 1494.14,
-    "arrecadado": 7400.92,
-    "contratado": 2090.08,
-    "pago": 2090.08,
+    "coletivo": 2192.14,
+    "arrecadado": 8098.92,
+    "contratado": 2842.84,
+    "pago": 2842.84,
     "limite": 3176572.53,
     "doadoresPF": 78,
     "ate": "30/09/2026"
@@ -1798,10 +1799,10 @@
     "fefc": 62510.0,
     "pessoasFisicas": 2500.0,
     "outrosCandidatos": 207.5,
-    "coletivo": 1335.0,
-    "arrecadado": 66552.5,
-    "contratado": 71861.34,
-    "pago": 53858.73,
+    "coletivo": 1405.0,
+    "arrecadado": 66622.5,
+    "contratado": 72951.57,
+    "pago": 59191.57,
     "limite": 3176572.53,
     "doadoresPF": 1,
     "ate": "30/09/2026"
@@ -2225,8 +2226,8 @@
     "fefc": 3674.78,
     "coletivo": 450.0,
     "arrecadado": 4124.78,
-    "contratado": 3271.5,
-    "pago": 3271.5,
+    "contratado": 3273.0,
+    "pago": 3273.0,
     "limite": 3176572.53,
     "ate": "30/09/2026"
    },
