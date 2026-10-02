@@ -49,7 +49,7 @@
     "contratado": 5914519.39,
     "pago": 1408891.8,
     "limite": 6226082.16,
-    "ate": "01/10/2026"
+    "ate": "02/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
@@ -69,8 +69,8 @@
    "Ocupação declarada ao TSE: jornalista e redator"
   ],
   "situacao": {
-   "tipo": "ok",
-   "texto": "Registro deferido (TSE, 02/10/2026)"
+   "tipo": "ver",
+   "texto": "Registro indeferido (TSE, 02/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -98,17 +98,17 @@
    ],
    "financas": {
     "fundoPartidario": 300000.0,
-    "pessoasFisicas": 11548.0,
-    "arrecadado": 311548.0,
-    "contratado": 312693.0,
+    "pessoasFisicas": 14548.0,
+    "arrecadado": 314548.0,
+    "contratado": 316133.0,
     "pago": 300000.0,
     "limite": 6226082.16,
     "doadoresPF": 4,
-    "ate": "01/10/2026"
+    "ate": "02/10/2026"
    },
    "situacaoTSE": {
-    "tipo": "ok",
-    "texto": "Registro deferido",
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
     "data": "02/10/2026"
    }
   }
@@ -152,14 +152,14 @@
     "https://www.youtube.com/live/uqbjuzbui0i"
    ],
    "financas": {
-    "pessoasFisicas": 3926.0,
+    "pessoasFisicas": 4926.0,
     "proprios": 1400.0,
-    "arrecadado": 5326.0,
-    "contratado": 9326.0,
-    "pago": 5326.0,
+    "arrecadado": 6326.0,
+    "contratado": 11706.5,
+    "pago": 6026.0,
     "limite": 6226082.16,
     "doadoresPF": 2,
-    "ate": "01/10/2026"
+    "ate": "02/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -179,8 +179,8 @@
    "Ocupação declarada ao TSE: advogado"
   ],
   "situacao": {
-   "tipo": "ok",
-   "texto": "Registro deferido (TSE, 02/10/2026)"
+   "tipo": "ver",
+   "texto": "Renunciou à candidatura (TSE, 02/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -212,11 +212,11 @@
     "contratado": 145000.0,
     "pago": 41000.0,
     "limite": 6226082.16,
-    "ate": "01/10/2026"
+    "ate": "02/10/2026"
    },
    "situacaoTSE": {
-    "tipo": "ok",
-    "texto": "Registro deferido",
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
     "data": "02/10/2026"
    }
   }
@@ -265,7 +265,7 @@
     "pago": 33273.5,
     "limite": 6226082.16,
     "doadoresPF": 4,
-    "ate": "01/10/2026"
+    "ate": "02/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
@@ -318,7 +318,7 @@
     "pago": 804527.37,
     "limite": 6226082.16,
     "doadoresPF": 13,
-    "ate": "01/10/2026"
+    "ate": "02/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
