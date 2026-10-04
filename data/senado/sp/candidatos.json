@@ -88,7 +88,7 @@
     "pago": 5305430.12,
     "limite": 7115522.46,
     "doadoresPF": 59,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -141,7 +141,7 @@
     "contratado": 10673.3,
     "pago": 10673.3,
     "limite": 7115522.46,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -203,7 +203,7 @@
     "pago": 29016.1,
     "limite": 7115522.46,
     "doadoresPF": 3,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -259,7 +259,7 @@
     "contratado": 88470.97,
     "pago": 24425.97,
     "limite": 7115522.46,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -375,16 +375,16 @@
    ],
    "financas": {
     "fefc": 2100000.0,
-    "pessoasFisicas": 1215282.55,
+    "pessoasFisicas": 1216282.55,
     "proprios": 50000.0,
     "outrosCandidatos": 107750.0,
     "coletivo": 263410.0,
-    "arrecadado": 3736442.55,
-    "contratado": 1489133.01,
+    "arrecadado": 3737442.55,
+    "contratado": 2749733.01,
     "pago": 1108989.28,
     "limite": 7115522.46,
     "doadoresPF": 60,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -449,13 +449,12 @@
     "fefc": 6000000.0,
     "fundoPartidario": 470000.0,
     "pessoasFisicas": 75333.34,
-    "naoIdentificada": 226.0,
-    "arrecadado": 6545559.34,
-    "contratado": 1591388.04,
-    "pago": 826674.34,
+    "arrecadado": 6545333.34,
+    "contratado": 1672807.73,
+    "pago": 1357391.58,
     "limite": 7115522.46,
     "doadoresPF": 4,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -463,7 +462,7 @@
     "data": "03/10/2026"
    }
   },
-  "suplentes": "Ana Estima e Luciana Felix e Jason Albuquerque (PODE)",
+  "suplentes": "Luciana Felix e Ana Estima e Jason Albuquerque (PODE)",
   "suplentesFonte": "tse"
  },
  {
@@ -510,7 +509,7 @@
     "pago": 3083.54,
     "limite": 7115522.46,
     "doadoresPF": 1,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -621,7 +620,7 @@
     "pago": 3041396.5,
     "limite": 7115522.46,
     "doadoresPF": 15,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -706,7 +705,7 @@
     "pago": 150000.0,
     "limite": 7115522.46,
     "doadoresPF": 1,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -728,7 +727,7 @@
   ],
   "situacao": {
    "tipo": "ver",
-   "texto": "Indeferido, com recurso (sub judice) (TSE, 03/10/2026)"
+   "texto": "Registro indeferido (TSE, 03/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -754,11 +753,11 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 7115522.46,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
-    "tipo": "ver",
-    "texto": "Indeferido, com recurso (sub judice)",
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
     "data": "03/10/2026"
    }
   },
@@ -777,8 +776,8 @@
    "Secretário estadual do Meio Ambiente de SP (2016–2017)"
   ],
   "situacao": {
-   "tipo": "ok",
-   "texto": "Registro deferido (TSE, 03/10/2026)"
+   "tipo": "ver",
+   "texto": "Renunciou à candidatura (TSE, 03/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -844,11 +843,11 @@
     "pago": 2708185.42,
     "limite": 7115522.46,
     "doadoresPF": 21,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
-    "tipo": "ok",
-    "texto": "Registro deferido",
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
     "data": "03/10/2026"
    }
   },
@@ -892,7 +891,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 7115522.46,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1009,7 +1008,7 @@
     "pago": 6612614.53,
     "limite": 7115522.46,
     "doadoresPF": 4,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1053,14 +1052,14 @@
    "idade": 42,
    "patrimonio": 0.0,
    "financas": {
-    "pessoasFisicas": 9600.0,
+    "pessoasFisicas": 18850.0,
     "outrosCandidatos": 8744.18,
-    "arrecadado": 18344.18,
-    "contratado": 8000.0,
+    "arrecadado": 27594.18,
+    "contratado": 0.0,
     "pago": 0.0,
     "limite": 7115522.46,
     "doadoresPF": 12,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1104,14 +1103,14 @@
    "idade": 46,
    "patrimonio": 210000.0,
    "financas": {
-    "pessoasFisicas": 9600.0,
+    "pessoasFisicas": 18850.0,
     "outrosCandidatos": 10178.56,
-    "arrecadado": 19778.56,
-    "contratado": 8000.0,
+    "arrecadado": 29028.56,
+    "contratado": 0.0,
     "pago": 0.0,
     "limite": 7115522.46,
     "doadoresPF": 12,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",

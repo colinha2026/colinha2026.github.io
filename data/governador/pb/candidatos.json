@@ -43,7 +43,7 @@
     "pago": 2253032.05,
     "limite": 7115522.46,
     "doadoresPF": 1,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -95,7 +95,7 @@
     "pago": 5012874.89,
     "limite": 7115522.46,
     "doadoresPF": 5,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
@@ -153,7 +153,7 @@
     "pago": 4092799.52,
     "limite": 7115522.46,
     "doadoresPF": 1,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -173,8 +173,8 @@
    "Ocupação declarada ao TSE: empresário"
   ],
   "situacao": {
-   "tipo": "ok",
-   "texto": "Registro deferido (TSE, 03/10/2026)"
+   "tipo": "ver",
+   "texto": "Renunciou à candidatura (TSE, 03/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -200,11 +200,11 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 7115522.46,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
-    "tipo": "ok",
-    "texto": "Registro deferido",
+    "tipo": "alerta",
+    "texto": "Renunciou à candidatura",
     "data": "03/10/2026"
    }
   }
@@ -251,7 +251,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 7115522.46,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -303,7 +303,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 7115522.46,
-    "ate": "02/10/2026"
+    "ate": "03/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
