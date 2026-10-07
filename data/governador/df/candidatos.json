@@ -11,7 +11,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 05/10/2026)"
+   "texto": "Registro deferido (TSE, 07/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -50,12 +50,12 @@
     "pago": 813918.3,
     "limite": 7115522.46,
     "doadoresPF": 15,
-    "ate": "06/10/2026"
+    "ate": "07/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "05/10/2026"
+    "data": "07/10/2026"
    }
   }
  },
@@ -71,7 +71,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 05/10/2026)"
+   "texto": "Registro deferido (TSE, 07/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -111,12 +111,12 @@
     "pago": 104043.2,
     "limite": 7115522.46,
     "doadoresPF": 9,
-    "ate": "06/10/2026"
+    "ate": "07/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "05/10/2026"
+    "data": "07/10/2026"
    }
   }
  },
@@ -132,7 +132,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 05/10/2026)"
+   "texto": "Registro deferido (TSE, 07/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -164,12 +164,12 @@
     "contratado": 24700.0,
     "pago": 22500.0,
     "limite": 7115522.46,
-    "ate": "06/10/2026"
+    "ate": "07/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "05/10/2026"
+    "data": "07/10/2026"
    }
   }
  },
@@ -183,7 +183,7 @@
   ],
   "situacao": {
    "tipo": "ver",
-   "texto": "Indeferido, com recurso (sub judice) (TSE, 05/10/2026)"
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 07/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -209,12 +209,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 7115522.46,
-    "ate": "06/10/2026"
+    "ate": "07/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "05/10/2026"
+    "data": "07/10/2026"
    }
   }
  },
@@ -230,7 +230,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 05/10/2026)"
+   "texto": "Registro deferido (TSE, 07/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -260,12 +260,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 7115522.46,
-    "ate": "06/10/2026"
+    "ate": "07/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "05/10/2026"
+    "data": "07/10/2026"
    }
   }
  },
@@ -281,7 +281,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 05/10/2026)"
+   "texto": "Registro deferido (TSE, 07/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -319,12 +319,12 @@
     "pago": 453635.24,
     "limite": 7115522.46,
     "doadoresPF": 3,
-    "ate": "06/10/2026"
+    "ate": "07/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "05/10/2026"
+    "data": "07/10/2026"
    }
   }
  },
@@ -340,7 +340,7 @@
   ],
   "situacao": {
    "tipo": "ver",
-   "texto": "Indeferido, com recurso (sub judice) (TSE, 05/10/2026)"
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 07/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -373,12 +373,12 @@
     "pago": 69.99,
     "limite": 7115522.46,
     "doadoresPF": 1,
-    "ate": "06/10/2026"
+    "ate": "07/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "05/10/2026"
+    "data": "07/10/2026"
    }
   }
  },
@@ -394,7 +394,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 05/10/2026)"
+   "texto": "Registro deferido (TSE, 07/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -425,19 +425,20 @@
    ],
    "financas": {
     "fefc": 440000.0,
-    "pessoasFisicas": 420699.98,
+    "pessoasFisicas": 453837.95,
     "outrosCandidatos": 92500.0,
-    "arrecadado": 953199.98,
-    "contratado": 1187445.73,
-    "pago": 414213.5,
+    "coletivo": 347.0,
+    "arrecadado": 986684.95,
+    "contratado": 1187452.64,
+    "pago": 414220.41,
     "limite": 7115522.46,
     "doadoresPF": 8,
-    "ate": "06/10/2026"
+    "ate": "07/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "05/10/2026"
+    "data": "07/10/2026"
    }
   }
  },
@@ -453,7 +454,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 05/10/2026)"
+   "texto": "Registro deferido (TSE, 07/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -484,19 +485,19 @@
    ],
    "financas": {
     "fefc": 2180000.0,
-    "pessoasFisicas": 1218000.0,
+    "pessoasFisicas": 1227500.0,
     "proprios": 619000.0,
-    "arrecadado": 4017000.0,
-    "contratado": 4111653.11,
-    "pago": 2798494.39,
+    "arrecadado": 4026500.0,
+    "contratado": 4111795.71,
+    "pago": 2798635.49,
     "limite": 7115522.46,
     "doadoresPF": 1,
-    "ate": "06/10/2026"
+    "ate": "07/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "05/10/2026"
+    "data": "07/10/2026"
    }
   }
  },
@@ -512,7 +513,7 @@
   ],
   "situacao": {
    "tipo": "ver",
-   "texto": "Registro indeferido (TSE, 05/10/2026)"
+   "texto": "Registro indeferido (TSE, 07/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -551,12 +552,12 @@
     "pago": 1483353.69,
     "limite": 7115522.46,
     "doadoresPF": 1,
-    "ate": "06/10/2026"
+    "ate": "07/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "05/10/2026"
+    "data": "07/10/2026"
    }
   }
  },
@@ -572,7 +573,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 05/10/2026)"
+   "texto": "Registro deferido (TSE, 07/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -605,12 +606,12 @@
     "contratado": 1716.28,
     "pago": 95.28,
     "limite": 7115522.46,
-    "ate": "06/10/2026"
+    "ate": "07/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "05/10/2026"
+    "data": "07/10/2026"
    }
   }
  }
