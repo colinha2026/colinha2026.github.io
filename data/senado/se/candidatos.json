@@ -38,11 +38,12 @@
    ],
    "financas": {
     "fefc": 2000000.0,
-    "proprios": 10000.0,
+    "pessoasFisicas": 20000.0,
+    "proprios": 110000.0,
     "outrosCandidatos": 2833.2,
-    "arrecadado": 2012833.2,
-    "contratado": 2050742.27,
-    "pago": 291829.52,
+    "arrecadado": 2132833.2,
+    "contratado": 2383177.38,
+    "pago": 1918990.0,
     "limite": 3176572.53,
     "ate": "11/10/2026"
    },
@@ -264,9 +265,10 @@
     "partido": 5000.0,
     "pessoasFisicas": 670200.0,
     "outrosCandidatos": 2385.0,
-    "arrecadado": 3577585.0,
-    "contratado": 2814769.76,
-    "pago": 2480265.07,
+    "coletivo": 8410.0,
+    "arrecadado": 3585995.0,
+    "contratado": 3116466.02,
+    "pago": 2965677.34,
     "limite": 3176572.53,
     "doadoresPF": 17,
     "ate": "11/10/2026"
@@ -434,7 +436,7 @@
     "data": "11/10/2026"
    }
   },
-  "suplentes": "Geivisson e Marcio Vieira do Moema Meire e Mario Sonhador (DC)",
+  "suplentes": "Geivisson e Mario Sonhador e Marcio Vieira do Moema Meire (DC)",
   "suplentesFonte": "tse"
  },
  {
