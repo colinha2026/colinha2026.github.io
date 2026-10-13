@@ -3,8 +3,8 @@
   "titulo": "TSE: dados abertos de candidaturas 2026",
   "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
  },
- "geracaoTSE": "11/10/2026",
- "listaConferida": "11/10/2026",
+ "geracaoTSE": "13/10/2026",
+ "listaConferida": "13/10/2026",
  "partidos": [
   {
    "numero": "10",
@@ -177,7 +177,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -205,7 +205,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -237,7 +237,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -269,7 +269,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -298,7 +298,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -332,7 +332,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -360,7 +360,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -393,7 +393,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -419,7 +419,7 @@
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -434,16 +434,17 @@
    "financas": {
     "fefc": 200000.0,
     "fundoPartidario": 2468.0,
-    "arrecadado": 202468.0,
+    "proprios": 15881.0,
+    "arrecadado": 218349.0,
     "contratado": 215880.0,
-    "pago": 200000.0,
+    "pago": 215880.0,
     "limite": 3176572.53,
     "ate": "13/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -467,7 +468,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -500,7 +501,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -527,7 +528,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -558,7 +559,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -586,7 +587,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -614,7 +615,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -647,7 +648,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -669,7 +670,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -693,7 +694,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -715,7 +716,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -745,7 +746,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -775,7 +776,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -810,7 +811,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -835,7 +836,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -867,7 +868,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -898,7 +899,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -930,7 +931,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -960,7 +961,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -991,7 +992,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1019,7 +1020,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1053,7 +1054,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1080,7 +1081,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1098,12 +1099,12 @@
    ],
    "financas": {
     "fefc": 95500.0,
-    "pessoasFisicas": 27405.0,
+    "pessoasFisicas": 27905.0,
     "proprios": 1200.0,
     "coletivo": 93971.33,
-    "arrecadado": 218076.33,
-    "contratado": 96624.16,
-    "pago": 92003.16,
+    "arrecadado": 218576.33,
+    "contratado": 162944.16,
+    "pago": 158323.16,
     "limite": 3176572.53,
     "doadoresPF": 31,
     "ate": "13/10/2026"
@@ -1111,7 +1112,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1133,7 +1134,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1157,7 +1158,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1184,7 +1185,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1210,7 +1211,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1236,7 +1237,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1258,7 +1259,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1280,7 +1281,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1303,7 +1304,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1331,7 +1332,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1358,7 +1359,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1383,7 +1384,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1409,7 +1410,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1432,7 +1433,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1457,7 +1458,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1488,7 +1489,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1519,7 +1520,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1552,7 +1553,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1580,7 +1581,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1607,7 +1608,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1635,7 +1636,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1657,7 +1658,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1684,7 +1685,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1711,7 +1712,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1732,7 +1733,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1755,7 +1756,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1783,7 +1784,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1815,7 +1816,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1831,8 +1832,9 @@
    ],
    "financas": {
     "fefc": 470000.0,
+    "pessoasFisicas": 1.5,
     "proprios": 3449.97,
-    "arrecadado": 473449.97,
+    "arrecadado": 473451.47,
     "contratado": 188862.5,
     "pago": 188862.5,
     "limite": 3176572.53,
@@ -1841,7 +1843,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1873,7 +1875,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1901,7 +1903,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1928,7 +1930,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1957,7 +1959,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -1982,7 +1984,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2011,7 +2013,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2040,7 +2042,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2065,7 +2067,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2091,7 +2093,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2118,7 +2120,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2143,7 +2145,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2174,7 +2176,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2204,7 +2206,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2232,7 +2234,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2261,7 +2263,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2292,7 +2294,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2323,7 +2325,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2347,7 +2349,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2373,7 +2375,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2407,7 +2409,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2436,7 +2438,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2470,7 +2472,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2497,7 +2499,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2528,7 +2530,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2555,7 +2557,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2577,7 +2579,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2605,7 +2607,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2637,7 +2639,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2662,7 +2664,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2691,7 +2693,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2724,7 +2726,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2756,7 +2758,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2782,7 +2784,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2806,7 +2808,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2831,7 +2833,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2857,7 +2859,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2884,7 +2886,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2912,7 +2914,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2936,7 +2938,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2960,7 +2962,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -2984,7 +2986,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3006,7 +3008,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3034,7 +3036,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3057,10 +3059,10 @@
    ],
    "financas": {
     "fefc": 2899800.0,
-    "pessoasFisicas": 28050.0,
+    "pessoasFisicas": 44050.0,
     "proprios": 25000.0,
     "outrosCandidatos": 325.0,
-    "arrecadado": 2953175.0,
+    "arrecadado": 2969175.0,
     "contratado": 2945697.64,
     "pago": 2919381.64,
     "limite": 3176572.53,
@@ -3070,7 +3072,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3095,7 +3097,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3121,7 +3123,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3148,7 +3150,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3177,7 +3179,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3204,7 +3206,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3228,7 +3230,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3255,7 +3257,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3288,7 +3290,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3321,7 +3323,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3347,7 +3349,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3373,7 +3375,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3396,7 +3398,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3422,7 +3424,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3450,7 +3452,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3473,7 +3475,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3498,7 +3500,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3529,7 +3531,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3561,7 +3563,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3588,7 +3590,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3611,7 +3613,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3637,7 +3639,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3664,7 +3666,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3686,7 +3688,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3712,7 +3714,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3747,7 +3749,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3774,7 +3776,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3802,7 +3804,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3823,7 +3825,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3852,7 +3854,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3884,7 +3886,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3907,7 +3909,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3937,7 +3939,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3961,7 +3963,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -3990,7 +3992,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4016,7 +4018,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4045,7 +4047,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4077,7 +4079,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4099,7 +4101,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4125,7 +4127,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4156,7 +4158,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4183,7 +4185,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4212,7 +4214,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4239,7 +4241,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4271,7 +4273,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4298,7 +4300,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4332,7 +4334,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4359,7 +4361,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4384,7 +4386,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4411,7 +4413,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4438,7 +4440,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4463,7 +4465,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4484,7 +4486,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4506,7 +4508,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4533,7 +4535,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4561,7 +4563,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4583,7 +4585,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4607,7 +4609,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4635,7 +4637,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4662,7 +4664,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4687,7 +4689,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4712,7 +4714,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4741,7 +4743,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4767,7 +4769,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4794,7 +4796,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4823,7 +4825,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4847,7 +4849,7 @@
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4876,7 +4878,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4902,7 +4904,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4924,7 +4926,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4956,7 +4958,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -4980,7 +4982,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5009,7 +5011,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5034,7 +5036,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5061,7 +5063,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5094,7 +5096,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5125,7 +5127,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5156,7 +5158,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5177,7 +5179,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5203,7 +5205,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5233,7 +5235,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5261,7 +5263,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5283,7 +5285,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5311,7 +5313,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5336,7 +5338,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5364,7 +5366,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5389,7 +5391,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5413,7 +5415,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5442,7 +5444,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5470,7 +5472,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5504,7 +5506,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5533,7 +5535,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5561,7 +5563,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5592,7 +5594,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5620,7 +5622,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5649,7 +5651,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5674,7 +5676,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5706,7 +5708,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5733,7 +5735,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5761,7 +5763,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5790,7 +5792,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5820,7 +5822,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5849,7 +5851,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5876,7 +5878,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5898,7 +5900,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5929,7 +5931,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5961,7 +5963,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -5987,7 +5989,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6009,7 +6011,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6035,7 +6037,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6061,7 +6063,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6088,7 +6090,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6115,7 +6117,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6144,7 +6146,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6166,7 +6168,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6201,7 +6203,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6229,7 +6231,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6251,7 +6253,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6277,7 +6279,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6313,7 +6315,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6334,7 +6336,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6356,7 +6358,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6384,7 +6386,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6411,7 +6413,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6441,7 +6443,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6470,7 +6472,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6500,7 +6502,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6528,7 +6530,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6560,7 +6562,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6589,7 +6591,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6616,7 +6618,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6643,7 +6645,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6668,7 +6670,7 @@
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6694,7 +6696,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6720,7 +6722,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6746,7 +6748,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6770,7 +6772,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6796,7 +6798,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6827,7 +6829,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6858,7 +6860,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6889,7 +6891,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6920,7 +6922,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6937,16 +6939,17 @@
    ],
    "financas": {
     "fefc": 210000.0,
-    "arrecadado": 210000.0,
-    "contratado": 150013.0,
-    "pago": 149013.0,
+    "pessoasFisicas": 1700.71,
+    "arrecadado": 211700.71,
+    "contratado": 211699.71,
+    "pago": 149013.5,
     "limite": 3176572.53,
     "ate": "13/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -6976,7 +6979,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7001,7 +7004,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7032,7 +7035,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7065,7 +7068,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7094,7 +7097,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7125,7 +7128,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7146,7 +7149,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7172,7 +7175,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7194,7 +7197,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7224,7 +7227,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7253,7 +7256,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7275,7 +7278,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7300,7 +7303,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7324,7 +7327,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7356,7 +7359,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7382,7 +7385,7 @@
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7408,7 +7411,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7436,7 +7439,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   },
   {
@@ -7465,7 +7468,7 @@
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "11/10/2026"
+    "data": "13/10/2026"
    }
   }
  ]
