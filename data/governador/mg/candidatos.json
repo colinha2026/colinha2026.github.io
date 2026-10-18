@@ -94,14 +94,15 @@
     "https://x.com/cleitinhotmj"
    ],
    "financas": {
-    "pessoasFisicas": 1123500.0,
-    "outrosCandidatos": 16800.0,
-    "arrecadado": 1140300.0,
-    "contratado": 1153007.46,
-    "pago": 749547.03,
+    "pessoasFisicas": 1178500.0,
+    "outrosCandidatos": 20000.0,
+    "coletivo": 3010.0,
+    "arrecadado": 1201510.0,
+    "contratado": 1153127.2,
+    "pago": 872766.77,
     "limite": 17788806.16,
     "doadoresPF": 56,
-    "ate": "15/10/2026"
+    "ate": "18/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -234,7 +235,7 @@
     "pago": 13007053.38,
     "limite": 17788806.16,
     "doadoresPF": 2,
-    "ate": "15/10/2026"
+    "ate": "18/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -378,7 +379,7 @@
     "pago": 10853264.17,
     "limite": 17788806.16,
     "doadoresPF": 6,
-    "ate": "15/10/2026"
+    "ate": "18/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -468,7 +469,7 @@
     "contratado": 112263.63,
     "pago": 112263.63,
     "limite": 17788806.16,
-    "ate": "15/10/2026"
+    "ate": "18/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -584,7 +585,7 @@
     "pago": 2354268.96,
     "limite": 17788806.16,
     "doadoresPF": 8,
-    "ate": "15/10/2026"
+    "ate": "18/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -674,7 +675,7 @@
     "contratado": 89505.0,
     "pago": 54505.0,
     "limite": 17788806.16,
-    "ate": "15/10/2026"
+    "ate": "18/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -767,7 +768,7 @@
     "contratado": 10915.8,
     "pago": 10915.8,
     "limite": 17788806.16,
-    "ate": "15/10/2026"
+    "ate": "18/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -862,7 +863,7 @@
     "pago": 2771825.39,
     "limite": 17788806.16,
     "doadoresPF": 84,
-    "ate": "15/10/2026"
+    "ate": "18/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -901,7 +902,7 @@
   ],
   "situacao": {
    "tipo": "ver",
-   "texto": "Indeferido, com recurso (sub judice) (TSE, 18/10/2026)"
+   "texto": "Registro indeferido (TSE, 18/10/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -959,11 +960,11 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 17788806.16,
-    "ate": "15/10/2026"
+    "ate": "18/10/2026"
    },
    "situacaoTSE": {
-    "tipo": "ver",
-    "texto": "Indeferido, com recurso (sub judice)",
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
     "data": "18/10/2026"
    }
   },
@@ -1101,7 +1102,7 @@
     "pago": 5896315.17,
     "limite": 17788806.16,
     "doadoresPF": 63,
-    "ate": "15/10/2026"
+    "ate": "18/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1203,7 +1204,7 @@
     "pago": 572.84,
     "limite": 17788806.16,
     "doadoresPF": 62,
-    "ate": "15/10/2026"
+    "ate": "18/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
