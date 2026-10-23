@@ -137,12 +137,12 @@
    "idade": 26,
    "patrimonio": 40000.0,
    "financas": {
-    "fefc": 10000.0,
-    "arrecadado": 10000.0,
+    "fefc": 6000.0,
+    "arrecadado": 6000.0,
     "contratado": 4000.0,
     "pago": 4000.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -166,7 +166,7 @@
     "contratado": 36501.5,
     "pago": 36501.5,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -190,7 +190,7 @@
     "pago": 42500.0,
     "limite": 3176572.53,
     "doadoresPF": 2,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -221,7 +221,7 @@
     "pago": 305282.56,
     "limite": 3176572.53,
     "doadoresPF": 57,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -246,7 +246,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -270,7 +270,7 @@
     "contratado": 1239163.56,
     "pago": 1239163.56,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
@@ -294,7 +294,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -320,7 +320,7 @@
     "contratado": 7200.0,
     "pago": 7200.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -350,7 +350,7 @@
     "pago": 0.0,
     "limite": 3176572.53,
     "doadoresPF": 16,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -375,11 +375,12 @@
    "financas": {
     "fefc": 100000.0,
     "partido": 15500.0,
-    "arrecadado": 115500.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "coletivo": 1833.33,
+    "arrecadado": 117333.33,
+    "contratado": 36.48,
+    "pago": 36.48,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -403,7 +404,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -430,7 +431,7 @@
     "contratado": 314780.5,
     "pago": 141770.5,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -458,7 +459,7 @@
     "contratado": 1166210.4,
     "pago": 926710.4,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -480,7 +481,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -502,7 +503,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -528,7 +529,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -554,7 +555,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -580,7 +581,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -607,7 +608,7 @@
     "contratado": 2768792.24,
     "pago": 1484291.08,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -630,7 +631,7 @@
     "contratado": 26621.0,
     "pago": 14000.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -657,7 +658,7 @@
     "pago": 44709.0,
     "limite": 3176572.53,
     "doadoresPF": 6,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -688,7 +689,7 @@
     "pago": 470867.0,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -714,7 +715,7 @@
     "contratado": 339477.0,
     "pago": 330677.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -739,10 +740,10 @@
     "fefc": 100000.0,
     "proprios": 1000.0,
     "arrecadado": 101000.0,
-    "contratado": 55304.5,
-    "pago": 55304.5,
+    "contratado": 100997.5,
+    "pago": 100997.5,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -767,7 +768,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -791,7 +792,7 @@
     "contratado": 385521.1,
     "pago": 365921.1,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -813,7 +814,7 @@
     "contratado": 94906.56,
     "pago": 94906.56,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -839,7 +840,7 @@
     "contratado": 595308.0,
     "pago": 3008.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -860,7 +861,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -885,7 +886,7 @@
     "pago": 88551.7,
     "limite": 3176572.53,
     "doadoresPF": 2,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -906,7 +907,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -932,7 +933,7 @@
     "contratado": 111912.5,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -953,7 +954,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -974,7 +975,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -1002,7 +1003,7 @@
     "pago": 0.0,
     "limite": 3176572.53,
     "doadoresPF": 10,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1020,14 +1021,14 @@
    "patrimonio": 300905.07,
    "financas": {
     "fefc": 200000.0,
-    "pessoasFisicas": 18500.0,
+    "pessoasFisicas": 26000.0,
     "proprios": 8000.0,
-    "arrecadado": 226500.0,
-    "contratado": 200919.99,
-    "pago": 200919.99,
+    "arrecadado": 234000.0,
+    "contratado": 208380.0,
+    "pago": 208380.0,
     "limite": 3176572.53,
     "doadoresPF": 5,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1051,7 +1052,7 @@
     "contratado": 87382.5,
     "pago": 87382.5,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1075,7 +1076,7 @@
     "contratado": 364608.92,
     "pago": 344608.92,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1101,7 +1102,7 @@
     "contratado": 29000.0,
     "pago": 4500.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1123,7 +1124,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1145,7 +1146,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1172,7 +1173,7 @@
     "contratado": 59601.0,
     "pago": 53000.5,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1198,7 +1199,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -1221,7 +1222,7 @@
     "contratado": 53951.0,
     "pago": 53951.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1240,10 +1241,10 @@
    "financas": {
     "fefc": 85684.3,
     "arrecadado": 85684.3,
-    "contratado": 41000.0,
-    "pago": 41000.0,
+    "contratado": 50000.0,
+    "pago": 50000.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1270,7 +1271,7 @@
     "contratado": 42953.22,
     "pago": 18613.22,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1295,7 +1296,7 @@
     "contratado": 101644.21,
     "pago": 101643.71,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1322,7 +1323,7 @@
     "contratado": 224039.63,
     "pago": 210184.47,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1347,7 +1348,7 @@
     "contratado": 58003.5,
     "pago": 48000.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1373,7 +1374,7 @@
     "contratado": 185226.6,
     "pago": 165226.6,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1397,7 +1398,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -1425,7 +1426,7 @@
     "contratado": 8001.5,
     "pago": 5001.5,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1453,7 +1454,7 @@
     "pago": 275208.4,
     "limite": 3176572.53,
     "doadoresPF": 16,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1477,7 +1478,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1503,7 +1504,7 @@
     "contratado": 17500.0,
     "pago": 17500.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1525,13 +1526,13 @@
    ],
    "financas": {
     "fefc": 70300.0,
-    "partido": 15500.0,
+    "fundoPartidario": 15500.0,
     "pessoasFisicas": 9000.0,
     "arrecadado": 94800.0,
-    "contratado": 65967.92,
-    "pago": 35965.0,
+    "contratado": 79300.0,
+    "pago": 79300.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1555,7 +1556,7 @@
     "pago": 89992.0,
     "limite": 3176572.53,
     "doadoresPF": 7,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1583,7 +1584,7 @@
     "contratado": 12102.5,
     "pago": 12102.5,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1605,7 +1606,7 @@
     "contratado": 4000.0,
     "pago": 4000.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1632,7 +1633,7 @@
     "pago": 555819.29,
     "limite": 3176572.53,
     "doadoresPF": 133,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1659,7 +1660,7 @@
     "pago": 92504.0,
     "limite": 3176572.53,
     "doadoresPF": 6,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1690,7 +1691,7 @@
     "pago": 1506125.02,
     "limite": 3176572.53,
     "doadoresPF": 42,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1716,7 +1717,7 @@
     "contratado": 35819.1,
     "pago": 30819.1,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1740,7 +1741,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -1765,7 +1766,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1794,7 +1795,7 @@
     "pago": 106563.78,
     "limite": 3176572.53,
     "doadoresPF": 7,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1819,7 +1820,7 @@
     "contratado": 5000.0,
     "pago": 5000.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -1850,7 +1851,7 @@
     "pago": 790552.8,
     "limite": 3176572.53,
     "doadoresPF": 2,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1875,7 +1876,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1905,7 +1906,7 @@
     "pago": 3996.41,
     "limite": 3176572.53,
     "doadoresPF": 1,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1938,7 +1939,7 @@
     "pago": 732706.0,
     "limite": 3176572.53,
     "doadoresPF": 5,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1966,7 +1967,7 @@
     "contratado": 10026.32,
     "pago": 4142.32,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -1991,7 +1992,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -2019,7 +2020,7 @@
     "pago": 435232.86,
     "limite": 3176572.53,
     "doadoresPF": 10,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2045,7 +2046,7 @@
     "contratado": 257725.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2067,7 +2068,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2091,7 +2092,7 @@
     "pago": 36773.5,
     "limite": 3176572.53,
     "doadoresPF": 2,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2115,7 +2116,7 @@
     "contratado": 254321.0,
     "pago": 169921.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2139,7 +2140,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -2161,7 +2162,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2182,7 +2183,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -2206,7 +2207,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -2229,7 +2230,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2256,7 +2257,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2289,7 +2290,7 @@
     "pago": 0.0,
     "limite": 3176572.53,
     "doadoresPF": 2,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2317,7 +2318,7 @@
     "pago": 243152.47,
     "limite": 3176572.53,
     "doadoresPF": 3,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2338,7 +2339,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2363,7 +2364,7 @@
     "contratado": 24951.5,
     "pago": 24951.5,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2384,7 +2385,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2414,7 +2415,7 @@
     "pago": 476761.5,
     "limite": 3176572.53,
     "doadoresPF": 34,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2442,7 +2443,7 @@
     "contratado": 77095.0,
     "pago": 77095.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2467,7 +2468,7 @@
     "contratado": 879000.5,
     "pago": 93050.5,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2488,7 +2489,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2513,7 +2514,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
@@ -2539,7 +2540,7 @@
     "contratado": 151508.0,
     "pago": 151508.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2565,7 +2566,7 @@
     "pago": 58655.65,
     "limite": 3176572.53,
     "doadoresPF": 14,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2597,7 +2598,7 @@
     "pago": 0.0,
     "limite": 3176572.53,
     "doadoresPF": 14,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2626,7 +2627,7 @@
     "pago": 370158.58,
     "limite": 3176572.53,
     "doadoresPF": 18,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2648,7 +2649,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2673,7 +2674,7 @@
     "contratado": 1214216.0,
     "pago": 1214216.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2699,7 +2700,7 @@
     "contratado": 903787.5,
     "pago": 903786.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
@@ -2720,7 +2721,7 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3176572.53,
-    "ate": "22/10/2026"
+    "ate": "23/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
