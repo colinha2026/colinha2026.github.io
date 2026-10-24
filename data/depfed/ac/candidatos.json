@@ -500,8 +500,8 @@
    "financas": {
     "fefc": 6000.0,
     "arrecadado": 6000.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "contratado": 4000.0,
+    "pago": 4000.0,
     "limite": 3176572.53,
     "ate": "24/10/2026"
    },
@@ -1714,8 +1714,8 @@
    "financas": {
     "fefc": 50000.0,
     "arrecadado": 50000.0,
-    "contratado": 35819.1,
-    "pago": 30819.1,
+    "contratado": 49989.7,
+    "pago": 49989.7,
     "limite": 3176572.53,
     "ate": "24/10/2026"
    },
@@ -1963,9 +1963,10 @@
    ],
    "financas": {
     "fefc": 200000.0,
-    "arrecadado": 200000.0,
-    "contratado": 10026.32,
-    "pago": 4142.32,
+    "pessoasFisicas": 119201.79,
+    "arrecadado": 319201.79,
+    "contratado": 200001.79,
+    "pago": 200001.79,
     "limite": 3176572.53,
     "ate": "24/10/2026"
    },

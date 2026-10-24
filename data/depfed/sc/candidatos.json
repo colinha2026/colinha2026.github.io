@@ -291,8 +291,9 @@
    "patrimonio": 0.0,
    "concorreu2022": false,
    "financas": {
-    "arrecadado": 0.0,
-    "contratado": 0.0,
+    "pessoasFisicas": 550.0,
+    "arrecadado": 550.0,
+    "contratado": 790.0,
     "pago": 0.0,
     "limite": 3176572.53,
     "ate": "24/10/2026"
@@ -1651,10 +1652,11 @@
    ],
    "financas": {
     "fefc": 100000.0,
-    "proprios": 17805.0,
-    "arrecadado": 117805.0,
-    "contratado": 51978.5,
-    "pago": 51978.5,
+    "proprios": 24605.0,
+    "outrosCandidatos": 1500.0,
+    "arrecadado": 126105.0,
+    "contratado": 109800.0,
+    "pago": 109800.0,
     "limite": 3176572.53,
     "ate": "24/10/2026"
    },
@@ -5043,11 +5045,11 @@
    ],
    "financas": {
     "fefc": 50000.0,
-    "fundoPartidario": 50000.0,
+    "fundoPartidario": 50673.24,
     "proprios": 0.4,
-    "arrecadado": 100000.4,
-    "contratado": 98859.6,
-    "pago": 68859.6,
+    "arrecadado": 100673.64,
+    "contratado": 99700.21,
+    "pago": 99700.21,
     "limite": 3176572.53,
     "ate": "24/10/2026"
    },
@@ -5299,9 +5301,10 @@
    ],
    "financas": {
     "fefc": 50000.0,
-    "arrecadado": 50000.0,
-    "contratado": 49500.0,
-    "pago": 47500.0,
+    "fundoPartidario": 4197.18,
+    "arrecadado": 54197.18,
+    "contratado": 50000.0,
+    "pago": 50000.0,
     "limite": 3176572.53,
     "ate": "24/10/2026"
    },
@@ -5788,11 +5791,11 @@
    ],
    "financas": {
     "fefc": 500000.0,
-    "pessoasFisicas": 17400.0,
+    "pessoasFisicas": 32400.0,
     "proprios": 10000.0,
-    "arrecadado": 527400.0,
-    "contratado": 549105.81,
-    "pago": 383841.6,
+    "arrecadado": 542400.0,
+    "contratado": 903331.48,
+    "pago": 524158.76,
     "limite": 3176572.53,
     "doadoresPF": 2,
     "ate": "24/10/2026"
