@@ -3,8 +3,8 @@
   "titulo": "TSE: dados abertos de candidaturas 2026",
   "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
  },
- "geracaoTSE": "27/10/2026",
- "listaConferida": "27/10/2026",
+ "geracaoTSE": "28/10/2026",
+ "listaConferida": "28/10/2026",
  "partidos": [
   {
    "numero": "10",
@@ -168,12 +168,12 @@
     "contratado": 305991.6,
     "pago": 305991.6,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -185,18 +185,18 @@
    "idade": 48,
    "patrimonio": 390000.0,
    "financas": {
-    "pessoasFisicas": 558000.0,
-    "arrecadado": 558000.0,
-    "contratado": 567178.83,
-    "pago": 278107.33,
+    "pessoasFisicas": 583000.0,
+    "arrecadado": 583000.0,
+    "contratado": 584242.47,
+    "pago": 403932.97,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -212,12 +212,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -234,12 +234,12 @@
     "contratado": 2053.18,
     "pago": 2053.18,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -259,12 +259,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -292,12 +292,12 @@
     "pago": 433790.02,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -313,12 +313,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -340,12 +340,12 @@
     "contratado": 3632.42,
     "pago": 396.42,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -361,12 +361,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -385,12 +385,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -407,17 +407,19 @@
    "financas": {
     "fefc": 40000.0,
     "partido": 45.0,
+    "pessoasFisicas": 4000.0,
     "proprios": 40512.0,
-    "arrecadado": 80557.0,
-    "contratado": 80511.0,
-    "pago": 80511.0,
+    "outrosCandidatos": 7725.0,
+    "arrecadado": 92282.0,
+    "contratado": 80511.5,
+    "pago": 80511.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -434,12 +436,12 @@
     "contratado": 21009.0,
     "pago": 21009.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -458,12 +460,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -483,12 +485,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -505,12 +507,12 @@
     "contratado": 4863.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -531,12 +533,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -556,12 +558,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -584,12 +586,12 @@
     "contratado": 3000.0,
     "pago": 3000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -607,12 +609,12 @@
     "contratado": 30000.0,
     "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -633,12 +635,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -657,12 +659,12 @@
     "contratado": 2857.14,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -682,12 +684,12 @@
     "pago": 154021.27,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -708,12 +710,12 @@
     "contratado": 600.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -735,12 +737,12 @@
     "contratado": 26505.62,
     "pago": 20255.62,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -762,12 +764,12 @@
     "contratado": 10000.0,
     "pago": 10000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -788,12 +790,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -809,12 +811,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -837,12 +839,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -858,17 +860,17 @@
     "https://www.instagram.com/amandapsolcatalao"
    ],
    "financas": {
-    "fefc": 7750.0,
-    "arrecadado": 7750.0,
+    "fefc": 9750.0,
+    "arrecadado": 9750.0,
     "contratado": 9750.0,
     "pago": 7750.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -897,12 +899,12 @@
     "pago": 322362.37,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -923,12 +925,12 @@
     "pago": 14681.0,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -945,12 +947,12 @@
     "contratado": 20040.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -967,12 +969,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -994,12 +996,12 @@
     "contratado": 6500.0,
     "pago": 6500.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1019,12 +1021,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1046,12 +1048,12 @@
     "pago": 480312.16,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1071,12 +1073,12 @@
     "pago": 563378.1,
     "limite": 1270629.01,
     "doadoresPF": 14,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1093,17 +1095,18 @@
     "https://www.tiktok.com/@andreasantos.2026"
    ],
    "financas": {
+    "fefc": 6382.98,
     "outrosCandidatos": 10000.0,
-    "arrecadado": 10000.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "arrecadado": 16382.98,
+    "contratado": 10000.0,
+    "pago": 10000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1120,12 +1123,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1147,12 +1150,12 @@
     "pago": 216250.97,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1168,12 +1171,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1191,12 +1194,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1215,12 +1218,12 @@
     "contratado": 8824.4,
     "pago": 8824.4,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1237,12 +1240,12 @@
     "contratado": 6380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1269,12 +1272,12 @@
     "pago": 349412.84,
     "limite": 1270629.01,
     "doadoresPF": 13,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1301,12 +1304,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1324,12 +1327,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1350,12 +1353,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1371,12 +1374,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1397,12 +1400,12 @@
     "contratado": 115132.0,
     "pago": 980.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1425,12 +1428,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1447,12 +1450,12 @@
     "contratado": 44998.39,
     "pago": 44998.39,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1476,12 +1479,12 @@
     "pago": 99967.0,
     "limite": 1270629.01,
     "doadoresPF": 17,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1499,12 +1502,12 @@
     "contratado": 4000.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1522,20 +1525,20 @@
     "https://www.instagram.com/webessa"
    ],
    "financas": {
-    "pessoasFisicas": 240000.0,
+    "pessoasFisicas": 260000.0,
     "proprios": 97623.45,
     "outrosCandidatos": 3785.0,
-    "arrecadado": 341408.45,
-    "contratado": 399135.94,
-    "pago": 308785.94,
+    "arrecadado": 361408.45,
+    "contratado": 399136.44,
+    "pago": 319136.44,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1561,12 +1564,12 @@
     "pago": 107363.37,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1590,12 +1593,12 @@
     "pago": 23814.5,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1616,12 +1619,12 @@
     "contratado": 31080.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1644,12 +1647,12 @@
     "contratado": 50750.0,
     "pago": 50750.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1671,12 +1674,12 @@
     "pago": 256825.3,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1694,12 +1697,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1721,12 +1724,12 @@
     "pago": 1105.65,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1749,12 +1752,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1773,12 +1776,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1791,16 +1794,17 @@
    "patrimonio": 598493.65,
    "financas": {
     "fefc": 30000.0,
-    "arrecadado": 30000.0,
+    "fundoPartidario": 234.0,
+    "arrecadado": 30234.0,
     "contratado": 30000.0,
     "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1827,12 +1831,12 @@
     "pago": 32900.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1856,12 +1860,12 @@
     "pago": 35862.5,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1882,12 +1886,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1909,12 +1913,12 @@
     "pago": 244859.0,
     "limite": 1270629.01,
     "doadoresPF": 9,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1937,12 +1941,12 @@
     "pago": 215042.61,
     "limite": 1270629.01,
     "doadoresPF": 14,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1968,12 +1972,12 @@
     "pago": 100195.09,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -1991,12 +1995,12 @@
     "contratado": 810.5,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2017,12 +2021,12 @@
     "pago": 301250.61,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2045,12 +2049,12 @@
     "pago": 18147.15,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2076,12 +2080,12 @@
     "pago": 221039.3,
     "limite": 1270629.01,
     "doadoresPF": 9,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2098,12 +2102,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2123,12 +2127,12 @@
     "pago": 59508.04,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2149,12 +2153,12 @@
     "contratado": 10760.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2172,12 +2176,12 @@
     "contratado": 109000.0,
     "pago": 109000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Aguardando julgamento",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2198,12 +2202,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2225,12 +2229,12 @@
     "pago": 78516.84,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2251,12 +2255,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2279,12 +2283,12 @@
     "contratado": 39864.02,
     "pago": 21364.02,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2306,12 +2310,12 @@
     "pago": 125297.5,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2333,12 +2337,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2356,12 +2360,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2385,12 +2389,12 @@
     "contratado": 68503.5,
     "pago": 11564.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2407,12 +2411,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2428,12 +2432,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2457,12 +2461,12 @@
     "contratado": 272388.62,
     "pago": 97308.62,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2483,12 +2487,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2509,12 +2513,12 @@
     "contratado": 28160.0,
     "pago": 980.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2536,12 +2540,12 @@
     "contratado": 80000.0,
     "pago": 80000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2563,12 +2567,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2591,12 +2595,12 @@
     "contratado": 99989.21,
     "pago": 99989.21,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2619,12 +2623,12 @@
     "contratado": 34500.0,
     "pago": 34500.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2641,12 +2645,12 @@
     "contratado": 6140.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2669,12 +2673,12 @@
     "contratado": 19700.0,
     "pago": 19700.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2695,12 +2699,12 @@
     "pago": 2915.6,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2726,12 +2730,12 @@
     "contratado": 34492.81,
     "pago": 24692.81,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2753,12 +2757,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2776,12 +2780,12 @@
     "contratado": 119876.0,
     "pago": 119876.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2804,12 +2808,12 @@
     "pago": 189471.69,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2833,12 +2837,12 @@
     "contratado": 4248.0,
     "pago": 4248.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2866,12 +2870,12 @@
     "pago": 307792.9,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2896,12 +2900,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2922,12 +2926,12 @@
     "contratado": 17330.0,
     "pago": 14950.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2947,12 +2951,12 @@
     "pago": 1420.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -2977,12 +2981,12 @@
     "pago": 551055.23,
     "limite": 1270629.01,
     "doadoresPF": 27,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3005,12 +3009,12 @@
     "contratado": 3250.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3030,12 +3034,12 @@
     "pago": 237226.89,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3061,12 +3065,12 @@
     "pago": 25101.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3090,12 +3094,12 @@
     "pago": 423578.97,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3115,12 +3119,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3143,12 +3147,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3164,12 +3168,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3189,12 +3193,12 @@
     "pago": 277543.03,
     "limite": 1270629.01,
     "doadoresPF": 7,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3210,12 +3214,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3237,12 +3241,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3264,12 +3268,12 @@
     "pago": 39116.0,
     "limite": 1270629.01,
     "doadoresPF": 7,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3293,12 +3297,12 @@
     "contratado": 911.0,
     "pago": 911.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3326,12 +3330,12 @@
     "pago": 221354.46,
     "limite": 1270629.01,
     "doadoresPF": 21,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3354,12 +3358,12 @@
     "pago": 105401.97,
     "limite": 1270629.01,
     "doadoresPF": 18,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3382,12 +3386,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3410,12 +3414,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3433,12 +3437,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3463,12 +3467,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3493,12 +3497,12 @@
     "contratado": 49953.4,
     "pago": 49953.4,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3525,12 +3529,12 @@
     "contratado": 463310.0,
     "pago": 463310.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3548,12 +3552,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3569,12 +3573,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3597,12 +3601,12 @@
     "contratado": 5300.0,
     "pago": 5300.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3624,12 +3628,12 @@
     "contratado": 63789.6,
     "pago": 63789.6,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3645,12 +3649,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3667,12 +3671,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3698,12 +3702,12 @@
     "pago": 13.5,
     "limite": 1270629.01,
     "doadoresPF": 9,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3724,12 +3728,12 @@
     "contratado": 64672.57,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3752,12 +3756,12 @@
     "contratado": 58023.86,
     "pago": 58023.86,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3780,12 +3784,12 @@
     "contratado": 44767.75,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3798,16 +3802,17 @@
    "patrimonio": 182000.0,
    "financas": {
     "fefc": 15000.0,
-    "arrecadado": 15000.0,
+    "fundoPartidario": 101.75,
+    "arrecadado": 15101.75,
     "contratado": 14983.99,
     "pago": 14983.99,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3833,12 +3838,12 @@
     "pago": 15679.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3854,12 +3859,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3876,19 +3881,19 @@
     "https://www.instagram.com/dr.amarildofilho"
    ],
    "financas": {
-    "pessoasFisicas": 30000.0,
+    "pessoasFisicas": 34166.67,
     "proprios": 49000.0,
     "outrosCandidatos": 236183.34,
-    "arrecadado": 315183.34,
-    "contratado": 183614.27,
-    "pago": 83614.27,
+    "arrecadado": 319350.01,
+    "contratado": 279000.0,
+    "pago": 279000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3904,12 +3909,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3925,12 +3930,12 @@
     "contratado": 2000.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3950,12 +3955,12 @@
     "pago": 17000.0,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -3978,12 +3983,12 @@
     "pago": 55302.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4010,12 +4015,12 @@
     "contratado": 50013.7,
     "pago": 50013.7,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4038,12 +4043,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4070,12 +4075,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4097,12 +4102,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4125,12 +4130,12 @@
     "pago": 51.08,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4156,12 +4161,12 @@
     "contratado": 6319.79,
     "pago": 6319.79,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4186,12 +4191,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4209,12 +4214,12 @@
     "contratado": 29006.5,
     "pago": 29006.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4237,12 +4242,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4260,12 +4265,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4287,12 +4292,12 @@
     "pago": 164918.5,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4316,12 +4321,12 @@
     "pago": 119804.9,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4346,12 +4351,12 @@
     "contratado": 100811.81,
     "pago": 40173.81,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4375,12 +4380,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4401,12 +4406,12 @@
     "contratado": 23680.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4432,12 +4437,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4455,12 +4460,12 @@
     "contratado": 15000.5,
     "pago": 15000.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4477,12 +4482,12 @@
     "contratado": 5931.5,
     "pago": 500.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4504,12 +4509,12 @@
     "contratado": 34423.6,
     "pago": 15371.1,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4531,12 +4536,12 @@
     "contratado": 56664.52,
     "pago": 56664.52,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4562,12 +4567,12 @@
     "contratado": 1500.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4592,12 +4597,12 @@
     "pago": 64450.0,
     "limite": 1270629.01,
     "doadoresPF": 16,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4616,12 +4621,12 @@
     "pago": 32152.51,
     "limite": 1270629.01,
     "doadoresPF": 18,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4640,20 +4645,20 @@
    ],
    "financas": {
     "fefc": 130000.0,
-    "pessoasFisicas": 215806.0,
+    "pessoasFisicas": 205593.0,
     "proprios": 43672.71,
-    "outrosCandidatos": 220.5,
-    "arrecadado": 389699.21,
-    "contratado": 347560.0,
-    "pago": 347560.0,
+    "outrosCandidatos": 14391.5,
+    "arrecadado": 393657.21,
+    "contratado": 353672.71,
+    "pago": 353672.71,
     "limite": 1270629.01,
     "doadoresPF": 21,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4677,12 +4682,12 @@
     "pago": 540.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4699,12 +4704,12 @@
     "contratado": 17000.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4722,12 +4727,12 @@
     "contratado": 11450.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4744,12 +4749,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4770,12 +4775,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4796,12 +4801,12 @@
     "contratado": 11601.65,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4820,12 +4825,12 @@
     "contratado": 69966.0,
     "pago": 69966.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4849,12 +4854,12 @@
     "contratado": 64029.5,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4873,12 +4878,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4895,12 +4900,12 @@
     "contratado": 20000.0,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4923,12 +4928,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4944,12 +4949,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4976,12 +4981,12 @@
     "contratado": 4200.0,
     "pago": 4200.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -4997,12 +5002,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5027,12 +5032,12 @@
     "contratado": 23026.61,
     "pago": 21533.61,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5054,12 +5059,12 @@
     "contratado": 22377.41,
     "pago": 13377.41,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5077,12 +5082,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5099,12 +5104,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5129,12 +5134,12 @@
     "pago": 147749.04,
     "limite": 1270629.01,
     "doadoresPF": 16,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5167,12 +5172,12 @@
     "pago": 233699.03,
     "limite": 1270629.01,
     "doadoresPF": 41,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5189,12 +5194,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5215,12 +5220,12 @@
     "pago": 39223.97,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5243,12 +5248,12 @@
     "contratado": 39996.9,
     "pago": 19746.9,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5275,12 +5280,12 @@
     "pago": 844743.33,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5296,12 +5301,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5318,12 +5323,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5342,12 +5347,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5373,12 +5378,12 @@
     "pago": 143513.92,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5399,12 +5404,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5421,12 +5426,12 @@
     "contratado": 23847.0,
     "pago": 7500.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5447,12 +5452,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5469,12 +5474,12 @@
     "contratado": 600.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5497,12 +5502,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5518,12 +5523,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5545,12 +5550,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5567,16 +5572,19 @@
    ],
    "financas": {
     "fefc": 40000.0,
-    "arrecadado": 40000.0,
-    "contratado": 28670.0,
-    "pago": 17000.0,
+    "partido": 45.0,
+    "pessoasFisicas": 4000.0,
+    "outrosCandidatos": 2925.0,
+    "arrecadado": 46970.0,
+    "contratado": 39946.37,
+    "pago": 39946.37,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5597,12 +5605,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5623,12 +5631,12 @@
     "pago": 79491.47,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5655,12 +5663,12 @@
     "pago": 126494.1,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5680,12 +5688,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5708,12 +5716,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5729,12 +5737,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5756,12 +5764,12 @@
     "contratado": 68869.5,
     "pago": 68369.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5784,12 +5792,12 @@
     "pago": 676680.91,
     "limite": 1270629.01,
     "doadoresPF": 22,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5807,12 +5815,12 @@
     "contratado": 3380.0,
     "pago": 1000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5834,12 +5842,12 @@
     "contratado": 1824.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5865,12 +5873,12 @@
     "pago": 3601.5,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5888,12 +5896,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5912,12 +5920,12 @@
     "contratado": 100000.48,
     "pago": 100000.48,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5938,12 +5946,12 @@
     "contratado": 19620.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5965,12 +5973,12 @@
     "contratado": 32686.56,
     "pago": 32686.56,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -5986,12 +5994,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6014,12 +6022,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6043,12 +6051,12 @@
     "pago": 26177.53,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6066,12 +6074,12 @@
     "contratado": 4102.0,
     "pago": 1700.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6096,12 +6104,12 @@
     "pago": 622886.87,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6125,12 +6133,12 @@
     "pago": 128950.09,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6152,12 +6160,12 @@
     "contratado": 13390.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6182,12 +6190,12 @@
     "pago": 154894.0,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6202,18 +6210,18 @@
     "fefc": 150000.0,
     "fundoPartidario": 50000.0,
     "pessoasFisicas": 274000.0,
-    "proprios": 117053.2,
-    "arrecadado": 591053.2,
-    "contratado": 534004.96,
-    "pago": 316912.98,
+    "proprios": 147053.2,
+    "arrecadado": 621053.2,
+    "contratado": 591053.2,
+    "pago": 591053.2,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6236,12 +6244,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6257,12 +6265,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6288,12 +6296,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6309,12 +6317,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6331,12 +6339,12 @@
     "contratado": 810.5,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6359,12 +6367,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6389,12 +6397,12 @@
     "pago": 10000.0,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6414,12 +6422,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6439,12 +6447,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6464,12 +6472,12 @@
     "contratado": 11426.95,
     "pago": 10176.95,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6486,12 +6494,12 @@
     "contratado": 1266.24,
     "pago": 239.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6507,12 +6515,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6536,12 +6544,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6564,12 +6572,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6584,18 +6592,19 @@
    "patrimonio2022": 215800.0,
    "financas": {
     "fefc": 200000.0,
-    "pessoasFisicas": 155000.0,
-    "arrecadado": 355000.0,
-    "contratado": 223821.0,
-    "pago": 223821.0,
+    "pessoasFisicas": 160000.0,
+    "proprios": 10000.0,
+    "arrecadado": 370000.0,
+    "contratado": 350000.0,
+    "pago": 350000.0,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6615,12 +6624,12 @@
     "contratado": 59405.5,
     "pago": 59405.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6638,12 +6647,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6663,12 +6672,12 @@
     "contratado": 9983.0,
     "pago": 8013.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6689,12 +6698,12 @@
     "pago": 723372.98,
     "limite": 1270629.01,
     "doadoresPF": 17,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6711,12 +6720,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6732,12 +6741,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6759,12 +6768,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6787,12 +6796,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6819,12 +6828,12 @@
     "pago": 226304.04,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6844,12 +6853,12 @@
     "contratado": 2851.5,
     "pago": 2851.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6869,19 +6878,20 @@
    ],
    "financas": {
     "fefc": 66000.0,
-    "pessoasFisicas": 91200.0,
+    "pessoasFisicas": 96200.0,
+    "proprios": 14350.66,
     "outrosCandidatos": 14000.0,
-    "arrecadado": 171200.0,
-    "contratado": 119307.1,
-    "pago": 49051.1,
+    "arrecadado": 190550.66,
+    "contratado": 133033.1,
+    "pago": 75813.6,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6898,12 +6908,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6921,12 +6931,12 @@
     "contratado": 15000.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6943,12 +6953,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6971,12 +6981,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -6996,12 +7006,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7024,12 +7034,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7046,12 +7056,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7068,12 +7078,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7097,12 +7107,12 @@
     "pago": 542744.31,
     "limite": 1270629.01,
     "doadoresPF": 26,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7121,12 +7131,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7152,12 +7162,12 @@
     "pago": 417648.24,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7179,12 +7189,12 @@
     "contratado": 5280.0,
     "pago": 5280.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7207,12 +7217,12 @@
     "pago": 47948.5,
     "limite": 1270629.01,
     "doadoresPF": 12,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7231,12 +7241,12 @@
     "contratado": 83672.06,
     "pago": 29173.56,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7252,12 +7262,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7278,12 +7288,12 @@
     "pago": 3721.14,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7304,12 +7314,12 @@
     "contratado": 14360.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7332,12 +7342,12 @@
     "contratado": 32836.98,
     "pago": 32836.98,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7358,12 +7368,12 @@
     "pago": 180590.2,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7379,12 +7389,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7402,12 +7412,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7424,12 +7434,12 @@
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7453,12 +7463,12 @@
     "pago": 2024.86,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7486,12 +7496,12 @@
     "pago": 187552.38,
     "limite": 1270629.01,
     "doadoresPF": 21,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7515,12 +7525,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7539,12 +7549,12 @@
     "contratado": 139228.7,
     "pago": 136094.7,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7565,12 +7575,12 @@
     "pago": 349962.32,
     "limite": 1270629.01,
     "doadoresPF": 44,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7587,12 +7597,12 @@
     "contratado": 10000.5,
     "pago": 10000.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7615,12 +7625,12 @@
     "contratado": 500.0,
     "pago": 500.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7648,12 +7658,12 @@
     "pago": 100500.39,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7675,12 +7685,12 @@
     "pago": 79176.13,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7700,12 +7710,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7723,12 +7733,12 @@
     "contratado": 20212.5,
     "pago": 20212.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7745,12 +7755,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7773,12 +7783,12 @@
     "pago": 380827.09,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7798,12 +7808,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7830,12 +7840,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7854,12 +7864,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7880,12 +7890,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7903,12 +7913,12 @@
     "contratado": 315977.5,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7932,12 +7942,12 @@
     "pago": 21774.5,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7961,12 +7971,12 @@
     "pago": 73256.79,
     "limite": 1270629.01,
     "doadoresPF": 20,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -7992,12 +8002,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8018,12 +8028,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8048,12 +8058,12 @@
     "pago": 59750.0,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8070,12 +8080,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8094,12 +8104,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8122,12 +8132,12 @@
     "pago": 188316.0,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8139,19 +8149,19 @@
    "idade": 64,
    "patrimonio": 1667000.0,
    "financas": {
-    "pessoasFisicas": 432750.0,
+    "pessoasFisicas": 447250.0,
     "proprios": 6000.0,
-    "arrecadado": 438750.0,
+    "arrecadado": 453250.0,
     "contratado": 425219.66,
     "pago": 407907.66,
     "limite": 1270629.01,
     "doadoresPF": 48,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8170,12 +8180,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8203,12 +8213,12 @@
     "pago": 354836.52,
     "limite": 1270629.01,
     "doadoresPF": 12,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8225,12 +8235,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8247,12 +8257,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8273,12 +8283,12 @@
     "contratado": 1770.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8298,12 +8308,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8323,20 +8333,20 @@
     "https://www.youtube.com/@lucaskitao"
    ],
    "financas": {
-    "pessoasFisicas": 190650.0,
+    "pessoasFisicas": 228350.0,
     "proprios": 100000.0,
     "outrosCandidatos": 2020.0,
-    "arrecadado": 292670.0,
+    "arrecadado": 330370.0,
     "contratado": 393256.03,
     "pago": 275436.03,
     "limite": 1270629.01,
     "doadoresPF": 10,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8354,12 +8364,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8379,12 +8389,12 @@
     "contratado": 24767.27,
     "pago": 24767.27,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8401,12 +8411,12 @@
     "contratado": 18021.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8422,12 +8432,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8452,12 +8462,12 @@
     "pago": 12574.22,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8477,12 +8487,12 @@
     "contratado": 305620.9,
     "pago": 286503.56,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8500,12 +8510,12 @@
     "contratado": 1000.0,
     "pago": 1000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8522,12 +8532,12 @@
     "contratado": 17400.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8546,18 +8556,18 @@
    "financas": {
     "pessoasFisicas": 189900.0,
     "proprios": 2000.0,
-    "outrosCandidatos": 4875.0,
-    "arrecadado": 196775.0,
+    "outrosCandidatos": 5762.0,
+    "arrecadado": 197662.0,
     "contratado": 169456.2,
     "pago": 169456.2,
     "limite": 1270629.01,
     "doadoresPF": 10,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8577,19 +8587,19 @@
     "https://www.youtube.com/@l%c3%advioluciano35015"
    ],
    "financas": {
-    "pessoasFisicas": 2000.0,
+    "pessoasFisicas": 33000.0,
     "proprios": 124700.0,
-    "arrecadado": 126700.0,
-    "contratado": 134605.24,
-    "pago": 108605.24,
+    "arrecadado": 157700.0,
+    "contratado": 141229.14,
+    "pago": 124229.14,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8607,12 +8617,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8634,12 +8644,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8661,12 +8671,12 @@
     "pago": 156509.95,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8684,17 +8694,18 @@
    ],
    "financas": {
     "fefc": 33000.0,
+    "proprios": 13010.0,
     "outrosCandidatos": 31090.0,
-    "arrecadado": 64090.0,
+    "arrecadado": 77100.0,
     "contratado": 95086.0,
-    "pago": 42407.5,
+    "pago": 43218.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8722,12 +8733,12 @@
     "pago": 256792.16,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8758,12 +8769,12 @@
     "pago": 15833.0,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8787,12 +8798,12 @@
     "pago": 159806.19,
     "limite": 1270629.01,
     "doadoresPF": 22,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8815,12 +8826,12 @@
     "pago": 10047.67,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8840,18 +8851,18 @@
    ],
    "financas": {
     "fefc": 33000.0,
-    "proprios": 16249.0,
+    "proprios": 16250.5,
     "outrosCandidatos": 20350.0,
-    "arrecadado": 69599.0,
-    "contratado": 37674.0,
-    "pago": 37674.0,
+    "arrecadado": 69600.5,
+    "contratado": 66249.0,
+    "pago": 66249.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8869,19 +8880,19 @@
     "https://www.instagram.com/malaquias.professor"
    ],
    "financas": {
-    "pessoasFisicas": 40000.0,
+    "pessoasFisicas": 202612.0,
     "proprios": 118900.0,
-    "arrecadado": 158900.0,
-    "contratado": 169342.5,
-    "pago": 120242.5,
+    "arrecadado": 321512.0,
+    "contratado": 319204.5,
+    "pago": 294904.5,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8906,12 +8917,12 @@
     "pago": 9813.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8929,12 +8940,12 @@
     "contratado": 5000.0,
     "pago": 3000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8951,12 +8962,12 @@
     "contratado": 11347.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -8977,12 +8988,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9007,12 +9018,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9034,12 +9045,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9056,12 +9067,12 @@
     "contratado": 16242.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9078,12 +9089,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9108,12 +9119,12 @@
     "pago": 3199.91,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9136,12 +9147,12 @@
     "pago": 26546.18,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9157,12 +9168,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9179,12 +9190,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9202,12 +9213,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9228,12 +9239,12 @@
     "contratado": 5000.0,
     "pago": 5000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9254,12 +9265,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9282,12 +9293,12 @@
     "pago": 35568.59,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9309,12 +9320,12 @@
     "contratado": 33287.0,
     "pago": 30337.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9335,12 +9346,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9361,12 +9372,12 @@
     "pago": 281877.19,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9392,12 +9403,12 @@
     "contratado": 326645.51,
     "pago": 249145.51,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9420,12 +9431,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9450,12 +9461,12 @@
     "pago": 15637.5,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9478,12 +9489,12 @@
     "contratado": 11000.0,
     "pago": 9000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9502,12 +9513,12 @@
     "contratado": 15000.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9531,12 +9542,12 @@
     "contratado": 2441.23,
     "pago": 2441.23,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9560,12 +9571,12 @@
     "pago": 351394.55,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9586,12 +9597,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9609,12 +9620,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9638,12 +9649,12 @@
     "pago": 20789.87,
     "limite": 1270629.01,
     "doadoresPF": 12,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9674,12 +9685,12 @@
     "pago": 574.16,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9696,12 +9707,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9726,12 +9737,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9747,16 +9758,18 @@
     "https://www.instagram.com/milkahumegyn"
    ],
    "financas": {
-    "arrecadado": 0.0,
+    "fefc": 4050.0,
+    "partido": 550.0,
+    "arrecadado": 4600.0,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9780,12 +9793,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9802,12 +9815,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9832,12 +9845,12 @@
     "pago": 188473.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9854,16 +9867,17 @@
    "financas": {
     "fefc": 43993.49,
     "proprios": 2000.0,
-    "arrecadado": 45993.49,
-    "contratado": 20360.0,
-    "pago": 0.0,
+    "outrosCandidatos": 0.18,
+    "arrecadado": 45993.67,
+    "contratado": 32217.36,
+    "pago": 5.32,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9885,12 +9899,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9914,12 +9928,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9943,12 +9957,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -9969,12 +9983,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10001,12 +10015,12 @@
     "pago": 424862.8,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10030,12 +10044,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10061,12 +10075,12 @@
     "pago": 132724.57,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10091,12 +10105,12 @@
     "pago": 230692.17,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10117,12 +10131,12 @@
     "contratado": 32260.0,
     "pago": 5000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10141,12 +10155,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10169,12 +10183,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10192,12 +10206,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10220,12 +10234,12 @@
     "contratado": 44336.79,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10248,12 +10262,12 @@
     "pago": 366735.89,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10282,12 +10296,12 @@
     "pago": 892978.02,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10309,12 +10323,12 @@
     "pago": 206037.3,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10331,16 +10345,16 @@
    "financas": {
     "pessoasFisicas": 17000.0,
     "arrecadado": 17000.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "contratado": 16998.5,
+    "pago": 16998.5,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10359,12 +10373,12 @@
     "contratado": 13200.0,
     "pago": 13200.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10385,12 +10399,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10415,12 +10429,12 @@
     "contratado": 151490.54,
     "pago": 143890.54,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10440,12 +10454,12 @@
     "contratado": 11000.0,
     "pago": 2000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10464,12 +10478,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10493,12 +10507,12 @@
     "pago": 190192.5,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10518,12 +10532,12 @@
     "pago": 182983.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10545,12 +10559,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10567,12 +10581,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10598,12 +10612,12 @@
     "contratado": 15896.5,
     "pago": 7496.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10619,12 +10633,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10646,12 +10660,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10670,12 +10684,12 @@
     "pago": 1900.5,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10687,17 +10701,17 @@
    "idade": 54,
    "patrimonio": 0.0,
    "financas": {
-    "fundoPartidario": 17500.0,
-    "arrecadado": 17500.0,
+    "fundoPartidario": 18226.75,
+    "arrecadado": 18226.75,
     "contratado": 17478.5,
     "pago": 17478.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10716,12 +10730,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10745,12 +10759,12 @@
     "contratado": 16853.0,
     "pago": 13553.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10770,12 +10784,12 @@
     "contratado": 90688.0,
     "pago": 88688.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10793,18 +10807,19 @@
    "financas": {
     "fefc": 4050.0,
     "fundoPartidario": 3000.0,
+    "partido": 550.0,
     "pessoasFisicas": 60.0,
-    "arrecadado": 7110.0,
+    "arrecadado": 7660.0,
     "contratado": 3059.69,
     "pago": 3059.69,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10822,12 +10837,12 @@
     "contratado": 14000.0,
     "pago": 6500.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10849,12 +10864,12 @@
     "contratado": 17000.0,
     "pago": 17000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10874,12 +10889,12 @@
     "contratado": 10000.0,
     "pago": 10000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10894,17 +10909,17 @@
     "https://www.instagram.com/paulacastro15800"
    ],
    "financas": {
-    "fundoPartidario": 15000.0,
-    "arrecadado": 15000.0,
+    "fundoPartidario": 15331.5,
+    "arrecadado": 15331.5,
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10929,12 +10944,12 @@
     "pago": 135629.89,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10954,12 +10969,12 @@
     "contratado": 2710.0,
     "pago": 2710.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -10978,12 +10993,12 @@
     "pago": 418179.02,
     "limite": 1270629.01,
     "doadoresPF": 17,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11000,12 +11015,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11026,12 +11041,12 @@
     "contratado": 980.5,
     "pago": 980.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11050,12 +11065,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11074,12 +11089,12 @@
     "contratado": 75652.0,
     "pago": 18041.4,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11105,12 +11120,12 @@
     "pago": 825470.74,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11133,12 +11148,12 @@
     "pago": 41448.21,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11161,12 +11176,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11184,12 +11199,12 @@
     "contratado": 81990.0,
     "pago": 81990.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11206,12 +11221,12 @@
     "contratado": 15000.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11234,12 +11249,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11262,12 +11277,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11288,12 +11303,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11315,12 +11330,12 @@
     "contratado": 119383.87,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11336,12 +11351,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11358,12 +11373,12 @@
     "contratado": 350.0,
     "pago": 350.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11384,12 +11399,12 @@
     "contratado": 26245.02,
     "pago": 26245.02,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11408,12 +11423,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11442,12 +11457,12 @@
     "pago": 52845.9,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11472,12 +11487,12 @@
     "contratado": 7902.4,
     "pago": 5902.4,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11497,12 +11512,12 @@
     "pago": 5400.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11518,12 +11533,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11543,12 +11558,12 @@
     "pago": 2100.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11566,12 +11581,12 @@
     "contratado": 46756.6,
     "pago": 27990.6,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11597,12 +11612,12 @@
     "contratado": 3175.0,
     "pago": 3175.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11624,12 +11639,12 @@
     "pago": 3844.96,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11656,12 +11671,12 @@
     "contratado": 21909.74,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11680,12 +11695,12 @@
     "contratado": 11000.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11710,12 +11725,12 @@
     "pago": 939.91,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11741,12 +11756,12 @@
     "pago": 114444.4,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11769,12 +11784,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11796,12 +11811,12 @@
     "contratado": 39700.0,
     "pago": 39700.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11820,12 +11835,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11842,16 +11857,17 @@
    "financas": {
     "fefc": 43993.49,
     "proprios": 2000.0,
-    "arrecadado": 45993.49,
-    "contratado": 47760.0,
-    "pago": 0.0,
+    "outrosCandidatos": 0.5,
+    "arrecadado": 45993.99,
+    "contratado": 47764.5,
+    "pago": 4.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11873,12 +11889,12 @@
     "contratado": 7500.0,
     "pago": 7500.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11894,12 +11910,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11920,12 +11936,12 @@
     "contratado": 23010.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11950,12 +11966,12 @@
     "pago": 93797.97,
     "limite": 1270629.01,
     "doadoresPF": 11,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Deferido, com recurso pendente",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -11972,12 +11988,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12003,12 +12019,12 @@
     "pago": 27242.86,
     "limite": 1270629.01,
     "doadoresPF": 10,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12024,17 +12040,19 @@
     "https://www.instagram.com/rafaelrafa3097"
    ],
    "financas": {
+    "fefc": 4050.0,
+    "partido": 550.0,
     "outrosCandidatos": 424.75,
-    "arrecadado": 424.75,
+    "arrecadado": 5024.75,
     "contratado": 424.75,
     "pago": 424.75,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12051,12 +12069,12 @@
     "contratado": 1200.0,
     "pago": 1200.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12069,17 +12087,17 @@
    "patrimonio": 0.0,
    "financas": {
     "fefc": 15000.0,
-    "fundoPartidario": 2500.0,
-    "arrecadado": 17500.0,
+    "fundoPartidario": 3846.75,
+    "arrecadado": 18846.75,
     "contratado": 17452.5,
     "pago": 17452.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12095,12 +12113,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12116,12 +12134,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12140,12 +12158,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12162,12 +12180,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12190,12 +12208,12 @@
     "contratado": 40000.0,
     "pago": 40000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12220,12 +12238,12 @@
     "pago": 250365.0,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12250,12 +12268,12 @@
     "pago": 64161.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12272,12 +12290,12 @@
     "contratado": 14160.8,
     "pago": 14160.8,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12293,12 +12311,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12315,12 +12333,12 @@
     "contratado": 108104.71,
     "pago": 108104.71,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12342,12 +12360,12 @@
     "pago": 99100.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12370,12 +12388,12 @@
     "pago": 6500.0,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12399,12 +12417,12 @@
     "pago": 43009.99,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12421,12 +12439,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12446,12 +12464,12 @@
     "contratado": 58100.0,
     "pago": 18000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12472,12 +12490,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12498,12 +12516,12 @@
     "pago": 45392.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12520,12 +12538,12 @@
     "contratado": 134481.7,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12541,12 +12559,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12564,12 +12582,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12589,12 +12607,12 @@
     "contratado": 2800.5,
     "pago": 2800.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12611,12 +12629,12 @@
     "contratado": 45000.0,
     "pago": 45000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12645,12 +12663,12 @@
     "pago": 140209.03,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12667,12 +12685,12 @@
     "contratado": 17000.0,
     "pago": 17000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12695,12 +12713,12 @@
     "pago": 649658.17,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12717,12 +12735,12 @@
     "contratado": 19500.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12743,12 +12761,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12771,12 +12789,12 @@
     "contratado": 326337.0,
     "pago": 326337.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12795,12 +12813,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12821,12 +12839,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12848,12 +12866,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12869,12 +12887,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12900,12 +12918,12 @@
     "pago": 366709.86,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12924,12 +12942,12 @@
     "contratado": 100630.0,
     "pago": 100630.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12950,12 +12968,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -12978,12 +12996,12 @@
     "contratado": 64980.0,
     "pago": 64980.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13003,17 +13021,17 @@
     "fefc": 220000.0,
     "fundoPartidario": 80000.0,
     "pessoasFisicas": 6500.0,
-    "proprios": 2000.0,
-    "arrecadado": 308500.0,
-    "contratado": 258332.32,
-    "pago": 249737.38,
+    "proprios": 4353.25,
+    "arrecadado": 310853.25,
+    "contratado": 268832.32,
+    "pago": 266500.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13030,12 +13048,12 @@
     "contratado": 48039.08,
     "pago": 43489.08,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13055,12 +13073,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13076,12 +13094,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13104,12 +13122,12 @@
     "contratado": 39859.04,
     "pago": 39859.04,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13126,12 +13144,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13152,12 +13170,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13176,16 +13194,17 @@
     "https://x.com/asargentolorena"
    ],
    "financas": {
-    "arrecadado": 0.0,
+    "fefc": 696.75,
+    "arrecadado": 696.75,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13208,12 +13227,12 @@
     "contratado": 49810.79,
     "pago": 49810.79,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13235,12 +13254,12 @@
     "pago": 225504.63,
     "limite": 1270629.01,
     "doadoresPF": 9,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13266,12 +13285,12 @@
     "contratado": 5700.0,
     "pago": 5700.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13287,12 +13306,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13315,12 +13334,12 @@
     "contratado": 39989.5,
     "pago": 39989.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13341,12 +13360,12 @@
     "contratado": 456663.79,
     "pago": 302663.79,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13364,12 +13383,12 @@
     "contratado": 4370.27,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13388,12 +13407,12 @@
     "contratado": 7500.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13409,12 +13428,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13430,12 +13449,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13458,12 +13477,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13484,12 +13503,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13504,15 +13523,15 @@
     "fundoPartidario": 30000.0,
     "partido": 755.0,
     "arrecadado": 30755.0,
-    "contratado": 16189.85,
-    "pago": 16189.85,
+    "contratado": 29998.25,
+    "pago": 29998.25,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13535,12 +13554,12 @@
     "contratado": 7001.0,
     "pago": 7001.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13561,12 +13580,12 @@
     "contratado": 31758.11,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13595,12 +13614,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13619,12 +13638,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13642,12 +13661,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13664,12 +13683,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13695,12 +13714,12 @@
     "pago": 54930.55,
     "limite": 1270629.01,
     "doadoresPF": 19,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13722,12 +13741,12 @@
     "contratado": 5000.0,
     "pago": 5000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13750,12 +13769,12 @@
     "contratado": 8258.0,
     "pago": 8258.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13772,12 +13791,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13795,12 +13814,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13821,12 +13840,12 @@
     "contratado": 14959.2,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13844,17 +13863,18 @@
     "fefc": 862272.56,
     "pessoasFisicas": 18500.0,
     "proprios": 4000.0,
-    "arrecadado": 884772.56,
-    "contratado": 407320.31,
-    "pago": 0.0,
+    "outrosCandidatos": 14.87,
+    "arrecadado": 884787.43,
+    "contratado": 407423.71,
+    "pago": 77.8,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13876,12 +13896,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13904,12 +13924,12 @@
     "contratado": 24355.0,
     "pago": 21355.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13925,12 +13945,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13946,12 +13966,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -13972,12 +13992,12 @@
     "contratado": 716.28,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14001,12 +14021,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 7,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14023,12 +14043,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14050,12 +14070,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14072,12 +14092,12 @@
     "contratado": 2380.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14101,12 +14121,12 @@
     "pago": 24.26,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14129,12 +14149,12 @@
     "contratado": 39815.63,
     "pago": 39815.63,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14159,12 +14179,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14186,12 +14206,12 @@
     "contratado": 80005.5,
     "pago": 80005.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14209,12 +14229,12 @@
     "contratado": 28982.5,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14232,12 +14252,12 @@
     "contratado": 5500.5,
     "pago": 5500.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14255,12 +14275,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14286,12 +14306,12 @@
     "pago": 392582.06,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14313,12 +14333,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14344,12 +14364,12 @@
     "contratado": 11502.0,
     "pago": 7202.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14368,12 +14388,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14396,12 +14416,12 @@
     "pago": 104159.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14418,12 +14438,12 @@
     "contratado": 14995.8,
     "pago": 14995.8,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14440,12 +14460,12 @@
     "contratado": 70730.0,
     "pago": 70730.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14462,12 +14482,12 @@
     "contratado": 14700.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14489,12 +14509,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14513,12 +14533,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14535,12 +14555,12 @@
     "contratado": 15010.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14557,12 +14577,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14587,12 +14607,12 @@
     "pago": 6479.49,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14604,17 +14624,17 @@
    "idade": 39,
    "patrimonio": 200000.0,
    "financas": {
-    "fundoPartidario": 15000.0,
-    "arrecadado": 15000.0,
+    "fundoPartidario": 15751.0,
+    "arrecadado": 15751.0,
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14637,12 +14657,12 @@
     "contratado": 68816.5,
     "pago": 63816.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14663,12 +14683,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14692,12 +14712,12 @@
     "contratado": 100048.6,
     "pago": 100048.6,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14721,12 +14741,12 @@
     "pago": 389810.0,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14745,12 +14765,12 @@
     "contratado": 79196.0,
     "pago": 44196.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14771,12 +14791,12 @@
     "contratado": 296022.8,
     "pago": 176022.8,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14804,12 +14824,12 @@
     "pago": 392512.18,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14825,12 +14845,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14854,12 +14874,12 @@
     "contratado": 288083.96,
     "pago": 96935.09,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14877,12 +14897,12 @@
     "contratado": 137635.5,
     "pago": 104531.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14905,12 +14925,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14926,12 +14946,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14956,12 +14976,12 @@
     "pago": 57760.0,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -14985,12 +15005,12 @@
     "contratado": 750.4,
     "pago": 750.4,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15010,12 +15030,12 @@
     "contratado": 30300.0,
     "pago": 30300.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15032,12 +15052,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15061,12 +15081,12 @@
     "contratado": 6001.5,
     "pago": 6001.5,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15094,12 +15114,12 @@
     "pago": 53043.74,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15123,12 +15143,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 9,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15150,12 +15170,12 @@
     "pago": 202331.6,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15175,12 +15195,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15205,12 +15225,12 @@
     "pago": 67024.28,
     "limite": 1270629.01,
     "doadoresPF": 28,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15231,12 +15251,12 @@
     "contratado": 1350.0,
     "pago": 1350.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15259,12 +15279,12 @@
     "pago": 12428.38,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15288,12 +15308,12 @@
     "pago": 46422.32,
     "limite": 1270629.01,
     "doadoresPF": 14,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15311,12 +15331,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15335,19 +15355,20 @@
    ],
    "financas": {
     "fefc": 400000.0,
-    "pessoasFisicas": 69400.0,
-    "outrosCandidatos": 199998.5,
-    "arrecadado": 669398.5,
-    "contratado": 322797.67,
-    "pago": 186168.34,
+    "fundoPartidario": 200000.0,
+    "pessoasFisicas": 105400.0,
+    "outrosCandidatos": 229398.5,
+    "arrecadado": 934798.5,
+    "contratado": 826662.59,
+    "pago": 811432.59,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15374,12 +15395,12 @@
     "pago": 323723.02,
     "limite": 1270629.01,
     "doadoresPF": 7,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15407,12 +15428,12 @@
     "pago": 232353.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15431,12 +15452,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15454,18 +15475,19 @@
    ],
    "financas": {
     "fefc": 50000.0,
-    "pessoasFisicas": 3850.0,
+    "pessoasFisicas": 8850.0,
+    "proprios": 0.5,
     "outrosCandidatos": 52400.0,
-    "arrecadado": 106250.0,
-    "contratado": 51420.2,
-    "pago": 47420.2,
+    "arrecadado": 111250.5,
+    "contratado": 103590.3,
+    "pago": 103590.3,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15488,12 +15510,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15517,12 +15539,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15543,12 +15565,12 @@
     "pago": 49100.0,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15574,12 +15596,12 @@
     "pago": 71480.03,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15598,12 +15620,12 @@
     "contratado": 7000.0,
     "pago": 5000.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15628,12 +15650,12 @@
     "pago": 483932.75,
     "limite": 1270629.01,
     "doadoresPF": 10,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15656,12 +15678,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   },
   {
@@ -15682,12 +15704,12 @@
     "pago": 314438.28,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "27/10/2026"
+    "ate": "28/10/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "27/10/2026"
+    "data": "28/10/2026"
    }
   }
  ]
