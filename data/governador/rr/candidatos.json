@@ -11,7 +11,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 02/11/2026)"
+   "texto": "Registro deferido (TSE, 03/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -43,17 +43,18 @@
     "fundoPartidario": 50000.0,
     "pessoasFisicas": 118080.0,
     "proprios": 350000.0,
-    "arrecadado": 1389299.72,
-    "contratado": 1297315.6,
-    "pago": 751327.6,
+    "naoIdentificada": 1000.0,
+    "arrecadado": 1390299.72,
+    "contratado": 1377638.6,
+    "pago": 1377638.6,
     "limite": 3557761.23,
     "doadoresPF": 7,
-    "ate": "02/11/2026"
+    "ate": "03/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "02/11/2026"
+    "data": "03/11/2026"
    }
   }
  },
@@ -69,7 +70,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 02/11/2026)"
+   "texto": "Registro deferido (TSE, 03/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -105,12 +106,12 @@
     "contratado": 2559229.94,
     "pago": 2559229.94,
     "limite": 3557761.23,
-    "ate": "02/11/2026"
+    "ate": "03/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "02/11/2026"
+    "data": "03/11/2026"
    }
   }
  },
@@ -126,7 +127,7 @@
   ],
   "situacao": {
    "tipo": "ver",
-   "texto": "Indeferido, com recurso (sub judice) (TSE, 02/11/2026)"
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 03/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -148,16 +149,17 @@
    "idade": 58,
    "patrimonio": 0.0,
    "financas": {
-    "arrecadado": 0.0,
+    "fefc": 1788.46,
+    "arrecadado": 1788.46,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3557761.23,
-    "ate": "02/11/2026"
+    "ate": "03/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "02/11/2026"
+    "data": "03/11/2026"
    }
   }
  },
@@ -173,7 +175,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 02/11/2026)"
+   "texto": "Registro deferido (TSE, 03/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -203,16 +205,16 @@
     "fefc": 180000.0,
     "pessoasFisicas": 3000.0,
     "arrecadado": 183000.0,
-    "contratado": 132643.9,
-    "pago": 60002.9,
+    "contratado": 182992.4,
+    "pago": 182992.4,
     "limite": 3557761.23,
     "doadoresPF": 1,
-    "ate": "02/11/2026"
+    "ate": "03/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "02/11/2026"
+    "data": "03/11/2026"
    }
   }
  },
@@ -228,7 +230,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 02/11/2026)"
+   "texto": "Registro deferido (TSE, 03/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -257,12 +259,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 3557761.23,
-    "ate": "02/11/2026"
+    "ate": "03/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "02/11/2026"
+    "data": "03/11/2026"
    }
   }
  }
