@@ -3,8 +3,8 @@
   "titulo": "TSE: dados abertos de candidaturas 2026",
   "url": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026"
  },
- "geracaoTSE": "03/11/2026",
- "listaConferida": "03/11/2026",
+ "geracaoTSE": "04/11/2026",
+ "listaConferida": "04/11/2026",
  "partidos": [
   {
    "numero": "10",
@@ -164,17 +164,19 @@
    "patrimonio2022": 100000.0,
    "financas": {
     "fefc": 420000.0,
+    "pessoasFisicas": 208484.0,
+    "proprios": 41000.0,
     "outrosCandidatos": 100000.0,
-    "arrecadado": 520000.0,
-    "contratado": 409176.0,
-    "pago": 311076.0,
+    "arrecadado": 769484.0,
+    "contratado": 769484.0,
+    "pago": 769484.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -187,16 +189,17 @@
    "patrimonio": 0.0,
    "concorreu2022": false,
    "financas": {
-    "arrecadado": 0.0,
+    "fefc": 939.0,
+    "arrecadado": 939.0,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -212,12 +215,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -237,12 +240,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -264,12 +267,12 @@
     "pago": 1081134.83,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -301,12 +304,12 @@
     "pago": 321010.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -329,12 +332,12 @@
     "contratado": 12000.0,
     "pago": 12000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -353,12 +356,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -373,15 +376,15 @@
    "financas": {
     "fefc": 46050.0,
     "arrecadado": 46050.0,
-    "contratado": 21810.52,
-    "pago": 21810.52,
+    "contratado": 45013.51,
+    "pago": 45013.51,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -405,12 +408,12 @@
     "contratado": 10000.0,
     "pago": 10000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -431,12 +434,12 @@
     "contratado": 3571.0,
     "pago": 3571.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -453,12 +456,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -484,12 +487,12 @@
     "pago": 370000.0,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -510,12 +513,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -531,12 +534,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -554,15 +557,15 @@
    "financas": {
     "fefc": 3674.78,
     "arrecadado": 3674.78,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "contratado": 3670.5,
+    "pago": 3670.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -578,18 +581,19 @@
     "https://www.instagram.com/alberimagno"
    ],
    "financas": {
+    "partido": 860.0,
     "pessoasFisicas": 6300.0,
     "proprios": 4000.0,
-    "arrecadado": 10300.0,
+    "arrecadado": 11160.0,
     "contratado": 10300.0,
     "pago": 10300.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -609,16 +613,16 @@
     "fundoPartidario": 50000.0,
     "pessoasFisicas": 178243.1,
     "arrecadado": 378243.1,
-    "contratado": 257221.0,
-    "pago": 257221.0,
+    "contratado": 378243.1,
+    "pago": 378243.1,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -638,12 +642,12 @@
     "contratado": 15660.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -661,15 +665,15 @@
    "financas": {
     "fefc": 20000.0,
     "arrecadado": 20000.0,
-    "contratado": 0.0,
+    "contratado": 24383.2,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -682,16 +686,17 @@
    "patrimonio": 0.0,
    "concorreu2022": false,
    "financas": {
-    "arrecadado": 0.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "proprios": 22.4,
+    "arrecadado": 22.4,
+    "contratado": 24.4,
+    "pago": 24.4,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -714,12 +719,12 @@
     "pago": 9501.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -739,16 +744,16 @@
     "pessoasFisicas": 241000.0,
     "proprios": 9100.0,
     "arrecadado": 350100.0,
-    "contratado": 333190.14,
-    "pago": 325590.14,
+    "contratado": 334057.34,
+    "pago": 334057.34,
     "limite": 1270629.01,
     "doadoresPF": 10,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -766,15 +771,15 @@
    "financas": {
     "fefc": 20000.0,
     "arrecadado": 20000.0,
-    "contratado": 9000.0,
+    "contratado": 13422.5,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -790,12 +795,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -813,16 +818,17 @@
    ],
    "financas": {
     "fefc": 289980.0,
-    "arrecadado": 289980.0,
-    "contratado": 241763.5,
-    "pago": 155063.5,
+    "outrosCandidatos": 1700.0,
+    "arrecadado": 291680.0,
+    "contratado": 289605.0,
+    "pago": 289605.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -838,12 +844,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -865,12 +871,12 @@
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -893,16 +899,16 @@
     "pessoasFisicas": 144150.77,
     "proprios": 50000.0,
     "arrecadado": 494150.77,
-    "contratado": 535538.57,
-    "pago": 169333.72,
+    "contratado": 685867.11,
+    "pago": 455939.31,
     "limite": 1270629.01,
     "doadoresPF": 14,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -925,12 +931,12 @@
     "pago": 6799.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -957,12 +963,12 @@
     "pago": 524707.12,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -978,12 +984,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1002,12 +1008,12 @@
     "contratado": 35001.5,
     "pago": 35001.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1027,12 +1033,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1057,12 +1063,12 @@
     "pago": 52809.91,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1084,12 +1090,12 @@
     "pago": 73738.24,
     "limite": 1270629.01,
     "doadoresPF": 19,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1109,12 +1115,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1141,12 +1147,12 @@
     "pago": 1049552.44,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1168,12 +1174,12 @@
     "contratado": 14998.14,
     "pago": 14998.14,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1199,12 +1205,12 @@
     "pago": 1053924.32,
     "limite": 1270629.01,
     "doadoresPF": 15,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1226,12 +1232,12 @@
     "contratado": 29973.0,
     "pago": 29973.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1249,15 +1255,15 @@
    "financas": {
     "fefc": 160000.0,
     "arrecadado": 160000.0,
-    "contratado": 141623.0,
-    "pago": 140812.5,
+    "contratado": 182709.5,
+    "pago": 159984.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1276,12 +1282,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1308,12 +1314,12 @@
     "contratado": 1162945.76,
     "pago": 1162945.76,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1334,12 +1340,12 @@
     "contratado": 30000.0,
     "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1359,15 +1365,15 @@
    "financas": {
     "fefc": 20000.0,
     "arrecadado": 20000.0,
-    "contratado": 3000.0,
+    "contratado": 7071.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1395,12 +1401,12 @@
     "pago": 576717.43,
     "limite": 1270629.01,
     "doadoresPF": 36,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1417,12 +1423,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1442,15 +1448,15 @@
    "financas": {
     "fefc": 80000.0,
     "arrecadado": 80000.0,
-    "contratado": 78010.59,
-    "pago": 72925.59,
+    "contratado": 79994.09,
+    "pago": 79994.09,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1469,12 +1475,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1491,12 +1497,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1514,22 +1520,21 @@
     "https://www.threads.com/@batistacabralpe"
    ],
    "financas": {
-    "fefc": 100000.0,
-    "partido": 18900.0,
+    "fefc": 118900.0,
     "pessoasFisicas": 429150.0,
     "proprios": 115500.0,
     "naoIdentificada": 5.0,
     "arrecadado": 663555.0,
-    "contratado": 591902.53,
-    "pago": 591902.53,
+    "contratado": 592342.53,
+    "pago": 592342.53,
     "limite": 1270629.01,
     "doadoresPF": 12,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1548,12 +1553,12 @@
     "contratado": 30000.0,
     "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1578,12 +1583,12 @@
     "contratado": 12618.0,
     "pago": 12618.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1605,12 +1610,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1630,12 +1635,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1657,12 +1662,12 @@
     "contratado": 100000.0,
     "pago": 100000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1678,12 +1683,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1703,19 +1708,19 @@
    ],
    "financas": {
     "fefc": 127200.0,
-    "pessoasFisicas": 216500.0,
+    "pessoasFisicas": 263960.0,
     "proprios": 6000.0,
-    "arrecadado": 349700.0,
-    "contratado": 385674.75,
-    "pago": 311339.5,
+    "arrecadado": 397160.0,
+    "contratado": 381514.75,
+    "pago": 381514.75,
     "limite": 1270629.01,
     "doadoresPF": 14,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1733,16 +1738,17 @@
    ],
    "financas": {
     "fundoPartidario": 5000.0,
-    "arrecadado": 5000.0,
-    "contratado": 1000.0,
+    "partido": 469.5,
+    "arrecadado": 5469.5,
+    "contratado": 3099.5,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1763,12 +1769,12 @@
     "pago": 80000.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1798,12 +1804,12 @@
     "pago": 51647.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1822,20 +1828,20 @@
     "https://www.youtube.com/@brunomarquescm"
    ],
    "financas": {
-    "fefc": 126942.0,
+    "fefc": 134321.68,
     "partido": 300000.0,
     "pessoasFisicas": 150000.0,
-    "proprios": 10000.0,
-    "arrecadado": 586942.0,
-    "contratado": 100758.21,
-    "pago": 90758.21,
+    "proprios": 24990.0,
+    "arrecadado": 609311.68,
+    "contratado": 574592.13,
+    "pago": 574592.13,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1852,17 +1858,20 @@
    ],
    "financas": {
     "fefc": 13670.37,
+    "partido": 1618.28,
+    "pessoasFisicas": 945.0,
     "proprios": 7200.0,
-    "arrecadado": 20870.37,
-    "contratado": 7853.39,
-    "pago": 0.0,
+    "outrosCandidatos": 210.0,
+    "arrecadado": 23643.65,
+    "contratado": 13630.39,
+    "pago": 13630.39,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1883,15 +1892,15 @@
     "fefc": 65000.0,
     "fundoPartidario": 35000.0,
     "arrecadado": 100000.0,
-    "contratado": 66000.0,
-    "pago": 0.0,
+    "contratado": 100000.0,
+    "pago": 100000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1913,16 +1922,16 @@
     "pessoasFisicas": 7000.0,
     "outrosCandidatos": 33734.0,
     "arrecadado": 190734.0,
-    "contratado": 149737.86,
-    "pago": 124432.81,
+    "contratado": 156000.0,
+    "pago": 156000.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1943,12 +1952,12 @@
     "contratado": 80000.0,
     "pago": 80000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -1972,12 +1981,12 @@
     "contratado": 10320.0,
     "pago": 10320.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2001,12 +2010,12 @@
     "contratado": 150000.0,
     "pago": 150000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2031,12 +2040,12 @@
     "contratado": 74945.54,
     "pago": 65250.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2054,12 +2063,12 @@
     "contratado": 11802.0,
     "pago": 11802.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2074,15 +2083,15 @@
    "financas": {
     "fefc": 50000.0,
     "arrecadado": 50000.0,
-    "contratado": 50010.8,
-    "pago": 49999.8,
+    "contratado": 119770.8,
+    "pago": 50079.8,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2109,12 +2118,12 @@
     "contratado": 70000.0,
     "pago": 70000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2136,12 +2145,12 @@
     "contratado": 10000.0,
     "pago": 10000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2158,12 +2167,12 @@
     "contratado": 192869.74,
     "pago": 192869.74,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2179,12 +2188,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2203,16 +2212,17 @@
    ],
    "financas": {
     "fefc": 30000.0,
-    "arrecadado": 30000.0,
-    "contratado": 15001.0,
-    "pago": 15001.0,
+    "partido": 1020.0,
+    "arrecadado": 31020.0,
+    "contratado": 30000.0,
+    "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2235,12 +2245,12 @@
     "contratado": 20000.0,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2254,16 +2264,17 @@
    "concorreu2022": false,
    "financas": {
     "fefc": 13200.0,
-    "arrecadado": 13200.0,
-    "contratado": 12681.5,
-    "pago": 12681.5,
+    "pessoasFisicas": 3000.0,
+    "arrecadado": 16200.0,
+    "contratado": 15682.0,
+    "pago": 15682.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2278,15 +2289,15 @@
    "financas": {
     "fefc": 100000.0,
     "arrecadado": 100000.0,
-    "contratado": 96773.5,
-    "pago": 96773.5,
+    "contratado": 100000.0,
+    "pago": 100000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2312,12 +2323,12 @@
     "pago": 132314.3,
     "limite": 1270629.01,
     "doadoresPF": 9,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2333,17 +2344,17 @@
     "https://www.instagram.com/josecarloscalheirosdemelo"
    ],
    "financas": {
-    "fefc": 8670.37,
-    "arrecadado": 8670.37,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "fefc": 10121.98,
+    "arrecadado": 10121.98,
+    "contratado": 8100.37,
+    "pago": 8100.37,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2363,12 +2374,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2386,16 +2397,16 @@
    "financas": {
     "pessoasFisicas": 5000.0,
     "arrecadado": 5000.0,
-    "contratado": 1200.0,
-    "pago": 1200.0,
+    "contratado": 5000.0,
+    "pago": 5000.0,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2414,12 +2425,12 @@
     "contratado": 19999.66,
     "pago": 19999.66,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2441,12 +2452,12 @@
     "contratado": 79991.0,
     "pago": 79991.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2467,15 +2478,15 @@
    ],
    "financas": {
     "arrecadado": 0.0,
-    "contratado": 0.0,
+    "contratado": 249.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2494,22 +2505,23 @@
     "https://www.tiktok.com/@cayoalbino_"
    ],
    "financas": {
-    "fefc": 60000.0,
+    "fefc": 64083.38,
     "fundoPartidario": 40000.0,
+    "partido": 162.46,
     "pessoasFisicas": 268000.0,
     "proprios": 64019.65,
     "outrosCandidatos": 200000.0,
-    "arrecadado": 632019.65,
-    "contratado": 673398.56,
-    "pago": 540536.4,
+    "arrecadado": 636265.49,
+    "contratado": 628019.65,
+    "pago": 628019.65,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2535,12 +2547,12 @@
     "contratado": 20000.0,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2557,17 +2569,18 @@
    ],
    "financas": {
     "fefc": 100000.0,
-    "proprios": 20100.0,
-    "arrecadado": 120100.0,
-    "contratado": 100040.0,
-    "pago": 100040.0,
+    "pessoasFisicas": 119108.1,
+    "proprios": 109100.0,
+    "arrecadado": 328208.1,
+    "contratado": 328027.2,
+    "pago": 328027.2,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2586,17 +2599,18 @@
    "financas": {
     "fefc": 30000.0,
     "pessoasFisicas": 600.0,
-    "arrecadado": 30600.0,
-    "contratado": 15285.0,
-    "pago": 15285.0,
+    "outrosCandidatos": 1666.66,
+    "arrecadado": 32266.66,
+    "contratado": 30598.0,
+    "pago": 30598.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2610,16 +2624,17 @@
    "concorreu2022": false,
    "financas": {
     "fefc": 35000.0,
-    "arrecadado": 35000.0,
+    "fundoPartidario": 3000.0,
+    "arrecadado": 38000.0,
     "contratado": 28546.09,
     "pago": 28545.09,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2645,12 +2660,12 @@
     "contratado": 51000.5,
     "pago": 51000.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2667,18 +2682,18 @@
    ],
    "financas": {
     "fefc": 97000.0,
-    "pessoasFisicas": 1360.0,
-    "arrecadado": 98360.0,
-    "contratado": 45504.0,
-    "pago": 45504.0,
+    "pessoasFisicas": 3360.0,
+    "arrecadado": 100360.0,
+    "contratado": 98360.0,
+    "pago": 98360.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2696,20 +2711,21 @@
    ],
    "financas": {
     "fefc": 380000.0,
-    "partido": 3053.6,
+    "fundoPartidario": 10632.03,
+    "partido": 15953.6,
     "pessoasFisicas": 32516.0,
     "coletivo": 57197.0,
-    "arrecadado": 472766.6,
-    "contratado": 334515.55,
-    "pago": 201982.67,
+    "arrecadado": 496298.63,
+    "contratado": 463412.5,
+    "pago": 463412.5,
     "limite": 1270629.01,
     "doadoresPF": 69,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2726,12 +2742,12 @@
     "contratado": 375.0,
     "pago": 375.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2750,12 +2766,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2779,12 +2795,12 @@
     "contratado": 3682.78,
     "pago": 3682.78,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2809,12 +2825,12 @@
     "contratado": 1299580.49,
     "pago": 399080.49,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2835,12 +2851,12 @@
     "contratado": 40995.0,
     "pago": 40995.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2862,12 +2878,12 @@
     "contratado": 31000.0,
     "pago": 31000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2889,12 +2905,12 @@
     "contratado": 90000.0,
     "pago": 90000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2917,12 +2933,12 @@
     "pago": 918724.62,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2943,16 +2959,16 @@
     "pessoasFisicas": 20000.0,
     "proprios": 10.0,
     "arrecadado": 170010.0,
-    "contratado": 99100.0,
-    "pago": 78850.0,
+    "contratado": 209773.0,
+    "pago": 150010.0,
     "limite": 1270629.01,
     "doadoresPF": 7,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -2979,12 +2995,12 @@
     "pago": 100544.1,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3009,12 +3025,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3038,12 +3054,12 @@
     "contratado": 38007.5,
     "pago": 38007.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3068,12 +3084,12 @@
     "pago": 10000.0,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3092,12 +3108,12 @@
     "contratado": 59876.83,
     "pago": 59876.83,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3115,15 +3131,15 @@
    "financas": {
     "fefc": 20000.0,
     "arrecadado": 20000.0,
-    "contratado": 6588.5,
-    "pago": 6588.5,
+    "contratado": 19941.5,
+    "pago": 19941.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3144,12 +3160,12 @@
     "contratado": 122597.95,
     "pago": 122597.95,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3165,12 +3181,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3194,12 +3210,12 @@
     "contratado": 20000.5,
     "pago": 20000.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3222,12 +3238,12 @@
     "contratado": 30900.0,
     "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3250,19 +3266,19 @@
    "financas": {
     "fefc": 1015500.0,
     "fundoPartidario": 3485.0,
-    "pessoasFisicas": 129035.0,
+    "pessoasFisicas": 188720.0,
     "coletivo": 6134.0,
-    "arrecadado": 1154154.0,
-    "contratado": 1093496.23,
-    "pago": 1093496.23,
+    "arrecadado": 1213839.0,
+    "contratado": 1093496.73,
+    "pago": 1093496.73,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3278,12 +3294,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3311,12 +3327,12 @@
     "pago": 235.99,
     "limite": 1270629.01,
     "doadoresPF": 10,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3341,12 +3357,12 @@
     "contratado": 180000.0,
     "pago": 180000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3365,15 +3381,15 @@
    "financas": {
     "fefc": 300000.0,
     "arrecadado": 300000.0,
-    "contratado": 287621.0,
-    "pago": 284300.0,
+    "contratado": 1244525.8,
+    "pago": 292725.8,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3402,12 +3418,12 @@
     "contratado": 80020.0,
     "pago": 80020.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3433,12 +3449,12 @@
     "pago": 99544.5,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3456,12 +3472,12 @@
     "contratado": 240.5,
     "pago": 240.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3484,12 +3500,12 @@
     "contratado": 6988.44,
     "pago": 6988.44,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3505,16 +3521,17 @@
     "https://www.instagram.com/daya_oliveira2020"
    ],
    "financas": {
-    "arrecadado": 0.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "proprios": 22.4,
+    "arrecadado": 22.4,
+    "contratado": 22.4,
+    "pago": 22.4,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3533,12 +3550,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3559,16 +3576,19 @@
    ],
    "financas": {
     "fefc": 120000.0,
-    "arrecadado": 120000.0,
-    "contratado": 144759.0,
-    "pago": 144759.0,
+    "partido": 2430.0,
+    "pessoasFisicas": 30000.0,
+    "proprios": 235.2,
+    "arrecadado": 152665.2,
+    "contratado": 150115.7,
+    "pago": 150115.7,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3593,12 +3613,12 @@
     "pago": 59030.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3619,12 +3639,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3654,12 +3674,12 @@
     "pago": 132.61,
     "limite": 1270629.01,
     "doadoresPF": 23,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3684,12 +3704,12 @@
     "pago": 117039.5,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3709,12 +3729,12 @@
     "contratado": 40147.0,
     "pago": 40123.25,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3733,12 +3753,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3756,16 +3776,17 @@
    ],
    "financas": {
     "fefc": 30000.0,
-    "arrecadado": 30000.0,
-    "contratado": 21000.0,
-    "pago": 12000.0,
+    "pessoasFisicas": 1001.5,
+    "arrecadado": 31001.5,
+    "contratado": 45395.0,
+    "pago": 31001.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3788,12 +3809,12 @@
     "contratado": 29999.8,
     "pago": 29999.8,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3819,12 +3840,12 @@
     "contratado": 35060.0,
     "pago": 35060.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3846,12 +3867,12 @@
     "contratado": 538636.23,
     "pago": 538636.23,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3876,15 +3897,15 @@
     "pessoasFisicas": 234000.0,
     "proprios": 31503.0,
     "arrecadado": 398728.84,
-    "contratado": 360828.0,
-    "pago": 280828.0,
+    "contratado": 365503.0,
+    "pago": 365503.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3908,12 +3929,12 @@
     "contratado": 34449.59,
     "pago": 22000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3935,12 +3956,12 @@
     "contratado": 220000.0,
     "pago": 220000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3960,12 +3981,12 @@
     "contratado": 60994.14,
     "pago": 60994.14,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -3982,12 +4003,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4015,12 +4036,12 @@
     "contratado": 349962.18,
     "pago": 349962.18,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4040,19 +4061,20 @@
     "https://www.tiktok.com/anderson.aquinope"
    ],
    "financas": {
+    "partido": 2430.0,
     "pessoasFisicas": 25796.62,
     "proprios": 28700.0,
-    "arrecadado": 54496.62,
-    "contratado": 43140.2,
-    "pago": 43140.2,
+    "arrecadado": 56926.62,
+    "contratado": 49140.7,
+    "pago": 49140.7,
     "limite": 1270629.01,
     "doadoresPF": 10,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4070,15 +4092,15 @@
    "financas": {
     "fefc": 30000.0,
     "arrecadado": 30000.0,
-    "contratado": 20104.0,
-    "pago": 19604.0,
+    "contratado": 34940.0,
+    "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4097,12 +4119,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4122,12 +4144,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4151,12 +4173,12 @@
     "contratado": 20170.5,
     "pago": 20170.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4180,12 +4202,12 @@
     "contratado": 49382.56,
     "pago": 49382.56,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4203,15 +4225,15 @@
     "partido": 50000.0,
     "proprios": 1000.0,
     "arrecadado": 103666.0,
-    "contratado": 24830.85,
-    "pago": 1001.5,
+    "contratado": 97125.5,
+    "pago": 97125.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4230,15 +4252,15 @@
    ],
    "financas": {
     "arrecadado": 0.0,
-    "contratado": 0.0,
+    "contratado": 5841.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4258,19 +4280,19 @@
    "financas": {
     "fefc": 100000.0,
     "pessoasFisicas": 28500.0,
-    "proprios": 60000.0,
+    "proprios": 225591.0,
     "outrosCandidatos": 43000.0,
-    "arrecadado": 231500.0,
-    "contratado": 194866.5,
-    "pago": 17600.0,
+    "arrecadado": 397091.0,
+    "contratado": 397084.37,
+    "pago": 397084.37,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4287,16 +4309,16 @@
     "pessoasFisicas": 10811.0,
     "proprios": 13674.0,
     "arrecadado": 124485.0,
-    "contratado": 399947.49,
-    "pago": 120478.65,
+    "contratado": 195329.99,
+    "pago": 124481.15,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4315,16 +4337,17 @@
    ],
    "financas": {
     "fefc": 37500.0,
-    "arrecadado": 37500.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "partido": 1020.0,
+    "arrecadado": 38520.0,
+    "contratado": 37500.0,
+    "pago": 37500.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4343,17 +4366,18 @@
     "https://www.instagram.com/draveralopes"
    ],
    "financas": {
-    "fefc": 73330.0,
-    "arrecadado": 73330.0,
-    "contratado": 20000.0,
-    "pago": 20000.0,
+    "fefc": 78470.3,
+    "partido": 161.46,
+    "arrecadado": 78631.76,
+    "contratado": 47894.75,
+    "pago": 47894.75,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4381,12 +4405,12 @@
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4401,17 +4425,17 @@
     "https://www.instagram.com/draruanabezerra"
    ],
    "financas": {
-    "fefc": 40995.0,
-    "arrecadado": 40995.0,
-    "contratado": 26577.5,
-    "pago": 24977.5,
+    "fefc": 42613.28,
+    "arrecadado": 42613.28,
+    "contratado": 40995.0,
+    "pago": 40995.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4430,12 +4454,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4457,12 +4481,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4484,18 +4508,20 @@
    ],
    "financas": {
     "fefc": 200000.0,
-    "pessoasFisicas": 634500.0,
-    "arrecadado": 834500.0,
-    "contratado": 865098.8,
-    "pago": 606836.8,
+    "pessoasFisicas": 641500.0,
+    "proprios": 113612.3,
+    "outrosCandidatos": 1666.66,
+    "arrecadado": 956778.96,
+    "contratado": 936612.3,
+    "pago": 936612.3,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4517,12 +4543,12 @@
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4535,17 +4561,17 @@
    "patrimonio": 240000.0,
    "concorreu2022": false,
    "financas": {
-    "outrosCandidatos": 20000.0,
-    "arrecadado": 20000.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "outrosCandidatos": 26122.0,
+    "arrecadado": 26122.0,
+    "contratado": 20000.0,
+    "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4561,12 +4587,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4589,12 +4615,12 @@
     "contratado": 10000.0,
     "pago": 10000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4617,12 +4643,12 @@
     "contratado": 55003.0,
     "pago": 55003.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4641,20 +4667,22 @@
     "https://www.tiktok.com/ednaldomourape"
    ],
    "financas": {
-    "fefc": 108020.0,
-    "pessoasFisicas": 10126.0,
-    "proprios": 51660.1,
-    "arrecadado": 169806.1,
-    "contratado": 127384.16,
-    "pago": 31485.16,
+    "fefc": 115237.22,
+    "partido": 162.46,
+    "pessoasFisicas": 13120.0,
+    "proprios": 55660.1,
+    "coletivo": 11230.0,
+    "arrecadado": 195409.78,
+    "contratado": 162487.35,
+    "pago": 107388.35,
     "limite": 1270629.01,
     "doadoresPF": 12,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4675,12 +4703,12 @@
     "pago": 82004.5,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4704,16 +4732,16 @@
     "pessoasFisicas": 131800.0,
     "outrosCandidatos": 100000.0,
     "arrecadado": 331800.0,
-    "contratado": 61020.0,
-    "pago": 61020.0,
+    "contratado": 372435.5,
+    "pago": 331784.0,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4729,17 +4757,17 @@
     "https://www.instagram.com/eduardoamanciooficial"
    ],
    "financas": {
-    "fefc": 50000.0,
-    "arrecadado": 50000.0,
-    "contratado": 24000.0,
-    "pago": 24000.0,
+    "fefc": 63330.0,
+    "arrecadado": 63330.0,
+    "contratado": 47500.5,
+    "pago": 47500.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4761,12 +4789,12 @@
     "contratado": 148556.64,
     "pago": 148556.64,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4780,16 +4808,17 @@
    "concorreu2022": false,
    "financas": {
     "fefc": 100000.0,
-    "arrecadado": 100000.0,
+    "pessoasFisicas": 1200.0,
+    "arrecadado": 101200.0,
     "contratado": 100000.0,
     "pago": 100000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4814,12 +4843,12 @@
     "pago": 67157.04,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4837,17 +4866,17 @@
     "https://www.threads.com/@eduardopaysan"
    ],
    "financas": {
-    "fefc": 42570.0,
-    "arrecadado": 42570.0,
-    "contratado": 37680.5,
-    "pago": 24365.5,
+    "fefc": 44021.61,
+    "arrecadado": 44021.61,
+    "contratado": 38684.0,
+    "pago": 38684.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4866,12 +4895,12 @@
     "contratado": 70000.0,
     "pago": 70000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4895,12 +4924,12 @@
     "contratado": 10502.0,
     "pago": 10502.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4920,16 +4949,16 @@
    "financas": {
     "pessoasFisicas": 72390.0,
     "arrecadado": 72390.0,
-    "contratado": 33290.0,
-    "pago": 33290.0,
+    "contratado": 78350.0,
+    "pago": 72390.0,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4942,16 +4971,17 @@
    "patrimonio": 35000.0,
    "concorreu2022": false,
    "financas": {
-    "arrecadado": 0.0,
+    "partido": 469.5,
+    "arrecadado": 469.5,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -4978,12 +5008,12 @@
     "pago": 38077.86,
     "limite": 1270629.01,
     "doadoresPF": 16,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5011,12 +5041,12 @@
     "contratado": 546492.54,
     "pago": 546492.54,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5029,16 +5059,17 @@
    "patrimonio": 0.0,
    "concorreu2022": false,
    "financas": {
-    "arrecadado": 0.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "outrosCandidatos": 4144.88,
+    "arrecadado": 4144.88,
+    "contratado": 4144.88,
+    "pago": 4144.88,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5057,15 +5088,15 @@
    "financas": {
     "fefc": 20000.0,
     "arrecadado": 20000.0,
-    "contratado": 6000.5,
-    "pago": 6000.5,
+    "contratado": 24916.5,
+    "pago": 19985.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5087,18 +5118,19 @@
    ],
    "financas": {
     "fefc": 195500.0,
+    "pessoasFisicas": 5000.0,
     "outrosCandidatos": 5000.0,
-    "coletivo": 1791.0,
-    "arrecadado": 202291.0,
-    "contratado": 37448.58,
-    "pago": 23448.58,
+    "coletivo": 4060.0,
+    "arrecadado": 209560.0,
+    "contratado": 194025.59,
+    "pago": 194025.59,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5113,17 +5145,17 @@
     "https://www.instagram.com/eunicemelo21"
    ],
    "financas": {
-    "fefc": 22585.5,
-    "arrecadado": 22585.5,
-    "contratado": 14885.0,
-    "pago": 7441.5,
+    "fefc": 24037.11,
+    "arrecadado": 24037.11,
+    "contratado": 22585.0,
+    "pago": 22585.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5142,12 +5174,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5168,15 +5200,15 @@
     "fefc": 330000.0,
     "proprios": 12642.0,
     "arrecadado": 342642.0,
-    "contratado": 259295.5,
-    "pago": 259295.5,
+    "contratado": 406846.0,
+    "pago": 342641.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5199,12 +5231,12 @@
     "contratado": 37299.0,
     "pago": 37299.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5224,12 +5256,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5254,12 +5286,12 @@
     "contratado": 75000.0,
     "pago": 75000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5276,18 +5308,18 @@
     "https://www.tiktok.com/@fellypemartinss"
    ],
    "financas": {
-    "pessoasFisicas": 56550.0,
+    "pessoasFisicas": 56596.5,
     "proprios": 16550.0,
-    "arrecadado": 73100.0,
-    "contratado": 216001.9,
-    "pago": 66061.9,
+    "arrecadado": 73146.5,
+    "contratado": 216086.5,
+    "pago": 66146.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5309,12 +5341,12 @@
     "contratado": 24112.6,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5331,17 +5363,18 @@
     "https://www.instagram.com/fernandolinspl"
    ],
    "financas": {
-    "outrosCandidatos": 20000.0,
-    "arrecadado": 20000.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "pessoasFisicas": 480.0,
+    "outrosCandidatos": 26284.0,
+    "arrecadado": 26764.0,
+    "contratado": 19955.12,
+    "pago": 19955.12,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5364,12 +5397,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5388,12 +5421,12 @@
     "contratado": 70000.0,
     "pago": 70000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5418,12 +5451,12 @@
     "pago": 60207.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5442,19 +5475,19 @@
    ],
    "financas": {
     "fefc": 71600.0,
-    "pessoasFisicas": 79900.0,
+    "pessoasFisicas": 80457.42,
     "proprios": 11500.0,
-    "arrecadado": 163000.0,
-    "contratado": 95385.5,
-    "pago": 95185.5,
+    "arrecadado": 163557.42,
+    "contratado": 158723.0,
+    "pago": 158723.0,
     "limite": 1270629.01,
     "doadoresPF": 8,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5473,15 +5506,15 @@
    "financas": {
     "fefc": 500000.0,
     "arrecadado": 500000.0,
-    "contratado": 416823.58,
-    "pago": 2032.6,
+    "contratado": 749084.62,
+    "pago": 499884.62,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5501,19 +5534,19 @@
    ],
    "financas": {
     "fefc": 116000.0,
-    "pessoasFisicas": 282398.5,
+    "pessoasFisicas": 312398.5,
     "proprios": 127000.0,
-    "arrecadado": 525398.5,
-    "contratado": 141570.0,
-    "pago": 23000.0,
+    "arrecadado": 555398.5,
+    "contratado": 640816.5,
+    "pago": 539276.5,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5533,12 +5566,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5565,12 +5598,12 @@
     "pago": 351980.37,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5589,12 +5622,12 @@
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5615,18 +5648,19 @@
    "financas": {
     "fefc": 3674.78,
     "pessoasFisicas": 1866.67,
+    "outrosCandidatos": 4000.0,
     "coletivo": 570.0,
-    "arrecadado": 6111.45,
-    "contratado": 9683.94,
-    "pago": 9683.94,
+    "arrecadado": 10111.45,
+    "contratado": 9854.94,
+    "pago": 9854.94,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5646,12 +5680,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5666,16 +5700,17 @@
    "patrimonio2022": 0.0,
    "financas": {
     "fefc": 55300.0,
-    "arrecadado": 55300.0,
-    "contratado": 51304.0,
-    "pago": 51304.0,
+    "pessoasFisicas": 5000.0,
+    "arrecadado": 60300.0,
+    "contratado": 55300.0,
+    "pago": 55300.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5699,12 +5734,12 @@
     "contratado": 49990.5,
     "pago": 49990.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5721,12 +5756,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5747,12 +5782,12 @@
     "contratado": 144862.1,
     "pago": 144862.1,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5775,12 +5810,12 @@
     "pago": 2035.35,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5804,12 +5839,12 @@
     "contratado": 22395.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5828,15 +5863,15 @@
    "financas": {
     "fefc": 773280.0,
     "arrecadado": 773280.0,
-    "contratado": 489855.43,
-    "pago": 86.1,
+    "contratado": 692361.43,
+    "pago": 108179.1,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5856,16 +5891,17 @@
    ],
    "financas": {
     "fefc": 50000.0,
-    "arrecadado": 50000.0,
-    "contratado": 45494.19,
-    "pago": 19294.19,
+    "outrosCandidatos": 1680.0,
+    "arrecadado": 51680.0,
+    "contratado": 53735.97,
+    "pago": 49235.97,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5885,15 +5921,15 @@
     "pessoasFisicas": 203400.0,
     "arrecadado": 203400.0,
     "contratado": 203352.6,
-    "pago": 203278.2,
+    "pago": 203352.6,
     "limite": 1270629.01,
     "doadoresPF": 23,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5917,16 +5953,16 @@
     "pessoasFisicas": 10300.0,
     "proprios": 25000.0,
     "arrecadado": 735300.0,
-    "contratado": 506576.2,
-    "pago": 473476.2,
+    "contratado": 757510.98,
+    "pago": 734110.98,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5951,12 +5987,12 @@
     "pago": 65977.08,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -5983,12 +6019,12 @@
     "pago": 1204526.66,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6010,12 +6046,12 @@
     "contratado": 102952.05,
     "pago": 102952.05,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6034,12 +6070,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6061,12 +6097,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6096,12 +6132,12 @@
     "pago": 821540.55,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6123,12 +6159,12 @@
     "contratado": 3769.98,
     "pago": 3769.98,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6149,12 +6185,12 @@
     "contratado": 79995.0,
     "pago": 79995.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6173,12 +6209,12 @@
     "contratado": 13000.0,
     "pago": 13000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6201,16 +6237,16 @@
     "partido": 162.46,
     "pessoasFisicas": 31202.0,
     "arrecadado": 176541.68,
-    "contratado": 131201.5,
-    "pago": 131201.5,
+    "contratado": 131202.0,
+    "pago": 131202.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6235,12 +6271,12 @@
     "pago": 275731.45,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6266,12 +6302,12 @@
     "contratado": 19961.5,
     "pago": 19961.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6294,16 +6330,16 @@
     "pessoasFisicas": 6000.0,
     "outrosCandidatos": 6284.0,
     "arrecadado": 32284.0,
-    "contratado": 19999.0,
-    "pago": 19421.5,
+    "contratado": 20000.0,
+    "pago": 20000.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6330,12 +6366,12 @@
     "contratado": 6988.3,
     "pago": 6988.3,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6352,12 +6388,12 @@
     "contratado": 295.0,
     "pago": 295.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6373,12 +6409,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6404,12 +6440,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6428,16 +6464,17 @@
    ],
    "financas": {
     "fefc": 20000.0,
-    "arrecadado": 20000.0,
+    "partido": 1020.0,
+    "arrecadado": 21020.0,
     "contratado": 20000.0,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6459,12 +6496,12 @@
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6486,12 +6523,12 @@
     "contratado": 39402.0,
     "pago": 30402.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6509,12 +6546,12 @@
     "contratado": 50000.0,
     "pago": 50000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6534,12 +6571,12 @@
     "contratado": 91163.27,
     "pago": 91163.27,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6556,12 +6593,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6583,12 +6620,12 @@
     "contratado": 12000.0,
     "pago": 12000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6609,12 +6646,12 @@
     "contratado": 14999.2,
     "pago": 14999.2,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6639,16 +6676,16 @@
     "proprios": 40185.39,
     "coletivo": 580.0,
     "arrecadado": 186257.35,
-    "contratado": 153187.59,
-    "pago": 130017.59,
+    "contratado": 153027.59,
+    "pago": 130697.59,
     "limite": 1270629.01,
     "doadoresPF": 7,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6664,18 +6701,19 @@
     "https://www.instagram.com/indiosilva._"
    ],
    "financas": {
+    "partido": 1020.0,
     "pessoasFisicas": 24052.5,
-    "arrecadado": 24052.5,
-    "contratado": 21052.5,
-    "pago": 21052.5,
+    "arrecadado": 25072.5,
+    "contratado": 24052.5,
+    "pago": 24052.5,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6697,12 +6735,12 @@
     "contratado": 30000.0,
     "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6725,12 +6763,12 @@
     "contratado": 10000.0,
     "pago": 10000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6751,12 +6789,12 @@
     "contratado": 20000.0,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6781,12 +6819,12 @@
     "contratado": 13050.0,
     "pago": 13050.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6809,12 +6847,12 @@
     "contratado": 12000.0,
     "pago": 12000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6838,12 +6876,12 @@
     "contratado": 17720.0,
     "pago": 17720.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6864,18 +6902,18 @@
    ],
    "financas": {
     "fefc": 100000.0,
-    "pessoasFisicas": 600360.0,
-    "arrecadado": 700360.0,
-    "contratado": 294607.84,
-    "pago": 56262.84,
+    "pessoasFisicas": 604860.0,
+    "arrecadado": 704860.0,
+    "contratado": 693171.9,
+    "pago": 693171.9,
     "limite": 1270629.01,
     "doadoresPF": 19,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6905,12 +6943,12 @@
     "pago": 1072733.77,
     "limite": 1270629.01,
     "doadoresPF": 7,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6938,12 +6976,12 @@
     "contratado": 42941.0,
     "pago": 42941.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -6966,19 +7004,19 @@
    ],
    "financas": {
     "fefc": 350000.0,
-    "pessoasFisicas": 15000.0,
+    "pessoasFisicas": 42567.0,
     "proprios": 40000.0,
     "outrosCandidatos": 40000.0,
-    "arrecadado": 445000.0,
-    "contratado": 760294.5,
-    "pago": 387914.5,
+    "arrecadado": 472567.0,
+    "contratado": 771947.0,
+    "pago": 472567.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7001,12 +7039,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7021,19 +7059,21 @@
     "https://www.instagram.com/joaquim.coelhoneto"
    ],
    "financas": {
-    "fefc": 8257.5,
-    "pessoasFisicas": 1700.0,
-    "arrecadado": 9957.5,
-    "contratado": 7291.0,
-    "pago": 7291.0,
+    "fefc": 9875.77,
+    "pessoasFisicas": 2100.0,
+    "proprios": 100.0,
+    "outrosCandidatos": 105.0,
+    "arrecadado": 12180.77,
+    "contratado": 10457.5,
+    "pago": 10457.5,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7060,12 +7100,12 @@
     "pago": 454291.97,
     "limite": 1270629.01,
     "doadoresPF": 10,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7088,12 +7128,12 @@
     "contratado": 309892.5,
     "pago": 309892.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7113,18 +7153,19 @@
    "financas": {
     "fefc": 3674.78,
     "pessoasFisicas": 1866.67,
+    "outrosCandidatos": 2000.0,
     "coletivo": 438.0,
-    "arrecadado": 5979.45,
-    "contratado": 2377.45,
-    "pago": 2377.45,
+    "arrecadado": 7979.45,
+    "contratado": 7850.83,
+    "pago": 7850.83,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7140,12 +7181,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7173,12 +7214,12 @@
     "contratado": 1110300.0,
     "pago": 1110300.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7203,12 +7244,12 @@
     "contratado": 500.0,
     "pago": 500.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7228,15 +7269,15 @@
    "financas": {
     "fefc": 100000.0,
     "arrecadado": 100000.0,
-    "contratado": 45510.0,
-    "pago": 45510.0,
+    "contratado": 103377.0,
+    "pago": 99988.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7252,12 +7293,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7276,12 +7317,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7306,12 +7347,12 @@
     "contratado": 32696.48,
     "pago": 32696.48,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7329,12 +7370,12 @@
     "contratado": 1700.5,
     "pago": 1700.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7351,12 +7392,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7378,12 +7419,12 @@
     "contratado": 6990.78,
     "pago": 6990.78,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7403,19 +7444,20 @@
    "financas": {
     "fefc": 560000.0,
     "fundoPartidario": 450000.0,
+    "partido": 3150.0,
     "pessoasFisicas": 124000.0,
     "proprios": 95858.29,
-    "arrecadado": 1229858.29,
-    "contratado": 1190325.45,
-    "pago": 1166325.45,
+    "arrecadado": 1233008.29,
+    "contratado": 1220848.72,
+    "pago": 1220848.72,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7436,12 +7478,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7462,21 +7504,20 @@
     "https://www.youtube.com/@josuelsantosbch"
    ],
    "financas": {
-    "pessoasFisicas": 6099.89,
-    "outrosCandidatos": 10000.0,
-    "coletivo": 13932.0,
-    "naoIdentificada": 2299.83,
-    "arrecadado": 32331.72,
-    "contratado": 14324.95,
-    "pago": 14324.95,
+    "pessoasFisicas": 11143.77,
+    "outrosCandidatos": 12299.83,
+    "coletivo": 13962.0,
+    "arrecadado": 37405.6,
+    "contratado": 16753.04,
+    "pago": 16753.04,
     "limite": 1270629.01,
     "doadoresPF": 145,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7492,12 +7533,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7518,12 +7559,12 @@
     "contratado": 197706.6,
     "pago": 197706.6,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7542,18 +7583,19 @@
    ],
    "financas": {
     "fefc": 250000.0,
+    "partido": 3286.0,
     "pessoasFisicas": 10000.0,
-    "arrecadado": 260000.0,
-    "contratado": 74400.0,
-    "pago": 60600.0,
+    "arrecadado": 263286.0,
+    "contratado": 259512.5,
+    "pago": 259512.5,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7582,12 +7624,12 @@
     "pago": 603408.71,
     "limite": 1270629.01,
     "doadoresPF": 19,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7604,12 +7646,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7632,12 +7674,12 @@
     "contratado": 566698.39,
     "pago": 566698.39,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7664,12 +7706,12 @@
     "pago": 247010.6,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7691,12 +7733,12 @@
     "pago": 0.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7714,15 +7756,15 @@
    "financas": {
     "fefc": 100000.0,
     "arrecadado": 100000.0,
-    "contratado": 69920.5,
-    "pago": 6000.5,
+    "contratado": 99993.52,
+    "pago": 99993.52,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7738,12 +7780,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7765,16 +7807,16 @@
     "partido": 3215.5,
     "pessoasFisicas": 299423.8,
     "arrecadado": 302639.3,
-    "contratado": 214197.5,
-    "pago": 59390.0,
+    "contratado": 296197.5,
+    "pago": 296197.5,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7797,12 +7839,12 @@
     "contratado": 39634.0,
     "pago": 5000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7826,12 +7868,12 @@
     "contratado": 50000.0,
     "pago": 50000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7853,12 +7895,12 @@
     "contratado": 1620.0,
     "pago": 1620.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7874,12 +7916,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7897,19 +7939,19 @@
    "financas": {
     "fefc": 203930.03,
     "fundoPartidario": 82863.34,
-    "pessoasFisicas": 145800.0,
-    "coletivo": 3331.0,
-    "arrecadado": 435924.37,
-    "contratado": 288324.66,
-    "pago": 288324.66,
+    "pessoasFisicas": 151300.0,
+    "coletivo": 20704.0,
+    "arrecadado": 458797.37,
+    "contratado": 458547.16,
+    "pago": 458547.16,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7930,12 +7972,12 @@
     "pago": 1269143.26,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7958,12 +8000,12 @@
     "contratado": 13491.5,
     "pago": 13491.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -7981,12 +8023,12 @@
     "contratado": 11601.0,
     "pago": 11601.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8007,12 +8049,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8036,12 +8078,12 @@
     "pago": 140953.65,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8066,12 +8108,12 @@
     "pago": 620200.0,
     "limite": 1270629.01,
     "doadoresPF": 24,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8095,12 +8137,12 @@
     "pago": 70000.5,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8118,15 +8160,15 @@
    "financas": {
     "fefc": 70000.0,
     "arrecadado": 70000.0,
-    "contratado": 35001.0,
-    "pago": 20000.5,
+    "contratado": 69981.88,
+    "pago": 69981.88,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8143,16 +8185,17 @@
    ],
    "financas": {
     "fundoPartidario": 11500.0,
-    "arrecadado": 11500.0,
+    "partido": 469.5,
+    "arrecadado": 11969.5,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8179,12 +8222,12 @@
     "pago": 51290.08,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8207,12 +8250,12 @@
     "contratado": 25635.5,
     "pago": 25635.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8230,15 +8273,15 @@
    "financas": {
     "fefc": 50000.0,
     "arrecadado": 50000.0,
-    "contratado": 26023.75,
-    "pago": 25973.75,
+    "contratado": 50050.0,
+    "pago": 50000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8261,12 +8304,12 @@
     "contratado": 128557.23,
     "pago": 128557.23,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8289,15 +8332,15 @@
    "financas": {
     "fefc": 3674.78,
     "arrecadado": 3674.78,
-    "contratado": 3683.78,
-    "pago": 3683.78,
+    "contratado": 3688.28,
+    "pago": 3688.28,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8315,19 +8358,19 @@
     "https://www.instagram.com/lucianoduquepe"
    ],
    "financas": {
-    "pessoasFisicas": 109000.0,
-    "proprios": 2000.0,
-    "arrecadado": 111000.0,
-    "contratado": 89771.0,
-    "pago": 18250.0,
+    "pessoasFisicas": 166439.49,
+    "proprios": 6689.01,
+    "arrecadado": 173128.5,
+    "contratado": 295478.4,
+    "pago": 173128.5,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8343,12 +8386,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8373,12 +8416,12 @@
     "pago": 89601.5,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8395,12 +8438,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8424,12 +8467,12 @@
     "contratado": 42770.5,
     "pago": 42770.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8449,12 +8492,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8470,16 +8513,16 @@
     "fefc": 1150000.0,
     "pessoasFisicas": 1000.0,
     "arrecadado": 1151000.0,
-    "contratado": 599089.0,
-    "pago": 599089.0,
+    "contratado": 1150643.5,
+    "pago": 1150643.5,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8506,12 +8549,12 @@
     "pago": 300298.9,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8536,12 +8579,12 @@
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8561,12 +8604,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8582,12 +8625,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8605,18 +8648,18 @@
    "financas": {
     "fefc": 110000.0,
     "partido": 469.5,
-    "pessoasFisicas": 2000.0,
-    "arrecadado": 112469.5,
-    "contratado": 111996.5,
-    "pago": 111996.5,
+    "pessoasFisicas": 2500.0,
+    "arrecadado": 112969.5,
+    "contratado": 112496.5,
+    "pago": 112496.5,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8637,12 +8680,12 @@
     "contratado": 20000.0,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8672,12 +8715,12 @@
     "pago": 111200.0,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8698,12 +8741,12 @@
     "contratado": 1280.0,
     "pago": 1280.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8721,14 +8764,14 @@
     "fefc": 8670.37,
     "arrecadado": 8670.37,
     "contratado": 8637.87,
-    "pago": 0.0,
+    "pago": 8637.37,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8751,12 +8794,12 @@
     "contratado": 30000.0,
     "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8780,12 +8823,12 @@
     "contratado": 12000.0,
     "pago": 12000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8805,12 +8848,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8826,12 +8869,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8854,12 +8897,12 @@
     "contratado": 12000.0,
     "pago": 12000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8882,12 +8925,12 @@
     "contratado": 12000.0,
     "pago": 12000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8914,12 +8957,12 @@
     "pago": 436318.55,
     "limite": 1270629.01,
     "doadoresPF": 16,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8937,12 +8980,12 @@
     "contratado": 5002.5,
     "pago": 5002.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8963,12 +9006,12 @@
     "contratado": 3335.0,
     "pago": 3335.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -8985,16 +9028,17 @@
    ],
    "financas": {
     "fundoPartidario": 8900.0,
-    "arrecadado": 8900.0,
+    "partido": 469.5,
+    "arrecadado": 9369.5,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9016,18 +9060,18 @@
     "https://www.tiktok.com/mariaarraes"
    ],
    "financas": {
-    "fefc": 1018750.0,
-    "partido": 9744.0,
-    "arrecadado": 1028494.0,
-    "contratado": 619963.0,
-    "pago": 0.0,
+    "fefc": 1025967.22,
+    "partido": 9906.46,
+    "arrecadado": 1035873.68,
+    "contratado": 998871.15,
+    "pago": 998871.15,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9045,15 +9089,15 @@
    "financas": {
     "fefc": 6988.78,
     "arrecadado": 6988.78,
-    "contratado": 6990.78,
-    "pago": 6990.78,
+    "contratado": 6991.28,
+    "pago": 6991.28,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9084,12 +9128,12 @@
     "pago": 206483.17,
     "limite": 1270629.01,
     "doadoresPF": 9,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9109,16 +9153,17 @@
    ],
    "financas": {
     "fefc": 10000.0,
-    "arrecadado": 10000.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "partido": 1020.0,
+    "arrecadado": 11020.0,
+    "contratado": 2877.86,
+    "pago": 2877.86,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9139,12 +9184,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9167,15 +9212,15 @@
     "proprios": 127000.0,
     "arrecadado": 274000.0,
     "contratado": 472577.6,
-    "pago": 273600.0,
+    "pago": 274000.0,
     "limite": 1270629.01,
     "doadoresPF": 7,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9196,12 +9241,12 @@
     "contratado": 14994.5,
     "pago": 14994.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9221,12 +9266,12 @@
     "contratado": 45570.0,
     "pago": 45570.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9249,12 +9294,12 @@
     "contratado": 32670.5,
     "pago": 32670.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9277,12 +9322,12 @@
     "contratado": 304927.45,
     "pago": 304927.45,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9297,15 +9342,15 @@
    "financas": {
     "fefc": 20000.0,
     "arrecadado": 20000.0,
-    "contratado": 17001.0,
-    "pago": 17001.0,
+    "contratado": 20001.5,
+    "pago": 20001.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9324,12 +9369,12 @@
     "contratado": 38000.0,
     "pago": 38000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9355,12 +9400,12 @@
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9376,12 +9421,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9402,12 +9447,12 @@
     "contratado": 1280.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9423,12 +9468,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9444,12 +9489,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9469,16 +9514,16 @@
     "fefc": 200000.0,
     "pessoasFisicas": 8000.0,
     "arrecadado": 208000.0,
-    "contratado": 120725.83,
-    "pago": 11072.5,
+    "contratado": 284520.99,
+    "pago": 207886.59,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9498,12 +9543,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9521,12 +9566,12 @@
     "contratado": 10003.5,
     "pago": 10003.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9545,12 +9590,12 @@
     "contratado": 80644.2,
     "pago": 80644.2,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9569,15 +9614,15 @@
    "financas": {
     "fefc": 80000.0,
     "arrecadado": 80000.0,
-    "contratado": 12950.0,
-    "pago": 12950.0,
+    "contratado": 80000.0,
+    "pago": 80000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9596,15 +9641,15 @@
     "fefc": 38664.0,
     "fundoPartidario": 50000.0,
     "arrecadado": 88664.0,
-    "contratado": 53814.0,
-    "pago": 53814.0,
+    "contratado": 88664.0,
+    "pago": 88664.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9626,12 +9671,12 @@
     "contratado": 59972.5,
     "pago": 59972.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9654,12 +9699,12 @@
     "contratado": 30008.0,
     "pago": 2065.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9680,17 +9725,17 @@
    ],
    "financas": {
     "fefc": 30000.0,
-    "proprios": 15654.86,
-    "arrecadado": 45654.86,
-    "contratado": 23190.17,
-    "pago": 20856.72,
+    "proprios": 15657.36,
+    "arrecadado": 45657.36,
+    "contratado": 85957.86,
+    "pago": 45654.86,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9709,12 +9754,12 @@
     "contratado": 449958.03,
     "pago": 449958.03,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9736,12 +9781,12 @@
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9759,16 +9804,17 @@
    ],
    "financas": {
     "fundoPartidario": 35000.0,
-    "arrecadado": 35000.0,
+    "partido": 469.5,
+    "arrecadado": 35469.5,
     "contratado": 34973.5,
     "pago": 34973.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9787,12 +9833,12 @@
     "contratado": 59967.5,
     "pago": 59967.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9817,12 +9863,12 @@
     "contratado": 299777.05,
     "pago": 299776.55,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9851,12 +9897,12 @@
     "pago": 811130.65,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9874,12 +9920,12 @@
     "contratado": 100000.0,
     "pago": 100000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9896,16 +9942,17 @@
    ],
    "financas": {
     "fundoPartidario": 8300.0,
-    "arrecadado": 8300.0,
-    "contratado": 0.0,
+    "partido": 469.5,
+    "arrecadado": 8769.5,
+    "contratado": 2000.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9928,12 +9975,12 @@
     "contratado": 14999.5,
     "pago": 14999.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9947,19 +9994,20 @@
    "concorreu2022": false,
    "financas": {
     "fundoPartidario": 58521.68,
+    "partido": 469.5,
     "pessoasFisicas": 2306.0,
     "outrosCandidatos": 22000.0,
-    "arrecadado": 82827.68,
-    "contratado": 79035.33,
-    "pago": 79035.33,
+    "arrecadado": 83297.18,
+    "contratado": 82821.05,
+    "pago": 82821.05,
     "limite": 1270629.01,
     "doadoresPF": 7,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -9986,12 +10034,12 @@
     "contratado": 100288.4,
     "pago": 100288.4,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10009,15 +10057,15 @@
    "financas": {
     "fundoPartidario": 15000.0,
     "arrecadado": 15000.0,
-    "contratado": 15200.0,
-    "pago": 0.0,
+    "contratado": 14996.5,
+    "pago": 14996.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10041,12 +10089,12 @@
     "contratado": 22500.0,
     "pago": 22500.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10065,12 +10113,12 @@
     "contratado": 42000.5,
     "pago": 42000.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10099,12 +10147,12 @@
     "pago": 24000.5,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10130,16 +10178,16 @@
     "pessoasFisicas": 175000.0,
     "proprios": 35000.0,
     "arrecadado": 310000.0,
-    "contratado": 135905.0,
-    "pago": 0.0,
+    "contratado": 406681.31,
+    "pago": 274896.31,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10164,12 +10212,12 @@
     "contratado": 20000.0,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10191,12 +10239,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10212,12 +10260,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10245,12 +10293,12 @@
     "pago": 652998.46,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10272,12 +10320,12 @@
     "contratado": 10000.0,
     "pago": 10000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10293,12 +10341,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10314,12 +10362,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10338,12 +10386,12 @@
     "contratado": 12003.0,
     "pago": 12003.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10357,15 +10405,15 @@
    "financas": {
     "fefc": 70000.0,
     "arrecadado": 70000.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "contratado": 70000.0,
+    "pago": 70000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10384,12 +10432,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10410,12 +10458,12 @@
     "contratado": 2920.0,
     "pago": 2920.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10438,12 +10486,12 @@
     "contratado": 12000.0,
     "pago": 12000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10465,12 +10513,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10489,12 +10537,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10515,12 +10563,12 @@
     "contratado": 30000.0,
     "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10542,12 +10590,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10568,12 +10616,12 @@
     "contratado": 124960.0,
     "pago": 124960.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10595,12 +10643,12 @@
     "contratado": 12000.0,
     "pago": 12000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10620,12 +10668,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10649,12 +10697,12 @@
     "pago": 53044.75,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10675,12 +10723,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10702,17 +10750,18 @@
     "partido": 125000.0,
     "pessoasFisicas": 9800.0,
     "proprios": 17863.0,
-    "arrecadado": 299657.0,
-    "contratado": 82957.5,
-    "pago": 52157.5,
+    "outrosCandidatos": 3400.0,
+    "arrecadado": 303057.0,
+    "contratado": 272062.47,
+    "pago": 272062.47,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10734,12 +10783,12 @@
     "contratado": 38000.0,
     "pago": 38000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10754,15 +10803,15 @@
    "financas": {
     "fefc": 70000.0,
     "arrecadado": 70000.0,
-    "contratado": 75994.7,
-    "pago": 46460.0,
+    "contratado": 66392.68,
+    "pago": 63857.98,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10784,12 +10833,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10816,12 +10865,12 @@
     "pago": 106992.42,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10845,12 +10894,12 @@
     "contratado": 30000.0,
     "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10879,12 +10928,12 @@
     "contratado": 16767.18,
     "pago": 16767.18,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10907,12 +10956,12 @@
     "contratado": 12000.0,
     "pago": 12000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10929,12 +10978,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10964,12 +11013,12 @@
     "contratado": 115758.42,
     "pago": 115758.42,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -10993,16 +11042,16 @@
     "pessoasFisicas": 115725.0,
     "outrosCandidatos": 201666.66,
     "arrecadado": 417391.66,
-    "contratado": 400053.9,
-    "pago": 400053.9,
+    "contratado": 409245.0,
+    "pago": 409245.0,
     "limite": 1270629.01,
     "doadoresPF": 6,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Deferido, com recurso pendente",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11025,12 +11074,12 @@
     "pago": 22027.8,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11045,15 +11094,15 @@
    "financas": {
     "fefc": 1200000.0,
     "arrecadado": 1200000.0,
-    "contratado": 285000.0,
-    "pago": 0.0,
+    "contratado": 1199593.0,
+    "pago": 1199593.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11079,12 +11128,12 @@
     "pago": 163668.75,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11106,12 +11155,12 @@
     "contratado": 37999.7,
     "pago": 37999.7,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11136,12 +11185,12 @@
     "pago": 488133.39,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11160,12 +11209,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11189,12 +11238,12 @@
     "contratado": 10670.15,
     "pago": 10670.15,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11216,12 +11265,12 @@
     "contratado": 20000.0,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11241,12 +11290,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11261,15 +11310,15 @@
    "financas": {
     "fefc": 27700.0,
     "arrecadado": 27700.0,
-    "contratado": 27602.5,
-    "pago": 27602.5,
+    "contratado": 27692.7,
+    "pago": 27692.7,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11290,12 +11339,12 @@
     "contratado": 5010.8,
     "pago": 5010.8,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11322,12 +11371,12 @@
     "pago": 557269.88,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11353,12 +11402,12 @@
     "pago": 416830.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11380,12 +11429,12 @@
     "contratado": 29992.5,
     "pago": 29992.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11407,16 +11456,17 @@
    ],
    "financas": {
     "fefc": 1200000.0,
-    "arrecadado": 1200000.0,
-    "contratado": 532155.0,
-    "pago": 10000.0,
+    "pessoasFisicas": 10000.0,
+    "arrecadado": 1210000.0,
+    "contratado": 1199934.0,
+    "pago": 1199934.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11439,16 +11489,16 @@
     "fefc": 200000.0,
     "pessoasFisicas": 34400.0,
     "arrecadado": 234400.0,
-    "contratado": 275612.99,
-    "pago": 234313.74,
+    "contratado": 274776.59,
+    "pago": 234327.34,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11470,12 +11520,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11501,12 +11551,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11530,16 +11580,16 @@
     "proprios": 127000.0,
     "coletivo": 6333.0,
     "arrecadado": 750734.77,
-    "contratado": 705733.27,
-    "pago": 705733.27,
+    "contratado": 705734.77,
+    "pago": 705734.77,
     "limite": 1270629.01,
     "doadoresPF": 12,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11557,12 +11607,12 @@
     "contratado": 39989.55,
     "pago": 39989.55,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11587,12 +11637,12 @@
     "contratado": 29997.0,
     "pago": 29997.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11612,12 +11662,12 @@
     "pago": 9000.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11634,12 +11684,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11659,19 +11709,20 @@
     "https://www.tiktok.com/ricardorochape"
    ],
    "financas": {
-    "fefc": 30000.0,
+    "fefc": 50547.22,
     "fundoPartidario": 20000.0,
+    "partido": 162.46,
     "proprios": 9484.0,
-    "arrecadado": 59484.0,
-    "contratado": 59385.0,
-    "pago": 59385.0,
+    "arrecadado": 80193.68,
+    "contratado": 59386.0,
+    "pago": 59386.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11691,15 +11742,15 @@
    "financas": {
     "fefc": 20000.0,
     "arrecadado": 20000.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "contratado": 19999.0,
+    "pago": 19999.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11724,12 +11775,12 @@
     "pago": 1126000.5,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11745,12 +11796,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11764,16 +11815,17 @@
    "concorreu2022": false,
    "financas": {
     "fefc": 20000.0,
-    "arrecadado": 20000.0,
+    "pessoasFisicas": 2000.0,
+    "arrecadado": 22000.0,
     "contratado": 20000.0,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11791,12 +11843,12 @@
     "contratado": 20000.0,
     "pago": 20000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11823,12 +11875,12 @@
     "contratado": 37500.0,
     "pago": 35500.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11857,12 +11909,12 @@
     "pago": 283517.9,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11882,15 +11934,15 @@
    "financas": {
     "fefc": 50000.0,
     "arrecadado": 50000.0,
-    "contratado": 47325.13,
-    "pago": 0.0,
+    "contratado": 49845.54,
+    "pago": 48345.54,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11910,12 +11962,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11935,22 +11987,22 @@
     "https://www.tiktok.com/@romerinho.jatoba"
    ],
    "financas": {
-    "fefc": 66800.0,
-    "partido": 310000.0,
+    "fefc": 71940.3,
+    "partido": 312239.38,
     "pessoasFisicas": 10000.0,
     "proprios": 30000.0,
     "outrosCandidatos": 215000.0,
-    "arrecadado": 631800.0,
-    "contratado": 426622.87,
-    "pago": 156457.87,
+    "arrecadado": 639179.68,
+    "contratado": 598164.3,
+    "pago": 598164.3,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -11980,12 +12032,12 @@
     "pago": 283002.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12007,15 +12059,15 @@
     "fefc": 200000.0,
     "proprios": 60000.0,
     "arrecadado": 260000.0,
-    "contratado": 123910.0,
-    "pago": 88840.0,
+    "contratado": 180913.0,
+    "pago": 145843.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12038,12 +12090,12 @@
     "contratado": 41210.0,
     "pago": 41210.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12057,17 +12109,17 @@
    "concorreu2022": false,
    "financas": {
     "fefc": 10000.0,
-    "proprios": 1.5,
-    "arrecadado": 10001.5,
-    "contratado": 10001.5,
-    "pago": 10000.0,
+    "proprios": 21.5,
+    "arrecadado": 10021.5,
+    "contratado": 10004.0,
+    "pago": 10004.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12086,16 +12138,16 @@
     "fefc": 350000.0,
     "pessoasFisicas": 65950.0,
     "arrecadado": 415950.0,
-    "contratado": 543371.54,
-    "pago": 341371.52,
+    "contratado": 407821.54,
+    "pago": 371588.2,
     "limite": 1270629.01,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12116,12 +12168,12 @@
     "contratado": 50000.0,
     "pago": 50000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12143,12 +12195,12 @@
     "contratado": 25000.0,
     "pago": 25000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12166,15 +12218,15 @@
    "financas": {
     "fefc": 193320.0,
     "arrecadado": 193320.0,
-    "contratado": 133823.0,
-    "pago": 125823.0,
+    "contratado": 186309.31,
+    "pago": 164059.3,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12196,12 +12248,12 @@
     "contratado": 9261.31,
     "pago": 9261.31,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12220,12 +12272,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12244,12 +12296,12 @@
     "contratado": 12000.0,
     "pago": 12000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12264,15 +12316,15 @@
    "financas": {
     "fundoPartidario": 50000.0,
     "arrecadado": 50000.0,
-    "contratado": 9571.5,
-    "pago": 0.5,
+    "contratado": 50000.0,
+    "pago": 50000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12288,12 +12340,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12314,12 +12366,12 @@
     "contratado": 29993.5,
     "pago": 29993.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12336,16 +12388,17 @@
    ],
    "financas": {
     "fefc": 3674.78,
-    "arrecadado": 3674.78,
-    "contratado": 3268.62,
-    "pago": 3268.62,
+    "pessoasFisicas": 5000.0,
+    "arrecadado": 8674.78,
+    "contratado": 3674.78,
+    "pago": 3674.78,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12364,12 +12417,12 @@
     "contratado": 8000.0,
     "pago": 8000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12390,12 +12443,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12415,14 +12468,14 @@
     "proprios": 1.0,
     "arrecadado": 50001.0,
     "contratado": 50000.5,
-    "pago": 50000.0,
+    "pago": 50000.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12445,12 +12498,12 @@
     "pago": 20000.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12468,12 +12521,12 @@
     "contratado": 19945.34,
     "pago": 19945.34,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12487,17 +12540,18 @@
    "concorreu2022": false,
    "financas": {
     "fefc": 200000.0,
+    "pessoasFisicas": 50000.0,
     "proprios": 10000.0,
-    "arrecadado": 210000.0,
-    "contratado": 21600.0,
-    "pago": 21600.0,
+    "arrecadado": 260000.0,
+    "contratado": 260000.0,
+    "pago": 260000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12519,15 +12573,15 @@
     "fundoPartidario": 50000.0,
     "proprios": 42000.0,
     "arrecadado": 542000.0,
-    "contratado": 530834.32,
-    "pago": 487094.32,
+    "contratado": 624920.85,
+    "pago": 541920.85,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12550,12 +12604,12 @@
     "contratado": 99033.57,
     "pago": 39683.57,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12571,12 +12625,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12598,12 +12652,12 @@
     "contratado": 12000.0,
     "pago": 12000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12626,12 +12680,12 @@
     "contratado": 10001.5,
     "pago": 10001.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12663,12 +12717,12 @@
     "pago": 346815.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12691,12 +12745,12 @@
     "contratado": 29978.0,
     "pago": 29978.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12715,12 +12769,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12743,12 +12797,12 @@
     "contratado": 80096.5,
     "pago": 80096.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12768,15 +12822,15 @@
     "fefc": 100000.0,
     "pessoasFisicas": 32370.0,
     "arrecadado": 132370.0,
-    "contratado": 132090.71,
-    "pago": 99720.71,
+    "contratado": 132369.71,
+    "pago": 132369.71,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12790,16 +12844,17 @@
    "concorreu2022": true,
    "patrimonio2022": 0.0,
    "financas": {
-    "arrecadado": 0.0,
+    "pessoasFisicas": 10000.0,
+    "arrecadado": 10000.0,
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12825,12 +12880,12 @@
     "pago": 112359.14,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12849,15 +12904,15 @@
    "financas": {
     "fundoPartidario": 15000.0,
     "arrecadado": 15000.0,
-    "contratado": 16000.0,
-    "pago": 0.0,
+    "contratado": 14915.6,
+    "pago": 14915.6,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12879,12 +12934,12 @@
     "contratado": 19230.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12904,12 +12959,12 @@
     "pago": 47540.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12926,12 +12981,12 @@
     "contratado": 44.8,
     "pago": 44.8,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12958,12 +13013,12 @@
     "contratado": 41707.0,
     "pago": 41706.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -12982,15 +13037,15 @@
     "fefc": 20000.0,
     "proprios": 5.0,
     "arrecadado": 20005.0,
-    "contratado": 20000.0,
-    "pago": 19995.0,
+    "contratado": 24936.0,
+    "pago": 20005.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13012,12 +13067,12 @@
     "contratado": 49977.6,
     "pago": 49977.6,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13040,12 +13095,12 @@
     "pago": 9000.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13065,12 +13120,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13090,12 +13145,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13121,12 +13176,12 @@
     "pago": 435494.22,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13150,12 +13205,12 @@
     "pago": 196568.5,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13172,12 +13227,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13193,19 +13248,20 @@
    "financas": {
     "fefc": 310000.0,
     "fundoPartidario": 20979.0,
+    "partido": 7200.0,
     "pessoasFisicas": 6050.0,
-    "proprios": 1885.0,
-    "arrecadado": 338914.0,
-    "contratado": 481639.34,
-    "pago": 312779.34,
+    "proprios": 10885.0,
+    "arrecadado": 355114.0,
+    "contratado": 328979.34,
+    "pago": 328979.34,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13222,16 +13278,17 @@
    ],
    "financas": {
     "fefc": 300000.0,
-    "arrecadado": 300000.0,
-    "contratado": 322593.0,
-    "pago": 0.0,
+    "pessoasFisicas": 1865.0,
+    "arrecadado": 301865.0,
+    "contratado": 597295.28,
+    "pago": 301860.57,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13248,16 +13305,17 @@
    ],
    "financas": {
     "fundoPartidario": 9400.0,
-    "arrecadado": 9400.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "partido": 469.5,
+    "arrecadado": 9869.5,
+    "contratado": 2000.0,
+    "pago": 2000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13275,17 +13333,18 @@
     "https://www.threads.com/@iggorpedersoly"
    ],
    "financas": {
-    "fefc": 51330.0,
-    "arrecadado": 51330.0,
-    "contratado": 17463.37,
-    "pago": 11733.37,
+    "fefc": 58547.22,
+    "partido": 162.46,
+    "arrecadado": 58709.68,
+    "contratado": 37257.81,
+    "pago": 37257.81,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13301,12 +13360,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13326,12 +13385,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13355,12 +13414,12 @@
     "contratado": 43000.0,
     "pago": 43000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13383,12 +13442,12 @@
     "contratado": 30000.0,
     "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13417,12 +13476,12 @@
     "pago": 261974.5,
     "limite": 1270629.01,
     "doadoresPF": 7,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13448,12 +13507,12 @@
     "pago": 30000.0,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13468,16 +13527,18 @@
    "financas": {
     "fefc": 80000.0,
     "fundoPartidario": 2500.0,
-    "arrecadado": 82500.0,
-    "contratado": 25122.0,
-    "pago": 20182.5,
+    "pessoasFisicas": 4000.0,
+    "proprios": 4.1,
+    "arrecadado": 86504.1,
+    "contratado": 82504.1,
+    "pago": 82504.1,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13498,12 +13559,12 @@
     "contratado": 15000.0,
     "pago": 15000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13521,12 +13582,12 @@
     "contratado": 80000.0,
     "pago": 80000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13542,12 +13603,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13566,16 +13627,17 @@
    ],
    "financas": {
     "fefc": 37500.0,
-    "arrecadado": 37500.0,
-    "contratado": 0.0,
-    "pago": 0.0,
+    "partido": 2430.0,
+    "arrecadado": 39930.0,
+    "contratado": 37500.0,
+    "pago": 37500.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13599,12 +13661,12 @@
     "contratado": 101594.42,
     "pago": 101594.42,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13624,12 +13686,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13650,12 +13712,12 @@
     "pago": 29982.88,
     "limite": 1270629.01,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13675,15 +13737,15 @@
     "fefc": 330000.0,
     "partido": 2968.0,
     "arrecadado": 332968.0,
-    "contratado": 137461.58,
-    "pago": 98861.58,
+    "contratado": 329999.31,
+    "pago": 329999.31,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13708,12 +13770,12 @@
     "contratado": 232186.6,
     "pago": 232186.6,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13736,12 +13798,12 @@
     "contratado": 10000.0,
     "pago": 10000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13765,12 +13827,12 @@
     "contratado": 30000.0,
     "pago": 30000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13799,12 +13861,12 @@
     "pago": 554552.52,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13823,12 +13885,12 @@
     "contratado": 30028.2,
     "pago": 30028.2,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13849,12 +13911,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13878,12 +13940,12 @@
     "contratado": 217575.5,
     "pago": 217575.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13897,18 +13959,18 @@
    "concorreu2022": false,
    "financas": {
     "fefc": 9000.0,
-    "pessoasFisicas": 870.0,
-    "arrecadado": 9870.0,
-    "contratado": 9781.5,
-    "pago": 5991.5,
+    "pessoasFisicas": 1520.0,
+    "arrecadado": 10520.0,
+    "contratado": 9851.0,
+    "pago": 9851.0,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13930,12 +13992,12 @@
     "contratado": 10000.0,
     "pago": 10000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13956,12 +14018,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -13985,16 +14047,16 @@
     "pessoasFisicas": 6000.0,
     "outrosCandidatos": 28044.5,
     "arrecadado": 34044.5,
-    "contratado": 20000.0,
-    "pago": 6000.0,
+    "contratado": 20000.5,
+    "pago": 20000.5,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -14012,15 +14074,15 @@
    "financas": {
     "fefc": 25000.0,
     "arrecadado": 25000.0,
-    "contratado": 1500.5,
-    "pago": 1500.5,
+    "contratado": 17298.5,
+    "pago": 17298.5,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -14036,21 +14098,21 @@
     "https://x.com/yasmimalvespe"
    ],
    "financas": {
-    "fefc": 59847.75,
-    "pessoasFisicas": 3600.0,
-    "outrosCandidatos": 6105.0,
-    "coletivo": 6148.0,
-    "arrecadado": 75700.75,
-    "contratado": 51727.53,
-    "pago": 28827.53,
+    "fefc": 61299.36,
+    "pessoasFisicas": 3712.0,
+    "outrosCandidatos": 6210.0,
+    "coletivo": 15768.0,
+    "arrecadado": 86989.36,
+    "contratado": 75727.71,
+    "pago": 75727.71,
     "limite": 1270629.01,
     "doadoresPF": 1,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -14068,12 +14130,12 @@
     "contratado": 19998.1,
     "pago": 19998.1,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -14091,15 +14153,15 @@
    "financas": {
     "fefc": 35960.0,
     "arrecadado": 35960.0,
-    "contratado": 12000.0,
-    "pago": 12000.0,
+    "contratado": 17261.0,
+    "pago": 17261.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -14122,20 +14184,20 @@
    "financas": {
     "fefc": 37500.0,
     "partido": 6570.0,
-    "pessoasFisicas": 85500.0,
-    "proprios": 60000.0,
+    "pessoasFisicas": 159100.0,
+    "proprios": 70000.0,
     "outrosCandidatos": 50150.0,
-    "arrecadado": 239720.0,
-    "contratado": 181880.5,
-    "pago": 127380.5,
+    "arrecadado": 323320.0,
+    "contratado": 174880.5,
+    "pago": 144880.5,
     "limite": 1270629.01,
     "doadoresPF": 5,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -14154,20 +14216,20 @@
    ],
    "financas": {
     "fefc": 100000.0,
-    "pessoasFisicas": 120450.0,
+    "pessoasFisicas": 145450.0,
     "proprios": 66200.0,
     "outrosCandidatos": 39166.66,
-    "arrecadado": 325816.66,
+    "arrecadado": 350816.66,
     "contratado": 317143.74,
     "pago": 317143.74,
     "limite": 1270629.01,
     "doadoresPF": 12,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -14195,12 +14257,12 @@
     "pago": 844106.1,
     "limite": 1270629.01,
     "doadoresPF": 3,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -14215,17 +14277,17 @@
     "https://www.instagram.com/elitonoliveira.pe"
    ],
    "financas": {
-    "fefc": 9083.25,
-    "arrecadado": 9083.25,
+    "fefc": 10534.86,
+    "arrecadado": 10534.86,
     "contratado": 6702.0,
     "pago": 6702.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -14245,12 +14307,12 @@
     "contratado": 10000.0,
     "pago": 10000.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   },
   {
@@ -14269,12 +14331,12 @@
     "contratado": 0.0,
     "pago": 0.0,
     "limite": 1270629.01,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   }
  ]

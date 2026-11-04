@@ -11,7 +11,7 @@
   ],
   "situacao": {
    "tipo": "ver",
-   "texto": "Deferido, com recurso pendente (TSE, 03/11/2026)"
+   "texto": "Deferido, com recurso pendente (TSE, 04/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -44,17 +44,18 @@
    "financas": {
     "fefc": 2342000.0,
     "fundoPartidario": 3104812.24,
+    "pessoasFisicas": 2500.0,
     "outrosCandidatos": 53743.65,
-    "arrecadado": 5500555.89,
-    "contratado": 5972957.27,
-    "pago": 1408891.8,
+    "arrecadado": 5503055.89,
+    "contratado": 6213406.57,
+    "pago": 4847223.69,
     "limite": 6226082.16,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Deferido, com recurso pendente",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   }
  },
@@ -70,7 +71,7 @@
   ],
   "situacao": {
    "tipo": "ver",
-   "texto": "Registro indeferido (TSE, 03/11/2026)"
+   "texto": "Registro indeferido (TSE, 04/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -106,12 +107,12 @@
     "pago": 348275.32,
     "limite": 6226082.16,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Registro indeferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   }
  },
@@ -127,7 +128,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 03/11/2026)"
+   "texto": "Registro deferido (TSE, 04/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -154,19 +155,19 @@
     "https://www.youtube.com/live/uqbjuzbui0i"
    ],
    "financas": {
-    "pessoasFisicas": 4926.0,
-    "proprios": 1400.0,
-    "arrecadado": 6326.0,
-    "contratado": 11706.5,
-    "pago": 6026.0,
+    "pessoasFisicas": 4931.0,
+    "proprios": 11613.57,
+    "arrecadado": 16544.57,
+    "contratado": 16544.57,
+    "pago": 16544.57,
     "limite": 6226082.16,
     "doadoresPF": 2,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   }
  },
@@ -182,7 +183,7 @@
   ],
   "situacao": {
    "tipo": "ver",
-   "texto": "Renunciou à candidatura (TSE, 03/11/2026)"
+   "texto": "Renunciou à candidatura (TSE, 04/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -210,16 +211,18 @@
    ],
    "financas": {
     "fefc": 165000.0,
-    "arrecadado": 165000.0,
-    "contratado": 145000.0,
-    "pago": 41000.0,
+    "pessoasFisicas": 3000.0,
+    "proprios": 5000.0,
+    "arrecadado": 173000.0,
+    "contratado": 164850.0,
+    "pago": 164850.0,
     "limite": 6226082.16,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "alerta",
     "texto": "Renunciou à candidatura",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   }
  },
@@ -235,7 +238,7 @@
   ],
   "situacao": {
    "tipo": "ver",
-   "texto": "Indeferido, com recurso (sub judice) (TSE, 03/11/2026)"
+   "texto": "Indeferido, com recurso (sub judice) (TSE, 04/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -263,16 +266,16 @@
     "fefc": 94000.0,
     "pessoasFisicas": 1800.0,
     "arrecadado": 95800.0,
-    "contratado": 55583.5,
-    "pago": 33273.5,
+    "contratado": 95738.05,
+    "pago": 95738.05,
     "limite": 6226082.16,
     "doadoresPF": 4,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ver",
     "texto": "Indeferido, com recurso (sub judice)",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   }
  },
@@ -288,7 +291,7 @@
   ],
   "situacao": {
    "tipo": "ok",
-   "texto": "Registro deferido (TSE, 03/11/2026)"
+   "texto": "Registro deferido (TSE, 04/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -320,12 +323,12 @@
     "pago": 6731279.26,
     "limite": 6226082.16,
     "doadoresPF": 13,
-    "ate": "03/11/2026"
+    "ate": "04/11/2026"
    },
    "situacaoTSE": {
     "tipo": "ok",
     "texto": "Registro deferido",
-    "data": "03/11/2026"
+    "data": "04/11/2026"
    }
   }
  }
