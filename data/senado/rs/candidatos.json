@@ -568,7 +568,7 @@
   "idade": "66 anos",
   "situacao": {
    "tipo": "ver",
-   "texto": "Indeferido, com recurso (sub judice) (TSE, 05/11/2026)"
+   "texto": "Registro indeferido (TSE, 05/11/2026)"
   },
   "coligacao": "Sem coligação",
   "patrimonio": {
@@ -623,8 +623,8 @@
     "ate": "05/11/2026"
    },
    "situacaoTSE": {
-    "tipo": "ver",
-    "texto": "Indeferido, com recurso (sub judice)",
+    "tipo": "alerta",
+    "texto": "Registro indeferido",
     "data": "05/11/2026"
    }
   }
