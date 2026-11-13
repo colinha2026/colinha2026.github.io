@@ -409,8 +409,8 @@
    "Ocupação declarada ao TSE: outros"
   ],
   "situacao": {
-   "tipo": "ver",
-   "texto": "Deferido, com recurso pendente (TSE, 12/11/2026)"
+   "tipo": "ok",
+   "texto": "Registro deferido (TSE, 12/11/2026)"
   },
   "patrimonio": null,
   "historico": {
@@ -450,8 +450,8 @@
     "ate": "12/11/2026"
    },
    "situacaoTSE": {
-    "tipo": "ver",
-    "texto": "Deferido, com recurso pendente",
+    "tipo": "ok",
+    "texto": "Registro deferido",
     "data": "12/11/2026"
    }
   }
